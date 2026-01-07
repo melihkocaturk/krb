@@ -320,14 +320,14 @@ layout: default
     {% for post in paginator.posts %}
       <article class="blog-item">
         <h3 class="h5 mb-3">
-          <a href="{{ post.url }}/#page" class="blog-title">
+          <a href="{{ post.url }}" class="blog-title">
             {{ post.title }}
           </a>
         </h3>
         <p class="blog-excerpt">
           {{ post.excerpt }}
         </p>
-        <p><a href="{{ post.url }}/#page" class="text-primary">Devamını Oku</a></p>
+        <p><a href="{{ post.url }}" class="text-primary">Devamını Oku</a></p>
       </article>
     {% endfor %}
   </div>
@@ -338,10 +338,10 @@ layout: default
         <ul class="pagination justify-content-center">
           {% if paginator.previous_page %}
             <li class="page-item">
-              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}#blog">&laquo;</a>
+              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}">&laquo;</a>
             </li>
             <li class="page-item">
-              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}#blog">
+              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}">
                 {{ paginator.previous_page }}
               </a>
             </li>
@@ -351,12 +351,12 @@ layout: default
           </li>
           {% if paginator.next_page %}
             <li class="page-item">
-              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}#blog">
+              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}">
                 {{ paginator.next_page }}
               </a>
             </li>
             <li class="page-item">
-              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}#blog">&raquo;</a>
+              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
             </li>
           {% endif %}
         </ul>
