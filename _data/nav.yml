@@ -1,0 +1,6 @@
+- name: Anasayfa
+  link: /
+- name: Ücretsiz Değerleme
+  link: /#ucretsiz-degerleme
+- name: Nasıl Çalışıyorum?
+  link: /#nasil-calisiyorum

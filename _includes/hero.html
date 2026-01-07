@@ -1,0 +1,48 @@
+<!-- HERO -->
+<section class="hero d-flex align-items-center">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 py-5">
+        <h1 class="fw-bold">Göktürk’te Evinizin Gerçek Değerini Ücretsiz Öğrenin</h1>
+        <p class="lead mt-3">
+          Satmadan veya kiraya vermeden önce, bölge uzmanından net fiyat analizi.
+        </p>
+        <a href="#degerleme-formu" class="btn btn-primary btn-lg mt-3">Ücretsiz Değerleme Al</a>
+      </div>
+
+      <!-- FORM -->
+      <div class="col-lg-5 offset-lg-1">
+        <div class="card shadow-lg p-4" id="degerleme-formu">
+          <h5 class="mb-3">Hızlı Değerleme Formu</h5>
+          <form action="">
+            <div class="mb-3">
+              <select id="type" class="form-select">
+                <option value="">Gayrimenkul Türü</option>
+                <option value="Konut">Konut</option>
+                <option value="İşyeri">İşyeri</option>
+                <option value="Arsa">Arsa</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <input type="number" id="m2" class="form-control" placeholder="Metrekare">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="room" class="form-control" placeholder="Oda Sayısı (örn: 2+1)">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="address" class="form-control" placeholder="Adres">
+            </div>
+            <div class="mb-3">
+              <input type="tel" id="phone" class="form-control" placeholder="Telefon Numaranız">
+            </div>
+            <button onclick="sendToWhatsApp()" class="btn btn-success w-100">Ücretsiz Değerleme Al</button>
+            <small class="text-muted d-block mt-2">
+              * <a href="/acik-riza-metni/#page" class="text-black text-decoration-underline" target="_blank">Açık Rıza Metni</a>’ni okudum ve kabul ediyorum.
+            </small>
+          </form>
+          <script src="/assets/js/whatsapp.js"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

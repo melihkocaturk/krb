@@ -1,0 +1,43 @@
+body { padding-top: 50px; }
+
+.hero { min-height: 90vh; }
+
+.hero h1 { font-size: 2.5rem; }
+
+@media (max-width: 768px) { .hero { text-align: center; } }
+
+.process-step { background: #ffffff; border-radius: 12px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05); position: relative; }
+
+.step-number { width: 40px; height: 40px; background: #0d6efd; color: #fff; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; font-weight: bold; }
+
+.card-img-top { height: 200px; object-fit: cover; }
+
+.card-title { font-size: 1.05rem; line-height: 1.4; }
+
+.card a { text-decoration: none; font-weight: 500; }
+
+#sss .accordion-button { font-weight: 600; padding: 1.25rem; }
+
+#sss .accordion-button:not(.collapsed) { background-color: #f8f9fa; color: #000; }
+
+#sss .accordion-item { border: 1px solid #e5e5e5; border-radius: 8px; margin-bottom: 10px; overflow: hidden; }
+
+.blog-list { max-width: 800px; margin: 0 auto; }
+
+.blog-item { padding: 20px 0; border-bottom: 1px solid #e5e7eb; }
+
+.blog-item:last-child { border-bottom: none; }
+
+.blog-title { color: #111827; text-decoration: none; font-weight: 600; }
+
+.blog-title:hover { text-decoration: underline; }
+
+.blog-excerpt { color: #4b5563; margin: 8px 0; font-size: 0.95rem; }
+
+#page .container { max-width: 800px; }
+
+#page table { margin-bottom: 2rem; width: 100%; text-align: left; border-collapse: collapse; border: 1px solid #d7d7d7; }
+
+#page table th, #page table td { border: 1px solid #d7d7d7; padding: 6px 12px; }
+
+/*# sourceMappingURL=styles.css.map */

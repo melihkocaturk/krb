@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<section class="py-5 bg-white border-top" id="page">
+  <div class="container">
+    <p><time class="text-secondary">{{ page.date | date: '%d/%m/%Y' }}</time></p>
+    <h1 class="mb-3">{{page.title}}</h1>
+
+    {{content}}
+
+    <div class="row mt-5">
+      <div class="col-md-6">
+        {% if page.previous %}
+          <a href="{{ page.previous.url | relative_url }}" class="text-black-50 text-decoration-none">
+            <b class="text-black">&laquo; Önceki</b><br>
+            {{ page.previous.title }}
+          </a>
+        {% endif %}
+      </div>
+      
+      <div class="col-md-6 text-end">
+        {% if page.next %}
+          <a href="{{ page.next.url | relative_url }}" class="text-black-50 text-decoration-none">
+            <b class="text-black">Sonraki &raquo;</b><br>
+            {{ page.next.title }}
+          </a>
+        {% endif %}
+      </div>
+    </div>
+    
+  </div>
+</section>

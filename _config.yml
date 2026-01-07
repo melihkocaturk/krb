@@ -1,0 +1,33 @@
+# Site
+url: "https://www.gokturkdegerleme.com"
+lang: tr
+title: "Göktürk Değerleme"
+description: "Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz."
+copyright: '<a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>'
+
+# Permalinks
+permalink: /:title
+
+# Pagination
+paginate: 5
+paginate_path: /sayfa:num/
+
+# Google Analytics
+google_analytics: 
+
+# Social
+social: 
+  linkedin: https://www.linkedin.com/in/melihkocaturk/
+  instagram: https://www.instagram.com/melih_kocaturk_
+  youtube: https://www.youtube.com/@melihkocaturk
+
+# Contact
+contact:
+  gsm: +90 546 566 55 09
+  email: melih.kocaturk@icloud.com
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
