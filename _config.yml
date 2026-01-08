@@ -1,7 +1,8 @@
 # Site
 url: "https://www.gokturkdegerleme.com"
 lang: tr
-title: "Göktürk Değerleme"
+name: "Göktürk Değerleme"
+title: "Göktürk Ücretsiz Emlak Değerleme"
 description: "Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz."
 copyright: '<a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>'
 

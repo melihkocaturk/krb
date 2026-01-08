@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/ekspertiz-mi-emlak-degerleme-mi</loc>
-<lastmod>2026-01-07T00:00:00+03:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni</loc>
 <lastmod>2026-01-07T00:00:00+03:00</lastmod>
 </url>
@@ -23,6 +19,26 @@
 <url>
 <loc>http://localhost:4000/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir</loc>
 <lastmod>2026-01-07T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler</loc>
+<lastmod>2026-01-08T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/evinizin-degeri-neden-komsunuzun-evinden-farkli</loc>
+<lastmod>2026-01-08T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/gokturkte-dairenizin-gercek-degeri-nasil-hesaplanir</loc>
+<lastmod>2026-01-08T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi</loc>
+<lastmod>2026-01-08T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/karsilastirmali-rayic-bedel-analizi-nedir</loc>
+<lastmod>2026-01-08T00:00:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/acik-riza-metni</loc>
