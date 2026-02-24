@@ -2,6 +2,7 @@
 layout: post
 title: "Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur?"
 description: "Bu yazıda, konutu rayiç değerin üzerinde satışa çıkardığınızda neler olabileceğini, sürecin psikolojik ve finansal etkilerini ve doğru fiyat stratejisinin neden hayati olduğunu detaylı şekilde ele alıyoruz."
+tags: ["göktürk emlak piyasası", "göktürk konut piyasası"]
 ---
 
 Evinizi satışa çıkarmaya karar verdiğinizde en kritik adım doğru fiyatı belirlemektir. Pek çok ev sahibi “yüksekten açayım, pazarlık payı olur” düşüncesiyle ilan verir. Ancak evi piyasa değerinin üzerinde fiyatlandırmak, çoğu zaman beklenenin tam tersine sonuçlar doğurur.  

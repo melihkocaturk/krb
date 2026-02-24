@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor?"
 description: "Bu yazıda, Göktürk’te konut fiyatlarının neden mahalleden mahalleye değiştiğini tüm yönleriyle ele alıyoruz."
+tags: ["göktürk konut fiyatları", "göktürk konut değerleme"]
 ---
 
 Konut satın almak ya da yatırım yapmak isteyenlerin en sık sorduğu sorulardan biri şudur: “Neden iki sokak ötedeki evin fiyatı bambaşka?” Bu durum, Göktürk gibi hem hızla gelişen hem de farklı yaşam tarzlarını bir arada barındıran bölgelerde çok daha belirgin hale gelir. Aynı semt içinde yer almasına rağmen mahalleler arasında ciddi fiyat farkları oluşmasının arkasında birçok temel neden vardır. Bu yazıda, Göktürk’te konut fiyatlarının neden mahalleden mahalleye değiştiğini tüm yönleriyle ele alıyoruz.

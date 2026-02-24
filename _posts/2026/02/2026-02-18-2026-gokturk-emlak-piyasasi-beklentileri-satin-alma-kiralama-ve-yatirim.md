@@ -2,6 +2,7 @@
 layout: post
 title: "2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım"
 description: "2026 yılında Göktürk emlak piyasasında satın alma, kiralama ve yatırım fırsatları neler? Fiyat beklentileri, kira getirisi analizi ve kimler için mantıklı olduğu bu detaylı rehberde."
+tags: ["göktürk emlak piyasası", "göktürk konut piyasası"]
 ---
 
 İstanbul’un planlı ve yaşam kalitesi yüksek bölgelerinden biri olan **Göktürk (Eyüpsultan)**, 2026 yılında da hem oturum hem yatırım açısından güçlü konumunu korumaya devam ediyor. Kontrollü yapılaşma, sınırlı arsa üretimi ve üst gelir grubuna hitap eden konut profili sayesinde bölge; spekülatif sıçramalar yerine istikrarlı değer artışı sunan bir karaktere sahip.

@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Gayrimenkul Danışmanı Ev Değerlerken Nelere Dikkat Eder?"
 description: "Bu yazıda, profesyonel bir gayrimenkul danışmanının konut değerleme sürecinde dikkate aldığı tüm unsurları detaylı şekilde ele alıyoruz."
+tags: ["konut değerleme", "ev değerleme"]
 ---
 
 Bir konutun doğru fiyatla pazara sunulması, satış süresini ve elde edilecek kazancı doğrudan etkiler. Peki bir gayrimenkul danışmanı bir evi değerlerken hangi kriterleri dikkate alır? Sadece ilan sitelerine bakarak mı fiyat belirlenir, yoksa çok daha derin bir analiz mi yapılır?

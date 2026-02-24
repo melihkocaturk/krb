@@ -2,6 +2,7 @@
 layout: post
 title: "Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?"
 description: "Bu yazıda, yanlış fiyatlandırmanın ev satış süresini neden uzattığını, hangi hataların sıkça yapıldığını ve doğru fiyatlandırma için nelere dikkat edilmesi gerektiğini detaylı şekilde ele alıyoruz."
+tags: ["piyasa değeri", "ev değerleme", "konut satış stratejisi"]
 ---
 
 Konut satış sürecinde en kritik kararların başında **doğru fiyat belirlemek** gelir. Evini satmak isteyen birçok mülk sahibi, daha fazla kazanma isteğiyle ya da piyasa gerçeklerinden uzak tahminlerle yanlış fiyatlandırma yapabiliyor. Ancak bu durum, satış süresinin uzamasına ve hatta evin değer kaybetmesine neden olabiliyor.

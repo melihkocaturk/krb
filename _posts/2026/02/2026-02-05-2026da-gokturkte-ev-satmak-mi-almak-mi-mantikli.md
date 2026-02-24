@@ -2,6 +2,7 @@
 layout: post
 title: "2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı?"
 description: "Bu yazıda 2026 yılı piyasa koşullarını, Göktürk’e özel dinamikleri ve farklı senaryolara göre doğru kararın ne olabileceğini detaylı şekilde ele alıyoruz."
+tags: ["göktürk ev fiyatları", "göktürk konut piyasası"]
 ---
 
 Göktürk, İstanbul’un hem yaşam kalitesi hem de yatırım potansiyeli açısından öne çıkan semtlerinden biri olmaya devam ediyor. 2026 yılına gelindiğinde ise birçok kişi için kritik soru şu: **Göktürk’te ev almak mı daha mantıklı, yoksa mevcut evi satmak mı?**

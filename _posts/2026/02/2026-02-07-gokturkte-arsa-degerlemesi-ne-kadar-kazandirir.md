@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?"
 description: "Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz."
+tags: ["göktürk arsa değerlemesi", "göktürk arsa yatırımı", "göktürk arsa fiyatları"]
 ---
 
 Son yıllarda İstanbul’un kuzey aksında yer alan Göktürk, hem konut hem de ticari gayrimenkul açısından en dikkat çekici bölgelerden biri haline geldi. Doğayla iç içe yapısı, planlı yerleşimi ve devam eden ulaşım yatırımları sayesinde özellikle **arsa yatırımcılarının radarına giren** bir lokasyon konumunda.

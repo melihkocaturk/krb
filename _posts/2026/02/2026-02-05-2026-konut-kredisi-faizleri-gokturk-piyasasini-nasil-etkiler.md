@@ -2,6 +2,7 @@
 layout: post
 title: "2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?"
 description: "Bu yazıda, 2026 konut kredisi faizlerinin Göktürk piyasasına olası etkilerini detaylı şekilde ele alıyoruz."
+tags: ["göktürk emlak piyasası", "göktürk konut piyasası", "göktürk konut kredisi"]
 ---
 
 Konut kredisi faiz oranları, Türkiye’de emlak piyasasının yönünü belirleyen en kritik faktörlerden biridir. Özellikle İstanbul’un prestijli ve talep gören bölgelerinden biri olan Göktürk’te, faiz oranlarındaki değişimler hem fiyatları hem de alım-satım hızını doğrudan etkiler.

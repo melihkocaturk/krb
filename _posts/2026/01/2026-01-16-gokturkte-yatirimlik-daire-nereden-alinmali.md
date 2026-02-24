@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Yatırımlık Daire Nereden Alınmalı?"
 description: "Göktürk’te yatırımlık daire nereden alınmalı? En iyi lokasyonlar, daire tipleri, kira getirisi ve yatırım ipuçlarıyla detaylı Göktürk emlak rehberi."
+tags: ["göktürk yatırımlık daire", "göktürk kira getirisi", "göktürk yatırım fırsatı"]
 ---
 
 İstanbul’un son yıllarda en çok değer kazanan bölgelerinden biri olan Göktürk, doğayla iç içe yapısı, nitelikli konut projeleri ve yüksek yaşam standardı sayesinde gayrimenkul yatırımcılarının dikkatini çekmeye devam ediyor. Bu yazıda Göktürk’te yatırımlık daire almak isteyenler için en doğru lokasyonları, daire tiplerini ve yatırım stratejilerini detaylı şekilde ele alıyoruz.

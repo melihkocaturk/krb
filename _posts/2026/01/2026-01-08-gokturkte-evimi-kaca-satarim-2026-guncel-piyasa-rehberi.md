@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi"
 description: "Bu rehberde, Göktürk’te evinizi 2026 yılında kaça satabileceğinizi, fiyatları etkileyen temel unsurları ve satıştan en yüksek değeri nasıl elde edebileceğinizi detaylı şekilde ele alıyoruz."
+tags: ["göktürk ev fiyatları", "göktürk gayrimenkul değerleme", "göktürk satılık ev"]
 ---
 
 İstanbul’un en prestijli yerleşim bölgelerinden biri olan Göktürk, 2026 yılı itibarıyla da hem yatırımcıların hem de oturum amaçlı alıcıların gözdesi olmaya devam ediyor.

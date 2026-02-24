@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk Merkez ile Kemerburgaz Arasında Emlak Değeri Karşılaştırması (2026)"
 description: "Bu yazıda Göktürk Merkez ve Kemerburgaz arasındaki emlak değeri farkı; konum, konut tipi, yaşam tarzı, talep profili ve uzun vadeli değer algısı üzerinden karşılaştırılmaktadır."
+tags: ["göktürk emlak piyasası", "kemerburgaz emlak piyasası"]
 ---
 
 İstanbul’un kuzey aksında yer alan **Göktürk** ve **Kemerburgaz**, 2026 yılı itibarıyla hem yaşam kalitesi hem de yatırım potansiyeli açısından öne çıkan iki önemli yerleşim bölgesidir. Her iki bölge de **İstanbul** genelinde üst segment konut tercih eden kullanıcıların radarında yer almaktadır.

@@ -2,6 +2,7 @@
 layout: post
 title: "Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?"
 description: "Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız."
+tags: ["göktürk ev fiyatları", "göktürk emlak piyasası", "göktürk konut piyasası"]
 ---
 
 Konut piyasası, makroekonomik göstergelerden en hızlı etkilenen sektörlerden biridir. Türkiye’de özellikle konut kredisi faiz oranlarındaki değişimler, hem alıcı davranışlarını hem de fiyatları doğrudan etkiler. İstanbul’un prestijli ve planlı yerleşim bölgelerinden biri olan Göktürk’te ise bu etki daha belirgin hissedilir.

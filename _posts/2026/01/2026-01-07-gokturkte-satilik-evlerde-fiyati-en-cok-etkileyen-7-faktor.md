@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör"
 description: "Göktürk’te satılık bir evin fiyatı hangi kriterlere göre belirlenir? İşte konut fiyatlarını en çok etkileyen 7 temel faktör."
+tags: ["göktürk ev fiyatları", "göktürk satılık ev", "göktürk konut değerleme"]
 ---
 
 İstanbul’un en prestijli ve planlı yerleşim bölgelerinden biri olan Göktürk, satılık konut piyasasında hem yatırımcıların hem de oturum amaçlı alıcıların yoğun ilgisini çekmektedir. Doğayla iç içe yaşam, güvenlikli siteler ve merkezi konuma yakınlık gibi avantajlar, Göktürk’teki konut fiyatlarını doğrudan etkilemektedir.

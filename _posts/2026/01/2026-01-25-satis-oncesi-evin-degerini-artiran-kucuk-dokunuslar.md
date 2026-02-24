@@ -2,6 +2,7 @@
 layout: post
 title: "Satış Öncesi Evin Değerini Artıran Küçük Dokunuşlar"
 description: "Bu yazıda, yüksek bütçelere girmeden, satış öncesi evinizin değerini artıracak etkili adımları detaylı şekilde ele alıyoruz."
+tags: ["ev satış ipuçları", "göktürk emlak", "konut satış stratejisi"]
 ---
 
 Bir evi satışa çıkarmadan önce yapılan küçük ama stratejik dokunuşlar, algılanan değeri ciddi biçimde yükseltebilir. Alıcılar çoğu zaman metrekareden çok hisse satın alır; ferah, bakımlı ve taşınmaya hazır görünen evler daha hızlı ve daha iyi fiyata alıcı bulur. Bu yazıda, yüksek bütçelere girmeden, satış öncesi evinizin değerini artıracak etkili adımları detaylı şekilde ele alıyoruz.

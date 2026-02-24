@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Ormana Yakın Konutların Değer Analizi"
 description: "Göktürk’te ormana yakın konutların fiyatları, yatırım potansiyeli ve değer artışı detaylı analizle bu yazıda. Satın alma ve yatırım rehberi."
+tags: ["göktürk satılık ev", "göktürk kiralık ev"]
 ---
 
 İstanbul’un kuzey aksında yer alan ve son yıllarda hızla değer kazanan Göktürk, özellikle ormana yakın konut projeleriyle hem yaşam hem de yatırım açısından dikkat çekici bir bölge haline gelmiştir. Bu yazıda Göktürk’te ormana yakın konutların değerini etkileyen faktörler, fiyat dinamikleri ve yatırım potansiyeli detaylı şekilde ele alınmaktadır.

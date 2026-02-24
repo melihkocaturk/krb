@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Dairenizin Gerçek Değeri Nasıl Hesaplanır?"
 description: "Bu yazıda, Göktürk’te bir dairenin gerçek piyasa değerinin hangi kriterlere göre ve nasıl doğru şekilde hesaplanması gerektiğini adım adım ele alıyoruz."
+tags: ["göktürk ev değerleme", "göktürk gayrimenkul değerleme"]
 ---
 
 İstanbul’un en prestijli ve düzenli yerleşim bölgelerinden biri olan Göktürk, son yıllarda hem oturum hem de yatırım amacıyla yoğun talep gören bir lokasyon haline gelmiştir. Ancak Göktürk’te bir dairenin “gerçek değeri” çoğu zaman ilan fiyatlarıyla karıştırılmakta ve bu durum hem satıcılar hem de alıcılar için yanlış kararlar doğurabilmektedir.

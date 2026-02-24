@@ -2,6 +2,7 @@
 layout: post
 title: "Göktürk’te Satılık Ev Alırken Metrekare Fiyatı Nasıl Yorumlanmalı?"
 description: "Bu yazıda, Göktürk özelinde metrekare fiyatının ne anlama geldiğini, nasıl analiz edilmesi gerektiğini ve doğru karar vermek için nelere dikkat edilmesi gerektiğini detaylı şekilde ele alıyoruz."
+tags: ["göktürk satılık ev", "göktürk emlak"]
 ---
 
 İstanbul’un prestijli ve hızla değerlenen bölgelerinden biri olan **Göktürk (Eyüpsultan)**, hem yaşam hem de yatırım amaçlı konut arayışlarında öne çıkmaktadır. Ancak Göktürk’te satılık ev bakarken en çok karşılaşılan ve çoğu zaman yanlış yorumlanan kavramlardan biri **metrekare fiyatıdır**.
