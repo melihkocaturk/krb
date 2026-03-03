@@ -1,156 +1,398 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-24T15:58:05+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</title><link href="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" rel="alternate" type="text/html" title="Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor</id><content type="html" xml:base="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor"><![CDATA[<p>İstanbul’un prestijli yerleşimlerinden Göktürk’te son dönemde dikkat çeken bir durum var: birçok satılık ev ilanı haftalar hatta aylar boyunca yayında kalıyor. Bu tablo sadece bölgesel değil; Türkiye genelinde de satış sürelerinin uzadığı görülüyor.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-03T14:26:07+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</title><link href="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi" rel="alternate" type="text/html" title="Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı" /><published>2026-03-03T00:00:00+03:00</published><updated>2026-03-03T00:00:00+03:00</updated><id>http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi</id><content type="html" xml:base="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi"><![CDATA[<p>Gayrimenkul değerleme artık sadece saha gezisi ve emsal karşılaştırmasından ibaret değil. Yapay zekâ, büyük veri analitiği ve drone teknolojileri; daha hızlı, daha doğru ve daha öngörülebilir değerleme süreçlerinin önünü açıyor. Bugün doğru teknolojiyi kullanan değerleme uzmanları hem rekabet avantajı elde ediyor hem de yatırımcılara çok daha güçlü içgörüler sunabiliyor.</p>
 
-<p>Peki Göktürk özelinde ilanların satılmamasının arkasında hangi dinamikler var? Gelin, sahadaki gerçeklerle birlikte detaylıca inceleyelim.</p>
+<p>Bu yazıda, gayrimenkul değerlemede teknolojinin nasıl dönüştürücü bir rol oynadığını tüm yönleriyle ele alacağız.</p>
 
-<h2 id="1-fiyatpiyasa-uyumsuzluğu-en-kritik-sebep">1. Fiyat–Piyasa Uyumsuzluğu (En Kritik Sebep)</h2>
+<h2 id="gayrimenkul-değerleme-neden-dijitalleşiyor">Gayrimenkul Değerleme Neden Dijitalleşiyor?</h2>
 
-<p>Göktürk’te satılmayan ilanların büyük kısmında en temel sorun yanlış fiyatlama.</p>
-
-<h3 id="neler-oluyor">Neler oluyor?</h3>
+<p>Geleneksel değerleme yöntemleri:</p>
 
 <ul>
-  <li>Ev sahipleri çoğu zaman komşu ilanlara bakarak fiyat belirliyor</li>
-  <li>Ancak gerçekleşen satış fiyatı ile ilan fiyatı arasında fark oluşuyor</li>
-  <li>“Beklerim, nasıl olsa satılır” psikolojisi yaygın</li>
+  <li>Zaman alıcı</li>
+  <li>İnsan hatasına açık</li>
+  <li>Veri sınırlı</li>
+  <li>Subjektif yorumlara bağımlı</li>
 </ul>
 
-<p>Göktürk’te tipik hata örneği:</p>
+<p>Oysa sektör hız, doğruluk ve şeffaflık talep ediyor. Yeni teknolojiler sayesinde değerleme süreçleri hem hızlanıyor hem de daha veri odaklı hale geliyor.</p>
 
-<ul>
-  <li>Aynı sitede satılmış daire: 12,5 milyon TL</li>
-  <li>Yeni ilana çıkan benzer daire: 14,5 milyon TL</li>
-</ul>
-
-<p>Sonuç: Aylarca bekleyen ilan.</p>
-
-<p>Özetle, fiyat gerçek piyasa değerinin yüzde 10–20 üstündeyse satış süresi dramatik şekilde uzuyor.</p>
-
-<h2 id="2-yüksek-faiz-ortamı-ve-krediye-erişim-zorluğu">2. Yüksek Faiz Ortamı ve Krediye Erişim Zorluğu</h2>
-
-<p>Son yıllarda konut kredisi faizlerinin yüksek seyretmesi alıcı davranışını doğrudan etkiliyor.</p>
-
-<h3 id="etkileri">Etkileri</h3>
-
-<ul>
-  <li>Peşin alıcı sayısı sınırlı</li>
-  <li>Kredili alıcı daha seçici</li>
-  <li>Alım kararı daha uzun sürede veriliyor</li>
-  <li>Bekle-gör eğilimi artıyor</li>
-</ul>
-
-<p>Göktürk gibi üst segment bölgelerde kredi maliyetleri talebi daha sert etkileyebiliyor.</p>
-
-<h2 id="3-arzın-artması-özellikle-site-i̇çinde">3. Arzın Artması (Özellikle Site İçinde)</h2>
-
-<p>Göktürk’te son yıllarda:</p>
-
-<ul>
-  <li>Yeni projeler</li>
-  <li>Aynı site içinde çoklu satışlar</li>
-  <li>Yatırımcı çıkışları</li>
-</ul>
-
-<p>nedeniyle bazı mikro bölgelerde ilan yoğunluğu oluştu.</p>
-
-<h3 id="bu-neye-yol-açıyor">Bu neye yol açıyor?</h3>
-
-<ul>
-  <li>Alıcının seçenek sayısı artıyor</li>
-  <li>Pazarlık gücü alıcıya geçiyor</li>
-  <li>Satış süresi uzuyor</li>
-  <li>Fiyat rekabeti oluşuyor</li>
-</ul>
-
-<p>Kritik gerçek: Aynı sitede çok sayıda benzer daire satıştaysa, en pahalı olan genellikle aylarca bekler.</p>
-
-<h2 id="4-göktürkte-alıcı-profilinin-değişmesi">4. Göktürk’te Alıcı Profilinin Değişmesi</h2>
-
-<p>Eskiden Göktürk’te alıcı kitlesi daha hızlı karar veren üst gelir grubuydu. Son dönemde ise:</p>
-
-<ul>
-  <li>Yatırımcı payı azaldı</li>
-  <li>Oturum amaçlı alıcı arttı</li>
-  <li>Aileler daha detaycı davranıyor</li>
-  <li>Karar süresi uzuyor</li>
-</ul>
-
-<p>Bu dönüşüm, ilanların yayında kalma süresini doğrudan uzatıyor.</p>
-
-<h2 id="5-i̇lan-kalitesi-ve-pazarlama-eksikliği">5. İlan Kalitesi ve Pazarlama Eksikliği</h2>
-
-<p>Sahada en çok gözden kaçan ama çok etkili faktörlerden biri zayıf ilan sunumu.</p>
-
-<h3 id="satışı-yavaşlatan-hatalar">Satışı yavaşlatan hatalar</h3>
-
-<ul>
-  <li>Karanlık ve amatör fotoğraflar</li>
-  <li>Eksik ilan açıklaması</li>
-  <li>Yanlış metrekare bilgisi</li>
-  <li>Kat planı olmaması</li>
-  <li>Video tur bulunmaması</li>
-</ul>
-
-<p>Göktürk gibi rekabetçi bir bölgede kötü sunulan ilanlar daha az alıcıya ulaşır.</p>
-
-<p>Basit gerçek: Aynı fiyattaki iki evden iyi pazarlanan daha hızlı satılır.</p>
-
-<h2 id="6-ev-sahiplerinin-pazarlığa-kapalı-olması">6. Ev Sahiplerinin Pazarlığa Kapalı Olması</h2>
-
-<p>Göktürk’te sık görülen bir durum:</p>
-
-<blockquote>
-  <p>Fiyatım net.</p>
-</blockquote>
-
-<p>Ancak mevcut piyasada:</p>
-
-<ul>
-  <li>Alıcı pazarlık bekliyor</li>
-  <li>Esneklik olmayan ilanlar eleniyor</li>
-  <li>Görüşme sayısı düşüyor</li>
-</ul>
-
-<p>Bugün birçok işlem yüzde 5–10 pazarlık bandında kapanıyor. Bu payı bırakmayan ilanlar bekleme listesine giriyor.</p>
-
-<h2 id="7-ekonomik-beklentiler-ve-bekle-gör-psikolojisi">7. Ekonomik Beklentiler ve Bekle-Gör Psikolojisi</h2>
-
-<p>Makro tarafta:</p>
-
-<ul>
-  <li>Enflasyon beklentileri</li>
-  <li>Faiz politikası</li>
-  <li>Konut kampanyaları</li>
-  <li>Döviz hareketi</li>
-</ul>
-
-<p>alıcı psikolojisini etkiliyor.</p>
-
-<p>Göktürk etkisi: Yüksek bütçeli alım olduğu için belirsizlik dönemlerinde bekleme eğilimi daha güçlü.</p>
-
-<h2 id="göktürkte-evinizi-daha-hızlı-satmak-i̇çin-7-strateji">Göktürk’te Evinizi Daha Hızlı Satmak İçin 7 Strateji</h2>
+<p>Bu dönüşümün üç ana motoru var:</p>
 
 <ol>
-  <li><strong>Doğru ekspertizle fiyat belirleyin</strong>: Gerçekleşmiş satış verilerine bakın, sadece ilanlara değil.</li>
-  <li><strong>İlk 30 günü kritik kabul edin</strong>: İlanın kaderi çoğunlukla ilk ayda belli olur.</li>
-  <li><strong>Profesyonel fotoğraf ve video kullanın</strong>: Göktürk’te bu artık standart haline geldi.</li>
-  <li><strong>Rekabet analizi yapın</strong>: Aynı sitedeki rakip ilanları haftalık takip edin.</li>
-  <li><strong>Pazarlık payı bırakın</strong>: Psikolojik fiyat eşiği önemlidir.</li>
-  <li><strong>Hedef kitleye uygun pazarlama yapın</strong>: Aile mi yatırımcı mı? Mesaj buna göre değişmeli.</li>
-  <li><strong>Doğru emlak danışmanıyla çalışın</strong>: Profesyonel portföy yönetimi satış süresini ciddi şekilde kısaltır.</li>
+  <li>Yapay zekâ (AI)</li>
+  <li>Büyük veri (Big Data)</li>
+  <li>Drone ve görüntü teknolojileri</li>
 </ol>
 
-<h2 id="sonuç-göktürkte-satılmayan-ev-yok-yanlış-konumlanmış-i̇lan-var">Sonuç: Göktürk’te Satılmayan Ev Yok, Yanlış Konumlanmış İlan Var</h2>
+<p>Şimdi her birini detaylı inceleyelim.</p>
 
-<p>Bugünkü piyasada Göktürk hâlâ güçlü bir lokasyon. Ancak oyun değişti:</p>
+<h1 id="1-yapay-zekâ-ai-ile-gayrimenkul-değerleme">1. Yapay Zekâ (AI) ile Gayrimenkul Değerleme</h1>
+
+<h2 id="ai-değerlemeyi-nasıl-değiştiriyor">AI değerlemeyi nasıl değiştiriyor?</h2>
+
+<p>Yapay zekâ destekli değerleme sistemleri onlarca hatta yüzlerce veri noktasını aynı anda analiz edebiliyor. Bu sistemler genellikle şu verileri kullanır:</p>
 
 <ul>
-  <li>Alıcı daha bilinçli</li>
-  <li>Rekabet daha yüksek</li>
-  <li>Pazarlama daha kritik</li>
-  <li>Fiyat hassasiyeti daha keskin</li>
+  <li>Konum verisi</li>
+  <li>Metrekare</li>
+  <li>Oda sayısı</li>
+  <li>Bina yaşı</li>
+  <li>Bölgesel satışlar</li>
+  <li>Sosyo-ekonomik göstergeler</li>
 </ul>
 
-<p>Doğru fiyat, doğru sunum ve doğru strateji birleştiğinde Göktürk’te satış hâlâ mümkündür ve çoğu zaman beklenenden hızlı gerçekleşir.</p>]]></content><author><name></name></author><category term="göktürk satılık ev" /><category term="göktürk satılık daire" /><category term="göktürk emlak piyasası" /><category term="konut satış stratejisi" /><summary type="html"><![CDATA[Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.]]></summary></entry><entry><title type="html">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</title><link href="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" rel="alternate" type="text/html" title="Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari</id><content type="html" xml:base="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari"><![CDATA[<p>Göktürk’te bir eviniz varsa, mülkünüzün gerçek piyasa değerini bilmek doğru zamanda doğru kararlar almanız için kritik öneme sahiptir. Satış planı yapıyor olun, kiraya vermeyi düşünün ya da sadece yatırımınızın güncel durumunu merak edin… Evinizin değerini <strong>ücretsiz öğrenmenin</strong> birkaç etkili yolu var.</p>
+<h2 id="aiın-değerlemeye-katkıları">AI’ın değerlemeye katkıları</h2>
+
+<h3 id="1-otomatik-değerleme-modelleri-avm">1. Otomatik değerleme modelleri (AVM)</h3>
+
+<p>AI tabanlı AVM sistemleri:</p>
+
+<ul>
+  <li>Emsal analizini otomatik yapar</li>
+  <li>Piyasa trendlerini öğrenir</li>
+  <li>Fiyat tahmini üretir</li>
+  <li>Risk skorları oluşturur</li>
+</ul>
+
+<h3 id="2-raporlama-hızında-devrim">2. Raporlama hızında devrim</h3>
+
+<p>AI destekli platformlar, manuel süreçlere göre raporlama süresini saatlerden dakikalara indirebilir.</p>
+
+<p>Bu ne demek?</p>
+
+<ul>
+  <li>Daha fazla dosya</li>
+  <li>Daha hızlı ekspertiz</li>
+  <li>Daha yüksek kârlılık</li>
+</ul>
+
+<h3 id="3-öngörücü-analiz-predictive-analytics">3. Öngörücü analiz (Predictive Analytics)</h3>
+
+<p>AI artık sadece bugünün değerini değil:</p>
+
+<ul>
+  <li>1 yıllık değer artışı</li>
+  <li>kira getirisi</li>
+  <li>yatırım riski</li>
+</ul>
+
+<p>gibi ileriye dönük tahminler de yapabiliyor.</p>
+
+<h2 id="aiın-sınırlamaları">AI’ın sınırlamaları</h2>
+
+<p>Her ne kadar güçlü olsa da AI kusursuz değildir:</p>
+
+<ul>
+  <li>Veri kalitesine bağımlıdır</li>
+  <li>Yeni gelişen bölgelerde hata payı artabilir</li>
+  <li>Yerinde ekspertizin yerini tamamen alamaz</li>
+</ul>
+
+<p>Başarılı dönüşüm için insan-AI iş birliği kritik önem taşır.</p>
+
+<h1 id="2-büyük-veri-big-data-ile-değerleme">2. Büyük Veri (Big Data) ile Değerleme</h1>
+
+<h2 id="big-data-neden-kritik">Big Data neden kritik?</h2>
+
+<p>Gayrimenkul aslında bir veri işidir.</p>
+
+<p>Bugün değerleme modelleri şu dev veri kaynaklarından besleniyor:</p>
+
+<ul>
+  <li>Tapu kayıtları</li>
+  <li>İlan portalları</li>
+  <li>Demografik veriler</li>
+  <li>Ulaşım projeleri</li>
+  <li>Uydu görüntüleri</li>
+  <li>Ekonomik göstergeler</li>
+</ul>
+
+<p>Bu veriler bir araya geldiğinde mikro lokasyon analizi mümkün hale geliyor.</p>
+
+<h2 id="big-datanın-değerlemeye-etkileri">Big Data’nın değerlemeye etkileri</h2>
+
+<h3 id="daha-doğru-emsal-analizi">Daha doğru emsal analizi</h3>
+
+<p>Eskiden:</p>
+
+<ul>
+  <li>3–5 emsal</li>
+</ul>
+
+<p>Bugün:</p>
+
+<ul>
+  <li>Binlerce işlem</li>
+</ul>
+
+<p>Bu da fiyat tahminini dramatik şekilde iyileştirir.</p>
+
+<h3 id="bölgesel-trend-analizi">Bölgesel trend analizi</h3>
+
+<p>Büyük veri sayesinde artık şu soruların cevabı daha net:</p>
+
+<ul>
+  <li>Bu mahalle yükselişte mi?</li>
+  <li>Kira çarpanı nereye gidiyor?</li>
+  <li>Arz fazlası var mı?</li>
+</ul>
+
+<p>AI ve veri analitiği, yatırımcıların uzun vadeli beklentilerini daha doğru modellemeye yardımcı olur.</p>
+
+<h3 id="risk-haritalama">Risk haritalama</h3>
+
+<p>Gelişmiş sistemler şunları analiz edebilir:</p>
+
+<ul>
+  <li>Deprem riski</li>
+  <li>Sel riski</li>
+  <li>Sosyo-ekonomik değişim</li>
+  <li>Kentsel dönüşüm ihtimali</li>
+</ul>
+
+<p>Bu, özellikle banka ekspertizlerinde oyunu değiştiren bir gelişmedir.</p>
+
+<h1 id="3-drone-teknolojisinin-değerlemedeki-gücü">3. Drone Teknolojisinin Değerlemedeki Gücü</h1>
+
+<p>Drone’lar değerleme süreçlerinde sessiz bir devrim yarattı.</p>
+
+<h2 id="drone-ne-sağlar">Drone ne sağlar?</h2>
+
+<h3 id="1-hızlı-saha-incelemesi">1. Hızlı saha incelemesi</h3>
+
+<p>Drone ile:</p>
+
+<ul>
+  <li>Çatı kontrolü</li>
+  <li>Cephe analizi</li>
+  <li>Arsa sınırı tespiti</li>
+  <li>Çevre analizi</li>
+</ul>
+
+<p>dakikalar içinde yapılabilir.</p>
+
+<h3 id="2-erişilmesi-zor-alanların-incelenmesi">2. Erişilmesi zor alanların incelenmesi</h3>
+
+<p>Geleneksel yöntemler çoğu zaman:</p>
+
+<ul>
+  <li>Riskli</li>
+  <li>Maliyetli</li>
+  <li>Zaman alıcı</li>
+</ul>
+
+<p>Drone destekli görüntüleme ise özellikle yüksek binalarda ve çatılarda büyük avantaj sağlar.</p>
+
+<h3 id="3-görsel-veri-ile-ai-entegrasyonu">3. Görsel veri ile AI entegrasyonu</h3>
+
+<p>En güçlü senaryo şudur:</p>
+
+<p>Drone + AI + Big Data</p>
+
+<p>Bu kombinasyonla:</p>
+
+<ul>
+  <li>Yapı kalitesi analizi</li>
+  <li>Çevre puanı</li>
+  <li>Manzara değeri</li>
+  <li>Yapı bozulmaları</li>
+</ul>
+
+<p>otomatik olarak skorlanabilir.</p>
+
+<h1 id="değerleme-uzmanları-i̇çin-stratejik-avantajlar">Değerleme Uzmanları İçin Stratejik Avantajlar</h1>
+
+<p>Teknolojiyi doğru kullanan ekspertiz firmaları şu avantajları elde eder:</p>
+
+<p><strong>Operasyonel</strong></p>
+
+<ul>
+  <li>Daha hızlı rapor</li>
+  <li>Daha düşük maliyet</li>
+  <li>Daha az hata</li>
+</ul>
+
+<p><strong>Ticari</strong></p>
+
+<ul>
+  <li>Daha fazla portföy</li>
+  <li>Bankalarla güçlü iş birlikleri</li>
+  <li>Kurumsal güven artışı</li>
+</ul>
+
+<p><strong>Rekabet</strong></p>
+
+<ul>
+  <li>Veri odaklı danışmanlık</li>
+  <li>Yatırım öngörüsü sunabilme</li>
+  <li>Premium hizmet konumlandırması</li>
+</ul>
+
+<h1 id="gelecek-tam-otomatik-değerleme-mümkün-mü">Gelecek: Tam Otomatik Değerleme Mümkün mü?</h1>
+
+<p>Kısa cevap: Henüz değil.</p>
+
+<p>Ama gidişat şu yönde:</p>
+
+<ul>
+  <li>AI → ön değerleme</li>
+  <li>Uzman → nihai yorum</li>
+  <li>Drone → saha doğrulama</li>
+  <li>Big Data → sürekli güncelleme</li>
+</ul>
+
+<p>Türkiye’de planlanan merkezi değer veri sistemleri de sektörün tamamen veri odaklı bir yapıya evrileceğini gösteriyor.</p>
+
+<h1 id="sonuç">Sonuç</h1>
+
+<p>Gayrimenkul değerleme mesleği sessiz ama köklü bir dönüşüm yaşıyor. Yapay zekâ tahmin gücünü, büyük veri piyasa zekâsını, drone’lar ise sahadaki görünürlüğü dramatik biçimde artırıyor.</p>
+
+<p>Önümüzdeki dönemde kazananlar:</p>
+
+<ul>
+  <li>Teknolojiyi reddedenler değil</li>
+  <li>Teknolojiyi doğru kullanan değerleme uzmanları olacak.</li>
+</ul>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="yapay zeka" /><category term="emlak teknolojileri" /><summary type="html"><![CDATA[Teknolojinin gayrimenkul değerlemedeki rolünü keşfedin. AI, büyük veri ve drone kullanımıyla daha hızlı, doğru ve güvenilir ekspertiz süreçlerinin nasıl mümkün olduğunu öğrenin.]]></summary></entry><entry><title type="html">Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi</title><link href="http://localhost:4000/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi" rel="alternate" type="text/html" title="Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi" /><published>2026-03-03T00:00:00+03:00</published><updated>2026-03-03T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi</id><content type="html" xml:base="http://localhost:4000/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi"><![CDATA[<p>İstanbul’un kuzey hattında yer alan Göktürk, son yıllarda hem yaşam kalitesi hem de yatırım potansiyeli nedeniyle en çok konuşulan konut bölgelerinden biri haline geldi. Özellikle 2023 sonrası dönemde kira fiyatlarının hızlı yükselmesi, hem kiracıların hem yatırımcıların dikkatini çekiyor. Peki Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.</p>
+
+<h2 id="göktürkte-güncel-kira-seviyeleri">Göktürk’te Güncel Kira Seviyeleri</h2>
+
+<p>Bölgedeki ilanlara ve piyasa analizlerine göre:</p>
+
+<ul>
+  <li>2+1 daireler: yaklaşık <strong>40.000 – 65.000 TL</strong></li>
+  <li>3+1 daireler: yaklaşık <strong>60.000 – 90.000 TL</strong></li>
+</ul>
+
+<p>Bu rakamlar, Göktürk’ün artık İstanbul’un üst segment kiralık konut bölgeleri arasında konumlandığını net şekilde gösteriyor.</p>
+
+<h2 id="1-arzın-sınırlı-talebin-güçlü-olması">1. Arzın Sınırlı, Talebin Güçlü Olması</h2>
+
+<p>Göktürk’te kira artışının en temel nedeni klasik ama güçlü: <strong>arz-talep dengesizliği</strong>.</p>
+
+<h3 id="arz-neden-sınırlı">Arz neden sınırlı?</h3>
+
+<ul>
+  <li>Bölge büyük ölçüde <strong>orman sınırlarıyla çevrili</strong></li>
+  <li>Yeni imara açılabilecek alan kısıtlı</li>
+  <li>Düşük katlı ve planlı yapılaşma korunuyor</li>
+</ul>
+
+<p>Bu durum, yeni konut üretimini doğal olarak sınırlandırıyor. Arz artmayınca, talepteki her yükseliş doğrudan kiralara yansıyor.</p>
+
+<h3 id="talep-neden-güçlü">Talep neden güçlü?</h3>
+
+<ul>
+  <li>Üst gelir grubunun bölgeye ilgisi</li>
+  <li>Site yaşamına olan yönelim</li>
+  <li>Deprem sonrası güvenli konut arayışı</li>
+</ul>
+
+<p>İstanbul genelinde yeni ve güvenli binalara talebin artması kiraları yukarı çeken önemli faktörlerden biri oldu.</p>
+
+<h2 id="2-i̇stanbul-havalimanı-etkisi">2. İstanbul Havalimanı Etkisi</h2>
+
+<p>Göktürk’ün kaderini değiştiren en önemli gelişmelerden biri İstanbul Havalimanı oldu.</p>
+
+<p>Havalimanı etkisi şu şekilde hissediliyor:</p>
+
+<ul>
+  <li>Pilotlar ve kabin ekipleri bölgede kiracı oluyor</li>
+  <li>Havalimanı çalışanları için lojistik açıdan ideal konum</li>
+  <li>Kurumsal kiracı oranı artıyor</li>
+  <li>Döviz geliri olan kiracılar fiyatları yukarı çekiyor</li>
+</ul>
+
+<p>Bu profil değişimi, özellikle 1+1 ve 2+1 dairelerde kira çıtasını belirgin şekilde yukarı taşıdı.</p>
+
+<h2 id="3-prestijli-ve-planlı-yaşam-algısı">3. Prestijli ve Planlı Yaşam Algısı</h2>
+
+<p>Göktürk sıradan bir banliyö değil; <strong>markalı bir yaşam bölgesi</strong> haline geldi.</p>
+
+<p>Bölgenin öne çıkan özellikleri:</p>
+
+<ul>
+  <li>Doğa ile iç içe yaşam</li>
+  <li>Güvenlikli site konsepti</li>
+  <li>Düşük yoğunluklu yapılaşma</li>
+  <li>Aile yaşamına uygun demografi</li>
+</ul>
+
+<p>Bu özellikler, kiracı profilini yukarı çekerken kira ödeme kapasitesini de artırıyor. Nitekim bölgede kiracı bulma süresinin kısa ve tahsilat riskinin düşük olduğu gözlemleniyor.</p>
+
+<h2 id="4-i̇nşaat-maliyetlerindeki-artış">4. İnşaat Maliyetlerindeki Artış</h2>
+
+<p>Türkiye genelinde konut kiralarının yükselmesinin arkasındaki makro nedenler Göktürk’te daha sert hissediliyor.</p>
+
+<p>Başlıca sebepler:</p>
+
+<ul>
+  <li>İnşaat maliyetlerindeki yükseliş</li>
+  <li>Konut arzının yetersiz kalması</li>
+  <li>Göç ve nüfus hareketliliği</li>
+</ul>
+
+<p>Göktürk gibi üst segment bölgelerde yeni projelerin maliyeti çok daha yüksek olduğu için, bu artış doğrudan kira beklentilerine yansıyor.</p>
+
+<h2 id="5-deprem-sonrası-güvenli-konut-talebi">5. Deprem Sonrası Güvenli Konut Talebi</h2>
+
+<p>Son yıllarda İstanbul’da yaşanan depremler sonrası önemli bir davranış değişimi gözlendi:</p>
+
+<ul>
+  <li>Yeni binalara talep arttı</li>
+  <li>Site içi projeler daha çok tercih edildi</li>
+  <li>Kuzey hattına yönelim güçlendi</li>
+</ul>
+
+<p>Göktürk bu trendden en çok faydalanan bölgelerden biri oldu.</p>
+
+<h2 id="6-sosyo-ekonomik-kiracı-profili">6. Sosyo-ekonomik Kiracı Profili</h2>
+
+<p>Göktürk’te kiraları yukarı taşıyan görünmeyen faktörlerden biri <strong>kiracı kalitesi</strong>.</p>
+
+<p>Bölgede yaygın kiracı profili:</p>
+
+<ul>
+  <li>Kurumsal çalışanlar</li>
+  <li>Havacılık sektörü çalışanları</li>
+  <li>Üst gelir grubu aileler</li>
+  <li>Yabancı kiracılar</li>
+</ul>
+
+<p>Bu profil, ev sahiplerinin daha yüksek kira talep etmesini mümkün kılıyor.</p>
+
+<h2 id="7-i̇stanbul-genelindeki-kira-trendinin-üzerinde-seyir">7. İstanbul Genelindeki Kira Trendinin Üzerinde Seyir</h2>
+
+<p>İstanbul genelinde ortalama kiralar birçok ilçede daha düşük bantlarda seyrederken, üst segment ilçeler belirgin şekilde ayrışıyor.</p>
+
+<p>Göktürk de bu üst segment grubun içinde konumlanıyor ve fiyat makası her yıl biraz daha açılıyor.</p>
+
+<h2 id="göktürkte-kiralar-daha-da-artar-mı">Göktürk’te Kiralar Daha da Artar mı?</h2>
+
+<p>Mevcut veriler ve saha dinamikleri şu sinyalleri veriyor:</p>
+
+<p><strong>Artışı destekleyen faktörler</strong></p>
+
+<ul>
+  <li>Arsa arzının sınırlı olması</li>
+  <li>Havalimanı etkisinin devam etmesi</li>
+  <li>Nitelikli konut talebinin sürmesi</li>
+  <li>Bölgenin prestij algısının korunması</li>
+</ul>
+
+<p><strong>Artışı sınırlayabilecek faktörler</strong></p>
+
+<ul>
+  <li>Faizlerin yükselmesi</li>
+  <li>Yeni projelerin devreye girmesi</li>
+  <li>Genel ekonomik yavaşlama</li>
+</ul>
+
+<p>Kısa vadede sert düşüş beklenmese de, artış hızının dönemsel olarak yavaşlaması mümkün.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Göktürk’te kira artışı tesadüf değil; yapısal nedenlere dayanıyor. Sınırlı arsa, güçlü talep, havalimanı etkisi ve üst segment yaşam algısı birleşince bölge doğal olarak İstanbul ortalamasının üzerine çıkıyor.</p>
+
+<p>Bugünün verileri şunu gösteriyor: Göktürk artık “alternatif bir semt” değil, <strong>premium kira piyasası</strong> olan bir konut bölgesi.</p>]]></content><author><name></name></author><category term="göktürk kiralık ev" /><category term="göktürk kiralık konut" /><category term="göktürk kira getirisi " /><summary type="html"><![CDATA[Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.]]></summary></entry><entry><title type="html">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</title><link href="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" rel="alternate" type="text/html" title="Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari</id><content type="html" xml:base="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari"><![CDATA[<p>Göktürk’te bir eviniz varsa, mülkünüzün gerçek piyasa değerini bilmek doğru zamanda doğru kararlar almanız için kritik öneme sahiptir. Satış planı yapıyor olun, kiraya vermeyi düşünün ya da sadece yatırımınızın güncel durumunu merak edin… Evinizin değerini <strong>ücretsiz öğrenmenin</strong> birkaç etkili yolu var.</p>
 
 <p>Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.</p>
 
@@ -309,7 +551,159 @@
   <li>Yatırım kararlarınızı güçlendirebilirsiniz</li>
 </ul>
 
-<p>Unutmayın: <strong>Doğru fiyat, hızlı ve kazançlı satışın anahtarıdır.</strong></p>]]></content><author><name></name></author><category term="göktürk ücretsiz ekspertiz" /><category term="göktürk ücretsiz değerleme" /><summary type="html"><![CDATA[Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.]]></summary></entry><entry><title type="html">2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım</title><link href="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim" rel="alternate" type="text/html" title="2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım" /><published>2026-02-18T00:00:00+03:00</published><updated>2026-02-18T00:00:00+03:00</updated><id>http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim</id><content type="html" xml:base="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim"><![CDATA[<p>İstanbul’un planlı ve yaşam kalitesi yüksek bölgelerinden biri olan <strong>Göktürk (Eyüpsultan)</strong>, 2026 yılında da hem oturum hem yatırım açısından güçlü konumunu korumaya devam ediyor. Kontrollü yapılaşma, sınırlı arsa üretimi ve üst gelir grubuna hitap eden konut profili sayesinde bölge; spekülatif sıçramalar yerine istikrarlı değer artışı sunan bir karaktere sahip.</p>
+<p>Unutmayın: <strong>Doğru fiyat, hızlı ve kazançlı satışın anahtarıdır.</strong></p>]]></content><author><name></name></author><category term="göktürk ücretsiz ekspertiz" /><category term="göktürk ücretsiz değerleme" /><summary type="html"><![CDATA[Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.]]></summary></entry><entry><title type="html">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</title><link href="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" rel="alternate" type="text/html" title="Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor</id><content type="html" xml:base="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor"><![CDATA[<p>İstanbul’un prestijli yerleşimlerinden Göktürk’te son dönemde dikkat çeken bir durum var: birçok satılık ev ilanı haftalar hatta aylar boyunca yayında kalıyor. Bu tablo sadece bölgesel değil; Türkiye genelinde de satış sürelerinin uzadığı görülüyor.</p>
+
+<p>Peki Göktürk özelinde ilanların satılmamasının arkasında hangi dinamikler var? Gelin, sahadaki gerçeklerle birlikte detaylıca inceleyelim.</p>
+
+<h2 id="1-fiyatpiyasa-uyumsuzluğu-en-kritik-sebep">1. Fiyat–Piyasa Uyumsuzluğu (En Kritik Sebep)</h2>
+
+<p>Göktürk’te satılmayan ilanların büyük kısmında en temel sorun yanlış fiyatlama.</p>
+
+<h3 id="neler-oluyor">Neler oluyor?</h3>
+
+<ul>
+  <li>Ev sahipleri çoğu zaman komşu ilanlara bakarak fiyat belirliyor</li>
+  <li>Ancak gerçekleşen satış fiyatı ile ilan fiyatı arasında fark oluşuyor</li>
+  <li>“Beklerim, nasıl olsa satılır” psikolojisi yaygın</li>
+</ul>
+
+<p>Göktürk’te tipik hata örneği:</p>
+
+<ul>
+  <li>Aynı sitede satılmış daire: 12,5 milyon TL</li>
+  <li>Yeni ilana çıkan benzer daire: 14,5 milyon TL</li>
+</ul>
+
+<p>Sonuç: Aylarca bekleyen ilan.</p>
+
+<p>Özetle, fiyat gerçek piyasa değerinin yüzde 10–20 üstündeyse satış süresi dramatik şekilde uzuyor.</p>
+
+<h2 id="2-yüksek-faiz-ortamı-ve-krediye-erişim-zorluğu">2. Yüksek Faiz Ortamı ve Krediye Erişim Zorluğu</h2>
+
+<p>Son yıllarda konut kredisi faizlerinin yüksek seyretmesi alıcı davranışını doğrudan etkiliyor.</p>
+
+<h3 id="etkileri">Etkileri</h3>
+
+<ul>
+  <li>Peşin alıcı sayısı sınırlı</li>
+  <li>Kredili alıcı daha seçici</li>
+  <li>Alım kararı daha uzun sürede veriliyor</li>
+  <li>Bekle-gör eğilimi artıyor</li>
+</ul>
+
+<p>Göktürk gibi üst segment bölgelerde kredi maliyetleri talebi daha sert etkileyebiliyor.</p>
+
+<h2 id="3-arzın-artması-özellikle-site-i̇çinde">3. Arzın Artması (Özellikle Site İçinde)</h2>
+
+<p>Göktürk’te son yıllarda:</p>
+
+<ul>
+  <li>Yeni projeler</li>
+  <li>Aynı site içinde çoklu satışlar</li>
+  <li>Yatırımcı çıkışları</li>
+</ul>
+
+<p>nedeniyle bazı mikro bölgelerde ilan yoğunluğu oluştu.</p>
+
+<h3 id="bu-neye-yol-açıyor">Bu neye yol açıyor?</h3>
+
+<ul>
+  <li>Alıcının seçenek sayısı artıyor</li>
+  <li>Pazarlık gücü alıcıya geçiyor</li>
+  <li>Satış süresi uzuyor</li>
+  <li>Fiyat rekabeti oluşuyor</li>
+</ul>
+
+<p>Kritik gerçek: Aynı sitede çok sayıda benzer daire satıştaysa, en pahalı olan genellikle aylarca bekler.</p>
+
+<h2 id="4-göktürkte-alıcı-profilinin-değişmesi">4. Göktürk’te Alıcı Profilinin Değişmesi</h2>
+
+<p>Eskiden Göktürk’te alıcı kitlesi daha hızlı karar veren üst gelir grubuydu. Son dönemde ise:</p>
+
+<ul>
+  <li>Yatırımcı payı azaldı</li>
+  <li>Oturum amaçlı alıcı arttı</li>
+  <li>Aileler daha detaycı davranıyor</li>
+  <li>Karar süresi uzuyor</li>
+</ul>
+
+<p>Bu dönüşüm, ilanların yayında kalma süresini doğrudan uzatıyor.</p>
+
+<h2 id="5-i̇lan-kalitesi-ve-pazarlama-eksikliği">5. İlan Kalitesi ve Pazarlama Eksikliği</h2>
+
+<p>Sahada en çok gözden kaçan ama çok etkili faktörlerden biri zayıf ilan sunumu.</p>
+
+<h3 id="satışı-yavaşlatan-hatalar">Satışı yavaşlatan hatalar</h3>
+
+<ul>
+  <li>Karanlık ve amatör fotoğraflar</li>
+  <li>Eksik ilan açıklaması</li>
+  <li>Yanlış metrekare bilgisi</li>
+  <li>Kat planı olmaması</li>
+  <li>Video tur bulunmaması</li>
+</ul>
+
+<p>Göktürk gibi rekabetçi bir bölgede kötü sunulan ilanlar daha az alıcıya ulaşır.</p>
+
+<p>Basit gerçek: Aynı fiyattaki iki evden iyi pazarlanan daha hızlı satılır.</p>
+
+<h2 id="6-ev-sahiplerinin-pazarlığa-kapalı-olması">6. Ev Sahiplerinin Pazarlığa Kapalı Olması</h2>
+
+<p>Göktürk’te sık görülen bir durum:</p>
+
+<blockquote>
+  <p>Fiyatım net.</p>
+</blockquote>
+
+<p>Ancak mevcut piyasada:</p>
+
+<ul>
+  <li>Alıcı pazarlık bekliyor</li>
+  <li>Esneklik olmayan ilanlar eleniyor</li>
+  <li>Görüşme sayısı düşüyor</li>
+</ul>
+
+<p>Bugün birçok işlem yüzde 5–10 pazarlık bandında kapanıyor. Bu payı bırakmayan ilanlar bekleme listesine giriyor.</p>
+
+<h2 id="7-ekonomik-beklentiler-ve-bekle-gör-psikolojisi">7. Ekonomik Beklentiler ve Bekle-Gör Psikolojisi</h2>
+
+<p>Makro tarafta:</p>
+
+<ul>
+  <li>Enflasyon beklentileri</li>
+  <li>Faiz politikası</li>
+  <li>Konut kampanyaları</li>
+  <li>Döviz hareketi</li>
+</ul>
+
+<p>alıcı psikolojisini etkiliyor.</p>
+
+<p>Göktürk etkisi: Yüksek bütçeli alım olduğu için belirsizlik dönemlerinde bekleme eğilimi daha güçlü.</p>
+
+<h2 id="göktürkte-evinizi-daha-hızlı-satmak-i̇çin-7-strateji">Göktürk’te Evinizi Daha Hızlı Satmak İçin 7 Strateji</h2>
+
+<ol>
+  <li><strong>Doğru ekspertizle fiyat belirleyin</strong>: Gerçekleşmiş satış verilerine bakın, sadece ilanlara değil.</li>
+  <li><strong>İlk 30 günü kritik kabul edin</strong>: İlanın kaderi çoğunlukla ilk ayda belli olur.</li>
+  <li><strong>Profesyonel fotoğraf ve video kullanın</strong>: Göktürk’te bu artık standart haline geldi.</li>
+  <li><strong>Rekabet analizi yapın</strong>: Aynı sitedeki rakip ilanları haftalık takip edin.</li>
+  <li><strong>Pazarlık payı bırakın</strong>: Psikolojik fiyat eşiği önemlidir.</li>
+  <li><strong>Hedef kitleye uygun pazarlama yapın</strong>: Aile mi yatırımcı mı? Mesaj buna göre değişmeli.</li>
+  <li><strong>Doğru emlak danışmanıyla çalışın</strong>: Profesyonel portföy yönetimi satış süresini ciddi şekilde kısaltır.</li>
+</ol>
+
+<h2 id="sonuç-göktürkte-satılmayan-ev-yok-yanlış-konumlanmış-i̇lan-var">Sonuç: Göktürk’te Satılmayan Ev Yok, Yanlış Konumlanmış İlan Var</h2>
+
+<p>Bugünkü piyasada Göktürk hâlâ güçlü bir lokasyon. Ancak oyun değişti:</p>
+
+<ul>
+  <li>Alıcı daha bilinçli</li>
+  <li>Rekabet daha yüksek</li>
+  <li>Pazarlama daha kritik</li>
+  <li>Fiyat hassasiyeti daha keskin</li>
+</ul>
+
+<p>Doğru fiyat, doğru sunum ve doğru strateji birleştiğinde Göktürk’te satış hâlâ mümkündür ve çoğu zaman beklenenden hızlı gerçekleşir.</p>]]></content><author><name></name></author><category term="göktürk satılık ev" /><category term="göktürk satılık daire" /><category term="göktürk emlak piyasası" /><category term="konut satış stratejisi" /><summary type="html"><![CDATA[Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.]]></summary></entry><entry><title type="html">2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım</title><link href="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim" rel="alternate" type="text/html" title="2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım" /><published>2026-02-18T00:00:00+03:00</published><updated>2026-02-18T00:00:00+03:00</updated><id>http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim</id><content type="html" xml:base="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim"><![CDATA[<p>İstanbul’un planlı ve yaşam kalitesi yüksek bölgelerinden biri olan <strong>Göktürk (Eyüpsultan)</strong>, 2026 yılında da hem oturum hem yatırım açısından güçlü konumunu korumaya devam ediyor. Kontrollü yapılaşma, sınırlı arsa üretimi ve üst gelir grubuna hitap eden konut profili sayesinde bölge; spekülatif sıçramalar yerine istikrarlı değer artışı sunan bir karaktere sahip.</p>
 
 <p>Bu yazıda 2026 yılı için Göktürk’te satın alma, kiralama ve yatırım beklentilerini detaylı şekilde ele alıyoruz.</p>
 
@@ -1075,243 +1469,4 @@
 
 <p>Faiz oranlarının düşmesi, Göktürk’te konut talebini artırarak ev fiyatları üzerinde yukarı yönlü bir baskı oluşturur. Ancak fiyatların ne kadar ve ne hızda artacağı; arz-talep dengesi, ekonomik istikrar ve bölgesel gelişmelerle doğrudan ilişkilidir.</p>
 
-<p>Göktürk’te ev almak veya yatırım yapmak isteyenler için en doğru yaklaşım, sadece faiz oranlarını değil, bölgenin uzun vadeli potansiyelini birlikte değerlendirmektir.</p>]]></content><author><name></name></author><category term="göktürk ev fiyatları" /><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.]]></summary></entry><entry><title type="html">2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı?</title><link href="http://localhost:4000/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli" rel="alternate" type="text/html" title="2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı?" /><published>2026-02-05T00:00:00+03:00</published><updated>2026-02-05T00:00:00+03:00</updated><id>http://localhost:4000/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli</id><content type="html" xml:base="http://localhost:4000/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli"><![CDATA[<p>Göktürk, İstanbul’un hem yaşam kalitesi hem de yatırım potansiyeli açısından öne çıkan semtlerinden biri olmaya devam ediyor. 2026 yılına gelindiğinde ise birçok kişi için kritik soru şu: <strong>Göktürk’te ev almak mı daha mantıklı, yoksa mevcut evi satmak mı?</strong></p>
-
-<p>Bu yazıda 2026 yılı piyasa koşullarını, Göktürk’e özel dinamikleri ve farklı senaryolara göre doğru kararın ne olabileceğini detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="2026-genel-konut-piyasası-görünümü">2026 Genel Konut Piyasası Görünümü</h2>
-
-<p>2026 yılında Türkiye genelinde konut piyasası yüksek faiz ortamının etkilerini hâlâ taşıyor. Bu durum talebi tamamen bitirmese de alıcıları daha seçici hale getiriyor.</p>
-
-<h3 id="faiz-ve-finansman-etkisi">Faiz ve Finansman Etkisi</h3>
-<ul>
-  <li>Konut kredisi faizleri geçmiş yıllara kıyasla yüksek seviyelerde.</li>
-  <li>Kredili alımlar azalırken, nakit veya yüksek peşinatlı alımlar öne çıkıyor.</li>
-  <li>Satıcılar, ciddi alıcılara karşı daha esnek pazarlık payı sunuyor.</li>
-</ul>
-
-<h3 id="fiyatların-genel-seyri">Fiyatların Genel Seyri</h3>
-<ul>
-  <li>Nominal fiyatlar artmaya devam ediyor.</li>
-  <li>Ancak enflasyon etkisi çıkarıldığında reel artış hızı daha sınırlı.</li>
-  <li>Bu durum, “fiyatlar yükseliyor ama eskisi kadar hızlı değil” şeklinde özetlenebilir.</li>
-</ul>
-
-<h2 id="göktürkte-2026-yılına-özel-durum">Göktürk’te 2026 Yılına Özel Durum</h2>
-
-<p>Göktürk, İstanbul’un kuzey aksında yer alması, yeşil alanları, site yaşamı ve aile profiline uygun yapısıyla diğer birçok semtten ayrışıyor.</p>
-
-<h3 id="göktürkte-konut-fiyatları">Göktürk’te Konut Fiyatları</h3>
-<ul>
-  <li>Metrekare fiyatları İstanbul ortalamasının üzerinde.</li>
-  <li>Nitelikli sitelerde ve yeni projelerde fiyatlar daha dirençli.</li>
-  <li>Eski binalarda ve yüksek fiyatlı ilanlarda pazarlık payı artmış durumda.</li>
-</ul>
-
-<h3 id="kira-talebi-ve-getiri">Kira Talebi ve Getiri</h3>
-<ul>
-  <li>Göktürk’te kira talebi güçlü.</li>
-  <li>Özellikle 2+1 ve 3+1 daireler aileler tarafından yoğun talep görüyor.</li>
-  <li>Kira getirisi, birçok semte kıyasla daha istikrarlı.</li>
-</ul>
-
-<h2 id="2026da-göktürkte-ev-almak-mantıklı-mı">2026’da Göktürk’te Ev Almak Mantıklı mı?</h2>
-
-<p>Ev alma kararını yatırım ve oturum amaçlı olarak ayrı ayrı değerlendirmek gerekiyor.</p>
-
-<h3 id="yatırım-amaçlı-alım">Yatırım Amaçlı Alım</h3>
-<ul>
-  <li>Uzun vadeli düşünen yatırımcılar için Göktürk hâlâ güçlü bir lokasyon.</li>
-  <li>Yeni arsa üretiminin sınırlı olması, orta vadede fiyatları destekliyor.</li>
-  <li>Kira geliri sayesinde bekleme süreci daha az riskli hale geliyor.</li>
-</ul>
-
-<h3 id="oturum-amaçlı-alım">Oturum Amaçlı Alım</h3>
-<ul>
-  <li>Göktürk’te yaşam kalitesi yüksek.</li>
-  <li>Çocuklu aileler, doğaya yakın ve site yaşamı sunan projeleri tercih ediyor.</li>
-  <li>Uzun süreli oturum planı olanlar için kısa vadeli fiyat dalgalanmaları daha az önem taşıyor.</li>
-</ul>
-
-<h3 id="alım-yapacaklar-i̇çin-avantajlar">Alım Yapacaklar İçin Avantajlar</h3>
-<ul>
-  <li>Pazarlık gücü alıcıda.</li>
-  <li>Nakit alımlarda ciddi indirimler mümkün.</li>
-  <li>Alternatif yatırım araçlarına kıyasla daha somut ve güvenli bir varlık.</li>
-</ul>
-
-<h2 id="2026da-göktürkte-ev-satmak-mantıklı-mı">2026’da Göktürk’te Ev Satmak Mantıklı mı?</h2>
-
-<p>Satış kararı, mülkün ne zaman alındığı ve hangi fiyattan alındığıyla doğrudan ilişkili.</p>
-
-<h3 id="satış-yapmak-i̇çin-uygun-senaryolar">Satış Yapmak İçin Uygun Senaryolar</h3>
-<ul>
-  <li>Son 2–4 yılda alınmış ve ciddi değer artışı yaşamış mülkler.</li>
-  <li>Yatırım amacıyla alınmış ve kâr realizasyonu hedeflenen evler.</li>
-  <li>Başka bir yatırım veya nakit ihtiyacı planı olan mülk sahipleri.</li>
-</ul>
-
-<h3 id="satışta-dikkat-edilmesi-gerekenler">Satışta Dikkat Edilmesi Gerekenler</h3>
-<ul>
-  <li>Aşırı fiyatlı ilanlar piyasada uzun süre kalabiliyor.</li>
-  <li>Doğru fiyatlandırma satış süresini ciddi şekilde kısaltıyor.</li>
-  <li>Profesyonel fotoğraf ve doğru pazarlama her zamankinden daha önemli.</li>
-</ul>
-
-<h2 id="almak-mı-satmak-mı-senaryolara-göre-değerlendirme">Almak mı Satmak mı? Senaryolara Göre Değerlendirme</h2>
-
-<h3 id="kısa-vadeli-düşünenler">Kısa Vadeli Düşünenler</h3>
-<ul>
-  <li>1–2 yıl içinde satış planı varsa alım riskli olabilir.</li>
-  <li>Satış tarafında olanlar için hâlâ alıcı bulunabilir ama sabır gerekebilir.</li>
-</ul>
-
-<h3 id="uzun-vadeli-düşünenler">Uzun Vadeli Düşünenler</h3>
-<ul>
-  <li>3–5 yıl ve üzeri plan yapanlar için Göktürk hâlâ güçlü.</li>
-  <li>Kira geliri ve bölgenin gelişim potansiyeli uzun vadede avantaj sağlıyor.</li>
-</ul>
-
-<h3 id="nakit-gücü-olanlar">Nakit Gücü Olanlar</h3>
-<ul>
-  <li>Nakit alıcılar 2026’nın en avantajlı grubu.</li>
-  <li>Pazarlıkla piyasanın altında alım fırsatları yakalanabiliyor.</li>
-</ul>
-
-<h2 id="sonuç-2026da-göktürkte-doğru-karar-ne">Sonuç: 2026’da Göktürk’te Doğru Karar Ne?</h2>
-
-<p>2026 yılında Göktürk’te <strong>ev almak mı yoksa satmak mı mantıklı</strong> sorusunun tek bir doğru cevabı yok.</p>
-
-<ul>
-  <li>Uzun vadeli yatırım ve oturum amacı olanlar için <strong>almak hâlâ mantıklı</strong>.</li>
-  <li>Son yıllarda ciddi değer artışı yakalamış mülk sahipleri için <strong>satmak kârı realize etmek adına doğru olabilir</strong>.</li>
-  <li>Karar verirken faiz durumu, nakit gücü, yatırım süresi ve kişisel hedefler mutlaka birlikte değerlendirilmelidir.</li>
-</ul>
-
-<p>Göktürk gibi özel lokasyonlarda doğru zamanlama kadar doğru fiyat da belirleyicidir. Profesyonel destekle yapılan analizler, 2026’da alınacak kararların başarısını ciddi şekilde artırır.</p>]]></content><author><name></name></author><category term="göktürk ev fiyatları" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[Bu yazıda 2026 yılı piyasa koşullarını, Göktürk’e özel dinamikleri ve farklı senaryolara göre doğru kararın ne olabileceğini detaylı şekilde ele alıyoruz.]]></summary></entry><entry><title type="html">2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?</title><link href="http://localhost:4000/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler" rel="alternate" type="text/html" title="2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?" /><published>2026-02-05T00:00:00+03:00</published><updated>2026-02-05T00:00:00+03:00</updated><id>http://localhost:4000/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler</id><content type="html" xml:base="http://localhost:4000/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler"><![CDATA[<p>Konut kredisi faiz oranları, Türkiye’de emlak piyasasının yönünü belirleyen en kritik faktörlerden biridir. Özellikle İstanbul’un prestijli ve talep gören bölgelerinden biri olan Göktürk’te, faiz oranlarındaki değişimler hem fiyatları hem de alım-satım hızını doğrudan etkiler.</p>
-
-<p>2026 yılına girerken konut kredisi faizlerinde beklenen düşüş trendi, Göktürk emlak piyasasında önemli değişimlerin habercisi olarak görülmektedir. Bu yazıda, 2026 konut kredisi faizlerinin Göktürk piyasasına olası etkilerini detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="2026-konut-kredisi-faizlerinde-genel-beklentiler">2026 Konut Kredisi Faizlerinde Genel Beklentiler</h2>
-
-<p>2025 yılının ikinci yarısından itibaren Türkiye’de para politikasında kademeli bir gevşeme süreci başlamıştır. Enflasyonla mücadelede belirli bir denge sağlanması durumunda, 2026 yılı boyunca konut kredisi faizlerinde aşağı yönlü bir seyir beklenmektedir.</p>
-
-<p>2026 için öne çıkan beklentiler şu şekildedir:</p>
-
-<ul>
-  <li>Konut kredisi faizlerinin kademeli olarak düşmesi</li>
-  <li>Bankalar arası rekabetin artması</li>
-  <li>Kampanyalı kredi oranlarının daha sık görülmesi</li>
-  <li>Alıcıların yeniden krediye yönelmesi</li>
-</ul>
-
-<p>Bu tablo, özellikle orta ve üst segment konut bölgelerinde piyasanın hareketlenmesine zemin hazırlar.</p>
-
-<h2 id="göktürk-emlak-piyasasının-mevcut-yapısı">Göktürk Emlak Piyasasının Mevcut Yapısı</h2>
-
-<p>Göktürk, İstanbul’un kuzeyinde yer alan, doğayla iç içe yaşam olanakları ve yeni nesil konut projeleriyle öne çıkan bir bölgedir. Bölgenin temel özellikleri şunlardır:</p>
-
-<ul>
-  <li>Üst ve üst-orta gelir grubuna hitap eden konut profili</li>
-  <li>Site yaşamı ve müstakil villa ağırlıklı yapılaşma</li>
-  <li>Sınırlı arsa ve kontrollü yapılaşma</li>
-  <li>Uzun vadede değer kazanan bir lokasyon</li>
-</ul>
-
-<p>Bu nedenle Göktürk’te fiyatlar, İstanbul ortalamasının üzerinde seyretmekte ve faiz değişimlerine karşı daha hassas tepki verebilmektedir.</p>
-
-<h2 id="faiz-düşüşlerinin-göktürk-piyasasına-etkileri">Faiz Düşüşlerinin Göktürk Piyasasına Etkileri</h2>
-
-<h3 id="talep-artışı">Talep Artışı</h3>
-
-<p>Konut kredisi faizlerinin düşmesi, özellikle krediyle alım yapmayı planlayan kesim için alım maliyetini azaltır. Göktürk’te bu durum:</p>
-
-<ul>
-  <li>Beklemede olan alıcıların piyasaya girmesi</li>
-  <li>Daha büyük veya daha nitelikli konutlara yönelim</li>
-  <li>Yatırım amaçlı alımların artması</li>
-</ul>
-
-<p>şeklinde kendini gösterebilir.</p>
-
-<h3 id="konut-fiyatları-üzerindeki-etki">Konut Fiyatları Üzerindeki Etki</h3>
-
-<p>Faizlerin düşmesiyle birlikte talep artarken, Göktürk’teki sınırlı arz fiyatları yukarı yönlü baskılayabilir. Bu da şu sonuçları doğurur:</p>
-
-<ul>
-  <li>Satılık konut fiyatlarında artış</li>
-  <li>Pazarlık paylarının azalması</li>
-  <li>Satış sürelerinin kısalması</li>
-</ul>
-
-<p>Özellikle yeni projeler ve nitelikli sitelerde fiyat artışlarının daha belirgin olması beklenir.</p>
-
-<h3 id="satış-hızında-artış">Satış Hızında Artış</h3>
-
-<p>2026 yılında kredi koşullarının iyileşmesiyle birlikte Göktürk’te satılık konutların ilanda kalma süresi kısalabilir. Bu durum:</p>
-
-<ul>
-  <li>Emlak piyasasında canlılık</li>
-  <li>Satıcılar için daha avantajlı pazarlık ortamı</li>
-  <li>Arzın daha hızlı tükenmesi</li>
-</ul>
-
-<p>anlamına gelir.</p>
-
-<h2 id="yatırımcılar-açısından-2026-göktürk-fırsatları">Yatırımcılar Açısından 2026 Göktürk Fırsatları</h2>
-
-<p>Faizlerin düşmesi, yatırımcılar için konutu yeniden cazip bir yatırım aracı haline getirir. Göktürk özelinde yatırımcı davranışları şu yönde şekillenebilir:</p>
-
-<ul>
-  <li>Kira getirisi yüksek dairelere yönelim</li>
-  <li>Uzun vadeli değer artışı beklentisi</li>
-  <li>Villa ve bahçe katı dairelere artan ilgi</li>
-</ul>
-
-<p>2026’da Göktürk’te erken dönemde yapılan alımlar, orta ve uzun vadede avantaj sağlayabilir.</p>
-
-<h2 id="kısa-ve-orta-vadeli-senaryolar">Kısa ve Orta Vadeli Senaryolar</h2>
-
-<h3 id="kısa-vadede-2026-i̇lk-yarısı">Kısa Vadede (2026 İlk Yarısı)</h3>
-
-<ul>
-  <li>Faizler düşmeye başlar ancak hâlâ seçici alıcı profili vardır</li>
-  <li>Talep kontrollü şekilde artar</li>
-  <li>Fiyatlar yataydan hafif yukarı yönlü seyreder</li>
-</ul>
-
-<h3 id="orta-vadede-2026-i̇kinci-yarısı">Orta Vadede (2026 İkinci Yarısı)</h3>
-
-<ul>
-  <li>Kampanyalı krediler yaygınlaşır</li>
-  <li>Talep belirgin şekilde artar</li>
-  <li>Fiyat artışları hız kazanır</li>
-  <li>Satış süreleri kısalır</li>
-</ul>
-
-<h2 id="olası-riskler-ve-dikkat-edilmesi-gerekenler">Olası Riskler ve Dikkat Edilmesi Gerekenler</h2>
-
-<p>Her ne kadar faiz düşüşü piyasayı canlandırsa da bazı riskler göz ardı edilmemelidir:</p>
-
-<ul>
-  <li>Enflasyonun beklenenden yüksek seyretmesi</li>
-  <li>Faiz indirimlerinin yavaşlaması</li>
-  <li>Arzın talebi karşılayamaması</li>
-  <li>Fiyatların alım gücünün üzerine çıkması</li>
-</ul>
-
-<p>Göktürk gibi premium bölgelerde bu riskler daha hızlı hissedilebilir.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>2026 konut kredisi faizlerinde beklenen düşüş, Göktürk emlak piyasasında belirgin bir hareketlilik yaratma potansiyeline sahiptir. Özellikle krediye erişimin kolaylaşmasıyla birlikte:</p>
-
-<ul>
-  <li>Talep artışı</li>
-  <li>Fiyatların yukarı yönlü seyri</li>
-  <li>Satış hızında artış</li>
-</ul>
-
-<p>kaçınılmaz olabilir.</p>
-
-<p>Göktürk’te konut almayı düşünenler için 2026 yılı, doğru zamanda ve doğru fiyatla hareket edildiğinde önemli fırsatlar barındırabilir. Satıcılar için ise piyasanın daha güçlü ve dengeli olduğu bir dönem öne çıkmaktadır.</p>]]></content><author><name></name></author><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><category term="göktürk konut kredisi" /><summary type="html"><![CDATA[Bu yazıda, 2026 konut kredisi faizlerinin Göktürk piyasasına olası etkilerini detaylı şekilde ele alıyoruz.]]></summary></entry></feed>
+<p>Göktürk’te ev almak veya yatırım yapmak isteyenler için en doğru yaklaşım, sadece faiz oranlarını değil, bölgenin uzun vadeli potansiyelini birlikte değerlendirmektir.</p>]]></content><author><name></name></author><category term="göktürk ev fiyatları" /><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.]]></summary></entry></feed>
