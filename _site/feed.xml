@@ -1,4 +1,278 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-03T14:26:07+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</title><link href="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi" rel="alternate" type="text/html" title="Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı" /><published>2026-03-03T00:00:00+03:00</published><updated>2026-03-03T00:00:00+03:00</updated><id>http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi</id><content type="html" xml:base="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi"><![CDATA[<p>Gayrimenkul değerleme artık sadece saha gezisi ve emsal karşılaştırmasından ibaret değil. Yapay zekâ, büyük veri analitiği ve drone teknolojileri; daha hızlı, daha doğru ve daha öngörülebilir değerleme süreçlerinin önünü açıyor. Bugün doğru teknolojiyi kullanan değerleme uzmanları hem rekabet avantajı elde ediyor hem de yatırımcılara çok daha güçlü içgörüler sunabiliyor.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-06-14T02:59:59+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?</title><link href="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir" rel="alternate" type="text/html" title="Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?" /><published>2026-06-14T00:00:00+03:00</published><updated>2026-06-14T00:00:00+03:00</updated><id>http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir</id><content type="html" xml:base="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir"><![CDATA[<p>Gayrimenkul piyasasında fiyatların yükselip yükselmediğini, hangi bölgelerin daha hızlı değer kazandığını veya bir taşınmazın piyasa değerinin zaman içinde nasıl değiştiğini anlamanın en önemli yollarından biri <strong>Emlak Fiyat Endeksi</strong> veya Türkiye’de yaygın kullanılan adıyla <strong>Konut Fiyat Endeksi (KFE)</strong> verileridir.</p>
+
+<p>Özellikle emlak danışmanları, yatırımcılar, bankalar ve gayrimenkul değerleme uzmanları için bu endeksler piyasayı okumada kritik bir rol oynar. Ancak birçok kişi endeksin neyi ölçtüğünü, nasıl oluşturulduğunu ve değerleme çalışmalarında nasıl kullanıldığını tam olarak bilmez.</p>
+
+<p>Bu yazıda emlak fiyat endeksini tüm yönleriyle ele alacağız.</p>
+
+<h2 id="emlak-fiyat-endeksi-nedir">Emlak Fiyat Endeksi Nedir?</h2>
+
+<p>Emlak Fiyat Endeksi, belirli bir bölgedeki veya ülke genelindeki gayrimenkul fiyatlarının zaman içerisindeki değişimini ölçen istatistiksel bir göstergedir.</p>
+
+<p>Türkiye’de bu amaçla kullanılan en önemli gösterge, Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından yayımlanan <strong>Konut Fiyat Endeksi (KFE)</strong> verileridir. KFE, Türkiye konut piyasasındaki fiyat değişimlerini takip etmek amacıyla oluşturulmuştur.</p>
+
+<p>Basit bir örnek vermek gerekirse:</p>
+
+<ul>
+  <li>Bir bölgede konut fiyatları geçen yıl ortalama %25 arttıysa,</li>
+  <li>Endeks de bu artışı yansıtacak şekilde yükselir.</li>
+</ul>
+
+<p>Ancak modern fiyat endeksleri yalnızca ortalama fiyatları ölçmez. Çünkü piyasada satılan konutların özellikleri sürekli değişmektedir. Daha büyük, daha yeni veya daha lüks konutların satış oranı arttığında ortalama fiyat da yükselir. Bu nedenle endeks hesaplamalarında kalite farklılıklarının etkisi de dikkate alınır.</p>
+
+<h2 id="türkiyede-konut-fiyat-endeksi-nasıl-oluşturulur">Türkiye’de Konut Fiyat Endeksi Nasıl Oluşturulur?</h2>
+
+<p>TCMB’nin kullandığı veri kaynağı, konut kredisi süreçlerinde hazırlanan ekspertiz (değerleme) raporlarıdır.</p>
+
+<p>Bankalar tarafından kullandırılan bireysel konut kredilerinde hazırlanan değerleme raporları TCMB tarafından derlenir ve analiz edilir. Bu raporlar lisanslı gayrimenkul değerleme şirketleri tarafından hazırlanır.</p>
+
+<p>Bu sayede her ay yüz binlerce taşınmaza ilişkin veri işlenebilir.</p>
+
+<p>Veriler içerisinde:</p>
+
+<ul>
+  <li>Konutun bulunduğu il ve ilçe</li>
+  <li>Metrekare büyüklüğü</li>
+  <li>Bina yaşı</li>
+  <li>Oda sayısı</li>
+  <li>Kat bilgisi</li>
+  <li>Yapı türü</li>
+  <li>Değerleme sonucu belirlenen piyasa değeri</li>
+</ul>
+
+<p>gibi birçok değişken yer alır.</p>
+
+<h2 id="hedonik-endeks-nedir">Hedonik Endeks Nedir?</h2>
+
+<p>Modern konut fiyat endekslerinde kullanılan temel yöntemlerden biri <strong>hedonik fiyatlama modeli</strong>dir.</p>
+
+<p>Bu modelin amacı, konutların fiziksel ve konumsal özelliklerinden kaynaklanan fiyat farklılıklarını ayrıştırmaktır.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>80 m² bir daire</li>
+  <li>150 m² bir daire</li>
+</ul>
+
+<p>aynı dönemde satılmış olsa bile doğrudan karşılaştırılmaz.</p>
+
+<p>Benzer şekilde:</p>
+
+<ul>
+  <li>Yeni bina</li>
+  <li>Eski bina</li>
+</ul>
+
+<p>veya</p>
+
+<ul>
+  <li>Merkezi lokasyon</li>
+  <li>Çeper bölge</li>
+</ul>
+
+<p>arasındaki kalite farkları da dikkate alınır.</p>
+
+<p>TCMB, 2016 yılından itibaren kalite etkisinden arındırılmış hedonik regresyon yöntemini kullanmaya başlamıştır. Böylece fiyat değişimleri daha sağlıklı ölçülebilmektedir.</p>
+
+<h2 id="konut-fiyat-endeksi-nasıl-yorumlanır">Konut Fiyat Endeksi Nasıl Yorumlanır?</h2>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Endeks geçen yıl 150 seviyesindeydi.</li>
+  <li>Bu yıl 180 seviyesine çıktı.</li>
+</ul>
+
+<p>Bu durumda konut fiyatlarının yaklaşık %20 arttığı yorumu yapılabilir.</p>
+
+<p>Ancak burada dikkat edilmesi gereken önemli bir ayrım vardır:</p>
+
+<h3 id="nominal-artış">Nominal Artış</h3>
+
+<p>Fiyatların TL bazında yükselmesini ifade eder.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Geçen yıl 5 milyon TL olan bir konut</li>
+  <li>Bu yıl 6 milyon TL olduysa</li>
+</ul>
+
+<p>nominal artış %20’dir.</p>
+
+<h3 id="reel-artış">Reel Artış</h3>
+
+<p>Enflasyon etkisi çıkarıldıktan sonraki değişimdir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konut fiyatı %20 arttı</li>
+  <li>Enflasyon %30 arttı</li>
+</ul>
+
+<p>ise aslında konut reel olarak değer kaybetmiştir.</p>
+
+<p>Bu nedenle profesyonel yatırımcılar yalnızca nominal değil, reel fiyat endekslerini de takip ederler.</p>
+
+<h2 id="emlak-fiyat-endeksine-nereden-ulaşılır">Emlak Fiyat Endeksine Nereden Ulaşılır?</h2>
+
+<h3 id="1-tcmb-konut-fiyat-endeksi">1. TCMB Konut Fiyat Endeksi</h3>
+
+<p>Türkiye’deki en güvenilir kaynak TCMB’dir.</p>
+
+<p>Konut Fiyat Endeksi sayfası: <a href="https://tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Reel+Sektor+Istatistikleri/Konut+Fiyat+Endeksi/">https://tcmb.gov.tr</a></p>
+
+<p>Burada;</p>
+
+<ul>
+  <li>Türkiye geneli</li>
+  <li>İstanbul</li>
+  <li>Ankara</li>
+  <li>İzmir</li>
+  <li>Bölgesel kırılımlar</li>
+</ul>
+
+<p>gibi detaylı verilere ulaşabilirsiniz.</p>
+
+<h3 id="2-evds-veri-portalı">2. EVDS Veri Portalı</h3>
+
+<p>TCMB’nin Elektronik Veri Dağıtım Sistemi üzerinden geçmiş yıllara ait tüm endeks serileri indirilebilir.</p>
+
+<p><a href="https://evds2.tcmb.gov.tr">https://evds2.tcmb.gov.tr</a></p>
+
+<h3 id="3-tüi̇k-verileri">3. TÜİK Verileri</h3>
+
+<p>TÜİK doğrudan konut fiyat endeksi yayımlamasa da:</p>
+
+<ul>
+  <li>Konut satış istatistikleri</li>
+  <li>İnşaat maliyet endeksi</li>
+  <li>Enflasyon verileri</li>
+</ul>
+
+<p>gibi tamamlayıcı göstergeler sağlar.</p>
+
+<p><a href="https://www.tuik.gov.tr">https://www.tuik.gov.tr</a></p>
+
+<h2 id="gayrimenkul-değerlemede-emlak-fiyat-endeksi-nasıl-kullanılır">Gayrimenkul Değerlemede Emlak Fiyat Endeksi Nasıl Kullanılır?</h2>
+
+<p>Bir değerleme uzmanı için fiyat endeksi, geçmiş tarihli emsallerin güncellenmesinde önemli bir araçtır.</p>
+
+<h3 id="örnek-senaryo">Örnek Senaryo</h3>
+
+<p>Bir dairenin emsal satışı:</p>
+
+<ul>
+  <li>Mart 2025 tarihinde gerçekleşmiş olsun.</li>
+  <li>Satış fiyatı 8.000.000 TL olsun.</li>
+</ul>
+
+<p>Bugün ise Haziran 2026 olsun.</p>
+
+<p>Bu durumda değerleme uzmanı:</p>
+
+<ol>
+  <li>Bölgesel fiyat endeksini inceler.</li>
+  <li>Mart 2025 ile Haziran 2026 arasındaki endeks değişimini hesaplar.</li>
+  <li>Emsal fiyatını güncel piyasa koşullarına taşır.</li>
+</ol>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Endeks artışı %15 ise</li>
+</ul>
+
+<p>güncellenmiş emsal değeri yaklaşık:</p>
+
+<p>8.000.000 × 1,15 = 9.200.000 TL</p>
+
+<p>olarak değerlendirilebilir.</p>
+
+<p>Bu yöntem özellikle:</p>
+
+<ul>
+  <li>Eksik emsal bulunan bölgelerde</li>
+  <li>Tarihi satışların güncellenmesinde</li>
+  <li>Portföy analizlerinde</li>
+  <li>Kurumsal değerleme çalışmalarında</li>
+</ul>
+
+<p>yaygın olarak kullanılmaktadır.</p>
+
+<h2 id="emlak-danışmanları-i̇çin-endeksin-önemi">Emlak Danışmanları İçin Endeksin Önemi</h2>
+
+<p>Başarılı emlak danışmanları yalnızca ilan fiyatlarına bakmaz.</p>
+
+<p>Bunun yerine:</p>
+
+<ul>
+  <li>Bölgesel fiyat endekslerini,</li>
+  <li>Satış hacimlerini,</li>
+  <li>Kira endekslerini,</li>
+  <li>Reel fiyat değişimlerini</li>
+</ul>
+
+<p>birlikte değerlendirir.</p>
+
+<p>Örneğin bir bölgede:</p>
+
+<ul>
+  <li>İlan fiyatları yükseliyor olabilir,</li>
+  <li>Ancak reel konut fiyat endeksi düşüyor olabilir.</li>
+</ul>
+
+<p>Bu durumda piyasanın görünenden daha zayıf olduğu anlaşılabilir.</p>
+
+<p>Benzer şekilde fiyat endeksi yükselirken satış adetleri de artıyorsa, bu durum güçlü talebe işaret edebilir.</p>
+
+<h2 id="endeks-kullanırken-yapılan-hatalar">Endeks Kullanırken Yapılan Hatalar</h2>
+
+<p>En sık karşılaşılan hatalar şunlardır:</p>
+
+<h3 id="1-endeksi-mahalle-bazında-kullanmak">1. Endeksi Mahalle Bazında Kullanmak</h3>
+
+<p>KFE çoğunlukla il veya bölge düzeyinde yayımlanır.</p>
+
+<p>Bir ilçedeki veya mahalledeki özel dinamikler endeksten farklı hareket edebilir.</p>
+
+<h3 id="2-reel-ve-nominal-farkını-göz-ardı-etmek">2. Reel ve Nominal Farkını Göz Ardı Etmek</h3>
+
+<p>Nominal artış her zaman gerçek kazanç anlamına gelmez.</p>
+
+<h3 id="3-tek-başına-endekse-güvenmek">3. Tek Başına Endekse Güvenmek</h3>
+
+<p>Bir taşınmazın değeri;</p>
+
+<ul>
+  <li>Konum</li>
+  <li>Manzara</li>
+  <li>Ulaşım</li>
+  <li>Site özellikleri</li>
+  <li>Arz-talep dengesi</li>
+</ul>
+
+<p>gibi birçok faktörden etkilenir.</p>
+
+<p>Endeks yalnızca genel piyasa eğilimini gösterir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Emlak Fiyat Endeksi, gayrimenkul piyasasındaki fiyat hareketlerini ölçen ve yorumlamayı sağlayan en önemli göstergelerden biridir. Türkiye’de bu görevi TCMB tarafından yayımlanan Konut Fiyat Endeksi üstlenmektedir. Endeks, bankaların kullandığı ekspertiz raporlarından elde edilen verilerle oluşturulur ve hedonik yöntemler kullanılarak kalite farklılıklarından arındırılır.</p>
+
+<p>Doğru kullanıldığında KFE;</p>
+
+<ul>
+  <li>Yatırım kararlarının verilmesinde,</li>
+  <li>Bölgesel analizlerde,</li>
+  <li>Gayrimenkul değerleme çalışmalarında,</li>
+  <li>Emlak danışmanlığı faaliyetlerinde</li>
+</ul>
+
+<p>son derece güçlü bir referans kaynağıdır.</p>
+
+<p>Ancak en sağlıklı sonuç için endeks verilerinin her zaman güncel emsal analizleri ve yerel piyasa dinamikleriyle birlikte değerlendirilmesi gerekir.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="konut fiyat endeksi" /><summary type="html"><![CDATA[Emlak Fiyat Endeksi hakkında kapsamlı rehber. Konut Fiyat Endeksi (KFE) nedir, nereden takip edilir, nasıl yorumlanır ve gayrimenkul değerleme çalışmalarında nasıl kullanılır?]]></summary></entry><entry><title type="html">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</title><link href="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi" rel="alternate" type="text/html" title="Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı" /><published>2026-03-03T00:00:00+03:00</published><updated>2026-03-03T00:00:00+03:00</updated><id>http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi</id><content type="html" xml:base="http://localhost:4000/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi"><![CDATA[<p>Gayrimenkul değerleme artık sadece saha gezisi ve emsal karşılaştırmasından ibaret değil. Yapay zekâ, büyük veri analitiği ve drone teknolojileri; daha hızlı, daha doğru ve daha öngörülebilir değerleme süreçlerinin önünü açıyor. Bugün doğru teknolojiyi kullanan değerleme uzmanları hem rekabet avantajı elde ediyor hem de yatırımcılara çok daha güçlü içgörüler sunabiliyor.</p>
 
 <p>Bu yazıda, gayrimenkul değerlemede teknolojinin nasıl dönüştürücü bir rol oynadığını tüm yönleriyle ele alacağız.</p>
 
@@ -1352,121 +1626,4 @@
   <li>Güncel arsa fiyatlarını ve tapu kayıtlarını mutlaka kontrol edin</li>
   <li>Belediye imar planlarını ve çevresel projeleri takip edin</li>
   <li>Yerel emlak danışmanları ve değerleme uzmanlarıyla çalışın</li>
-</ul>]]></content><author><name></name></author><category term="göktürk arsa değerlemesi" /><category term="göktürk arsa yatırımı" /><category term="göktürk arsa fiyatları" /><summary type="html"><![CDATA[Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz.]]></summary></entry><entry><title type="html">Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?</title><link href="http://localhost:4000/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur" rel="alternate" type="text/html" title="Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?" /><published>2026-02-05T00:00:00+03:00</published><updated>2026-02-05T00:00:00+03:00</updated><id>http://localhost:4000/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur</id><content type="html" xml:base="http://localhost:4000/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur"><![CDATA[<p>Konut piyasası, makroekonomik göstergelerden en hızlı etkilenen sektörlerden biridir. Türkiye’de özellikle konut kredisi faiz oranlarındaki değişimler, hem alıcı davranışlarını hem de fiyatları doğrudan etkiler. İstanbul’un prestijli ve planlı yerleşim bölgelerinden biri olan Göktürk’te ise bu etki daha belirgin hissedilir.</p>
-
-<p>Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.</p>
-
-<h2 id="faiz-oranları-konut-piyasasını-nasıl-etkiler">Faiz Oranları Konut Piyasasını Nasıl Etkiler?</h2>
-
-<p>Faiz oranları düştüğünde konut kredilerinin aylık taksitleri azalır. Bu durum daha fazla kişinin konut alımına yönelmesine neden olur. Genel olarak düşük faiz ortamı şu sonuçları doğurur:</p>
-
-<ul>
-  <li>Krediyle ev alımının cazip hale gelmesi</li>
-  <li>Konut talebinde artış</li>
-  <li>Talep artışına bağlı fiyat yükselişi</li>
-  <li>Yatırım amaçlı alımların hızlanması</li>
-</ul>
-
-<p>Bu etki, Göktürk gibi orta ve üst gelir grubuna hitap eden bölgelerde daha güçlü hissedilir. Çünkü bölgedeki alıcıların önemli bir kısmı kredi kullanarak alım yapmaktadır.</p>
-
-<h2 id="göktürk-konut-piyasasının-mevcut-yapısı">Göktürk Konut Piyasasının Mevcut Yapısı</h2>
-
-<p>Göktürk, son yıllarda İstanbul’da yaşam kalitesi yüksek bölgeler arasında öne çıkmaktadır. Bölgenin öne çıkan özellikleri şunlardır:</p>
-
-<ul>
-  <li>Geniş yeşil alanlar ve ormanlara yakınlık</li>
-  <li>Site yaşamı ve güvenlikli projeler</li>
-  <li>Villa ve nitelikli daire ağırlıklı konut stoğu</li>
-  <li>Aile yaşamına uygun sosyal çevre</li>
-</ul>
-
-<p>Bu yapı, Göktürk’ü hem oturum hem de yatırım amacıyla tercih edilen bir semt haline getirmektedir.</p>
-
-<h2 id="faiz-düşüşü-göktürkte-ev-fiyatlarını-nasıl-etkiler">Faiz Düşüşü Göktürk’te Ev Fiyatlarını Nasıl Etkiler?</h2>
-
-<h3 id="kısa-vadeli-etkiler">Kısa Vadeli Etkiler</h3>
-
-<p>Faizlerin düşmesiyle birlikte Göktürk’te kısa vadede şu gelişmeler görülür:</p>
-
-<ul>
-  <li>Piyasaya yeni alıcıların girmesi</li>
-  <li>Satılık konutlara olan talebin hızla artması</li>
-  <li>Özellikle hazır ve iskanlı konutlarda fiyat baskısı</li>
-  <li>Satıcıların pazarlık payını azaltması</li>
-</ul>
-
-<p>Bu dönemde fiyatlar genellikle hızlı bir yükseliş eğilimi gösterir.</p>
-
-<h3 id="orta-ve-uzun-vadeli-etkiler">Orta ve Uzun Vadeli Etkiler</h3>
-
-<p>Faizlerin düşük seviyelerde kalmaya devam etmesi halinde orta ve uzun vadede şu sonuçlar ortaya çıkabilir:</p>
-
-<ul>
-  <li>Yeni konut projelerinin artması</li>
-  <li>Arzın talebi dengelemeye başlaması</li>
-  <li>Fiyat artış hızının yavaşlaması</li>
-  <li>Konut fiyatlarının daha yüksek bir seviyede dengelenmesi</li>
-</ul>
-
-<p>Uzun vadede Göktürk’te fiyatlar düşmekten ziyade artış hızını kaybederek yatay bir seyir izleyebilir.</p>
-
-<h2 id="göktürkte-fiyat-artışını-etkileyen-diğer-faktörler">Göktürk’te Fiyat Artışını Etkileyen Diğer Faktörler</h2>
-
-<p>Faiz düşüşü tek başına yeterli değildir. Göktürk’te ev fiyatlarını etkileyen diğer önemli unsurlar şunlardır:</p>
-
-<ul>
-  <li>Ulaşım projeleri ve yol yatırımları</li>
-  <li>Yeni okul, hastane ve sosyal alan projeleri</li>
-  <li>Bölgedeki arsa arzının sınırlı olması</li>
-  <li>İstanbul genelinde nitelikli konut talebinin artması</li>
-  <li>Enflasyon ve döviz kuru beklentileri</li>
-</ul>
-
-<p>Bu faktörler, faiz düşüşüyle birleştiğinde fiyat artışını hızlandırabilir.</p>
-
-<h2 id="olası-senaryolar">Olası Senaryolar</h2>
-
-<h3 id="kademeli-faiz-i̇ndirimi-senaryosu">Kademeli Faiz İndirimi Senaryosu</h3>
-
-<p>Faizlerin yavaş ve kontrollü şekilde düşmesi durumunda:</p>
-
-<ul>
-  <li>Talep kontrollü biçimde artar</li>
-  <li>Fiyatlar istikrarlı şekilde yükselir</li>
-  <li>Piyasa daha sağlıklı bir büyüme gösterir</li>
-</ul>
-
-<h3 id="ani-ve-sert-faiz-i̇ndirimi-senaryosu">Ani ve Sert Faiz İndirimi Senaryosu</h3>
-
-<p>Faizlerin kısa sürede ciddi şekilde düşmesi halinde:</p>
-
-<ul>
-  <li>Konut talebinde ani sıçrama yaşanır</li>
-  <li>Satılık konut stokları hızla erir</li>
-  <li>Fiyatlar kısa sürede yukarı yönlü kırılabilir</li>
-  <li>İkinci el konut piyasası canlanır</li>
-</ul>
-
-<h2 id="ev-almak-veya-yatırım-yapmak-i̇steyenler-i̇çin-öneriler">Ev Almak veya Yatırım Yapmak İsteyenler İçin Öneriler</h2>
-
-<h3 id="ev-alıcıları-i̇çin">Ev Alıcıları İçin</h3>
-
-<ul>
-  <li>Faiz indirimlerini beklerken fiyat artış riskini göz önünde bulundurun</li>
-  <li>Bölgedeki yeni projeleri ve teslim tarihlerini inceleyin</li>
-  <li>Kredi geri ödeme planınızı uzun vadeli hesaplayın</li>
-</ul>
-
-<h3 id="yatırımcılar-i̇çin">Yatırımcılar İçin</h3>
-
-<ul>
-  <li>Kira getirisi potansiyeli yüksek projelere odaklanın</li>
-  <li>Değer artışı beklenen lokasyonları tercih edin</li>
-  <li>Likidite ihtiyacını göz önünde bulundurarak alım yapın</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Faiz oranlarının düşmesi, Göktürk’te konut talebini artırarak ev fiyatları üzerinde yukarı yönlü bir baskı oluşturur. Ancak fiyatların ne kadar ve ne hızda artacağı; arz-talep dengesi, ekonomik istikrar ve bölgesel gelişmelerle doğrudan ilişkilidir.</p>
-
-<p>Göktürk’te ev almak veya yatırım yapmak isteyenler için en doğru yaklaşım, sadece faiz oranlarını değil, bölgenin uzun vadeli potansiyelini birlikte değerlendirmektir.</p>]]></content><author><name></name></author><category term="göktürk ev fiyatları" /><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="göktürk arsa değerlemesi" /><category term="göktürk arsa yatırımı" /><category term="göktürk arsa fiyatları" /><summary type="html"><![CDATA[Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz.]]></summary></entry></feed>
