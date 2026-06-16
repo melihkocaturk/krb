@@ -1,4 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-06-14T02:59:59+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?</title><link href="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir" rel="alternate" type="text/html" title="Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?" /><published>2026-06-14T00:00:00+03:00</published><updated>2026-06-14T00:00:00+03:00</updated><id>http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir</id><content type="html" xml:base="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir"><![CDATA[<p>Gayrimenkul piyasasında fiyatların yükselip yükselmediğini, hangi bölgelerin daha hızlı değer kazandığını veya bir taşınmazın piyasa değerinin zaman içinde nasıl değiştiğini anlamanın en önemli yollarından biri <strong>Emlak Fiyat Endeksi</strong> veya Türkiye’de yaygın kullanılan adıyla <strong>Konut Fiyat Endeksi (KFE)</strong> verileridir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-06-16T12:25:42+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?</title><link href="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi" rel="alternate" type="text/html" title="Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?" /><published>2026-06-16T00:00:00+03:00</published><updated>2026-06-16T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-degerleme-sistematigi</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi"><![CDATA[<p>Gayrimenkul değerleme, bir taşınmazın belirli bir tarihteki değerinin bilimsel yöntemler kullanılarak tespit edilmesi sürecidir. Ancak değerleme sadece bir rakam belirlemekten ibaret değildir. Doğru sonuca ulaşabilmek için uluslararası standartlara uygun, sistematik ve disiplinli bir çalışma yürütülmesi gerekir.</p>
+
+<p>Bir gayrimenkulün değerini etkileyen fiziksel, hukuki, ekonomik ve çevresel birçok faktör bulunmaktadır. Bu nedenle değerleme uzmanları, belirli aşamalardan oluşan bir değerleme sistematiği uygularlar. Bu sistematik sayesinde ulaşılan sonuçların tutarlı, savunulabilir ve güvenilir olması sağlanır.</p>
+
+<p>Bu yazıda emlak değerlemede kullanılan temel değerleme sistematiğini adım adım inceleyeceğiz.</p>
+
+<h2 id="1-değerleme-görevinin-tanımlanması">1. Değerleme Görevinin Tanımlanması</h2>
+
+<p>Değerleme sürecinin ilk aşaması, değerleme görevinin doğru şekilde tanımlanmasıdır. Bu aşama, tüm çalışmanın temelini oluşturur.</p>
+
+<p>Değerleme uzmanı öncelikle aşağıdaki soruların cevaplarını netleştirir:</p>
+
+<ul>
+  <li>Değerleme hangi amaçla yapılmaktadır?</li>
+  <li>Değerlenecek mülk hangisidir?</li>
+  <li>Kim için değerleme yapılmaktadır?</li>
+  <li>Hangi değer türü belirlenecektir?</li>
+  <li>Değerleme tarihi nedir?</li>
+  <li>Kullanılacak varsayımlar ve kısıtlamalar nelerdir?</li>
+</ul>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>Konut kredisi için yapılan bir değerleme,</li>
+  <li>Kamulaştırma amaçlı değerleme,</li>
+  <li>Sigorta amaçlı değerleme,</li>
+  <li>Vergilendirme amaçlı değerleme,</li>
+  <li>Yatırım analizi amacıyla yapılan değerleme</li>
+</ul>
+
+<p>farklı yaklaşımlar gerektirebilir.</p>
+
+<p>Bu nedenle değerleme çalışmasının kapsamı, amacı ve raporun kullanım şekli en başta açık biçimde belirlenmelidir.</p>
+
+<h3 id="değerleme-konusunun-netleştirilmesi">Değerleme Konusunun Netleştirilmesi</h3>
+
+<p>Bu aşamada ayrıca aşağıdaki bilgiler de tanımlanır:</p>
+
+<ul>
+  <li>Taşınmazın açık adresi</li>
+  <li>Tapu bilgileri</li>
+  <li>Parsel bilgileri</li>
+  <li>Mülkiyet durumu</li>
+  <li>Değerlenecek hakkın niteliği</li>
+</ul>
+
+<p>Bazı durumlarda taşınmazın tamamı değil;</p>
+
+<ul>
+  <li>İntifa hakkı,</li>
+  <li>Üst hakkı,</li>
+  <li>Kira hakkı,</li>
+  <li>Paylı mülkiyet hissesi</li>
+</ul>
+
+<p>gibi belirli haklar da değerleme konusu olabilir.</p>
+
+<p>Bu nedenle değerleme uzmanının ilk görevi, neyin değerlendiğini kesin olarak ortaya koymaktır.</p>
+
+<h2 id="2-i̇lgili-gayrimenkulün-i̇ncelenmesi">2. İlgili Gayrimenkulün İncelenmesi</h2>
+
+<p>Görevin tanımlanmasının ardından saha çalışması aşamasına geçilir.</p>
+
+<p>Bu aşamada değerleme uzmanı taşınmazı yerinde inceleyerek fiziksel özelliklerini değerlendirir.</p>
+
+<h3 id="fiziksel-i̇nceleme">Fiziksel İnceleme</h3>
+
+<p>Yerinde inceleme sırasında genellikle aşağıdaki unsurlar değerlendirilir:</p>
+
+<ul>
+  <li>Arsa büyüklüğü</li>
+  <li>Bina yaşı</li>
+  <li>Yapı kalitesi</li>
+  <li>Kat sayısı</li>
+  <li>Kullanım şekli</li>
+  <li>Cephe özellikleri</li>
+  <li>Manzara durumu</li>
+  <li>Ulaşım imkanları</li>
+  <li>Teknik altyapı durumu</li>
+  <li>Çevresel faktörler</li>
+</ul>
+
+<p>Özellikle konut değerlemelerinde dairenin;</p>
+
+<ul>
+  <li>Bulunduğu kat,</li>
+  <li>Oda sayısı,</li>
+  <li>Brüt ve net alanı,</li>
+  <li>Isınma sistemi,</li>
+  <li>İç mekan kalitesi</li>
+</ul>
+
+<p>gibi özellikleri detaylı olarak incelenir.</p>
+
+<h3 id="hukuki-i̇nceleme">Hukuki İnceleme</h3>
+
+<p>Değerleme yalnızca fiziksel özelliklerden ibaret değildir.</p>
+
+<p>Taşınmazın hukuki durumunun da araştırılması gerekir.</p>
+
+<p>Bu kapsamda:</p>
+
+<ul>
+  <li>Tapu kayıtları</li>
+  <li>İmar durumu</li>
+  <li>Ruhsat belgeleri</li>
+  <li>Yapı kullanım izinleri</li>
+  <li>Şerhler</li>
+  <li>Beyanlar</li>
+  <li>İpotekler</li>
+  <li>Hacizler</li>
+</ul>
+
+<p>gibi bilgiler incelenir.</p>
+
+<p>Örneğin yapı ruhsatı bulunmayan veya imara aykırı inşa edilmiş bir taşınmazın değeri, benzer özellikteki yasal bir yapıya göre farklılık gösterebilir.</p>
+
+<h2 id="3-verilerin-toplanması-ve-sınıflandırılması">3. Verilerin Toplanması ve Sınıflandırılması</h2>
+
+<p>Değerleme sürecinin en kritik aşamalarından biri veri toplama aşamasıdır.</p>
+
+<p>Çünkü değerleme raporunun güvenilirliği doğrudan kullanılan verilerin doğruluğuna bağlıdır.</p>
+
+<h3 id="veri-kaynakları">Veri Kaynakları</h3>
+
+<p>Değerleme uzmanları farklı kaynaklardan veri toplarlar.</p>
+
+<p>Başlıca veri kaynakları şunlardır:</p>
+
+<ul>
+  <li>Gerçekleşmiş satışlar</li>
+  <li>Satılık emsal ilanları</li>
+  <li>Kiralık emsaller</li>
+  <li>Tapu kayıtları</li>
+  <li>Belediye verileri</li>
+  <li>İmar planları</li>
+  <li>Resmi kurum kayıtları</li>
+  <li>Bölgesel piyasa araştırmaları</li>
+  <li>Ekonomik göstergeler</li>
+</ul>
+
+<p>Toplanan verilerin güncel ve doğrulanabilir olması büyük önem taşır.</p>
+
+<h3 id="verilerin-sınıflandırılması">Verilerin Sınıflandırılması</h3>
+
+<p>Toplanan veriler daha sonra belirli kategorilere ayrılır.</p>
+
+<p>Örneğin:</p>
+
+<h4 id="fiziksel-veriler">Fiziksel Veriler</h4>
+
+<ul>
+  <li>Alan</li>
+  <li>Yaş</li>
+  <li>Yapı kalitesi</li>
+  <li>Konum</li>
+</ul>
+
+<h4 id="hukuki-veriler">Hukuki Veriler</h4>
+
+<ul>
+  <li>İmar hakları</li>
+  <li>Mülkiyet yapısı</li>
+  <li>Tapu bilgileri</li>
+</ul>
+
+<h4 id="ekonomik-veriler">Ekonomik Veriler</h4>
+
+<ul>
+  <li>Bölgesel fiyat trendleri</li>
+  <li>Faiz oranları</li>
+  <li>Enflasyon</li>
+  <li>Kira seviyeleri</li>
+</ul>
+
+<p>Bu sınıflandırma sayesinde hangi verinin hangi analizde kullanılacağı netleşir.</p>
+
+<h2 id="4-verilerin-uygun-tekniklerle-i̇şlenmesi">4. Verilerin Uygun Tekniklerle İşlenmesi</h2>
+
+<p>Veriler toplandıktan sonra analiz aşamasına geçilir.</p>
+
+<p>Bu aşamada değerleme uzmanı, taşınmazın özelliklerine en uygun değerleme yöntemlerini seçer.</p>
+
+<h3 id="emsal-karşılaştırma-yaklaşımı">Emsal Karşılaştırma Yaklaşımı</h3>
+
+<p>Konut ve arsa değerlemelerinde en sık kullanılan yöntemdir.</p>
+
+<p>Bu yöntemde;</p>
+
+<ul>
+  <li>Benzer özellikteki taşınmazlar belirlenir.</li>
+  <li>Emsaller ile değerleme konusu taşınmaz arasındaki farklar analiz edilir.</li>
+  <li>Gerekli düzeltmeler yapılır.</li>
+  <li>Değer tahmini oluşturulur.</li>
+</ul>
+
+<p>Piyasa verilerinin yoğun olduğu bölgelerde oldukça güvenilir sonuçlar verir.</p>
+
+<h3 id="gelir-yaklaşımı">Gelir Yaklaşımı</h3>
+
+<p>Özellikle gelir üreten gayrimenkullerde tercih edilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Ofis binaları</li>
+  <li>AVM’ler</li>
+  <li>Oteller</li>
+  <li>Depolar</li>
+  <li>Kiralık ticari gayrimenkuller</li>
+</ul>
+
+<p>Bu yöntemde gelecekte elde edilmesi beklenen gelirler analiz edilerek bugünkü değer hesaplanır.</p>
+
+<h3 id="maliyet-yaklaşımı">Maliyet Yaklaşımı</h3>
+
+<p>Özellikle özel amaçlı yapılarda kullanılır.</p>
+
+<p>Bu yöntemde:</p>
+
+<p><strong>Arsa Değeri + Yapının Yeniden İnşa Maliyeti - Yıpranma Payı</strong></p>
+
+<p>formülü temel alınır.</p>
+
+<p>Özellikle:</p>
+
+<ul>
+  <li>Fabrikalar</li>
+  <li>Okullar</li>
+  <li>Hastaneler</li>
+  <li>Kamu yapıları</li>
+</ul>
+
+<p>için sıkça uygulanır.</p>
+
+<h3 id="i̇leri-analitik-teknikler">İleri Analitik Teknikler</h3>
+
+<p>Gelişen teknoloji ile birlikte bazı çalışmalarda;</p>
+
+<ul>
+  <li>İstatistiksel modelleme,</li>
+  <li>Regresyon analizleri,</li>
+  <li>Coğrafi bilgi sistemleri (CBS),</li>
+  <li>Büyük veri analizleri,</li>
+  <li>Yapay zeka destekli değerleme modelleri</li>
+</ul>
+
+<p>de kullanılmaktadır.</p>
+
+<p>Bu yöntemler özellikle toplu değerleme çalışmalarında önemli avantajlar sağlamaktadır.</p>
+
+<h2 id="5-farklı-yöntemlerle-ulaşılan-değerlerin-uzlaştırılması">5. Farklı Yöntemlerle Ulaşılan Değerlerin Uzlaştırılması</h2>
+
+<p>Değerleme sürecinin son aşaması uzlaştırma aşamasıdır.</p>
+
+<p>Çoğu zaman farklı yöntemler farklı sonuçlar üretir.</p>
+
+<p>Örneğin:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Yöntem</th>
+      <th>Sonuç</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Emsal Karşılaştırma</td>
+      <td>12.000.000 TL</td>
+    </tr>
+    <tr>
+      <td>Gelir Yaklaşımı</td>
+      <td>11.500.000 TL</td>
+    </tr>
+    <tr>
+      <td>Maliyet Yaklaşımı</td>
+      <td>13.000.000 TL</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bu durumda değerleme uzmanı yöntemlerden elde edilen sonuçları doğrudan ortalama almak yerine analiz eder.</p>
+
+<h3 id="uzlaştırmada-dikkate-alınan-unsurlar">Uzlaştırmada Dikkate Alınan Unsurlar</h3>
+
+<ul>
+  <li>Kullanılan verilerin güvenilirliği</li>
+  <li>Veri sayısı</li>
+  <li>Piyasa koşulları</li>
+  <li>Taşınmazın niteliği</li>
+  <li>Yöntemin uygunluğu</li>
+  <li>Varsayımların doğruluğu</li>
+</ul>
+
+<p>Örneğin aktif satış piyasasının bulunduğu bir konut için emsal karşılaştırma yaklaşımına daha fazla ağırlık verilebilir.</p>
+
+<p>Buna karşılık kira gelirinin ön planda olduğu bir ofis binasında gelir yaklaşımı daha güvenilir kabul edilebilir.</p>
+
+<p>Uzlaştırmanın amacı farklı yöntemlerin sonuçlarını değerlendirmek ve en makul nihai değere ulaşmaktır.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Gayrimenkul değerleme, yalnızca piyasa fiyatlarını inceleyerek yapılan basit bir işlem değildir. Uluslararası değerleme standartlarına uygun şekilde yürütülen sistematik bir süreçtir.</p>
+
+<p>Bu süreç;</p>
+
+<ol>
+  <li>Değerleme görevinin tanımlanması,</li>
+  <li>Gayrimenkulün incelenmesi,</li>
+  <li>Verilerin toplanması ve sınıflandırılması,</li>
+  <li>Verilerin uygun yöntemlerle işlenmesi,</li>
+  <li>Farklı yöntemlerden elde edilen sonuçların uzlaştırılması</li>
+</ol>
+
+<p>aşamalarından oluşur.</p>
+
+<p>Bu sistematik yaklaşım sayesinde değerleme raporları; yatırımcılar, bankalar, kamu kurumları ve mülk sahipleri için güvenilir karar alma araçlarına dönüşür. Doğru veri, doğru yöntem ve doğru analiz bir araya geldiğinde, gayrimenkulün gerçek piyasa değerine ulaşmak mümkün olur.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="emlak değerleme" /><summary type="html"><![CDATA[Bir gayrimenkulün değerini etkileyen fiziksel, hukuki, ekonomik ve çevresel birçok faktör bulunmaktadır. Bu nedenle değerleme uzmanları, belirli aşamalardan oluşan bir değerleme sistematiği uygularlar. Bu sistematik sayesinde ulaşılan sonuçların tutarlı, savunulabilir ve güvenilir olması sağlanır.]]></summary></entry><entry><title type="html">Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?</title><link href="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir" rel="alternate" type="text/html" title="Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?" /><published>2026-06-14T00:00:00+03:00</published><updated>2026-06-14T00:00:00+03:00</updated><id>http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir</id><content type="html" xml:base="http://localhost:4000/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir"><![CDATA[<p>Gayrimenkul piyasasında fiyatların yükselip yükselmediğini, hangi bölgelerin daha hızlı değer kazandığını veya bir taşınmazın piyasa değerinin zaman içinde nasıl değiştiğini anlamanın en önemli yollarından biri <strong>Emlak Fiyat Endeksi</strong> veya Türkiye’de yaygın kullanılan adıyla <strong>Konut Fiyat Endeksi (KFE)</strong> verileridir.</p>
 
 <p>Özellikle emlak danışmanları, yatırımcılar, bankalar ve gayrimenkul değerleme uzmanları için bu endeksler piyasayı okumada kritik bir rol oynar. Ancak birçok kişi endeksin neyi ölçtüğünü, nasıl oluşturulduğunu ve değerleme çalışmalarında nasıl kullanıldığını tam olarak bilmez.</p>
 
@@ -1493,137 +1811,4 @@
 
 <p>Göktürk’te kentsel dönüşüm, ev fiyatlarını hem kısa hem de uzun vadede yukarı yönlü etkileyen güçlü bir faktördür. Yenilenen yapı stoğu, artan yaşam kalitesi ve yatırımcı ilgisi sayesinde bölge, İstanbul’un en değerli yerleşim alanlarından biri olma yolunda ilerlemektedir.</p>
 
-<p>Doğru lokasyon ve doğru proje seçimiyle, kentsel dönüşüm süreci hem oturum hem de yatırım amaçlı alımlar için önemli avantajlar sunmaktadır.</p>]]></content><author><name></name></author><category term="göktürk kentsel dönüşüm" /><category term="göktürk ev fiyatları" /><category term="göktürk gayrimenkul yatırımı" /><summary type="html"><![CDATA[Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.]]></summary></entry><entry><title type="html">Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?</title><link href="http://localhost:4000/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir" rel="alternate" type="text/html" title="Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir</id><content type="html" xml:base="http://localhost:4000/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir"><![CDATA[<p>Son yıllarda İstanbul’un kuzey aksında yer alan Göktürk, hem konut hem de ticari gayrimenkul açısından en dikkat çekici bölgelerden biri haline geldi. Doğayla iç içe yapısı, planlı yerleşimi ve devam eden ulaşım yatırımları sayesinde özellikle <strong>arsa yatırımcılarının radarına giren</strong> bir lokasyon konumunda.</p>
-
-<p>Peki <strong>Göktürk’te arsa yatırımı gerçekten ne kadar kazandırır?</strong> Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="göktürkün-konumu-ve-arsa-potansiyeli">Göktürk’ün Konumu ve Arsa Potansiyeli</h2>
-
-<p>Göktürk, İstanbul Avrupa Yakası’nda Eyüpsultan ilçesine bağlı, Belgrad Ormanları’na komşu bir yerleşim bölgesidir. Bölgenin arsa değerini yükselten temel avantajlar şunlardır:</p>
-
-<ul>
-  <li>Şehir merkezine yakın ancak sakin ve doğa odaklı yaşam</li>
-  <li>Düşük katlı, planlı yapılaşma</li>
-  <li>Site yaşamı ve nitelikli konut projeleri</li>
-  <li>Kuzey Marmara aksına ve ana ulaşım hatlarına yakınlık</li>
-</ul>
-
-<p>Bu özellikler, Göktürk’teki arsaların uzun vadede istikrarlı değer artışı göstermesini sağlar.</p>
-
-<h2 id="göktürkte-arsa-fiyatları-ne-seviyede">Göktürk’te Arsa Fiyatları Ne Seviyede?</h2>
-
-<p>Göktürk’te arsa fiyatları; parselin konumu, imar durumu, yol cephesi, altyapı durumu ve çevresindeki yapılaşmaya göre değişkenlik gösterir.</p>
-
-<p>Genel olarak:</p>
-
-<ul>
-  <li>Merkez ve yerleşim alanlarına yakın arsalar daha yüksek metrekare fiyatlarına sahiptir</li>
-  <li>Gelişme bölgeleri ve imar beklentisi olan arsalar yatırımcılar için fırsat sunar</li>
-  <li>Ticari veya karma imarlı arsalar daha yüksek prim potansiyeline sahiptir</li>
-</ul>
-
-<p>Son yıllarda artan talep nedeniyle Göktürk’te arsa fiyatları yukarı yönlü bir trend izlemektedir.</p>
-
-<h2 id="arsa-değerlemesini-etkileyen-temel-faktörler">Arsa Değerlemesini Etkileyen Temel Faktörler</h2>
-
-<h3 id="ulaşım-projeleri">Ulaşım Projeleri</h3>
-
-<p>Metro, yeni bağlantı yolları ve çevre ilçelerle entegrasyon projeleri arsa değerlerini doğrudan etkiler. Ulaşım yatırımları henüz tamamlanmadan önce alınan arsalar, tamamlandıktan sonra ciddi prim yapabilir.</p>
-
-<h3 id="i̇mar-durumu">İmar Durumu</h3>
-
-<p>Arsanın imar statüsü değerleme açısından en kritik unsurdur.</p>
-
-<ul>
-  <li>Konut imarlı arsalar</li>
-  <li>Ticari imarlı arsalar</li>
-  <li>Karma kullanım imarlı arsalar</li>
-</ul>
-
-<p>İmar planı değişikliği potansiyeli olan arsalar, yüksek kazanç fırsatı sunarken aynı zamanda risk de barındırır.</p>
-
-<h3 id="altyapı-ve-çevresel-faktörler">Altyapı ve Çevresel Faktörler</h3>
-
-<p>Elektrik, su, kanalizasyon, doğalgaz ve internet altyapısının hazır olması arsa değerini artırır. Ayrıca orman manzarası, yeşil alanlara yakınlık ve site projelerine komşuluk da fiyatları yukarı çeker.</p>
-
-<h2 id="göktürkte-arsa-değer-artışı-trendleri">Göktürk’te Arsa Değer Artışı Trendleri</h2>
-
-<p>Göktürk’te arsa değerleri son yıllarda düzenli bir artış göstermektedir.</p>
-
-<ul>
-  <li>2019–2021 döneminde bölgeye ilgi artmaya başladı</li>
-  <li>2022–2024 döneminde yatırımcı talebi hızlandı</li>
-  <li>2025 ve sonrası için ulaşım ve ticari kullanım etkisiyle değer artışının devam etmesi bekleniyor</li>
-</ul>
-
-<p>Arsa yatırımı yaparken kısa vadeli dalgalanmalardan çok orta ve uzun vadeli potansiyele odaklanmak önemlidir.</p>
-
-<h2 id="göktürkte-arsa-yatırım-getirisi-nasıl-hesaplanır">Göktürk’te Arsa Yatırım Getirisi Nasıl Hesaplanır?</h2>
-
-<p>Bir arsanın kazancını hesaplarken şu unsurlar dikkate alınmalıdır:</p>
-
-<h3 id="başlangıç-maliyetleri">Başlangıç Maliyetleri</h3>
-<ul>
-  <li>Arsa alım bedeli</li>
-  <li>Tapu harcı ve vergiler</li>
-  <li>Ekspertiz ve danışmanlık giderleri</li>
-</ul>
-
-<h3 id="bekleme-süresi-ve-giderler">Bekleme Süresi ve Giderler</h3>
-<ul>
-  <li>Emlak vergisi</li>
-  <li>İmar bekleme süresi</li>
-  <li>Altyapı ve çevre düzenleme maliyetleri</li>
-</ul>
-
-<h3 id="değer-artışı-ve-satış">Değer Artışı ve Satış</h3>
-<ul>
-  <li>Yıllık ortalama değer artışı</li>
-  <li>Satış kolaylığı ve piyasa talebi</li>
-  <li>Gerekirse proje geliştirme potansiyeli</li>
-</ul>
-
-<h2 id="göktürkte-arsa-yatırımı-i̇çin-stratejiler">Göktürk’te Arsa Yatırımı İçin Stratejiler</h2>
-
-<h3 id="kısa-vadeli-stratejiler">Kısa Vadeli Stratejiler</h3>
-<ul>
-  <li>İmarı netleşmek üzere olan arsalar</li>
-  <li>Ulaşım projelerine yakın parseller</li>
-  <li>Parçalanabilir veya hisseli arsalar</li>
-</ul>
-
-<h3 id="orta-ve-uzun-vadeli-stratejiler">Orta ve Uzun Vadeli Stratejiler</h3>
-<ul>
-  <li>Gelişme bölgelerindeki büyük parseller</li>
-  <li>Ticari ve karma imar potansiyeli olan arsalar</li>
-  <li>Konut projesi geliştirmeye uygun arsalar</li>
-</ul>
-
-<p>Her strateji farklı sermaye ihtiyacı ve risk profili sunar.</p>
-
-<h2 id="dikkat-edilmesi-gereken-riskler">Dikkat Edilmesi Gereken Riskler</h2>
-
-<p>Arsa yatırımı yüksek kazanç potansiyeli sunarken bazı riskleri de beraberinde getirir:</p>
-
-<ul>
-  <li>İmar planlarının gecikmesi veya değişmesi</li>
-  <li>Altyapı yatırımlarının ertelenmesi</li>
-  <li>Likidite sorunu ve satış süresi</li>
-  <li>Yanlış fiyatlama ile alım yapılması</li>
-</ul>
-
-<p>Bu riskleri azaltmak için bölgeyi iyi tanımak ve profesyonel destek almak büyük önem taşır.</p>
-
-<h2 id="sonuç-göktürkte-arsa-yatırımı-mantıklı-mı">Sonuç: Göktürk’te Arsa Yatırımı Mantıklı mı?</h2>
-
-<p>Göktürk, İstanbul’da arsa yatırımı için hem güvenli hem de yüksek potansiyelli bölgelerden biridir. Doğru lokasyon, doğru imar durumu ve sabırlı bir yatırım stratejisi ile Göktürk’te arsa yatırımı uzun vadede ciddi kazanç sağlayabilir.</p>
-
-<p>Ancak her yatırımda olduğu gibi detaylı araştırma, finansal planlama ve profesyonel değerleme desteği bu sürecin vazgeçilmez parçalarıdır.</p>
-
-<h2 id="okuyucuya-tavsiyeler">Okuyucuya Tavsiyeler</h2>
-
-<ul>
-  <li>Güncel arsa fiyatlarını ve tapu kayıtlarını mutlaka kontrol edin</li>
-  <li>Belediye imar planlarını ve çevresel projeleri takip edin</li>
-  <li>Yerel emlak danışmanları ve değerleme uzmanlarıyla çalışın</li>
-</ul>]]></content><author><name></name></author><category term="göktürk arsa değerlemesi" /><category term="göktürk arsa yatırımı" /><category term="göktürk arsa fiyatları" /><summary type="html"><![CDATA[Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz.]]></summary></entry></feed>
+<p>Doğru lokasyon ve doğru proje seçimiyle, kentsel dönüşüm süreci hem oturum hem de yatırım amaçlı alımlar için önemli avantajlar sunmaktadır.</p>]]></content><author><name></name></author><category term="göktürk kentsel dönüşüm" /><category term="göktürk ev fiyatları" /><category term="göktürk gayrimenkul yatırımı" /><summary type="html"><![CDATA[Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.]]></summary></entry></feed>
