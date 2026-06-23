@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="tr">
+
+<head>
+  
+  <meta charset="utf-8">
+  <title>Gayrimenkul Değerlemede Düzeltme Kavramı: Doğru Karşılaştırmanın Görünmeyen Gücü</title>
+  <meta name="description"
+    content="Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/images/favicon.ico">
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="/">Göktürk Değerleme</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto">
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/">
+              Anasayfa
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/#ucretsiz-degerleme">
+              Ücretsiz Değerleme
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/#nasil-calisiyorum">
+              Nasıl Çalışıyorum?
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+  <!-- HERO -->
+<section class="hero d-flex align-items-center">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 py-5">
+        <h1 class="fw-bold">Göktürk’te Evinizin Gerçek Değerini Ücretsiz Öğrenin</h1>
+        <p class="lead mt-3">
+          Satmadan veya kiraya vermeden önce, bölge uzmanından net fiyat analizi.
+        </p>
+        <a href="#degerleme-formu" class="btn btn-primary btn-lg mt-3">Ücretsiz Değerleme Al</a>
+      </div>
+
+      <!-- FORM -->
+      <div class="col-lg-5 offset-lg-1">
+        <div class="card shadow-lg p-4" id="degerleme-formu">
+          <h5 class="mb-3">Hızlı Değerleme Formu</h5>
+          <form action="">
+            <div class="mb-3">
+              <select id="type" class="form-select">
+                <option value="">Gayrimenkul Türü</option>
+                <option value="Konut">Konut</option>
+                <option value="İşyeri">İşyeri</option>
+                <option value="Arsa">Arsa</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <input type="number" id="m2" class="form-control" placeholder="Metrekare">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="room" class="form-control" placeholder="Oda Sayısı (örn: 2+1)">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="address" class="form-control" placeholder="Adres">
+            </div>
+            <div class="mb-3">
+              <input type="tel" id="phone" class="form-control" placeholder="Telefon Numaranız">
+            </div>
+            <button onclick="sendToWhatsApp()" class="btn btn-success w-100">Ücretsiz Değerleme Al</button>
+            <small class="text-muted d-block mt-2">
+              * <a href="/acik-riza-metni#page" class="text-black text-decoration-underline" target="_blank">Açık Rıza Metni</a>’ni okudum ve kabul ediyorum.
+            </small>
+          </form>
+          <script src="/assets/js/whatsapp.js"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="py-5 bg-white border-top" id="page">
+  <div class="container">
+    <h1 class="mb-3">Gayrimenkul Değerlemede Düzeltme Kavramı: Doğru Karşılaştırmanın Görünmeyen Gücü</h1>
+    <p class="text-black-50"><time>23/06/2026</time></p>
+
+    <p>Gayrimenkul değerleme süreci, yalnızca benzer taşınmazların fiyatlarını karşılaştırarak bir sonuca ulaşmaktan ibaret değildir. Her taşınmazın kendine özgü özellikleri bulunur ve bu özellikler piyasa değerini doğrudan etkiler. Bu nedenle değerleme uzmanları, karşılaştırılabilir emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz ederek çeşitli düzeltmeler uygularlar.</p>
+
+<p>Gayrimenkul değerlemede “düzeltme” kavramı, emsal karşılaştırma yaklaşımının en kritik aşamalarından biridir. Doğru yapılan düzeltmeler, piyasa değerinin gerçeğe en yakın şekilde tespit edilmesini sağlarken, hatalı düzeltmeler önemli değer sapmalarına neden olabilir.</p>
+
+<p>Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.</p>
+
+<h2 id="gayrimenkul-değerlemede-düzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</h2>
+
+<p>Düzeltme, değerleme konusu taşınmaz ile emsal olarak kullanılan gayrimenkuller arasındaki farklılıkların giderilmesi amacıyla yapılan fiyat ayarlamasıdır.</p>
+
+<p>Hiçbir emsal taşınmaz, değerlemesi yapılan mülk ile tamamen aynı özelliklere sahip değildir. Bu nedenle emsallerin satış fiyatları üzerinde belirli düzeltmeler yapılarak karşılaştırılabilir hale getirilmesi gerekir.</p>
+
+<p>Amaç, emsal satışların fiyatlarını değerleme konusu taşınmazın özelliklerine uyarlamaktır.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Değerlemesi yapılan daire deniz manzaralıysa,</li>
+  <li>Emsal daire manzarasızsa,</li>
+  <li>Emsal satış fiyatına manzara farkı kadar düzeltme eklenir.</li>
+</ul>
+
+<p>Böylece emsal, değerleme konusu taşınmaza daha yakın özelliklere sahip hale gelir.</p>
+
+<h2 id="düzeltmeler-neden-gereklidir">Düzeltmeler Neden Gereklidir?</h2>
+
+<p>Piyasada satılan iki taşınmazın tamamen aynı olması neredeyse imkânsızdır.</p>
+
+<p>Aşağıdaki unsurlar bile ciddi fiyat farklılıkları yaratabilir:</p>
+
+<ul>
+  <li>Konum</li>
+  <li>Manzara</li>
+  <li>Cephe</li>
+  <li>Kat durumu</li>
+  <li>Kullanım alanı</li>
+  <li>Yaş</li>
+  <li>Yapı kalitesi</li>
+  <li>Ulaşım imkânları</li>
+  <li>Sosyal donatılar</li>
+  <li>Tapu niteliği</li>
+</ul>
+
+<p>Düzeltmeler uygulanmadığında emsal fiyatları yanıltıcı sonuçlar verebilir.</p>
+
+<p>Bu nedenle profesyonel değerleme çalışmalarında emsaller doğrudan kullanılmaz; önce farklılıklar analiz edilir ve gerekli düzeltmeler yapılır.</p>
+
+<h2 id="düzeltme-türleri">Düzeltme Türleri</h2>
+
+<p>Gayrimenkul değerlemede kullanılan düzeltmeler genel olarak iki grupta incelenir:</p>
+
+<h3 id="nicel-kantitatif-düzeltmeler">Nicel (Kantitatif) Düzeltmeler</h3>
+
+<p>Parasal veya yüzdesel olarak ölçülebilen düzeltmelerdir.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Alan farkı</li>
+  <li>Yaş farkı</li>
+  <li>Kat farkı</li>
+  <li>Manzara farkı</li>
+  <li>Oda sayısı farkı</li>
+</ul>
+
+<p>Bu tür düzeltmeler sayısal verilerle ifade edilebilir.</p>
+
+<h3 id="nitel-kalitatif-düzeltmeler">Nitel (Kalitatif) Düzeltmeler</h3>
+
+<p>Tam olarak sayısallaştırılması zor olan özellikler için kullanılır.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Prestij</li>
+  <li>Bölge algısı</li>
+  <li>Mimari kalite</li>
+  <li>Sosyal çevre</li>
+  <li>Yaşam kalitesi</li>
+</ul>
+
+<p>Bu düzeltmeler uzman görüşü ve piyasa analizine dayanır.</p>
+
+<h2 id="başlıca-düzeltme-kalemleri">Başlıca Düzeltme Kalemleri</h2>
+
+<h3 id="zaman-düzeltmesi">Zaman Düzeltmesi</h3>
+
+<p>Piyasa koşulları sürekli değişir.</p>
+
+<p>Bir emsal satış:</p>
+
+<ul>
+  <li>3 ay önce gerçekleşmiş olabilir.</li>
+  <li>6 ay önce gerçekleşmiş olabilir.</li>
+  <li>1 yıl önce gerçekleşmiş olabilir.</li>
+</ul>
+
+<p>Bu süreçte piyasada fiyat artışı veya düşüş yaşanmış olabilir.</p>
+
+<p>Örneğin:</p>
+
+<p>Bir bölgede son 12 ayda konut fiyatları %20 artmışsa, bir yıl önce satılan emsalin fiyatı güncel piyasa koşullarına göre yukarı yönlü düzeltilmelidir.</p>
+
+<h3 id="konum-düzeltmesi">Konum Düzeltmesi</h3>
+
+<p>Konum, gayrimenkul değerini belirleyen en önemli faktördür.</p>
+
+<p>Aynı mahallede bile:</p>
+
+<ul>
+  <li>Cadde üzeri</li>
+  <li>Ara sokak</li>
+  <li>Ana ulaşım aksına yakınlık</li>
+  <li>Metro istasyonuna mesafe</li>
+</ul>
+
+<p>gibi unsurlar fiyatları değiştirebilir.</p>
+
+<p>Daha avantajlı konumdaki emsaller için aşağı yönlü, daha dezavantajlı konumdaki emsaller için ise yukarı yönlü düzeltme yapılır.</p>
+
+<h3 id="büyüklük-düzeltmesi">Büyüklük Düzeltmesi</h3>
+
+<p>Taşınmazın kullanım alanı ile emsalin alanı farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konu taşınmaz 120 m²</li>
+  <li>Emsal taşınmaz 90 m²</li>
+</ul>
+
+<p>olabilir.</p>
+
+<p>Metrekare birim fiyatları büyüklüğe göre değişiklik göstereceğinden gerekli düzeltme uygulanmalıdır.</p>
+
+<h3 id="kat-düzeltmesi">Kat Düzeltmesi</h3>
+
+<p>Özellikle apartman dairelerinde kat faktörü oldukça önemlidir.</p>
+
+<p>Genellikle:</p>
+
+<ul>
+  <li>Ara katlar daha değerli kabul edilir.</li>
+  <li>Zemin katlar daha düşük fiyatlanır.</li>
+  <li>Son katlar bazı bölgelerde değer kaybına neden olabilir.</li>
+</ul>
+
+<p>Ancak bölgesel alışkanlıklar mutlaka dikkate alınmalıdır.</p>
+
+<h3 id="manzara-düzeltmesi">Manzara Düzeltmesi</h3>
+
+<p>Manzara bazı bölgelerde ciddi fiyat avantajı sağlar.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Deniz manzarası</li>
+  <li>Boğaz manzarası</li>
+  <li>Göl manzarası</li>
+  <li>Orman manzarası</li>
+</ul>
+
+<p>gibi özellikler değer üzerinde önemli etkiler yaratabilir.</p>
+
+<p>Bu durumda manzarasız emsaller için yukarı yönlü düzeltme yapılabilir.</p>
+
+<h3 id="yapı-kalitesi-düzeltmesi">Yapı Kalitesi Düzeltmesi</h3>
+
+<p>İki taşınmaz aynı yaşta olsa bile yapı kaliteleri farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Lüks konut projesi</li>
+  <li>Standart apartman</li>
+  <li>Site içi yaşam</li>
+  <li>Akıllı ev sistemleri</li>
+</ul>
+
+<p>fiyat üzerinde doğrudan etkili olabilir.</p>
+
+<h3 id="fiziksel-durum-düzeltmesi">Fiziksel Durum Düzeltmesi</h3>
+
+<p>Taşınmazın bakım durumu da önemlidir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Yeni tadilat görmüş bir daire</li>
+  <li>Uzun süredir bakım yapılmamış bir daire</li>
+</ul>
+
+<p>arasında ciddi fiyat farkı oluşabilir.</p>
+
+<p>Bu farklılıklar düzeltmelerle giderilir.</p>
+
+<h2 id="düzeltmeler-nasıl-uygulanır">Düzeltmeler Nasıl Uygulanır?</h2>
+
+<p>Düzeltmeler genellikle yüzdesel veya tutarsal olarak yapılır.</p>
+
+<h3 id="yüzdesel-düzeltme">Yüzdesel Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Kat avantajı:</p>
+
+<p>%5</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.000.000 × 1,05</p>
+
+<p>= 10.500.000 TL</p>
+
+<h3 id="tutar-bazlı-düzeltme">Tutar Bazlı Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Deniz manzarası farkı:</p>
+
+<p>500.000 TL</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.500.000 TL</p>
+
+<p>Her iki yöntem de kullanılabilir. Hangi yöntemin tercih edileceği piyasa verilerine bağlıdır.</p>
+
+<h2 id="brüt-ve-net-düzeltme-kavramları">Brüt ve Net Düzeltme Kavramları</h2>
+
+<h3 id="brüt-düzeltme">Brüt Düzeltme</h3>
+
+<p>Bir emsale uygulanan tüm düzeltmelerin mutlak değerlerinin toplamıdır.</p>
+
+<p>Örnek:</p>
+
+<ul>
+  <li>Konum düzeltmesi: %10</li>
+  <li>Kat düzeltmesi: %5</li>
+  <li>Manzara düzeltmesi: %8</li>
+</ul>
+
+<p>Brüt düzeltme:</p>
+
+<p>%23</p>
+
+<h3 id="net-düzeltme">Net Düzeltme</h3>
+
+<p>Pozitif ve negatif düzeltmelerin birbirini dengelemesinden sonra ortaya çıkan toplam düzeltmedir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konum: +%10</li>
+  <li>Kat: -%5</li>
+  <li>Manzara: +%8</li>
+</ul>
+
+<p>Net düzeltme:</p>
+
+<p>+%13</p>
+
+<p>Değerleme uzmanları, aşırı yüksek düzeltme gerektiren emsalleri kullanmamaya özen gösterir.</p>
+
+<h2 id="düzeltme-yaparken-dikkat-edilmesi-gerekenler">Düzeltme Yaparken Dikkat Edilmesi Gerekenler</h2>
+
+<h3 id="piyasa-verilerine-dayanmak">Piyasa Verilerine Dayanmak</h3>
+
+<p>Düzeltmeler varsayımlarla değil, mümkün olduğunca gerçek piyasa verileriyle desteklenmelidir.</p>
+
+<h3 id="tutarlılık-sağlamak">Tutarlılık Sağlamak</h3>
+
+<p>Benzer özelliklere sahip emsaller için benzer düzeltmeler uygulanmalıdır.</p>
+
+<h3 id="çifte-düzeltmeden-kaçınmak">Çifte Düzeltmeden Kaçınmak</h3>
+
+<p>Aynı özellik için iki kez düzeltme yapılmamalıdır.</p>
+
+<p>Örneğin:</p>
+
+<p>Konum avantajı nedeniyle zaten düzeltme yapılmışsa, aynı avantajı ulaşım kolaylığı başlığı altında tekrar düzeltmek yanlış sonuç verebilir.</p>
+
+<h3 id="aşırı-düzeltmeli-emsalleri-elemek">Aşırı Düzeltmeli Emsalleri Elemek</h3>
+
+<p>Çok fazla düzeltme gerektiren emsaller güvenilirliğini kaybedebilir.</p>
+
+<p>Bu nedenle değerleme uzmanları mümkün olduğunca benzer emsalleri tercih eder.</p>
+
+<h2 id="düzeltmelerin-değerleme-sonucuna-etkisi">Düzeltmelerin Değerleme Sonucuna Etkisi</h2>
+
+<p>Düzeltmeler, değerleme sonucunu doğrudan etkileyen unsurlardır.</p>
+
+<p>Aynı emsaller kullanılsa bile:</p>
+
+<ul>
+  <li>Farklı düzeltme oranları</li>
+  <li>Farklı piyasa yorumları</li>
+  <li>Farklı veri analizleri</li>
+</ul>
+
+<p>sonucunda farklı değer tahminleri ortaya çıkabilir.</p>
+
+<p>Bu nedenle düzeltme süreci, değerleme uzmanının piyasa bilgisi ve tecrübesiyle yakından ilişkilidir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Gayrimenkul değerlemede düzeltme kavramı, emsal karşılaştırma yaklaşımının temel taşlarından biridir. Çünkü piyasada birebir aynı özelliklere sahip taşınmaz bulmak neredeyse imkânsızdır. Değerleme uzmanları, emsaller ile konu taşınmaz arasındaki farklılıkları analiz ederek gerekli düzeltmeleri uygular ve böylece daha doğru bir piyasa değeri tespit ederler.</p>
+
+<p>Zaman, konum, büyüklük, kat, manzara, yapı kalitesi ve fiziksel durum gibi unsurlar düzeltme sürecinin en önemli bileşenleridir. Profesyonel ve veri temelli bir düzeltme çalışması, değerleme raporunun güvenilirliğini artırırken yatırımcılar, bankalar, kamu kurumları ve gayrimenkul profesyonelleri için daha sağlıklı kararlar alınmasını sağlar.</p>
+
+
+    
+      <p>
+        <b>Etiketler</b>:
+        
+          <a href="/etiketler#gayrimenkul değerleme">gayrimenkul değerleme</a>
+        
+      </p>
+    
+
+    <div class="row mt-5">
+      <div class="col-md-6">
+        
+          <a href="/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari" class="text-black-50 text-decoration-none">
+            <b class="text-black">&laquo; Önceki</b><br>
+            Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları
+          </a>
+        
+      </div>
+      
+      <div class="col-md-6 text-end">
+        
+          <a href="/gayrimenkul-degerlemede-karsilastirma-birimi-nedir" class="text-black-50 text-decoration-none">
+            <b class="text-black">Sonraki &raquo;</b><br>
+            Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?
+          </a>
+        
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+  <!-- FOOTER -->
+<footer class="bg-dark text-white py-4">
+  <div class="container text-center">
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="/kvkk#page">
+          KVKK
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="/gizlilik-politikasi#page">
+          Gizlilik Politikası
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="mailto:melih.kocaturk@icloud.com">
+          İletişim
+        </a>
+      </li>
+    </ul>
+    <div class="py-2">WhatsApp: <a href="tel:+905465665509" class="link-light">+90 546 566 55 09</a></div>
+    <hr class="my-4">
+    <div class="d-flex flex-column flex-sm-row justify-content-between">
+      <ul class="list-unstyled d-flex justify-content-center">
+        <li class="ms-2"><a class="link-light" href="/feed.xml" aria-label="rss"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill"
+              viewBox="0 0 16 16">
+              <path
+                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.linkedin.com/in/melihkocaturk/" aria-label="linkedin"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.instagram.com/melih_kocaturk_" aria-label="instagram"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.youtube.com/@melihkocaturk" aria-label="youtube"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
+            </svg></a></li>
+      </ul>
+      <div><small>© 2026 <a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>. Tüm hakları saklıdır.</small></div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

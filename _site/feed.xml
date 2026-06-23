@@ -1,4 +1,1144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-06-16T12:25:42+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?</title><link href="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi" rel="alternate" type="text/html" title="Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?" /><published>2026-06-16T00:00:00+03:00</published><updated>2026-06-16T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-degerleme-sistematigi</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi"><![CDATA[<p>Gayrimenkul değerleme, bir taşınmazın belirli bir tarihteki değerinin bilimsel yöntemler kullanılarak tespit edilmesi sürecidir. Ancak değerleme sadece bir rakam belirlemekten ibaret değildir. Doğru sonuca ulaşabilmek için uluslararası standartlara uygun, sistematik ve disiplinli bir çalışma yürütülmesi gerekir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-06-23T16:05:12+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Gayrimenkul Değerlemede Düzeltme Kavramı: Doğru Karşılaştırmanın Görünmeyen Gücü</title><link href="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Düzeltme Kavramı: Doğru Karşılaştırmanın Görünmeyen Gücü" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir"><![CDATA[<p>Gayrimenkul değerleme süreci, yalnızca benzer taşınmazların fiyatlarını karşılaştırarak bir sonuca ulaşmaktan ibaret değildir. Her taşınmazın kendine özgü özellikleri bulunur ve bu özellikler piyasa değerini doğrudan etkiler. Bu nedenle değerleme uzmanları, karşılaştırılabilir emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz ederek çeşitli düzeltmeler uygularlar.</p>
+
+<p>Gayrimenkul değerlemede “düzeltme” kavramı, emsal karşılaştırma yaklaşımının en kritik aşamalarından biridir. Doğru yapılan düzeltmeler, piyasa değerinin gerçeğe en yakın şekilde tespit edilmesini sağlarken, hatalı düzeltmeler önemli değer sapmalarına neden olabilir.</p>
+
+<p>Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.</p>
+
+<h2 id="gayrimenkul-değerlemede-düzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</h2>
+
+<p>Düzeltme, değerleme konusu taşınmaz ile emsal olarak kullanılan gayrimenkuller arasındaki farklılıkların giderilmesi amacıyla yapılan fiyat ayarlamasıdır.</p>
+
+<p>Hiçbir emsal taşınmaz, değerlemesi yapılan mülk ile tamamen aynı özelliklere sahip değildir. Bu nedenle emsallerin satış fiyatları üzerinde belirli düzeltmeler yapılarak karşılaştırılabilir hale getirilmesi gerekir.</p>
+
+<p>Amaç, emsal satışların fiyatlarını değerleme konusu taşınmazın özelliklerine uyarlamaktır.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Değerlemesi yapılan daire deniz manzaralıysa,</li>
+  <li>Emsal daire manzarasızsa,</li>
+  <li>Emsal satış fiyatına manzara farkı kadar düzeltme eklenir.</li>
+</ul>
+
+<p>Böylece emsal, değerleme konusu taşınmaza daha yakın özelliklere sahip hale gelir.</p>
+
+<h2 id="düzeltmeler-neden-gereklidir">Düzeltmeler Neden Gereklidir?</h2>
+
+<p>Piyasada satılan iki taşınmazın tamamen aynı olması neredeyse imkânsızdır.</p>
+
+<p>Aşağıdaki unsurlar bile ciddi fiyat farklılıkları yaratabilir:</p>
+
+<ul>
+  <li>Konum</li>
+  <li>Manzara</li>
+  <li>Cephe</li>
+  <li>Kat durumu</li>
+  <li>Kullanım alanı</li>
+  <li>Yaş</li>
+  <li>Yapı kalitesi</li>
+  <li>Ulaşım imkânları</li>
+  <li>Sosyal donatılar</li>
+  <li>Tapu niteliği</li>
+</ul>
+
+<p>Düzeltmeler uygulanmadığında emsal fiyatları yanıltıcı sonuçlar verebilir.</p>
+
+<p>Bu nedenle profesyonel değerleme çalışmalarında emsaller doğrudan kullanılmaz; önce farklılıklar analiz edilir ve gerekli düzeltmeler yapılır.</p>
+
+<h2 id="düzeltme-türleri">Düzeltme Türleri</h2>
+
+<p>Gayrimenkul değerlemede kullanılan düzeltmeler genel olarak iki grupta incelenir:</p>
+
+<h3 id="nicel-kantitatif-düzeltmeler">Nicel (Kantitatif) Düzeltmeler</h3>
+
+<p>Parasal veya yüzdesel olarak ölçülebilen düzeltmelerdir.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Alan farkı</li>
+  <li>Yaş farkı</li>
+  <li>Kat farkı</li>
+  <li>Manzara farkı</li>
+  <li>Oda sayısı farkı</li>
+</ul>
+
+<p>Bu tür düzeltmeler sayısal verilerle ifade edilebilir.</p>
+
+<h3 id="nitel-kalitatif-düzeltmeler">Nitel (Kalitatif) Düzeltmeler</h3>
+
+<p>Tam olarak sayısallaştırılması zor olan özellikler için kullanılır.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Prestij</li>
+  <li>Bölge algısı</li>
+  <li>Mimari kalite</li>
+  <li>Sosyal çevre</li>
+  <li>Yaşam kalitesi</li>
+</ul>
+
+<p>Bu düzeltmeler uzman görüşü ve piyasa analizine dayanır.</p>
+
+<h2 id="başlıca-düzeltme-kalemleri">Başlıca Düzeltme Kalemleri</h2>
+
+<h3 id="zaman-düzeltmesi">Zaman Düzeltmesi</h3>
+
+<p>Piyasa koşulları sürekli değişir.</p>
+
+<p>Bir emsal satış:</p>
+
+<ul>
+  <li>3 ay önce gerçekleşmiş olabilir.</li>
+  <li>6 ay önce gerçekleşmiş olabilir.</li>
+  <li>1 yıl önce gerçekleşmiş olabilir.</li>
+</ul>
+
+<p>Bu süreçte piyasada fiyat artışı veya düşüş yaşanmış olabilir.</p>
+
+<p>Örneğin:</p>
+
+<p>Bir bölgede son 12 ayda konut fiyatları %20 artmışsa, bir yıl önce satılan emsalin fiyatı güncel piyasa koşullarına göre yukarı yönlü düzeltilmelidir.</p>
+
+<h3 id="konum-düzeltmesi">Konum Düzeltmesi</h3>
+
+<p>Konum, gayrimenkul değerini belirleyen en önemli faktördür.</p>
+
+<p>Aynı mahallede bile:</p>
+
+<ul>
+  <li>Cadde üzeri</li>
+  <li>Ara sokak</li>
+  <li>Ana ulaşım aksına yakınlık</li>
+  <li>Metro istasyonuna mesafe</li>
+</ul>
+
+<p>gibi unsurlar fiyatları değiştirebilir.</p>
+
+<p>Daha avantajlı konumdaki emsaller için aşağı yönlü, daha dezavantajlı konumdaki emsaller için ise yukarı yönlü düzeltme yapılır.</p>
+
+<h3 id="büyüklük-düzeltmesi">Büyüklük Düzeltmesi</h3>
+
+<p>Taşınmazın kullanım alanı ile emsalin alanı farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konu taşınmaz 120 m²</li>
+  <li>Emsal taşınmaz 90 m²</li>
+</ul>
+
+<p>olabilir.</p>
+
+<p>Metrekare birim fiyatları büyüklüğe göre değişiklik göstereceğinden gerekli düzeltme uygulanmalıdır.</p>
+
+<h3 id="kat-düzeltmesi">Kat Düzeltmesi</h3>
+
+<p>Özellikle apartman dairelerinde kat faktörü oldukça önemlidir.</p>
+
+<p>Genellikle:</p>
+
+<ul>
+  <li>Ara katlar daha değerli kabul edilir.</li>
+  <li>Zemin katlar daha düşük fiyatlanır.</li>
+  <li>Son katlar bazı bölgelerde değer kaybına neden olabilir.</li>
+</ul>
+
+<p>Ancak bölgesel alışkanlıklar mutlaka dikkate alınmalıdır.</p>
+
+<h3 id="manzara-düzeltmesi">Manzara Düzeltmesi</h3>
+
+<p>Manzara bazı bölgelerde ciddi fiyat avantajı sağlar.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Deniz manzarası</li>
+  <li>Boğaz manzarası</li>
+  <li>Göl manzarası</li>
+  <li>Orman manzarası</li>
+</ul>
+
+<p>gibi özellikler değer üzerinde önemli etkiler yaratabilir.</p>
+
+<p>Bu durumda manzarasız emsaller için yukarı yönlü düzeltme yapılabilir.</p>
+
+<h3 id="yapı-kalitesi-düzeltmesi">Yapı Kalitesi Düzeltmesi</h3>
+
+<p>İki taşınmaz aynı yaşta olsa bile yapı kaliteleri farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Lüks konut projesi</li>
+  <li>Standart apartman</li>
+  <li>Site içi yaşam</li>
+  <li>Akıllı ev sistemleri</li>
+</ul>
+
+<p>fiyat üzerinde doğrudan etkili olabilir.</p>
+
+<h3 id="fiziksel-durum-düzeltmesi">Fiziksel Durum Düzeltmesi</h3>
+
+<p>Taşınmazın bakım durumu da önemlidir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Yeni tadilat görmüş bir daire</li>
+  <li>Uzun süredir bakım yapılmamış bir daire</li>
+</ul>
+
+<p>arasında ciddi fiyat farkı oluşabilir.</p>
+
+<p>Bu farklılıklar düzeltmelerle giderilir.</p>
+
+<h2 id="düzeltmeler-nasıl-uygulanır">Düzeltmeler Nasıl Uygulanır?</h2>
+
+<p>Düzeltmeler genellikle yüzdesel veya tutarsal olarak yapılır.</p>
+
+<h3 id="yüzdesel-düzeltme">Yüzdesel Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Kat avantajı:</p>
+
+<p>%5</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.000.000 × 1,05</p>
+
+<p>= 10.500.000 TL</p>
+
+<h3 id="tutar-bazlı-düzeltme">Tutar Bazlı Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Deniz manzarası farkı:</p>
+
+<p>500.000 TL</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.500.000 TL</p>
+
+<p>Her iki yöntem de kullanılabilir. Hangi yöntemin tercih edileceği piyasa verilerine bağlıdır.</p>
+
+<h2 id="brüt-ve-net-düzeltme-kavramları">Brüt ve Net Düzeltme Kavramları</h2>
+
+<h3 id="brüt-düzeltme">Brüt Düzeltme</h3>
+
+<p>Bir emsale uygulanan tüm düzeltmelerin mutlak değerlerinin toplamıdır.</p>
+
+<p>Örnek:</p>
+
+<ul>
+  <li>Konum düzeltmesi: %10</li>
+  <li>Kat düzeltmesi: %5</li>
+  <li>Manzara düzeltmesi: %8</li>
+</ul>
+
+<p>Brüt düzeltme:</p>
+
+<p>%23</p>
+
+<h3 id="net-düzeltme">Net Düzeltme</h3>
+
+<p>Pozitif ve negatif düzeltmelerin birbirini dengelemesinden sonra ortaya çıkan toplam düzeltmedir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konum: +%10</li>
+  <li>Kat: -%5</li>
+  <li>Manzara: +%8</li>
+</ul>
+
+<p>Net düzeltme:</p>
+
+<p>+%13</p>
+
+<p>Değerleme uzmanları, aşırı yüksek düzeltme gerektiren emsalleri kullanmamaya özen gösterir.</p>
+
+<h2 id="düzeltme-yaparken-dikkat-edilmesi-gerekenler">Düzeltme Yaparken Dikkat Edilmesi Gerekenler</h2>
+
+<h3 id="piyasa-verilerine-dayanmak">Piyasa Verilerine Dayanmak</h3>
+
+<p>Düzeltmeler varsayımlarla değil, mümkün olduğunca gerçek piyasa verileriyle desteklenmelidir.</p>
+
+<h3 id="tutarlılık-sağlamak">Tutarlılık Sağlamak</h3>
+
+<p>Benzer özelliklere sahip emsaller için benzer düzeltmeler uygulanmalıdır.</p>
+
+<h3 id="çifte-düzeltmeden-kaçınmak">Çifte Düzeltmeden Kaçınmak</h3>
+
+<p>Aynı özellik için iki kez düzeltme yapılmamalıdır.</p>
+
+<p>Örneğin:</p>
+
+<p>Konum avantajı nedeniyle zaten düzeltme yapılmışsa, aynı avantajı ulaşım kolaylığı başlığı altında tekrar düzeltmek yanlış sonuç verebilir.</p>
+
+<h3 id="aşırı-düzeltmeli-emsalleri-elemek">Aşırı Düzeltmeli Emsalleri Elemek</h3>
+
+<p>Çok fazla düzeltme gerektiren emsaller güvenilirliğini kaybedebilir.</p>
+
+<p>Bu nedenle değerleme uzmanları mümkün olduğunca benzer emsalleri tercih eder.</p>
+
+<h2 id="düzeltmelerin-değerleme-sonucuna-etkisi">Düzeltmelerin Değerleme Sonucuna Etkisi</h2>
+
+<p>Düzeltmeler, değerleme sonucunu doğrudan etkileyen unsurlardır.</p>
+
+<p>Aynı emsaller kullanılsa bile:</p>
+
+<ul>
+  <li>Farklı düzeltme oranları</li>
+  <li>Farklı piyasa yorumları</li>
+  <li>Farklı veri analizleri</li>
+</ul>
+
+<p>sonucunda farklı değer tahminleri ortaya çıkabilir.</p>
+
+<p>Bu nedenle düzeltme süreci, değerleme uzmanının piyasa bilgisi ve tecrübesiyle yakından ilişkilidir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Gayrimenkul değerlemede düzeltme kavramı, emsal karşılaştırma yaklaşımının temel taşlarından biridir. Çünkü piyasada birebir aynı özelliklere sahip taşınmaz bulmak neredeyse imkânsızdır. Değerleme uzmanları, emsaller ile konu taşınmaz arasındaki farklılıkları analiz ederek gerekli düzeltmeleri uygular ve böylece daha doğru bir piyasa değeri tespit ederler.</p>
+
+<p>Zaman, konum, büyüklük, kat, manzara, yapı kalitesi ve fiziksel durum gibi unsurlar düzeltme sürecinin en önemli bileşenleridir. Profesyonel ve veri temelli bir düzeltme çalışması, değerleme raporunun güvenilirliğini artırırken yatırımcılar, bankalar, kamu kurumları ve gayrimenkul profesyonelleri için daha sağlıklı kararlar alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.]]></summary></entry><entry><title type="html">Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları</title><link href="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari" rel="alternate" type="text/html" title="Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari"><![CDATA[<p>Gayrimenkul sektöründe en sık karıştırılan kavramların başında <strong>değer</strong>, <strong>fiyat</strong> ve <strong>maliyet</strong> gelir. Pek çok kişi bir taşınmazın satış fiyatını doğrudan değeri olarak kabul ederken, bazı durumlarda maliyet ile değer arasında da yanlış bağlantılar kurulabilmektedir. Oysa emlak değerleme çalışmalarında bu üç kavram birbirinden farklı anlamlar taşır ve farklı yöntemlerle belirlenir.</p>
+
+<p>Özellikle yatırım kararları, kredi teminat işlemleri, kamulaştırma süreçleri, vergi uygulamaları ve gayrimenkul geliştirme projelerinde bu kavramların doğru anlaşılması büyük önem taşımaktadır.</p>
+
+<p>Bu yazıda emlak değerleme açısından değer, fiyat ve maliyet kavramlarını detaylı olarak inceleyecek, aralarındaki farkları ve uygulamadaki önemlerini ele alacağız.</p>
+
+<h2 id="değer-nedir">Değer Nedir?</h2>
+
+<p>Değer, bir gayrimenkulün belirli koşullar altında sahip olduğu ekonomik faydanın parasal karşılığıdır.</p>
+
+<p>Uluslararası Değerleme Standartları’na göre değer, belirli varsayımlar altında bir varlığın ekonomik yararını ifade eder. Değerleme uzmanları tarafından yapılan çalışmaların temel amacı da bu ekonomik değerin tespit edilmesidir.</p>
+
+<p>Bir gayrimenkulün değeri;</p>
+
+<ul>
+  <li>Konumuna,</li>
+  <li>İmar durumuna,</li>
+  <li>Fiziksel özelliklerine,</li>
+  <li>Kullanım amacına,</li>
+  <li>Bölgesel arz-talep koşullarına,</li>
+  <li>Ekonomik ve sosyal faktörlere,</li>
+</ul>
+
+<p>bağlı olarak değişiklik gösterebilir.</p>
+
+<h3 id="pazar-değeri-kavramı">Pazar Değeri Kavramı</h3>
+
+<p>Emlak değerleme çalışmalarında en yaygın kullanılan değer türü <strong>Pazar Değeri</strong>dir.</p>
+
+<p>Pazar değeri;</p>
+
+<blockquote>
+  <p>İstekli bir alıcı ile istekli bir satıcı arasında, herhangi bir baskı altında kalmaksızın, yeterli pazarlama süreci sonunda gerçekleşmesi beklenen satış bedelidir.</p>
+</blockquote>
+
+<p>Burada dikkat edilmesi gereken nokta, pazar değerinin gerçekleşmiş bir satış fiyatı değil, değerleme tarihi itibarıyla oluşması beklenen makul değer olmasıdır.</p>
+
+<h3 id="değer-dinamik-bir-kavramdır">Değer Dinamik Bir Kavramdır</h3>
+
+<p>Değer sabit değildir.</p>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>Yeni bir metro hattının açılması,</li>
+  <li>Bölgenin gelişmesi,</li>
+  <li>İmar planı değişiklikleri,</li>
+  <li>Ekonomik krizler,</li>
+  <li>Faiz oranlarındaki değişimler,</li>
+</ul>
+
+<p>aynı gayrimenkulün değerini artırabilir veya azaltabilir.</p>
+
+<p>Bu nedenle değerleme raporları her zaman belirli bir tarih için hazırlanır.</p>
+
+<h2 id="fiyat-nedir">Fiyat Nedir?</h2>
+
+<p>Fiyat, bir mal veya hizmet için ödenen ya da talep edilen para miktarıdır.</p>
+
+<p>Gayrimenkul piyasasında fiyat;</p>
+
+<ul>
+  <li>İlan fiyatı,</li>
+  <li>Pazarlık fiyatı,</li>
+  <li>Satış fiyatı,</li>
+</ul>
+
+<p>şeklinde farklı aşamalarda ortaya çıkabilir.</p>
+
+<h3 id="i̇lan-fiyatı-ile-satış-fiyatı-aynı-şey-değildir">İlan Fiyatı ile Satış Fiyatı Aynı Şey Değildir</h3>
+
+<p>Bir konutun internet ilanında 15 milyon TL bedelle satışa sunulması, o konutun değerinin veya satış fiyatının 15 milyon TL olduğu anlamına gelmez.</p>
+
+<p>Gerçek satış fiyatı;</p>
+
+<ul>
+  <li>Pazarlık süreci,</li>
+  <li>Finansman koşulları,</li>
+  <li>Tarafların motivasyonu,</li>
+  <li>Piyasa koşulları,</li>
+</ul>
+
+<p>gibi unsurlardan etkilenir.</p>
+
+<p>Bu nedenle profesyonel değerleme çalışmalarında yalnızca ilan fiyatlarına dayanılarak değer belirlenmez.</p>
+
+<h3 id="fiyat-her-zaman-değeri-yansıtmayabilir">Fiyat Her Zaman Değeri Yansıtmayabilir</h3>
+
+<p>Bazı durumlarda satış fiyatı ile gerçek değer arasında ciddi farklılıklar oluşabilir.</p>
+
+<p>Örneğin;</p>
+
+<h4 id="değerin-altında-satış">Değerin Altında Satış</h4>
+
+<ul>
+  <li>Acil nakit ihtiyacı</li>
+  <li>İcra satışları</li>
+  <li>Miras paylaşımı</li>
+  <li>Boşanma süreçleri</li>
+</ul>
+
+<p>gibi nedenlerle gayrimenkul piyasa değerinin altında satılabilir.</p>
+
+<h4 id="değerin-üzerinde-satış">Değerin Üzerinde Satış</h4>
+
+<ul>
+  <li>Spekülatif beklentiler</li>
+  <li>Bilgi eksikliği</li>
+  <li>Duygusal satın alma kararları</li>
+  <li>Rekabetçi teklif süreçleri</li>
+</ul>
+
+<p>gibi nedenlerle taşınmaz piyasa değerinin üzerinde satılabilir.</p>
+
+<p>Bu nedenle değerleme uzmanları tek bir satış işlemini değil, çok sayıda emsal veriyi analiz eder.</p>
+
+<h2 id="maliyet-nedir">Maliyet Nedir?</h2>
+
+<p>Maliyet, bir gayrimenkulün üretilmesi veya yeniden inşa edilmesi için gerekli harcamaların toplamını ifade eder.</p>
+
+<p>Bir taşınmazın maliyeti hesaplanırken;</p>
+
+<ul>
+  <li>Arsa maliyeti,</li>
+  <li>İnşaat maliyeti,</li>
+  <li>Proje giderleri,</li>
+  <li>Ruhsat giderleri,</li>
+  <li>Finansman maliyetleri,</li>
+  <li>Pazarlama giderleri,</li>
+  <li>Müteahhit kârı,</li>
+</ul>
+
+<p>gibi unsurlar dikkate alınabilir.</p>
+
+<h3 id="i̇nşaat-maliyeti-ve-gayrimenkul-değeri-aynı-şey-değildir">İnşaat Maliyeti ve Gayrimenkul Değeri Aynı Şey Değildir</h3>
+
+<p>Sık yapılan hatalardan biri, bir yapının maliyetinin doğrudan değerini belirlediğinin düşünülmesidir.</p>
+
+<p>Örneğin;</p>
+
+<p>Bir villa için 20 milyon TL harcanmış olabilir. Ancak:</p>
+
+<ul>
+  <li>Bölgedeki talebin düşük olması,</li>
+  <li>Lokasyonun zayıf olması,</li>
+  <li>Yapının fonksiyonel eksiklikleri,</li>
+</ul>
+
+<p>nedeniyle piyasa değeri 20 milyon TL’nin altında oluşabilir.</p>
+
+<p>Aynı şekilde 10 milyon TL maliyetle inşa edilen bir yapı, çok değerli bir bölgede bulunuyorsa 25 milyon TL piyasa değerine sahip olabilir.</p>
+
+<p>Dolayısıyla maliyet ve değer her zaman aynı değildir.</p>
+
+<h2 id="değer-fiyat-ve-maliyet-arasındaki-temel-farklar">Değer, Fiyat ve Maliyet Arasındaki Temel Farklar</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Kavram</th>
+      <th>Tanımı</th>
+      <th>Nasıl Oluşur?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Değer</td>
+      <td>Gayrimenkulün ekonomik faydasının parasal karşılığı</td>
+      <td>Değerleme analizi ile belirlenir</td>
+    </tr>
+    <tr>
+      <td>Fiyat</td>
+      <td>Satış sırasında ödenen para miktarı</td>
+      <td>Alıcı ve satıcının anlaşmasıyla oluşur</td>
+    </tr>
+    <tr>
+      <td>Maliyet</td>
+      <td>Gayrimenkulü üretmek için yapılan harcamalar</td>
+      <td>İnşa ve geliştirme sürecinde oluşur</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bu üç kavram zaman zaman birbirine yakın olabilir ancak çoğu durumda farklı sonuçlar ortaya çıkar.</p>
+
+<h2 id="emlak-değerlemede-bu-kavramlar-nasıl-kullanılır">Emlak Değerlemede Bu Kavramlar Nasıl Kullanılır?</h2>
+
+<h3 id="emsal-karşılaştırma-yaklaşımında">Emsal Karşılaştırma Yaklaşımında</h3>
+
+<p>Emsal satış fiyatları incelenir.</p>
+
+<p>Ancak amaç fiyatları raporlamak değil, bu fiyatlardan hareketle değeri tahmin etmektir.</p>
+
+<p>Bu nedenle fiyat verileri analiz edilir ve gerekli düzeltmeler yapılır.</p>
+
+<h3 id="maliyet-yaklaşımında">Maliyet Yaklaşımında</h3>
+
+<p>Özellikle;</p>
+
+<ul>
+  <li>Yeni yapılar,</li>
+  <li>Özel amaçlı tesisler,</li>
+  <li>Endüstriyel yapılar,</li>
+</ul>
+
+<p>için maliyet yaklaşımı kullanılabilir.</p>
+
+<p>Bu yöntemde yapı maliyeti hesaplanır ve amortisman düşülerek değer tahmini yapılır.</p>
+
+<h3 id="gelir-yaklaşımında">Gelir Yaklaşımında</h3>
+
+<p>Gelir getiren gayrimenkullerde;</p>
+
+<ul>
+  <li>Kira gelirleri,</li>
+  <li>İşletme gelirleri,</li>
+  <li>Kapitalizasyon oranları,</li>
+</ul>
+
+<p>kullanılarak değer hesaplanır.</p>
+
+<p>Bu yaklaşımda fiyat veya maliyet değil, ekonomik getiri ön plandadır.</p>
+
+<h2 id="uygulamadan-bir-örnek">Uygulamadan Bir Örnek</h2>
+
+<p>Bir ofis binasını ele alalım.</p>
+
+<h3 id="maliyet">Maliyet</h3>
+
+<ul>
+  <li>Arsa maliyeti: 30 milyon TL</li>
+  <li>İnşaat maliyeti: 70 milyon TL</li>
+</ul>
+
+<p>Toplam maliyet: 100 milyon TL</p>
+
+<h3 id="satış-fiyatı">Satış Fiyatı</h3>
+
+<p>Mülk sahibi binayı 120 milyon TL bedelle satışa çıkarmıştır.</p>
+
+<h3 id="değer">Değer</h3>
+
+<p>Yapılan emsal ve gelir analizleri sonucunda uzman tarafından belirlenen pazar değeri 110 milyon TL olabilir.</p>
+
+<p>Bu durumda:</p>
+
+<ul>
+  <li>Maliyet: 100 milyon TL</li>
+  <li>Değer: 110 milyon TL</li>
+  <li>Fiyat: 120 milyon TL</li>
+</ul>
+
+<p>olarak ortaya çıkabilir.</p>
+
+<p>Bu örnek üç kavramın neden birbirinden farklı olduğunu açık şekilde göstermektedir.</p>
+
+<h2 id="değerleme-uzmanları-neden-bu-ayrımı-yapmak-zorundadır">Değerleme Uzmanları Neden Bu Ayrımı Yapmak Zorundadır?</h2>
+
+<p>Profesyonel değerleme raporlarının amacı satış fiyatını tahmin etmekten çok, gayrimenkulün objektif ve savunulabilir değerini ortaya koymaktır.</p>
+
+<p>Bu nedenle değerleme uzmanları;</p>
+
+<ul>
+  <li>Gerçekleşen fiyatları analiz eder,</li>
+  <li>Maliyetleri inceler,</li>
+  <li>Piyasa verilerini değerlendirir,</li>
+  <li>Gelir potansiyelini hesaplar,</li>
+</ul>
+
+<p>ve tüm bu verileri kullanarak nihai değere ulaşır.</p>
+
+<p>Bu süreçte fiyat ve maliyet verileri yalnızca analiz araçlarıdır; nihai hedef değerin belirlenmesidir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Emlak değerleme çalışmalarının sağlıklı yürütülebilmesi için değer, fiyat ve maliyet kavramlarının birbirinden net şekilde ayrılması gerekir.</p>
+
+<p><strong>Değer</strong>, bir gayrimenkulün ekonomik gerçekliğini ifade eder.</p>
+
+<p><strong>Fiyat</strong>, alıcı ve satıcının üzerinde anlaştığı para miktarıdır.</p>
+
+<p><strong>Maliyet</strong> ise taşınmazın üretilmesi veya yeniden inşa edilmesi için katlanılan harcamaları gösterir.</p>
+
+<p>Her ne kadar bu üç kavram zaman zaman birbirine yakın sonuçlar verebilse de, profesyonel değerleme uygulamalarında aynı anlamı taşımazlar. Doğru yatırım kararları verebilmek, kredi risklerini yönetebilmek ve sağlıklı piyasa analizleri yapabilmek için bu ayrımın iyi anlaşılması gerekmektedir.</p>
+
+<p>Gayrimenkul değerlemesinin temel amacı da tam olarak budur: fiyatların ve maliyetlerin ötesine geçerek taşınmazın gerçek ekonomik değerini ortaya koymak.</p>]]></content><author><name></name></author><category term="emlak değerleme" /><summary type="html"><![CDATA[Bu yazıda emlak değerleme açısından değer, fiyat ve maliyet kavramlarını detaylı olarak inceleyecek, aralarındaki farkları ve uygulamadaki önemlerini ele alacağız.]]></summary></entry><entry><title type="html">Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?</title><link href="http://localhost:4000/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir" rel="alternate" type="text/html" title="Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir</id><content type="html" xml:base="http://localhost:4000/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir"><![CDATA[<p>Gayrimenkul sektöründe doğru karar verebilmenin temel şartlarından biri, taşınmazın gerçek değerinin doğru şekilde belirlenmesidir. Bir konutun, arsanın, iş yerinin veya sanayi tesisinin piyasa değerini belirlemek için kullanılan bilimsel yöntemlerin bütününe <strong>emlak değerleme yöntemleri</strong> adı verilir.</p>
+
+<p>Gayrimenkul değerleme çalışmaları yalnızca satış işlemlerinde değil; kredi teminatı, yatırım analizi, kamulaştırma, sigortalama, vergi uygulamaları, ortaklık işlemleri ve hukuki süreçlerde de kritik öneme sahiptir.</p>
+
+<p>Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz.</p>
+
+<h2 id="emlak-değerleme-yöntemleri-neden-önemlidir">Emlak Değerleme Yöntemleri Neden Önemlidir?</h2>
+
+<p>Gayrimenkul piyasasında aynı bölgede bulunan iki benzer taşınmaz arasında dahi önemli değer farklılıkları oluşabilir. Bu nedenle değerleme uzmanları, taşınmazın özelliklerine ve kullanım amacına göre farklı yöntemlerden yararlanır.</p>
+
+<p>Doğru yöntem seçimi;</p>
+
+<ul>
+  <li>Gerçek piyasa değerine ulaşılmasını sağlar.</li>
+  <li>Yatırım risklerini azaltır.</li>
+  <li>Finans kuruluşlarının doğru kredi kararı vermesine yardımcı olur.</li>
+  <li>Hukuki uyuşmazlıkların önüne geçer.</li>
+  <li>Vergi ve muhasebe işlemlerinde güvenilir sonuçlar üretir.</li>
+</ul>
+
+<p>Uluslararası değerleme standartlarında genel olarak üç temel yaklaşım kullanılmaktadır:</p>
+
+<ol>
+  <li>Emsal Karşılaştırma Yaklaşımı</li>
+  <li>Gelir Yaklaşımı</li>
+  <li>Maliyet Yaklaşımı</li>
+</ol>
+
+<p>Bunların yanında bazı özel durumlarda kullanılan yardımcı yöntemler de bulunmaktadır.</p>
+
+<h1 id="1-emsal-karşılaştırma-yaklaşımı-pazar-yaklaşımı">1. Emsal Karşılaştırma Yaklaşımı (Pazar Yaklaşımı)</h1>
+
+<p>Emlak değerleme çalışmalarında en yaygın kullanılan yöntemdir.</p>
+
+<p>Bu yöntemin temel mantığı oldukça basittir:</p>
+
+<blockquote>
+  <p>Benzer özelliklere sahip gayrimenkuller piyasada hangi fiyatlardan alınıp satılıyorsa, değerlemesi yapılan taşınmazın değeri de buna yakın olmalıdır.</p>
+</blockquote>
+
+<h2 id="nasıl-uygulanır">Nasıl Uygulanır?</h2>
+
+<p>Değerleme uzmanı;</p>
+
+<ul>
+  <li>Bölgedeki güncel satışları araştırır.</li>
+  <li>Satılık emsalleri inceler.</li>
+  <li>Gerçekleşmiş satış verilerini toplar.</li>
+  <li>Emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz eder.</li>
+</ul>
+
+<p>Karşılaştırılan başlıca özellikler:</p>
+
+<ul>
+  <li>Konum</li>
+  <li>Ulaşım imkanları</li>
+  <li>Kat durumu</li>
+  <li>Cephe özellikleri</li>
+  <li>Brüt ve net alan</li>
+  <li>Bina yaşı</li>
+  <li>Manzara</li>
+  <li>Sosyal donatılar</li>
+  <li>Kullanım amacı</li>
+</ul>
+
+<p>Daha sonra gerekli düzeltmeler yapılarak taşınmazın değeri belirlenir.</p>
+
+<h2 id="avantajları">Avantajları</h2>
+
+<ul>
+  <li>Piyasayı doğrudan yansıtır.</li>
+  <li>Anlaşılması kolaydır.</li>
+  <li>Konut değerlemelerinde oldukça etkilidir.</li>
+</ul>
+
+<h2 id="dezavantajları">Dezavantajları</h2>
+
+<ul>
+  <li>Güvenilir emsal bulmak her zaman mümkün olmayabilir.</li>
+  <li>Şeffaf olmayan piyasalarda hata payı artabilir.</li>
+  <li>Özel nitelikli taşınmazlarda yetersiz kalabilir.</li>
+</ul>
+
+<h2 id="kullanıldığı-gayrimenkuller">Kullanıldığı Gayrimenkuller</h2>
+
+<ul>
+  <li>Konutlar</li>
+  <li>Arsalar</li>
+  <li>Ofisler</li>
+  <li>Dükkanlar</li>
+  <li>Bağımsız bölümler</li>
+</ul>
+
+<h1 id="2-gelir-yaklaşımı">2. Gelir Yaklaşımı</h1>
+
+<p>Gelir üreten gayrimenkullerin değerlemesinde kullanılan en önemli yöntemdir.</p>
+
+<p>Bu yaklaşımın temel mantığı şudur:</p>
+
+<blockquote>
+  <p>Bir yatırımcının gayrimenkule ödeyeceği bedel, o gayrimenkulün gelecekte sağlayacağı gelirlerle ilişkilidir.</p>
+</blockquote>
+
+<p>Özellikle yatırım amaçlı taşınmazlarda tercih edilir.</p>
+
+<h2 id="gelir-yaklaşımının-türleri">Gelir Yaklaşımının Türleri</h2>
+
+<h3 id="doğrudan-kapitalizasyon-yöntemi">Doğrudan Kapitalizasyon Yöntemi</h3>
+
+<p>Net işletme gelirinin belirli bir kapitalizasyon oranına bölünmesiyle değer hesaplanır.</p>
+
+<p>Formül:</p>
+
+<p><strong>Değer = Net İşletme Geliri / Kapitalizasyon Oranı</strong></p>
+
+<p>Örnek:</p>
+
+<p>Yıllık net kira geliri:</p>
+
+<p>2.000.000 TL</p>
+
+<p>Kapitalizasyon oranı:</p>
+
+<p>%8</p>
+
+<p>Değer:</p>
+
+<p>2.000.000 / 0,08 = 25.000.000 TL</p>
+
+<h3 id="i̇ndirgenmiş-nakit-akışı-i̇na-analizi">İndirgenmiş Nakit Akışı (İNA) Analizi</h3>
+
+<p>Daha karmaşık ve detaylı bir yöntemdir.</p>
+
+<p>Bu yöntemde:</p>
+
+<ul>
+  <li>Gelecekte elde edilecek gelirler tahmin edilir.</li>
+  <li>Giderler hesaplanır.</li>
+  <li>Belirli bir iskonto oranı kullanılarak bugünkü değer bulunur.</li>
+</ul>
+
+<p>Özellikle büyük projelerde tercih edilir.</p>
+
+<h2 id="avantajları-1">Avantajları</h2>
+
+<ul>
+  <li>Yatırım perspektifini yansıtır.</li>
+  <li>Ticari gayrimenkullerde başarılı sonuçlar verir.</li>
+  <li>Gelecek beklentilerini dikkate alır.</li>
+</ul>
+
+<h2 id="dezavantajları-1">Dezavantajları</h2>
+
+<ul>
+  <li>Çok sayıda varsayım içerir.</li>
+  <li>Hatalı tahminler sonucu etkileyebilir.</li>
+  <li>Uzmanlık gerektirir.</li>
+</ul>
+
+<h2 id="kullanıldığı-gayrimenkuller-1">Kullanıldığı Gayrimenkuller</h2>
+
+<ul>
+  <li>AVM’ler</li>
+  <li>Ofis binaları</li>
+  <li>Oteller</li>
+  <li>Depolar</li>
+  <li>Lojistik tesisleri</li>
+  <li>Kira getirili konut portföyleri</li>
+</ul>
+
+<h1 id="3-maliyet-yaklaşımı">3. Maliyet Yaklaşımı</h1>
+
+<p>Maliyet yaklaşımı, bir taşınmazın yeniden inşa edilmesi veya yerine yenisinin yapılması için gerekli maliyetlerin hesaplanmasına dayanır.</p>
+
+<p>Temel varsayım:</p>
+
+<blockquote>
+  <p>Hiçbir alıcı, aynı özellikte yeni bir yapıyı daha düşük maliyetle elde edebilecekken mevcut yapıya daha fazla ödeme yapmaz.</p>
+</blockquote>
+
+<h2 id="hesaplama-mantığı">Hesaplama Mantığı</h2>
+
+<p>Taşınmaz değeri;</p>
+
+<p><strong>Arsa Değeri + Yapı Maliyeti – Yıpranma Payı</strong></p>
+
+<p>şeklinde hesaplanır.</p>
+
+<h3 id="süreç">Süreç</h3>
+
+<ol>
+  <li>Arsa değeri belirlenir.</li>
+  <li>Yapının yeniden inşa maliyeti hesaplanır.</li>
+  <li>Fiziksel yıpranma düşülür.</li>
+  <li>Fonksiyonel eskime hesaplanır.</li>
+  <li>Ekonomik eskime dikkate alınır.</li>
+</ol>
+
+<h2 id="avantajları-2">Avantajları</h2>
+
+<ul>
+  <li>Yeni yapılarda oldukça başarılıdır.</li>
+  <li>Özel amaçlı taşınmazlarda kullanılabilir.</li>
+  <li>Sigorta değerlemelerinde önemlidir.</li>
+</ul>
+
+<h2 id="dezavantajları-2">Dezavantajları</h2>
+
+<ul>
+  <li>Eski yapılarda hata payı yükselebilir.</li>
+  <li>Piyasa koşullarını tam olarak yansıtmayabilir.</li>
+</ul>
+
+<h2 id="kullanıldığı-gayrimenkuller-2">Kullanıldığı Gayrimenkuller</h2>
+
+<ul>
+  <li>Hastaneler</li>
+  <li>Okullar</li>
+  <li>Fabrikalar</li>
+  <li>Kamu binaları</li>
+  <li>Özel amaçlı tesisler</li>
+</ul>
+
+<h1 id="4-geliştirme-yöntemi-residual-method">4. Geliştirme Yöntemi (Residual Method)</h1>
+
+<p>Henüz geliştirilmemiş veya yeniden geliştirilmesi planlanan arsaların değerlemesinde kullanılır.</p>
+
+<p>Bu yöntemde şu soru sorulur:</p>
+
+<blockquote>
+  <p>Bu arsa üzerinde yapılabilecek proje tamamlandığında ne kadar gelir elde edilir?</p>
+</blockquote>
+
+<p>Daha sonra;</p>
+
+<ul>
+  <li>Proje gelirleri</li>
+  <li>İnşaat maliyetleri</li>
+  <li>Finansman giderleri</li>
+  <li>Pazarlama giderleri</li>
+  <li>Müteahhit kârı</li>
+</ul>
+
+<p>düşülerek arsanın değeri hesaplanır.</p>
+
+<h2 id="kullanım-alanları">Kullanım Alanları</h2>
+
+<ul>
+  <li>Konut projeleri</li>
+  <li>Karma projeler</li>
+  <li>Ticaret alanları</li>
+  <li>Kentsel dönüşüm projeleri</li>
+</ul>
+
+<h1 id="5-parselasyon-ve-arazi-geliştirme-analizi">5. Parselasyon ve Arazi Geliştirme Analizi</h1>
+
+<p>Büyük arazi parçalarının değerlendirilmesinde kullanılan özel bir yöntemdir.</p>
+
+<p>Bu yaklaşımda;</p>
+
+<ul>
+  <li>Arazi bölümlere ayrılır.</li>
+  <li>Altyapı maliyetleri hesaplanır.</li>
+  <li>Satış süreleri tahmin edilir.</li>
+  <li>Nakit akışı oluşturulur.</li>
+</ul>
+
+<p>Özellikle yatırım amaçlı arsa analizlerinde önem taşır.</p>
+
+<h1 id="değerleme-uzmanları-hangi-yöntemi-tercih-eder">Değerleme Uzmanları Hangi Yöntemi Tercih Eder?</h1>
+
+<p>Tek bir yöntemin kullanılması her zaman yeterli olmayabilir.</p>
+
+<p>Profesyonel değerleme çalışmalarında genellikle:</p>
+
+<ul>
+  <li>Birden fazla yöntem uygulanır.</li>
+  <li>Elde edilen sonuçlar karşılaştırılır.</li>
+  <li>Sonuçlar uzlaştırılır.</li>
+  <li>Nihai değer takdir edilir.</li>
+</ul>
+
+<p>Örneğin:</p>
+
+<p>Bir AVM değerlemesinde;</p>
+
+<ul>
+  <li>Gelir yaklaşımı ana yöntem olabilir.</li>
+  <li>Emsal yaklaşımı destekleyici olarak kullanılabilir.</li>
+</ul>
+
+<p>Bir konut değerlemesinde ise;</p>
+
+<ul>
+  <li>Emsal yaklaşımı ana yöntem olurken,</li>
+  <li>Maliyet yaklaşımı kontrol amacıyla uygulanabilir.</li>
+</ul>
+
+<p>Bu süreç, değerleme raporunun güvenilirliğini artırır.</p>
+
+<h1 id="değerleme-yöntemi-seçimini-etkileyen-faktörler">Değerleme Yöntemi Seçimini Etkileyen Faktörler</h1>
+
+<p>Uygulanacak yöntemi belirleyen temel unsurlar şunlardır:</p>
+
+<ul>
+  <li>Gayrimenkulün türü</li>
+  <li>Kullanım amacı</li>
+  <li>Gelir üretme kapasitesi</li>
+  <li>Veri bulunabilirliği</li>
+  <li>Piyasa koşulları</li>
+  <li>Değerleme amacı</li>
+  <li>Yasal düzenlemeler</li>
+</ul>
+
+<p>Her taşınmaz için aynı yöntemin kullanılması doğru sonuç vermeyebilir.</p>
+
+<h1 id="sonuç">Sonuç</h1>
+
+<p>Emlak değerleme süreci, yalnızca bir fiyat tahmini yapmak değil, bilimsel yöntemlerle piyasa değerine ulaşmayı amaçlayan profesyonel bir çalışmadır. Emsal Karşılaştırma Yaklaşımı, Gelir Yaklaşımı ve Maliyet Yaklaşımı uluslararası kabul görmüş temel değerleme yöntemleri olarak öne çıkarken; geliştirme yöntemi ve arazi geliştirme analizleri gibi özel teknikler de belirli taşınmaz türlerinde kullanılmaktadır.</p>
+
+<p>Başarılı bir değerleme çalışmasının temelinde doğru veriler, uygun yöntem seçimi ve elde edilen sonuçların uzman bakış açısıyla uzlaştırılması yer alır. Bu nedenle yatırımcılar, bankalar, kamu kurumları ve gayrimenkul sahipleri için güvenilir değerleme raporları, doğru karar alma sürecinin vazgeçilmez bir parçasıdır.</p>]]></content><author><name></name></author><category term="emlak değerleme" /><category term="gayrimenkul değerleme" /><category term="emlak değerleme yöntemleri" /><summary type="html"><![CDATA[Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir"><![CDATA[<p>Gayrimenkul değerleme sürecinde bir taşınmazın gerçek piyasa değerine ulaşabilmek için çeşitli yöntemler ve analiz teknikleri kullanılır. Bu tekniklerin en önemli unsurlarından biri ise karşılaştırma birimidir. Özellikle emsal karşılaştırma yaklaşımında, farklı özelliklere sahip gayrimenkullerin ortak bir ölçü üzerinden değerlendirilmesini sağlayan karşılaştırma birimi, sağlıklı ve objektif bir değer tespitinin temel taşlarından biridir.</p>
+
+<p>Bir gayrimenkulün satış fiyatını tek başına değerlendirmek çoğu zaman yanıltıcı sonuçlar doğurabilir. Çünkü her taşınmazın büyüklüğü, kullanım amacı, konumu ve fiziksel özellikleri farklıdır. Bu nedenle değerleme uzmanları, farklı taşınmazları ortak bir paydaya indirerek karşılaştırabilmek için karşılaştırma birimlerinden yararlanır.</p>
+
+<h2 id="karşılaştırma-birimi-nedir">Karşılaştırma Birimi Nedir?</h2>
+
+<p>Karşılaştırma birimi, bir gayrimenkulün değerini belirlemek amacıyla kullanılan standart ölçü birimidir. Emsal taşınmazların satış veya kira bedellerinin ortak bir ölçekte ifade edilmesini sağlayarak sağlıklı karşılaştırmalar yapılmasına olanak tanır.</p>
+
+<p>Basit bir ifadeyle karşılaştırma birimi, toplam fiyatın belirli bir ölçüye bölünmesiyle elde edilen değerdir. Böylece farklı büyüklükteki taşınmazların birbirleriyle karşılaştırılması mümkün hale gelir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>120 m² büyüklüğünde bir daire 6.000.000 TL’ye satılmış olsun.</li>
+  <li>Karşılaştırma birimi olarak metrekare kullanıldığında:</li>
+</ul>
+
+<p>6.000.000 TL ÷ 120 m² = 50.000 TL/m²</p>
+
+<p>Bu sonuç, benzer özelliklere sahip diğer taşınmazlarla karşılaştırma yapılmasını kolaylaştırır.</p>
+
+<h2 id="karşılaştırma-birimi-neden-önemlidir">Karşılaştırma Birimi Neden Önemlidir?</h2>
+
+<p>Gayrimenkul piyasasında iki taşınmazın toplam satış fiyatlarının aynı olması, aynı değere sahip oldukları anlamına gelmez.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Birinci daire: 100 m² – 5.000.000 TL</li>
+  <li>İkinci daire: 150 m² – 5.000.000 TL</li>
+</ul>
+
+<p>Toplam satış bedelleri eşit olsa da birinci dairenin metrekare değeri daha yüksektir.</p>
+
+<p>Birinci daire:</p>
+
+<p>5.000.000 ÷ 100 = 50.000 TL/m²</p>
+
+<p>İkinci daire:</p>
+
+<p>5.000.000 ÷ 150 = 33.333 TL/m²</p>
+
+<p>Bu nedenle yalnızca toplam fiyatlara bakılarak yapılan değerlendirmeler yanıltıcı olabilir. Karşılaştırma birimi sayesinde taşınmazların gerçek piyasa konumları daha doğru analiz edilir.</p>
+
+<h2 id="değerlemede-kullanılan-başlıca-karşılaştırma-birimleri">Değerlemede Kullanılan Başlıca Karşılaştırma Birimleri</h2>
+
+<p>Gayrimenkulün türüne ve kullanım amacına göre farklı karşılaştırma birimleri kullanılabilir.</p>
+
+<h3 id="metrekare-başına-değer">Metrekare Başına Değer</h3>
+
+<p>En yaygın kullanılan karşılaştırma birimidir.</p>
+
+<p>Özellikle:</p>
+
+<ul>
+  <li>Konutlar</li>
+  <li>Ofisler</li>
+  <li>Dükkanlar</li>
+  <li>Arsalar</li>
+  <li>Sanayi yapıları</li>
+</ul>
+
+<p>için sıklıkla tercih edilir.</p>
+
+<p>Örnek:</p>
+
+<ul>
+  <li>Satış fiyatı: 8.000.000 TL</li>
+  <li>Alan: 160 m²</li>
+</ul>
+
+<p>Karşılaştırma birimi:</p>
+
+<p>8.000.000 ÷ 160 = 50.000 TL/m²</p>
+
+<p>Bu değer benzer taşınmazlarla karşılaştırılarak analiz edilir.</p>
+
+<h3 id="arsa-birim-değeri">Arsa Birim Değeri</h3>
+
+<p>Arsalarda çoğunlukla metrekare başına değer kullanılır.</p>
+
+<p>Örnek:</p>
+
+<ul>
+  <li>1.000 m² arsa</li>
+  <li>Satış fiyatı: 12.000.000 TL</li>
+</ul>
+
+<p>Birim değer:</p>
+
+<p>12.000 TL/m²</p>
+
+<p>Bu değer bölgede gerçekleşen diğer arsa satışlarıyla karşılaştırılır.</p>
+
+<h3 id="oda-başına-değer">Oda Başına Değer</h3>
+
+<p>Bazı özel gayrimenkullerde oda sayısı temel karşılaştırma birimi olarak kullanılabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Oteller</li>
+  <li>Öğrenci yurtları</li>
+  <li>Pansiyonlar</li>
+</ul>
+
+<p>Bu tür yapılarda oda başına düşen değer yatırımcılar açısından önemli bir gösterge olabilir.</p>
+
+<h3 id="yatak-başına-değer">Yatak Başına Değer</h3>
+
+<p>Özellikle sağlık ve konaklama sektöründe tercih edilir.</p>
+
+<p>Kullanım alanları:</p>
+
+<ul>
+  <li>Hastaneler</li>
+  <li>Huzurevleri</li>
+  <li>Bakım merkezleri</li>
+  <li>Turizm tesisleri</li>
+</ul>
+
+<p>Bu tesislerde toplam satış bedeli yatak kapasitesine bölünerek karşılaştırma yapılabilir.</p>
+
+<h3 id="daire-başına-değer">Daire Başına Değer</h3>
+
+<p>Toplu konut projeleri ve apartman değerlendirmelerinde zaman zaman kullanılan bir ölçüdür.</p>
+
+<p>Örneğin:</p>
+
+<p>20 daireden oluşan bir apartman 80.000.000 TL’ye satılmışsa:</p>
+
+<p>80.000.000 ÷ 20 = 4.000.000 TL/daire</p>
+
+<p>Bu veri benzer apartman satışlarıyla kıyaslanabilir.</p>
+
+<h3 id="gelir-birimi-başına-değer">Gelir Birimi Başına Değer</h3>
+
+<p>Ticari gayrimenkullerde gelir odaklı analizlerde kullanılabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Alışveriş merkezleri</li>
+  <li>İş merkezleri</li>
+  <li>Kiralık ticari portföyler</li>
+</ul>
+
+<p>Bu tür mülklerde kira geliri temel alınarak karşılaştırma yapılabilir.</p>
+
+<h2 id="doğru-karşılaştırma-birimi-nasıl-seçilir">Doğru Karşılaştırma Birimi Nasıl Seçilir?</h2>
+
+<p>Her taşınmaz için aynı karşılaştırma birimi uygun değildir.</p>
+
+<p>Doğru birimin seçilebilmesi için aşağıdaki kriterler değerlendirilmelidir:</p>
+
+<h3 id="gayrimenkulün-türü">Gayrimenkulün Türü</h3>
+
+<p>Konutlarda genellikle metrekare bazlı analiz yapılırken, otellerde oda başına değer daha anlamlı olabilir.</p>
+
+<h3 id="piyasa-alışkanlıkları">Piyasa Alışkanlıkları</h3>
+
+<p>Bazı bölgelerde yatırımcılar taşınmazları belirli bir ölçü üzerinden değerlendirir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Arsalarda m² değeri</li>
+  <li>Otellerde oda başına değer</li>
+  <li>Tarım arazilerinde dönüm başına değer</li>
+</ul>
+
+<p>yaygın olarak kullanılabilir.</p>
+
+<h3 id="veri-erişimi">Veri Erişimi</h3>
+
+<p>Piyasada bulunan emsal verilerin niteliği de karşılaştırma birimi seçiminde etkili olur.</p>
+
+<p>Eğer piyasada çoğunlukla metrekare bazlı satış verileri bulunuyorsa aynı birim üzerinden analiz yapmak daha sağlıklı sonuç verir.</p>
+
+<h2 id="karşılaştırma-biriminin-sınırlılıkları">Karşılaştırma Biriminin Sınırlılıkları</h2>
+
+<p>Karşılaştırma birimi oldukça faydalı bir araç olsa da tek başına yeterli değildir.</p>
+
+<p>Aynı metrekare değerine sahip iki taşınmaz arasında bile önemli farklılıklar bulunabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Kat durumu</li>
+  <li>Cephe</li>
+  <li>Manzara</li>
+  <li>Ulaşım imkanları</li>
+  <li>Yapı kalitesi</li>
+  <li>Yaş</li>
+  <li>Kullanım durumu</li>
+</ul>
+
+<p>gibi faktörler değeri ciddi şekilde etkileyebilir.</p>
+
+<p>Bu nedenle karşılaştırma birimi yalnızca ilk analiz aşamasını oluşturur. Sonrasında gerekli düzeltmeler yapılarak daha gerçekçi sonuçlara ulaşılır.</p>
+
+<h2 id="emsal-karşılaştırma-yaklaşımında-karşılaştırma-biriminin-rolü">Emsal Karşılaştırma Yaklaşımında Karşılaştırma Biriminin Rolü</h2>
+
+<p>Emsal karşılaştırma yaklaşımında temel amaç, benzer özelliklere sahip taşınmazların satış verilerinden yararlanarak değer takdiri yapmaktır.</p>
+
+<p>Bu süreçte:</p>
+
+<ol>
+  <li>Uygun emsaller belirlenir.</li>
+  <li>Emsaller ortak bir karşılaştırma birimine dönüştürülür.</li>
+  <li>Farklılıklar analiz edilir.</li>
+  <li>Düzeltmeler uygulanır.</li>
+  <li>Nihai değer tahmini oluşturulur.</li>
+</ol>
+
+<p>Karşılaştırma birimi bu sürecin merkezinde yer alır ve tüm emsallerin ortak bir ölçekte değerlendirilmesini sağlar.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Karşılaştırma birimi, gayrimenkul değerleme çalışmalarının en önemli yapı taşlarından biridir. Farklı özelliklere sahip taşınmazların ortak bir ölçü üzerinden analiz edilmesini sağlayarak daha objektif ve tutarlı sonuçlara ulaşılmasına yardımcı olur. Metrekare başına değer, oda başına değer, yatak başına değer veya gelir bazlı ölçüler gibi farklı karşılaştırma birimleri, taşınmazın türüne göre kullanılabilir. Ancak doğru değerleme için karşılaştırma biriminin tek başına yeterli olmadığı, konum, fiziksel özellikler ve piyasa koşulları gibi unsurlarla birlikte değerlendirilmesi gerektiği unutulmamalıdır. Başarılı bir değerleme çalışmasının temelinde, doğru seçilmiş karşılaştırma birimi ve sağlıklı emsal analizi yer alır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="emsal analizi" /><summary type="html"><![CDATA[Gayrimenkul değerlemede karşılaştırma birimi nedir? Metrekare, oda ve gelir bazlı karşılaştırma birimlerinin nasıl kullanıldığını, emsal analizindeki önemini ve doğru değer tespitine etkisini öğrenin.]]></summary></entry><entry><title type="html">Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?</title><link href="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi" rel="alternate" type="text/html" title="Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?" /><published>2026-06-16T00:00:00+03:00</published><updated>2026-06-16T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-degerleme-sistematigi</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-degerleme-sistematigi"><![CDATA[<p>Gayrimenkul değerleme, bir taşınmazın belirli bir tarihteki değerinin bilimsel yöntemler kullanılarak tespit edilmesi sürecidir. Ancak değerleme sadece bir rakam belirlemekten ibaret değildir. Doğru sonuca ulaşabilmek için uluslararası standartlara uygun, sistematik ve disiplinli bir çalışma yürütülmesi gerekir.</p>
 
 <p>Bir gayrimenkulün değerini etkileyen fiziksel, hukuki, ekonomik ve çevresel birçok faktör bulunmaktadır. Bu nedenle değerleme uzmanları, belirli aşamalardan oluşan bir değerleme sistematiği uygularlar. Bu sistematik sayesinde ulaşılan sonuçların tutarlı, savunulabilir ve güvenilir olması sağlanır.</p>
 
@@ -984,7 +2124,159 @@
 
 <p>Göktürk’te kira artışı tesadüf değil; yapısal nedenlere dayanıyor. Sınırlı arsa, güçlü talep, havalimanı etkisi ve üst segment yaşam algısı birleşince bölge doğal olarak İstanbul ortalamasının üzerine çıkıyor.</p>
 
-<p>Bugünün verileri şunu gösteriyor: Göktürk artık “alternatif bir semt” değil, <strong>premium kira piyasası</strong> olan bir konut bölgesi.</p>]]></content><author><name></name></author><category term="göktürk kiralık ev" /><category term="göktürk kiralık konut" /><category term="göktürk kira getirisi " /><summary type="html"><![CDATA[Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.]]></summary></entry><entry><title type="html">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</title><link href="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" rel="alternate" type="text/html" title="Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari</id><content type="html" xml:base="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari"><![CDATA[<p>Göktürk’te bir eviniz varsa, mülkünüzün gerçek piyasa değerini bilmek doğru zamanda doğru kararlar almanız için kritik öneme sahiptir. Satış planı yapıyor olun, kiraya vermeyi düşünün ya da sadece yatırımınızın güncel durumunu merak edin… Evinizin değerini <strong>ücretsiz öğrenmenin</strong> birkaç etkili yolu var.</p>
+<p>Bugünün verileri şunu gösteriyor: Göktürk artık “alternatif bir semt” değil, <strong>premium kira piyasası</strong> olan bir konut bölgesi.</p>]]></content><author><name></name></author><category term="göktürk kiralık ev" /><category term="göktürk kiralık konut" /><category term="göktürk kira getirisi " /><summary type="html"><![CDATA[Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.]]></summary></entry><entry><title type="html">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</title><link href="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" rel="alternate" type="text/html" title="Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor</id><content type="html" xml:base="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor"><![CDATA[<p>İstanbul’un prestijli yerleşimlerinden Göktürk’te son dönemde dikkat çeken bir durum var: birçok satılık ev ilanı haftalar hatta aylar boyunca yayında kalıyor. Bu tablo sadece bölgesel değil; Türkiye genelinde de satış sürelerinin uzadığı görülüyor.</p>
+
+<p>Peki Göktürk özelinde ilanların satılmamasının arkasında hangi dinamikler var? Gelin, sahadaki gerçeklerle birlikte detaylıca inceleyelim.</p>
+
+<h2 id="1-fiyatpiyasa-uyumsuzluğu-en-kritik-sebep">1. Fiyat–Piyasa Uyumsuzluğu (En Kritik Sebep)</h2>
+
+<p>Göktürk’te satılmayan ilanların büyük kısmında en temel sorun yanlış fiyatlama.</p>
+
+<h3 id="neler-oluyor">Neler oluyor?</h3>
+
+<ul>
+  <li>Ev sahipleri çoğu zaman komşu ilanlara bakarak fiyat belirliyor</li>
+  <li>Ancak gerçekleşen satış fiyatı ile ilan fiyatı arasında fark oluşuyor</li>
+  <li>“Beklerim, nasıl olsa satılır” psikolojisi yaygın</li>
+</ul>
+
+<p>Göktürk’te tipik hata örneği:</p>
+
+<ul>
+  <li>Aynı sitede satılmış daire: 12,5 milyon TL</li>
+  <li>Yeni ilana çıkan benzer daire: 14,5 milyon TL</li>
+</ul>
+
+<p>Sonuç: Aylarca bekleyen ilan.</p>
+
+<p>Özetle, fiyat gerçek piyasa değerinin yüzde 10–20 üstündeyse satış süresi dramatik şekilde uzuyor.</p>
+
+<h2 id="2-yüksek-faiz-ortamı-ve-krediye-erişim-zorluğu">2. Yüksek Faiz Ortamı ve Krediye Erişim Zorluğu</h2>
+
+<p>Son yıllarda konut kredisi faizlerinin yüksek seyretmesi alıcı davranışını doğrudan etkiliyor.</p>
+
+<h3 id="etkileri">Etkileri</h3>
+
+<ul>
+  <li>Peşin alıcı sayısı sınırlı</li>
+  <li>Kredili alıcı daha seçici</li>
+  <li>Alım kararı daha uzun sürede veriliyor</li>
+  <li>Bekle-gör eğilimi artıyor</li>
+</ul>
+
+<p>Göktürk gibi üst segment bölgelerde kredi maliyetleri talebi daha sert etkileyebiliyor.</p>
+
+<h2 id="3-arzın-artması-özellikle-site-i̇çinde">3. Arzın Artması (Özellikle Site İçinde)</h2>
+
+<p>Göktürk’te son yıllarda:</p>
+
+<ul>
+  <li>Yeni projeler</li>
+  <li>Aynı site içinde çoklu satışlar</li>
+  <li>Yatırımcı çıkışları</li>
+</ul>
+
+<p>nedeniyle bazı mikro bölgelerde ilan yoğunluğu oluştu.</p>
+
+<h3 id="bu-neye-yol-açıyor">Bu neye yol açıyor?</h3>
+
+<ul>
+  <li>Alıcının seçenek sayısı artıyor</li>
+  <li>Pazarlık gücü alıcıya geçiyor</li>
+  <li>Satış süresi uzuyor</li>
+  <li>Fiyat rekabeti oluşuyor</li>
+</ul>
+
+<p>Kritik gerçek: Aynı sitede çok sayıda benzer daire satıştaysa, en pahalı olan genellikle aylarca bekler.</p>
+
+<h2 id="4-göktürkte-alıcı-profilinin-değişmesi">4. Göktürk’te Alıcı Profilinin Değişmesi</h2>
+
+<p>Eskiden Göktürk’te alıcı kitlesi daha hızlı karar veren üst gelir grubuydu. Son dönemde ise:</p>
+
+<ul>
+  <li>Yatırımcı payı azaldı</li>
+  <li>Oturum amaçlı alıcı arttı</li>
+  <li>Aileler daha detaycı davranıyor</li>
+  <li>Karar süresi uzuyor</li>
+</ul>
+
+<p>Bu dönüşüm, ilanların yayında kalma süresini doğrudan uzatıyor.</p>
+
+<h2 id="5-i̇lan-kalitesi-ve-pazarlama-eksikliği">5. İlan Kalitesi ve Pazarlama Eksikliği</h2>
+
+<p>Sahada en çok gözden kaçan ama çok etkili faktörlerden biri zayıf ilan sunumu.</p>
+
+<h3 id="satışı-yavaşlatan-hatalar">Satışı yavaşlatan hatalar</h3>
+
+<ul>
+  <li>Karanlık ve amatör fotoğraflar</li>
+  <li>Eksik ilan açıklaması</li>
+  <li>Yanlış metrekare bilgisi</li>
+  <li>Kat planı olmaması</li>
+  <li>Video tur bulunmaması</li>
+</ul>
+
+<p>Göktürk gibi rekabetçi bir bölgede kötü sunulan ilanlar daha az alıcıya ulaşır.</p>
+
+<p>Basit gerçek: Aynı fiyattaki iki evden iyi pazarlanan daha hızlı satılır.</p>
+
+<h2 id="6-ev-sahiplerinin-pazarlığa-kapalı-olması">6. Ev Sahiplerinin Pazarlığa Kapalı Olması</h2>
+
+<p>Göktürk’te sık görülen bir durum:</p>
+
+<blockquote>
+  <p>Fiyatım net.</p>
+</blockquote>
+
+<p>Ancak mevcut piyasada:</p>
+
+<ul>
+  <li>Alıcı pazarlık bekliyor</li>
+  <li>Esneklik olmayan ilanlar eleniyor</li>
+  <li>Görüşme sayısı düşüyor</li>
+</ul>
+
+<p>Bugün birçok işlem yüzde 5–10 pazarlık bandında kapanıyor. Bu payı bırakmayan ilanlar bekleme listesine giriyor.</p>
+
+<h2 id="7-ekonomik-beklentiler-ve-bekle-gör-psikolojisi">7. Ekonomik Beklentiler ve Bekle-Gör Psikolojisi</h2>
+
+<p>Makro tarafta:</p>
+
+<ul>
+  <li>Enflasyon beklentileri</li>
+  <li>Faiz politikası</li>
+  <li>Konut kampanyaları</li>
+  <li>Döviz hareketi</li>
+</ul>
+
+<p>alıcı psikolojisini etkiliyor.</p>
+
+<p>Göktürk etkisi: Yüksek bütçeli alım olduğu için belirsizlik dönemlerinde bekleme eğilimi daha güçlü.</p>
+
+<h2 id="göktürkte-evinizi-daha-hızlı-satmak-i̇çin-7-strateji">Göktürk’te Evinizi Daha Hızlı Satmak İçin 7 Strateji</h2>
+
+<ol>
+  <li><strong>Doğru ekspertizle fiyat belirleyin</strong>: Gerçekleşmiş satış verilerine bakın, sadece ilanlara değil.</li>
+  <li><strong>İlk 30 günü kritik kabul edin</strong>: İlanın kaderi çoğunlukla ilk ayda belli olur.</li>
+  <li><strong>Profesyonel fotoğraf ve video kullanın</strong>: Göktürk’te bu artık standart haline geldi.</li>
+  <li><strong>Rekabet analizi yapın</strong>: Aynı sitedeki rakip ilanları haftalık takip edin.</li>
+  <li><strong>Pazarlık payı bırakın</strong>: Psikolojik fiyat eşiği önemlidir.</li>
+  <li><strong>Hedef kitleye uygun pazarlama yapın</strong>: Aile mi yatırımcı mı? Mesaj buna göre değişmeli.</li>
+  <li><strong>Doğru emlak danışmanıyla çalışın</strong>: Profesyonel portföy yönetimi satış süresini ciddi şekilde kısaltır.</li>
+</ol>
+
+<h2 id="sonuç-göktürkte-satılmayan-ev-yok-yanlış-konumlanmış-i̇lan-var">Sonuç: Göktürk’te Satılmayan Ev Yok, Yanlış Konumlanmış İlan Var</h2>
+
+<p>Bugünkü piyasada Göktürk hâlâ güçlü bir lokasyon. Ancak oyun değişti:</p>
+
+<ul>
+  <li>Alıcı daha bilinçli</li>
+  <li>Rekabet daha yüksek</li>
+  <li>Pazarlama daha kritik</li>
+  <li>Fiyat hassasiyeti daha keskin</li>
+</ul>
+
+<p>Doğru fiyat, doğru sunum ve doğru strateji birleştiğinde Göktürk’te satış hâlâ mümkündür ve çoğu zaman beklenenden hızlı gerçekleşir.</p>]]></content><author><name></name></author><category term="göktürk satılık ev" /><category term="göktürk satılık daire" /><category term="göktürk emlak piyasası" /><category term="konut satış stratejisi" /><summary type="html"><![CDATA[Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.]]></summary></entry><entry><title type="html">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</title><link href="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" rel="alternate" type="text/html" title="Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari</id><content type="html" xml:base="http://localhost:4000/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari"><![CDATA[<p>Göktürk’te bir eviniz varsa, mülkünüzün gerçek piyasa değerini bilmek doğru zamanda doğru kararlar almanız için kritik öneme sahiptir. Satış planı yapıyor olun, kiraya vermeyi düşünün ya da sadece yatırımınızın güncel durumunu merak edin… Evinizin değerini <strong>ücretsiz öğrenmenin</strong> birkaç etkili yolu var.</p>
 
 <p>Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.</p>
 
@@ -1143,672 +2435,4 @@
   <li>Yatırım kararlarınızı güçlendirebilirsiniz</li>
 </ul>
 
-<p>Unutmayın: <strong>Doğru fiyat, hızlı ve kazançlı satışın anahtarıdır.</strong></p>]]></content><author><name></name></author><category term="göktürk ücretsiz ekspertiz" /><category term="göktürk ücretsiz değerleme" /><summary type="html"><![CDATA[Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.]]></summary></entry><entry><title type="html">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</title><link href="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" rel="alternate" type="text/html" title="Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?" /><published>2026-02-23T00:00:00+03:00</published><updated>2026-02-23T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor</id><content type="html" xml:base="http://localhost:4000/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor"><![CDATA[<p>İstanbul’un prestijli yerleşimlerinden Göktürk’te son dönemde dikkat çeken bir durum var: birçok satılık ev ilanı haftalar hatta aylar boyunca yayında kalıyor. Bu tablo sadece bölgesel değil; Türkiye genelinde de satış sürelerinin uzadığı görülüyor.</p>
-
-<p>Peki Göktürk özelinde ilanların satılmamasının arkasında hangi dinamikler var? Gelin, sahadaki gerçeklerle birlikte detaylıca inceleyelim.</p>
-
-<h2 id="1-fiyatpiyasa-uyumsuzluğu-en-kritik-sebep">1. Fiyat–Piyasa Uyumsuzluğu (En Kritik Sebep)</h2>
-
-<p>Göktürk’te satılmayan ilanların büyük kısmında en temel sorun yanlış fiyatlama.</p>
-
-<h3 id="neler-oluyor">Neler oluyor?</h3>
-
-<ul>
-  <li>Ev sahipleri çoğu zaman komşu ilanlara bakarak fiyat belirliyor</li>
-  <li>Ancak gerçekleşen satış fiyatı ile ilan fiyatı arasında fark oluşuyor</li>
-  <li>“Beklerim, nasıl olsa satılır” psikolojisi yaygın</li>
-</ul>
-
-<p>Göktürk’te tipik hata örneği:</p>
-
-<ul>
-  <li>Aynı sitede satılmış daire: 12,5 milyon TL</li>
-  <li>Yeni ilana çıkan benzer daire: 14,5 milyon TL</li>
-</ul>
-
-<p>Sonuç: Aylarca bekleyen ilan.</p>
-
-<p>Özetle, fiyat gerçek piyasa değerinin yüzde 10–20 üstündeyse satış süresi dramatik şekilde uzuyor.</p>
-
-<h2 id="2-yüksek-faiz-ortamı-ve-krediye-erişim-zorluğu">2. Yüksek Faiz Ortamı ve Krediye Erişim Zorluğu</h2>
-
-<p>Son yıllarda konut kredisi faizlerinin yüksek seyretmesi alıcı davranışını doğrudan etkiliyor.</p>
-
-<h3 id="etkileri">Etkileri</h3>
-
-<ul>
-  <li>Peşin alıcı sayısı sınırlı</li>
-  <li>Kredili alıcı daha seçici</li>
-  <li>Alım kararı daha uzun sürede veriliyor</li>
-  <li>Bekle-gör eğilimi artıyor</li>
-</ul>
-
-<p>Göktürk gibi üst segment bölgelerde kredi maliyetleri talebi daha sert etkileyebiliyor.</p>
-
-<h2 id="3-arzın-artması-özellikle-site-i̇çinde">3. Arzın Artması (Özellikle Site İçinde)</h2>
-
-<p>Göktürk’te son yıllarda:</p>
-
-<ul>
-  <li>Yeni projeler</li>
-  <li>Aynı site içinde çoklu satışlar</li>
-  <li>Yatırımcı çıkışları</li>
-</ul>
-
-<p>nedeniyle bazı mikro bölgelerde ilan yoğunluğu oluştu.</p>
-
-<h3 id="bu-neye-yol-açıyor">Bu neye yol açıyor?</h3>
-
-<ul>
-  <li>Alıcının seçenek sayısı artıyor</li>
-  <li>Pazarlık gücü alıcıya geçiyor</li>
-  <li>Satış süresi uzuyor</li>
-  <li>Fiyat rekabeti oluşuyor</li>
-</ul>
-
-<p>Kritik gerçek: Aynı sitede çok sayıda benzer daire satıştaysa, en pahalı olan genellikle aylarca bekler.</p>
-
-<h2 id="4-göktürkte-alıcı-profilinin-değişmesi">4. Göktürk’te Alıcı Profilinin Değişmesi</h2>
-
-<p>Eskiden Göktürk’te alıcı kitlesi daha hızlı karar veren üst gelir grubuydu. Son dönemde ise:</p>
-
-<ul>
-  <li>Yatırımcı payı azaldı</li>
-  <li>Oturum amaçlı alıcı arttı</li>
-  <li>Aileler daha detaycı davranıyor</li>
-  <li>Karar süresi uzuyor</li>
-</ul>
-
-<p>Bu dönüşüm, ilanların yayında kalma süresini doğrudan uzatıyor.</p>
-
-<h2 id="5-i̇lan-kalitesi-ve-pazarlama-eksikliği">5. İlan Kalitesi ve Pazarlama Eksikliği</h2>
-
-<p>Sahada en çok gözden kaçan ama çok etkili faktörlerden biri zayıf ilan sunumu.</p>
-
-<h3 id="satışı-yavaşlatan-hatalar">Satışı yavaşlatan hatalar</h3>
-
-<ul>
-  <li>Karanlık ve amatör fotoğraflar</li>
-  <li>Eksik ilan açıklaması</li>
-  <li>Yanlış metrekare bilgisi</li>
-  <li>Kat planı olmaması</li>
-  <li>Video tur bulunmaması</li>
-</ul>
-
-<p>Göktürk gibi rekabetçi bir bölgede kötü sunulan ilanlar daha az alıcıya ulaşır.</p>
-
-<p>Basit gerçek: Aynı fiyattaki iki evden iyi pazarlanan daha hızlı satılır.</p>
-
-<h2 id="6-ev-sahiplerinin-pazarlığa-kapalı-olması">6. Ev Sahiplerinin Pazarlığa Kapalı Olması</h2>
-
-<p>Göktürk’te sık görülen bir durum:</p>
-
-<blockquote>
-  <p>Fiyatım net.</p>
-</blockquote>
-
-<p>Ancak mevcut piyasada:</p>
-
-<ul>
-  <li>Alıcı pazarlık bekliyor</li>
-  <li>Esneklik olmayan ilanlar eleniyor</li>
-  <li>Görüşme sayısı düşüyor</li>
-</ul>
-
-<p>Bugün birçok işlem yüzde 5–10 pazarlık bandında kapanıyor. Bu payı bırakmayan ilanlar bekleme listesine giriyor.</p>
-
-<h2 id="7-ekonomik-beklentiler-ve-bekle-gör-psikolojisi">7. Ekonomik Beklentiler ve Bekle-Gör Psikolojisi</h2>
-
-<p>Makro tarafta:</p>
-
-<ul>
-  <li>Enflasyon beklentileri</li>
-  <li>Faiz politikası</li>
-  <li>Konut kampanyaları</li>
-  <li>Döviz hareketi</li>
-</ul>
-
-<p>alıcı psikolojisini etkiliyor.</p>
-
-<p>Göktürk etkisi: Yüksek bütçeli alım olduğu için belirsizlik dönemlerinde bekleme eğilimi daha güçlü.</p>
-
-<h2 id="göktürkte-evinizi-daha-hızlı-satmak-i̇çin-7-strateji">Göktürk’te Evinizi Daha Hızlı Satmak İçin 7 Strateji</h2>
-
-<ol>
-  <li><strong>Doğru ekspertizle fiyat belirleyin</strong>: Gerçekleşmiş satış verilerine bakın, sadece ilanlara değil.</li>
-  <li><strong>İlk 30 günü kritik kabul edin</strong>: İlanın kaderi çoğunlukla ilk ayda belli olur.</li>
-  <li><strong>Profesyonel fotoğraf ve video kullanın</strong>: Göktürk’te bu artık standart haline geldi.</li>
-  <li><strong>Rekabet analizi yapın</strong>: Aynı sitedeki rakip ilanları haftalık takip edin.</li>
-  <li><strong>Pazarlık payı bırakın</strong>: Psikolojik fiyat eşiği önemlidir.</li>
-  <li><strong>Hedef kitleye uygun pazarlama yapın</strong>: Aile mi yatırımcı mı? Mesaj buna göre değişmeli.</li>
-  <li><strong>Doğru emlak danışmanıyla çalışın</strong>: Profesyonel portföy yönetimi satış süresini ciddi şekilde kısaltır.</li>
-</ol>
-
-<h2 id="sonuç-göktürkte-satılmayan-ev-yok-yanlış-konumlanmış-i̇lan-var">Sonuç: Göktürk’te Satılmayan Ev Yok, Yanlış Konumlanmış İlan Var</h2>
-
-<p>Bugünkü piyasada Göktürk hâlâ güçlü bir lokasyon. Ancak oyun değişti:</p>
-
-<ul>
-  <li>Alıcı daha bilinçli</li>
-  <li>Rekabet daha yüksek</li>
-  <li>Pazarlama daha kritik</li>
-  <li>Fiyat hassasiyeti daha keskin</li>
-</ul>
-
-<p>Doğru fiyat, doğru sunum ve doğru strateji birleştiğinde Göktürk’te satış hâlâ mümkündür ve çoğu zaman beklenenden hızlı gerçekleşir.</p>]]></content><author><name></name></author><category term="göktürk satılık ev" /><category term="göktürk satılık daire" /><category term="göktürk emlak piyasası" /><category term="konut satış stratejisi" /><summary type="html"><![CDATA[Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.]]></summary></entry><entry><title type="html">2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım</title><link href="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim" rel="alternate" type="text/html" title="2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım" /><published>2026-02-18T00:00:00+03:00</published><updated>2026-02-18T00:00:00+03:00</updated><id>http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim</id><content type="html" xml:base="http://localhost:4000/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim"><![CDATA[<p>İstanbul’un planlı ve yaşam kalitesi yüksek bölgelerinden biri olan <strong>Göktürk (Eyüpsultan)</strong>, 2026 yılında da hem oturum hem yatırım açısından güçlü konumunu korumaya devam ediyor. Kontrollü yapılaşma, sınırlı arsa üretimi ve üst gelir grubuna hitap eden konut profili sayesinde bölge; spekülatif sıçramalar yerine istikrarlı değer artışı sunan bir karaktere sahip.</p>
-
-<p>Bu yazıda 2026 yılı için Göktürk’te satın alma, kiralama ve yatırım beklentilerini detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="2026-makro-ekonomik-çerçeve-ve-bölgeye-etkisi">2026 Makro Ekonomik Çerçeve ve Bölgeye Etkisi</h2>
-
-<p>2026 yılında konut piyasasını şekillendiren ana faktörler:</p>
-
-<ul>
-  <li>Görece yüksek ama dengelenme sürecine girmiş faiz oranları</li>
-  <li>Enflasyonda kademeli yavaşlama beklentisi</li>
-  <li>Kredi kullanımının sınırlı kalması</li>
-  <li>Nakit alımların piyasada belirleyici olması</li>
-</ul>
-
-<p>Göktürk gibi üst segment bölgelerde krediye bağımlılık daha düşük olduğu için fiyatlar sert düşüşler yaşamaz; ancak hızlı sıçramalar da görülmez. Piyasa daha çok nakit gücü olan yatırımcılar ve yaşam odaklı alıcılar tarafından şekillenir.</p>
-
-<h2 id="2026-satılık-konut-piyasası">2026 Satılık Konut Piyasası</h2>
-
-<h3 id="arz-dinamikleri">Arz Dinamikleri</h3>
-
-<p>Göktürk’te arsa üretimi sınırlıdır. Orman alanlarına komşuluk ve planlı yapılaşma nedeniyle yoğunluk kontrol altındadır. Bu durum:</p>
-
-<ul>
-  <li>Fiyatların uzun vadede korunmasını sağlar</li>
-  <li>Arz patlaması riskini azaltır</li>
-  <li>Bölgeyi istikrarlı bir yatırım alanı yapar</li>
-</ul>
-
-<h3 id="fiyat-beklentisi">Fiyat Beklentisi</h3>
-
-<p>2026 yılında:</p>
-
-<ul>
-  <li>Nominal bazda %15 – %25 aralığında artış potansiyeli</li>
-  <li>Reel bazda daha sınırlı ama pozitif eğilim</li>
-  <li>Yeni projelerde eski yapılara göre daha yüksek prim potansiyeli</li>
-</ul>
-
-<p>Villa segmenti ise arzın sınırlı olması nedeniyle daha dirençli kalmaya devam eder.</p>
-
-<h2 id="2026-kiralık-konut-piyasası">2026 Kiralık Konut Piyasası</h2>
-
-<p>Göktürk’te kiracı profili oldukça nettir:</p>
-
-<ul>
-  <li>Beyaz yakalı profesyoneller</li>
-  <li>Aileler</li>
-  <li>Özel okul tercih eden ebeveynler</li>
-  <li>Şehir merkezine yakın ama daha sakin yaşam isteyenler</li>
-</ul>
-
-<h3 id="en-çok-talep-gören-konutlar">En Çok Talep Gören Konutlar</h3>
-
-<ul>
-  <li>2+1 ve 3+1 site içi daireler</li>
-  <li>Güvenlikli ve sosyal alanlı projeler</li>
-  <li>Otoparklı ve yeni binalar</li>
-</ul>
-
-<h3 id="kira-getirisi">Kira Getirisi</h3>
-
-<p>Göktürk’te kira çarpanı İstanbul ortalamasına kıyasla biraz daha yüksektir. Bunun nedeni satın alma fiyatlarının yüksek olmasıdır. Ancak:</p>
-
-<ul>
-  <li>Kiracı profili daha stabildir</li>
-  <li>Tahliye riski düşüktür</li>
-  <li>Uzun dönemli kiralama yaygındır</li>
-</ul>
-
-<p>Bu da yatırımcının gelir akışını daha öngörülebilir kılar.</p>
-
-<h2 id="2026-yatırım-stratejileri">2026 Yatırım Stratejileri</h2>
-
-<h3 id="1-değer-artışı-odaklı-yatırım">1. Değer Artışı Odaklı Yatırım</h3>
-
-<ul>
-  <li>Yeni projeler</li>
-  <li>Butik ve az katlı yapılar</li>
-  <li>Ormana yakın lokasyonlar</li>
-</ul>
-
-<p>Minimum 3–5 yıl perspektif gerekir.</p>
-
-<h3 id="2-kira--değer-artışı-hibrit-model">2. Kira + Değer Artışı Hibrit Model</h3>
-
-<p>En dengeli strateji budur:</p>
-
-<ul>
-  <li>2+1 veya 3+1 alım</li>
-  <li>Hemen kiraya verme</li>
-  <li>4–5 yıl elde tutma</li>
-</ul>
-
-<p>Hem düzenli nakit akışı hem de fiyat artışından fayda sağlanır.</p>
-
-<h3 id="3-villa-yatırımı">3. Villa Yatırımı</h3>
-
-<ul>
-  <li>Sınırlı arz</li>
-  <li>Prestijli segment</li>
-  <li>Uzun vadeli değer koruma</li>
-</ul>
-
-<p>Ancak likidite süresi daireye göre daha uzundur.</p>
-
-<h2 id="2026da-kimler-göktürkten-ev-almalı">2026’da Kimler Göktürk’ten Ev Almalı?</h2>
-
-<p>Bu bölüm, yatırım kararının en kritik kısmıdır. Çünkü Göktürk her yatırımcıya uygun değildir.</p>
-
-<h3 id="1-uzun-vadeli-düşünenler">1. Uzun Vadeli Düşünenler</h3>
-
-<p>Göktürk kısa vadeli al-sat bölgesi değildir.</p>
-
-<p>Eğer yatırım perspektifiniz:</p>
-
-<ul>
-  <li>Minimum 3 yıl</li>
-  <li>Tercihen 5 yıl ve üzeri</li>
-</ul>
-
-<p>ise bölge mantıklı bir tercihtir. Değer artışı zamana yayılır.</p>
-
-<h3 id="2-nakit-gücü-olanlar">2. Nakit Gücü Olanlar</h3>
-
-<p>2026’da kredi maliyetleri hâlâ yüksek seyredebilir. Göktürk’te:</p>
-
-<ul>
-  <li>Yüksek kredi kullanımı risklidir</li>
-  <li>Kaldıraçlı yatırım baskı yaratabilir</li>
-</ul>
-
-<p>Nakit alım yapan yatırımcılar hem pazarlık gücü elde eder hem de faiz riskinden korunur.</p>
-
-<h3 id="3-yaşam-kalitesini-önceliklendiren-aileler">3. Yaşam Kalitesini Önceliklendiren Aileler</h3>
-
-<p>Göktürk’ü yalnızca yatırım değil, yaşam alanı olarak düşünenler için bölge çok uygundur:</p>
-
-<ul>
-  <li>Düşük katlı yapılaşma</li>
-  <li>Güvenlikli siteler</li>
-  <li>Sosyal alan yoğunluğu</li>
-  <li>Planlı şehir dokusu</li>
-</ul>
-
-<p>Çocuklu aileler için uzun vadeli yerleşim bölgesi olarak güçlü bir alternatiftir.</p>
-
-<h3 id="4-portföyünü-koruma-amaçlı-yatırımcılar">4. Portföyünü Koruma Amaçlı Yatırımcılar</h3>
-
-<p>Göktürk:</p>
-
-<ul>
-  <li>Spekülatif değil</li>
-  <li>Ani çöküşlere açık değil</li>
-  <li>Talep profili daha stabil</li>
-</ul>
-
-<p>Bu nedenle yüksek riskli, hızlı kazanç beklentisi yerine servet koruma odaklı yatırımcılar için daha uygundur.</p>
-
-<h3 id="5-üst-segmentte-konumlanmak-i̇steyenler">5. Üst Segmentte Konumlanmak İsteyenler</h3>
-
-<p>Villa veya prestijli projelerde oturum düşünenler için Göktürk:</p>
-
-<ul>
-  <li>İstanbul merkezine göre daha sakin</li>
-  <li>Ancak erişilebilir</li>
-  <li>Marka değeri olan bir bölgedir</li>
-</ul>
-
-<p>Prestijli konut talebi burada süreklidir.</p>
-
-<h2 id="kimler-daha-temkinli-olmalı">Kimler Daha Temkinli Olmalı?</h2>
-
-<ul>
-  <li>1–2 yıl içinde satış planlayanlar</li>
-  <li>Yüksek kredi ile yatırım yapmak isteyenler</li>
-  <li>Sadece kısa vadeli prim hedefleyenler</li>
-  <li>Likidite ihtimali yüksek yatırımcılar</li>
-</ul>
-
-<p>Bu profil için Göktürk yerine daha hareketli gelişim bölgeleri daha uygun olabilir.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>2026 yılında Göktürk:</p>
-
-<ul>
-  <li>Hızlı zengin olma bölgesi değil</li>
-  <li>Kontrollü değer artışı sunan</li>
-  <li>Stabil kiracı talebi olan</li>
-  <li>Uzun vadede güvenli kabul edilebilecek</li>
-</ul>
-
-<p>bir emlak bölgesidir.</p>
-
-<p>Eğer yatırım kararınızı kısa vadeli spekülasyon yerine planlı büyüme ve varlık koruma üzerine kuruyorsanız, Göktürk 2026’da mantıklı seçeneklerden biri olmaya devam edecektir.</p>]]></content><author><name></name></author><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[2026 yılında Göktürk emlak piyasasında satın alma, kiralama ve yatırım fırsatları neler? Fiyat beklentileri, kira getirisi analizi ve kimler için mantıklı olduğu bu detaylı rehberde.]]></summary></entry><entry><title type="html">Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur?</title><link href="http://localhost:4000/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur" rel="alternate" type="text/html" title="Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur?" /><published>2026-02-16T00:00:00+03:00</published><updated>2026-02-16T00:00:00+03:00</updated><id>http://localhost:4000/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur</id><content type="html" xml:base="http://localhost:4000/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur"><![CDATA[<p>Evinizi satışa çıkarmaya karar verdiğinizde en kritik adım doğru fiyatı belirlemektir. Pek çok ev sahibi “yüksekten açayım, pazarlık payı olur” düşüncesiyle ilan verir. Ancak evi piyasa değerinin üzerinde fiyatlandırmak, çoğu zaman beklenenin tam tersine sonuçlar doğurur.</p>
-
-<p>Bu yazıda, konutu rayiç değerin üzerinde satışa çıkardığınızda neler olabileceğini, sürecin psikolojik ve finansal etkilerini ve doğru fiyat stratejisinin neden hayati olduğunu detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="1-i̇lanınız-i̇lk-günden-dezavantajlı-başlar">1. İlanınız İlk Günden Dezavantajlı Başlar</h2>
-
-<p>Günümüzde alıcılar, ilan siteleri sayesinde aynı bölgede yer alan benzer metrekaredeki tüm daireleri saniyeler içinde karşılaştırabiliyor. Örneğin İstanbul Göktürk’te 2+1 daireler ortalama 8 milyon TL seviyesindeyken siz 9,5 milyon TL’den ilana çıkarsanız, alıcı sizi aynı filtreleme ekranında daha uygun fiyatlı alternatiflerle birlikte görecektir.</p>
-
-<p>Sonuç:</p>
-
-<ul>
-  <li>İlanınız daha az tıklama alır</li>
-  <li>Favoriye eklenme oranı düşer</li>
-  <li>Telefon trafiği zayıf kalır</li>
-</ul>
-
-<p>İlk 2–3 hafta, bir konut ilanının en yoğun ilgi gördüğü dönemdir. Bu dönemi yanlış fiyatla kaçırırsanız, sonradan fiyat düşürmek çoğu zaman kaybı telafi etmez.</p>
-
-<h2 id="2-yanlış-ev-algısı-oluşur">2. “Yanlış Ev” Algısı Oluşur</h2>
-
-<p>Alıcı psikolojisinde şu soru oluşur:</p>
-
-<blockquote>
-  <p>“Bu ev neden bu kadar pahalı?”</p>
-</blockquote>
-
-<p>Eğer gerçekten ekstra bir değer sunmuyorsa (manzara, teras, yeni tadilat, özel lokasyon gibi), alıcılar genellikle iki ihtimali düşünür:</p>
-
-<ul>
-  <li>Satıcı gerçekçi değil</li>
-  <li>Evde görünmeyen bir sorun olabilir</li>
-</ul>
-
-<p>Bu algı, konutun pazardaki konumunu zayıflatır. Fiyat düştüğünde bile “Bu ev aylardır ilanda, demek ki bir sıkıntı var” düşüncesi oluşur.</p>
-
-<h2 id="3-i̇lan-süresi-uzadıkça-güven-kaybı-artar">3. İlan Süresi Uzadıkça Güven Kaybı Artar</h2>
-
-<p>Gayrimenkulde “bayat ilan” kavramı vardır. Bir konut ortalama 30–60 gün içinde satılabilecekken 120–150 gün ilanda kalırsa alıcıların gözünde değer kaybeder. Özellikle büyük şehirlerde (örneğin Ankara veya İzmir gibi piyasanın canlı olduğu bölgelerde) uzun süre satılamayan evler şüphe uyandırır.</p>
-
-<p>Bu durumda genellikle şu senaryo yaşanır:</p>
-
-<ol>
-  <li>Ev yüksek fiyattan ilana çıkar.</li>
-  <li>Talep gelmez.</li>
-  <li>Fiyat düşürülür.</li>
-  <li>Alıcılar daha da agresif pazarlık yapar.</li>
-</ol>
-
-<p>Sonuçta ev, başlangıçta makul bir fiyattan satılabilecekken daha düşük bir rakama elden çıkar.</p>
-
-<h2 id="4-finansal-maliyet-artar">4. Finansal Maliyet Artar</h2>
-
-<p>Evin satılmaması sadece zaman kaybı değildir, aynı zamanda maliyet demektir:</p>
-
-<ul>
-  <li>Aidat ödemeleri</li>
-  <li>Emlak vergisi</li>
-  <li>Boş evin bakım giderleri</li>
-  <li>Kredi faizi (varsa)</li>
-  <li>Alternatif yatırım fırsatlarının kaçırılması</li>
-</ul>
-
-<p>Özellikle yüksek faiz dönemlerinde, satıştan elde edeceğiniz parayı başka bir yatırımda değerlendirme planınız varsa, bekleme süresi ciddi fırsat maliyeti yaratır.</p>
-
-<h2 id="5-piyasa-değeri-nasıl-doğru-belirlenir">5. Piyasa Değeri Nasıl Doğru Belirlenir?</h2>
-
-<p>Doğru fiyat belirlerken şu kriterlere bakılmalıdır:</p>
-
-<ul>
-  <li>Aynı sitedeki son satış fiyatları</li>
-  <li>Aynı metrekare ve oda tipindeki aktif ilanlar</li>
-  <li>Bölgedeki arz-talep dengesi</li>
-  <li>Konut kredi faiz oranları</li>
-  <li>Bölgesel gelişmeler (metro, okul, AVM, yeni projeler vb.)</li>
-</ul>
-
-<p>Profesyonel bir değerleme yaklaşımı, ilanı “en yüksek fiyata” değil, “en hızlı ve en doğru fiyata” satmayı hedefler.</p>
-
-<h2 id="6-yüksek-fiyat-stratejisi-hiç-mi-i̇şe-yaramaz">6. Yüksek Fiyat Stratejisi Hiç mi İşe Yaramaz?</h2>
-
-<p>Bazı özel durumlarda işe yarayabilir:</p>
-
-<ul>
-  <li>Eşsiz bir manzara</li>
-  <li>Arzın çok kısıtlı olduğu butik lokasyon</li>
-  <li>Prestijli ve sınırlı sayıdaki projeler</li>
-  <li>Lüks segmentte duygusal alıcı kitlesi</li>
-</ul>
-
-<p>Ancak standart segment konutlarda bu strateji genellikle ters teper.</p>
-
-<h2 id="7-doğru-strateji-rekabetçi-başlangıç">7. Doğru Strateji: Rekabetçi Başlangıç</h2>
-
-<p>Gayrimenkulde en güçlü strateji şudur: <em>Doğru fiyatla başla, pazarı heyecanlandır</em>.</p>
-
-<p>Rekabetçi fiyatla çıkan ilanlar:</p>
-
-<ul>
-  <li>İlk haftalarda yoğun talep alır</li>
-  <li>Birden fazla alıcı oluşturabilir</li>
-  <li>Pazarlık gücünü artırır</li>
-  <li>Hatta bazen ilan fiyatının üzerinde satışla sonuçlanabilir</li>
-</ul>
-
-<p>Yani düşükten değil, doğru yerden başlamak kazandırır.</p>
-
-<h2 id="sonuç-piyasayı-dinleyin">Sonuç: Piyasayı Dinleyin</h2>
-
-<p>Eviniz sizin için çok değerli olabilir. Ancak piyasa duygusal değil, matematiksel çalışır.</p>
-
-<p>Piyasanın üzerinde fiyatlandırılan konut:</p>
-
-<ul>
-  <li>Daha geç satılır</li>
-  <li>Daha fazla pazarlık görür</li>
-  <li>Çoğu zaman daha düşük fiyata elden çıkar</li>
-</ul>
-
-<p>Doğru fiyatlandırılmış konut ise:</p>
-
-<ul>
-  <li>Hızlı ilgi görür</li>
-  <li>Daha güçlü pazarlık pozisyonu sağlar</li>
-  <li>Satış sürecini kısaltır</li>
-</ul>
-
-<p>Unutmayın: Gayrimenkulde kazanç, doğru alım kadar doğru satış stratejisinden de geçer.</p>]]></content><author><name></name></author><category term="göktürk emlak piyasası" /><category term="göktürk konut piyasası" /><summary type="html"><![CDATA[Bu yazıda, konutu rayiç değerin üzerinde satışa çıkardığınızda neler olabileceğini, sürecin psikolojik ve finansal etkilerini ve doğru fiyat stratejisinin neden hayati olduğunu detaylı şekilde ele alıyoruz.]]></summary></entry><entry><title type="html">2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?</title><link href="http://localhost:4000/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli" rel="alternate" type="text/html" title="2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?" /><published>2026-02-08T00:00:00+03:00</published><updated>2026-02-08T00:00:00+03:00</updated><id>http://localhost:4000/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli</id><content type="html" xml:base="http://localhost:4000/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli"><![CDATA[<p>İstanbul’un Eyüpsultan ilçesine bağlı Göktürk, özellikle doğayla iç içe yaşam arayan, ulaşım avantajı ve kent içi konforu bir arada isteyenler için cazip bir yerleşim alanı hâline geldi. 2026 itibarıyla bölge sadece yaşam alanı olarak değil; yatırım açısından da öne çıkan lokasyonlardan biri. Aşağıda “satın almak”, “kiralamak” veya “yatırım yapmak” perspektifinden Göktürk’ü detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="göktürk-gayrimenkul-piyasasının-genel-durumu">Göktürk Gayrimenkul Piyasasının Genel Durumu</h2>
-
-<p>Göktürk, Eyüpsultan’daki diğer bölgelere göre nispeten daha yüksek fiyatlı ve prestijli konut segmentinde yer alıyor. Belgrad Ormanı’na yakını, sosyal donatılar ve yaşam kalitesi ile talep görmeye devam ediyor. Göktürk’te villa ve lüks daire projeleri gibi üst segment seçenekler artarken, yeni konut projeleri de geliştirilmekte.</p>
-
-<p>Emlakjet verilerine göre 2026 Şubat ayında Göktürk Merkez’de satış ilanlarında fiyat aralığı oldukça geniş; 4.25 milyon TL’den başlayıp 360 milyon TL’ye kadar çıkıyor. Ortalama fiyat ise yaklaşık 20.6 milyon TL civarında.</p>
-
-<p>Bölgede fiyatların yıl sonunda yaklaşık %20–22 civarında artması bekleniyor, bu da nominal artışın sürmeye devam edeceğine işaret ediyor.</p>
-
-<h2 id="satın-al-perspektifi--uzun-vadeli-değer">“Satın Al” Perspektifi – Uzun Vadeli Değer</h2>
-
-<p><strong>Avantajlar:</strong></p>
-<ul>
-  <li><strong>Değer artışı potansiyeli:</strong> İstanbul’un yüksek talep gören bölgelerinden biri olarak Göktürk’te konut fiyatları kurumsal projeler ve altyapı yatırımlarıyla sürekli yukarı yönlü seyrediyor. Gayrimenkul değer artışının uzun vadede devam etmesi bekleniyor.</li>
-  <li><strong>Yaşam kalitesi:</strong> Belgrad Ormanı’na yakınlık, doğa, sosyal olanaklar ve havalimanına görece yakınlık alıcılar için cazibe unsuru.</li>
-</ul>
-
-<p><strong>Dezavantajlar:</strong></p>
-<ul>
-  <li><strong>Yüksek giriş maliyeti:</strong> Ortalama konut fiyatları İstanbul ortalamasının üzerinde seyrediyor ve bu, peşinat ve toplam yatırım tutarını artırıyor.</li>
-  <li><strong>Uzun amortisman:</strong> Göktürk’te amortisman süresi (yatırımın kira ile geri dönüşü) bölgeye göre uzun; ilanlara göre ortalama değer yaklaşık 18 yıl civarında.</li>
-</ul>
-
-<p><strong>Kimler için uygun?</strong></p>
-<ul>
-  <li>Uzun vadeli yatırımcılar</li>
-  <li>Yaşam alanı ile değer kazanımını birlikte değerlendirenler</li>
-  <li>Portföyünü reel varlıkla çeşitlendirmek isteyenler</li>
-</ul>
-
-<h2 id="kirala-perspektifi--kısa-ve-orta-vadeli-getiri">“Kirala” Perspektifi – Kısa ve Orta Vadeli Getiri</h2>
-
-<p><strong>Bölgenin kira dinamikleri:</strong></p>
-<ul>
-  <li>2025–2026 verilerine göre İstanbul genelinde kira fiyatları hızla yükselirken, Göktürk gibi gelişen semtlerde de kira talebi güçlü.</li>
-</ul>
-
-<p><strong>Göktürk özelinde:</strong></p>
-<ul>
-  <li>Ortalama aylık kira getirisi ilanlarda yaklaşık 84.000 TL civarında görülüyor.</li>
-  <li>Bu kira gelirleri ile rentabilite hesaplandığında bölgedeki kira-getiri oranı diğer merkezi semtlere kıyasla dengeli ama alım maliyeti yüksek olduğu için amortisman süresi uzuyor.</li>
-</ul>
-
-<p><strong>Avantajlar:</strong></p>
-<ul>
-  <li>Kira geliri sayesinde sabit nakit akışı sağlanabilir</li>
-  <li>Özellikle kısa vadeli kiralama (örneğin şirket personeli, expat kiracı) ile gelir artırılabilir</li>
-</ul>
-
-<p><strong>Dezavantajlar:</strong></p>
-<ul>
-  <li>Sistematik giderler (aidat, bakım, vergi vb.) kira gelirini azaltabilir</li>
-  <li>Yüksek alım maliyeti nedeniyle kira-getiri oranı bazen düşük kalabilir</li>
-</ul>
-
-<h2 id="yatırım-perspektifi--satın-al--kirala--çifte-getiri">“Yatırım” Perspektifi – Satın Al + Kirala = Çifte Getiri</h2>
-
-<p>Göktürk, İstanbul ortalamasında kira getirilerinin Türkiye genelindeki ortalamanın üzerinde olduğu bir bölge değil ama kira ve değer artışı dengesi açısından yatırımcılar tarafından inceleniyor.</p>
-
-<ul>
-  <li>İstanbul genelinde 2026’da ortalama brüt kira getirisi yaklaşık %7 civarında ve net kira getirisi %5–6 arasında.</li>
-  <li>Göktürk’te ilanlara göre kira-getiri oranının yüksek olduğu ilanlarda bile amortisman süresi uzun; bu da kira getirisi ile yatırımın geri dönüşünün yavaş olacağını gösteriyor.</li>
-</ul>
-
-<p><strong>Stratejiler:</strong></p>
-<ul>
-  <li><strong>Uzun vadeli tutma:</strong> En mantıklı yatırım, 8–10+ yıl boyunca tutmak olabilir.</li>
-  <li><strong>Kira + değer artışı:</strong> Kısa vadeli kira geliri ile finansal yük bir nebze hafifletilirken, uzun vadede fiyat artışı getirisi elde edilebilir.</li>
-  <li><strong>Yeni projeleri değerlendirme:</strong> Yeni konut projelerinde lansman fiyatları yatırımcıya avantaj sağlayabilir.</li>
-</ul>
-
-<h2 id="satın-al-vs-kirala-vs-yatırım-sonuç">Satın Al vs. Kirala vs. Yatırım: Sonuç</h2>
-
-<p><strong>Satın Al:</strong></p>
-<ul>
-  <li>Uzun vadede değer artışı yüksek potansiyel</li>
-  <li>Yüksek başlangıç maliyeti nedeniyle riskli olabilir</li>
-</ul>
-
-<p><strong>Kirala:</strong></p>
-<ul>
-  <li>Kira geliri cazip ama amortisman süresi uzun</li>
-  <li>Kısa vadede nakit akışı sağlayabilir</li>
-  <li>Özellikle profesyonel kira yönetimi ile operasyonel verim artırılabilir</li>
-</ul>
-
-<p><strong>Yatırım (Satın Al + Kirala):</strong></p>
-<ul>
-  <li>Kira ve değer artışı birlikte değerlendirildiğinde orta-uzun vadede en dengeli seçenek</li>
-  <li>Portföy çeşitlendirmesi açısından da uygun</li>
-</ul>
-
-<h2 id="tavsiye-listesi-pratik-kısa-öneriler">Tavsiye Listesi (Pratik Kısa Öneriler)</h2>
-
-<ul>
-  <li><strong>Yatırımcı için öneri:</strong> Satın alıp kiraya vermek, 8+ yıl içinde daha sağlam getiri sağlar.</li>
-  <li><strong>Yaşam ve yatırım iki yönlü:</strong> Göktürk hem yaşam kalitesi hem de değer artışı açısından cazip.</li>
-  <li><strong>Kira gelirini optimize et:</strong> Kısa vadede Airbnb veya şirket kiralamaları gibi seçenekler değerlendirilebilir.</li>
-  <li><strong>Bütçe planla:</strong> Yüksek giriş maliyeti nedeniyle finansal planlama ve nakit akışı yönetimi kritik.</li>
-</ul>]]></content><author><name></name></author><category term="göktürk kiralık daire" /><category term="göktürk satılık daire" /><category term="göktürk ev fiyatları" /><summary type="html"><![CDATA[2026’da İstanbul Eyüpsultan Göktürk’te satın almak mı, kiralamak mı yoksa yatırım yapmak mı daha mantıklı? Güncel fiyatlar, kira getirileri ve yatırım analizleriyle detaylı rehber.]]></summary></entry><entry><title type="html">Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?</title><link href="http://localhost:4000/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler" rel="alternate" type="text/html" title="Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler</id><content type="html" xml:base="http://localhost:4000/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler"><![CDATA[<p>Türkiye’de kentsel dönüşüm, özellikle büyük şehirlerde gayrimenkul piyasasını doğrudan etkileyen en önemli faktörlerden biri haline gelmiştir. İstanbul’un hızla gelişen ve yatırımcıların yoğun ilgi gösterdiği semtlerinden biri olan Göktürk’te de kentsel dönüşüm süreci, konut fiyatları üzerinde belirgin ve çok boyutlu etkiler yaratmaktadır. Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="kentsel-dönüşüm-nedir-ve-neden-önemlidir">Kentsel Dönüşüm Nedir ve Neden Önemlidir?</h2>
-
-<p>Kentsel dönüşüm, sadece eski yapıların yenilenmesi değil; aynı zamanda altyapı, ulaşım, sosyal donatılar ve yaşam kalitesinin iyileştirilmesi sürecidir. Bu süreç:</p>
-
-<ul>
-  <li>Depreme dayanıklı konut arzını artırır,</li>
-  <li>Çevresel standartları yükseltir,</li>
-  <li>Yeni yaşam alanları meydana getirir,</li>
-  <li>Bölgesel yatırım çekiciliğini artırır.</li>
-</ul>
-
-<p>Göktürk gibi hızla gelişen bölgelerde, bu dönüşüm ekonomik değeri yükselten bir katalizör haline gelir.</p>
-
-<h2 id="göktürkte-kentsel-dönüşümün-genel-görünümü">Göktürk’te Kentsel Dönüşümün Genel Görünümü</h2>
-
-<p>Son yıllarda Göktürk’te özellikle eski site ve apartmanların yenilenmesine yönelik dönüşüm projeleri dikkat çekmektedir. Bu projeler, genellikle daha az katlı, geniş peyzaj alanlarına sahip, modern mimarili konutlardan oluşmaktadır.</p>
-
-<p>Bölgenin doğaya yakın konumu, havalimanına ve ana arterlere olan ulaşım avantajı, kentsel dönüşüm projelerinin değer kazanmasını hızlandırmaktadır. Yenilenen yapılar, Göktürk’ün konut profilini üst segmente doğru taşımaktadır.</p>
-
-<h2 id="arz-ve-talep-dengesi-üzerindeki-etkiler">Arz ve Talep Dengesi Üzerindeki Etkiler</h2>
-
-<p>Kentsel dönüşümün konut fiyatları üzerindeki en temel etkisi arz-talep dengesini değiştirmesidir.</p>
-
-<ul>
-  <li><strong>Talep Artışı</strong>
-    <ul>
-      <li>Modern, daha kaliteli konutlara olan talep yükseliyor,</li>
-      <li>Ulaşım bağlantılarının iyileştirilmesi cepheyi daha cazip hale getiriyor,</li>
-      <li>Göktürk’te yaşayan ancak daha yeni projelerde konut alma planı olan alıcı sayısı artıyor.</li>
-    </ul>
-  </li>
-  <li><strong>Arz Azalması / Yenilenmesi</strong>
-    <ul>
-      <li>Dönüşüm sürecinde eski konutlar yıkılıp yeniden yapıldığı için kısa vadede arzda daralma yaşanabiliyor,</li>
-      <li>Ancak yeni projeler daha planlı ve yüksek nitelikli yapılar sundukça orta-uzun vadede arz kalitesi yükseliyor.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Bu durum, kısa vadede fiyatların yukarı yönlü baskı görmesine sebep olurken, orta-uzun vadede nitelikli konut stokunun artmasına bağlı olarak fiyat istikrarı sağlanıyor.</p>
-
-<h2 id="ev-fiyatlarına-etkisi-nasıl-olur">Ev Fiyatlarına Etkisi Nasıl Olur?</h2>
-
-<p>Göktürk’te kentsel dönüşümün ev fiyatlarına etkisi genellikle üç aşamada görülür.</p>
-
-<ol>
-  <li>İlk aşamada, dönüşüm kararı alınan bölgelerde beklenti fiyatlaması oluşur. Henüz inşaat başlamadan bile konut değerlerinde artış gözlemlenebilir.</li>
-  <li>İkinci aşamada, inşaat süreciyle birlikte bölgede fiyatlar dalgalı seyredebilir. Gürültü, ulaşım ve çevresel faktörler kısa vadeli tereddütlere yol açabilir.</li>
-  <li>Üçüncü ve en güçlü aşama ise projenin tamamlanmasıyla ortaya çıkar. Yeni konutların teslim edilmesi, çevre düzenlemesi ve sosyal alanların devreye girmesiyle birlikte metrekare fiyatları kalıcı olarak yükselir.</li>
-</ol>
-
-<h2 id="yatırımcılar-açısından-göktürkte-kentsel-dönüşüm">Yatırımcılar Açısından Göktürk’te Kentsel Dönüşüm</h2>
-
-<p>Göktürk, kentsel dönüşümün etkisiyle yatırımcılar için cazibesini artıran bir bölge konumuna geldi. Bunun arkasında yatan temel nedenler:</p>
-
-<ul>
-  <li><strong>Değer Artışı Potansiyeli</strong>: Kentsel dönüşüm projeleri tamamlandıkça bölgedeki konut değeri artışı eğilimi güçleniyor. Aynı metrekaredeki konutların dönüşümle birlikte özellik ve standartlarının yükselmesi, ortalama metrekare satış fiyatlarını yukarı çekiyor.</li>
-  <li><strong>Kira Getirisi</strong>: Yeni ve modern konutlara olan talep, kiralama piyasasını da hareketlendiriyor. Özellikle aileler ve profesyoneller daha yüksek standartlı yaşam alanlarını tercih ediyor, bu da kira gelirlerini olumlu etkiliyor.</li>
-</ul>
-
-<h2 id="kentsel-dönüşümle-birlikte-etkili-olan-diğer-faktörler">Kentsel Dönüşümle Birlikte Etkili Olan Diğer Faktörler</h2>
-
-<p>Kentsel dönüşümün fiyatlara etkisi, bazı tamamlayıcı unsurlarla daha da güçlenir.</p>
-
-<ul>
-  <li>Ulaşım projeleri, yeni yol bağlantıları ve toplu taşıma yatırımları, Göktürk’ün erişilebilirliğini artırarak fiyatları yukarı taşır.</li>
-  <li>Eğitim kurumları, sağlık merkezleri, parklar ve alışveriş alanları gibi sosyal donatıların artması, bölgenin cazibesini güçlendirir.</li>
-  <li>Markalı ve konsept projelerin yaygınlaşması, Göktürk’ün konut segmentini üst seviyeye çıkararak genel fiyat ortalamasını yükseltir.</li>
-</ul>
-
-<h2 id="kısa-ve-uzun-vadeli-etkilerin-karşılaştırılması">Kısa ve Uzun Vadeli Etkilerin Karşılaştırılması</h2>
-
-<p>Kısa vadede kentsel dönüşüm, fiyatlarda dalgalanma, arz azalması ve beklenti odaklı artışlar yaratabilir. Bu dönemde alım yapan yatırımcılar genellikle daha yüksek getiri potansiyeline sahip olur.</p>
-
-<p>Uzun vadede ise bölgenin çehresi değişir. Yeni yapı stoğu, artan yaşam kalitesi ve güçlenen altyapı sayesinde ev fiyatları daha istikrarlı ve sürdürülebilir bir artış eğilimine girer.</p>
-
-<h2 id="dikkat-edilmesi-gereken-riskler">Dikkat Edilmesi Gereken Riskler</h2>
-
-<p>Kentsel dönüşüm yatırım fırsatları barındırsa da riskler de içerir:</p>
-
-<ul>
-  <li>Proje gecikmeleri</li>
-  <li>Maliyet artışları</li>
-  <li>Altyapı planlarının gecikmesi</li>
-  <li>Spekülatif fiyat hareketleri</li>
-</ul>
-
-<p>Bu nedenle alıcıların, sadece kentsel dönüşüm beklentisiyle değil; gerçek piyasa verilerine, altyapı planlarına ve profesyonel danışmanlara dayanan kararlar alması önemlidir.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Göktürk’te kentsel dönüşüm, ev fiyatlarını hem kısa hem de uzun vadede yukarı yönlü etkileyen güçlü bir faktördür. Yenilenen yapı stoğu, artan yaşam kalitesi ve yatırımcı ilgisi sayesinde bölge, İstanbul’un en değerli yerleşim alanlarından biri olma yolunda ilerlemektedir.</p>
-
-<p>Doğru lokasyon ve doğru proje seçimiyle, kentsel dönüşüm süreci hem oturum hem de yatırım amaçlı alımlar için önemli avantajlar sunmaktadır.</p>]]></content><author><name></name></author><category term="göktürk kentsel dönüşüm" /><category term="göktürk ev fiyatları" /><category term="göktürk gayrimenkul yatırımı" /><summary type="html"><![CDATA[Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.]]></summary></entry></feed>
+<p>Unutmayın: <strong>Doğru fiyat, hızlı ve kazançlı satışın anahtarıdır.</strong></p>]]></content><author><name></name></author><category term="göktürk ücretsiz ekspertiz" /><category term="göktürk ücretsiz değerleme" /><summary type="html"><![CDATA[Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.]]></summary></entry></feed>
