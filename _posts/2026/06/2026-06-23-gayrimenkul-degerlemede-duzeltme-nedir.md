@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gayrimenkul Değerlemede Düzeltme Kavramı: Doğru Karşılaştırmanın Görünmeyen Gücü"
+title: "Gayrimenkul Değerlemede Düzeltme Nedir?"
 description: "Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız."
 tags: ["gayrimenkul değerleme"]
 ---
