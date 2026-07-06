@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="tr">
+
+<head>
+  
+  <meta charset="utf-8">
+  <title>Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır? </title>
+  <meta name="description"
+    content="Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/images/favicon.ico">
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="/">Göktürk Değerleme</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto">
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/">
+              Anasayfa
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/#ucretsiz-degerleme">
+              Ücretsiz Değerleme
+            </a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/#nasil-calisiyorum">
+              Nasıl Çalışıyorum?
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+  <!-- HERO -->
+<section class="hero d-flex align-items-center">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 py-5">
+        <h1 class="fw-bold">Göktürk’te Evinizin Gerçek Değerini Ücretsiz Öğrenin</h1>
+        <p class="lead mt-3">
+          Satmadan veya kiraya vermeden önce, bölge uzmanından net fiyat analizi.
+        </p>
+        <a href="#degerleme-formu" class="btn btn-primary btn-lg mt-3">Ücretsiz Değerleme Al</a>
+      </div>
+
+      <!-- FORM -->
+      <div class="col-lg-5 offset-lg-1">
+        <div class="card shadow-lg p-4" id="degerleme-formu">
+          <h5 class="mb-3">Hızlı Değerleme Formu</h5>
+          <form action="">
+            <div class="mb-3">
+              <select id="type" class="form-select">
+                <option value="">Gayrimenkul Türü</option>
+                <option value="Konut">Konut</option>
+                <option value="İşyeri">İşyeri</option>
+                <option value="Arsa">Arsa</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <input type="number" id="m2" class="form-control" placeholder="Metrekare">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="room" class="form-control" placeholder="Oda Sayısı (örn: 2+1)">
+            </div>
+            <div class="mb-3">
+              <input type="text" id="address" class="form-control" placeholder="Adres">
+            </div>
+            <div class="mb-3">
+              <input type="tel" id="phone" class="form-control" placeholder="Telefon Numaranız">
+            </div>
+            <button onclick="sendToWhatsApp()" class="btn btn-success w-100">Ücretsiz Değerleme Al</button>
+            <small class="text-muted d-block mt-2">
+              * <a href="/acik-riza-metni#page" class="text-black text-decoration-underline" target="_blank">Açık Rıza Metni</a>’ni okudum ve kabul ediyorum.
+            </small>
+          </form>
+          <script src="/assets/js/whatsapp.js"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="py-5 bg-white border-top" id="page">
+  <div class="container">
+    <h1 class="mb-3">Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır? </h1>
+    <p class="text-black-50"><time>05/07/2026</time></p>
+
+    <p>Otel değerlemesi, gayrimenkul değerleme sektörünün en karmaşık alanlarından biridir. Bunun temel nedeni, otellerin yalnızca bir bina ya da arsa olmaması; aynı zamanda gelir üreten ticari işletmeler olmasıdır. Bir konutun ya da ofisin değerini belirlemek çoğu zaman emsal satışlarla mümkünken, otellerde işletme performansı, doluluk oranı, oda fiyatları, marka değeri ve yönetim kalitesi gibi birçok değişken de değeri doğrudan etkiler.</p>
+
+<p>Bu nedenle otel değerlemesi, yalnızca fiziksel gayrimenkulü değil, işletmenin ekonomik performansını da analiz etmeyi gerektirir.</p>
+
+<p>Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.</p>
+
+<h2 id="otel-değerlemesi-neden-diğer-gayrimenkullerden-farklıdır">Otel Değerlemesi Neden Diğer Gayrimenkullerden Farklıdır?</h2>
+
+<ul>
+  <li>Bir daire satın alan kişi kira geliri elde eder.</li>
+  <li>Bir mağaza satın alan kişi kira getirisine bakar.</li>
+  <li>Ancak otel satın alan yatırımcı, <strong>işletmenin gelecekte yaratacağı nakit akışı</strong>nı satın alır.</li>
+</ul>
+
+<p>Yani yatırımcı şu sorunun cevabını arar: “Bu otel bana her yıl ne kadar para kazandıracak?”</p>
+
+<p>Bu nedenle oteller çoğunlukla gelir yaklaşımı ile değerlenir.</p>
+
+<h2 id="otel-değerini-etkileyen-faktörler">Otel Değerini Etkileyen Faktörler</h2>
+
+<p>Bir otelin piyasa değerini belirleyen başlıca unsurlar şunlardır:</p>
+
+<h3 id="1-lokasyon">1. Lokasyon</h3>
+
+<ul>
+  <li>Turistik bölge</li>
+  <li>İş merkezlerine yakınlık</li>
+  <li>Havalimanına uzaklık</li>
+  <li>Deniz manzarası</li>
+  <li>Kayak merkezi</li>
+  <li>Tarihi bölge</li>
+</ul>
+
+<p>Aynı büyüklükte iki otelin değeri yalnızca bulunduğu konum nedeniyle iki kat farklı olabilir.</p>
+
+<h3 id="2-oda-sayısı">2. Oda Sayısı</h3>
+
+<p>100 odalı bir otel ile 300 odalı bir otelin değerleme yaklaşımı benzerdir ancak gelir potansiyeli farklıdır.</p>
+
+<h3 id="3-doluluk-oranı">3. Doluluk Oranı</h3>
+
+<p>Yıl boyunca odaların kaçının satıldığı oldukça önemlidir.</p>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>%45 doluluk</li>
+  <li>%70 doluluk</li>
+  <li>%90 doluluk</li>
+</ul>
+
+<p>Bu fark milyonlarca liralık değer değişimine neden olabilir.</p>
+
+<h3 id="4-ortalama-oda-fiyatı-adr">4. Ortalama Oda Fiyatı (ADR)</h3>
+
+<p>ADR (Average Daily Rate)</p>
+
+<p><strong>Formül</strong></p>
+
+<p><em>ADR = Oda Geliri / Satılan Oda Sayısı</em></p>
+
+<p><strong>Örnek</strong></p>
+
+<ul>
+  <li>Yıllık oda geliri: 54 milyon TL</li>
+  <li>Satılan oda sayısı: 90.000</li>
+  <li>ADR: 54.000.000 / 90.000 = 600 TL</li>
+</ul>
+
+<h3 id="5-revpar">5. RevPAR</h3>
+
+<p>RevPAR (Revenue Per Available Room)</p>
+
+<p>Otel sektörünün en önemli göstergelerinden biridir.</p>
+
+<p><strong>Formül</strong></p>
+
+<p><em>RevPAR = ADR × Doluluk Oranı</em></p>
+
+<p><strong>Örnek</strong></p>
+
+<ul>
+  <li>ADR: 2.500 TL</li>
+  <li>Doluluk: %80</li>
+  <li>RevPAR: 2.500 × 0,80 = 2.000 TL</li>
+</ul>
+
+<p>Bu değer yatırımcıların ilk baktığı göstergelerden biridir.</p>
+
+<h3 id="6-marka-gücü">6. Marka Gücü</h3>
+
+<p>Uluslararası zincir oteller daha yüksek değere sahip olabilir.</p>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>Hilton</li>
+  <li>Marriott</li>
+  <li>Accor</li>
+  <li>Wyndham</li>
+</ul>
+
+<p>Marka etkisi nedeniyle aynı bina daha yüksek gelir yaratabilir.</p>
+
+<h2 id="otel-değerlemesinde-kullanılan-yöntemler">Otel Değerlemesinde Kullanılan Yöntemler</h2>
+
+<p>Genellikle üç yöntem kullanılır.</p>
+
+<ol>
+  <li><strong>Gelir Yaklaşımı</strong>: En yaygın yöntemdir.</li>
+  <li><strong>Emsal Karşılaştırma</strong>: Benzer otellerin satış fiyatları incelenir.</li>
+  <li><strong>Maliyet Yaklaşımı</strong>: Yeni yapılacak olsa maliyeti ne olur?</li>
+</ol>
+
+<p>Özellikle yeni otellerde destekleyici yöntem olarak kullanılır.</p>
+
+<h2 id="gelir-yaklaşımı-ile-otel-değerleme">Gelir Yaklaşımı ile Otel Değerleme</h2>
+
+<p>Bu yöntemde temel mantık şudur:</p>
+
+<p><strong>Değer = Gelecekteki Gelirlerin Bugünkü Değeri</strong></p>
+
+<ol>
+  <li>İlk olarak yıllık gelir hesaplanır.</li>
+  <li>Ardından giderler düşülür.</li>
+  <li>Sonrasında net işletme geliri bulunur.</li>
+  <li>En sonunda kapitalizasyon oranı veya indirgenmiş nakit akışı yöntemi uygulanır.</li>
+</ol>
+
+<h3 id="örnek">Örnek</h3>
+
+<p>100 odalı şehir oteli düşünelim.</p>
+
+<ul>
+  <li>Oda Sayısı: 100</li>
+  <li>Doluluk: %75</li>
+  <li>ADR: 3.000 TL</li>
+  <li>Yıl: 365 gün</li>
+</ul>
+
+<p><strong>Yıllık Satılan Oda Sayısı</strong></p>
+
+<p>100 × 365 × 0,75 = 27.375 oda</p>
+
+<p><strong>Oda Geliri</strong></p>
+
+<p>27.375 × 3.000 = 82.125.000 TL</p>
+
+<p><strong>Diğer Gelirler</strong></p>
+
+<ul>
+  <li>Restoran: 15 milyon TL</li>
+  <li>Toplantı salonu: 8 milyon TL</li>
+  <li>Spa: 5 milyon TL</li>
+  <li>Toplam: 28 milyon TL</li>
+</ul>
+
+<p><strong>Toplam Gelir</strong></p>
+
+<p>82.125.000 + 28.000.000 = 110.125.000 TL</p>
+
+<p><strong>Giderler</strong></p>
+
+<ul>
+  <li>Personel: 30 milyon</li>
+  <li>Enerji: 10 milyon</li>
+  <li>Bakım: 8 milyon</li>
+  <li>Pazarlama: 5 milyon</li>
+  <li>Diğer: 12 milyon</li>
+  <li>Toplam: 65 milyon TL</li>
+</ul>
+
+<p><strong>Net İşletme Geliri (NOI)</strong></p>
+
+<p>110.125.000 - 65.000.000 = 45.125.000 TL</p>
+
+<h2 id="kapitalizasyon-yöntemi">Kapitalizasyon Yöntemi</h2>
+
+<p>Varsayalım piyasa kapitalizasyon oranı: %10</p>
+
+<p><strong>Formül</strong></p>
+
+<p><em>Değer = NOI / Cap Rate</em></p>
+
+<p>45.125.000 / 0,10 = 451.250.000 TL</p>
+
+<p>Yaklaşık otel değeri: 451 milyon TL</p>
+
+<h2 id="i̇ndirgenmiş-nakit-akışı-dcf-yöntemi">İndirgenmiş Nakit Akışı (DCF) Yöntemi</h2>
+
+<p>Büyük yatırımlarda en doğru yöntemlerden biridir.</p>
+
+<p>Mantık şöyledir:</p>
+
+<ul>
+  <li>Önümüzdeki 10 yıllık gelir tahmin edilir.</li>
+  <li>Her yılın giderleri hesaplanır.</li>
+  <li>Nakit akışları iskonto edilir.</li>
+  <li>Son yıl terminal değer eklenir.</li>
+</ul>
+
+<h3 id="örnek-1">Örnek</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Yıl</th>
+      <th style="text-align: right">Net Nakit Akışı (TL)</th>
+      <th style="text-align: right">İskonto Faktörü (%12)</th>
+      <th style="text-align: right">Bugünkü Değer (TL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td style="text-align: right">45.000.000</td>
+      <td style="text-align: right">0,893</td>
+      <td style="text-align: right">40.185.000</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td style="text-align: right">47.250.000</td>
+      <td style="text-align: right">0,797</td>
+      <td style="text-align: right">37.658.250</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td style="text-align: right">49.612.500</td>
+      <td style="text-align: right">0,712</td>
+      <td style="text-align: right">35.324.100</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bu hesaplama 10 yıllık döneme uygulanır ve son yıl terminal değer eklenerek toplam bugünkü değer bulunur.</p>
+
+<h2 id="emsal-karşılaştırma-yaklaşımı">Emsal Karşılaştırma Yaklaşımı</h2>
+
+<p>Bazı durumlarda çevrede satılan benzer nitelikteki oteller incelenebilir.</p>
+
+<p>Örneğin;</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Otel</th>
+      <th style="text-align: right">Oda Sayısı</th>
+      <th style="text-align: right">Satış Fiyatı</th>
+      <th style="text-align: right">Oda Başına Değer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td style="text-align: right">80</td>
+      <td style="text-align: right">320 milyon TL</td>
+      <td style="text-align: right">4,00 milyon TL</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td style="text-align: right">120</td>
+      <td style="text-align: right">500 milyon TL</td>
+      <td style="text-align: right">4,17 milyon TL</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td style="text-align: right">150</td>
+      <td style="text-align: right">630 milyon TL</td>
+      <td style="text-align: right">4,20 milyon TL</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Her bir emsal için oda başına değer hesaplanır.</p>
+
+<p><strong>A Oteli</strong></p>
+
+<p>320 milyon TL / 80 oda = <strong>4,00 milyon TL/oda</strong></p>
+
+<p><strong>B Oteli</strong></p>
+
+<p>500 milyon TL / 120 oda = <strong>4,17 milyon TL/oda</strong></p>
+
+<p><strong>C Oteli</strong></p>
+
+<p>630 milyon TL / 150 oda = <strong>4,20 milyon TL/oda</strong></p>
+
+<p><strong>Ortalama Oda Başına Değer</strong></p>
+
+<p>(4,00 + 4,17 + 4,20) / 3 = <strong>4,12 milyon TL/oda</strong></p>
+
+<p>Değerlemesi yapılan otelin 100 odalı olduğu varsayılırsa;</p>
+
+<p>100 × 4,12 milyon TL = <strong>412 milyon TL</strong></p>
+
+<p>Dolayısıyla emsal karşılaştırma yaklaşımına göre otelin yaklaşık piyasa değeri <em>412 milyon TL</em> olarak hesaplanabilir.</p>
+
+<p>Ancak uygulamada bu değer doğrudan kullanılmaz. Emsaller ile değerlemesi yapılan otel arasında;</p>
+
+<ul>
+  <li>Konum farklılıkları</li>
+  <li>Denize veya şehir merkezine yakınlık</li>
+  <li>Marka veya zincir otel olup olmaması</li>
+  <li>Yapı yaşı</li>
+  <li>Yenileme durumu</li>
+  <li>Doluluk oranı</li>
+  <li>Ortalama oda fiyatı (ADR)</li>
+  <li>Sosyal tesisler (spa, kongre merkezi, restoran vb.)</li>
+  <li>Hizmet kalitesi</li>
+  <li>Arsa büyüklüğü</li>
+</ul>
+
+<p>gibi unsurlar için pozitif veya negatif düzeltmeler yapılır. Gerekli düzeltmeler tamamlandıktan sonra nihai emsal değeri belirlenir.</p>
+
+<p>Bu nedenle emsal karşılaştırma yaklaşımı, çoğu zaman gelir yaklaşımı ile birlikte kullanılarak elde edilen değerin piyasa açısından makul olup olmadığını test etmek amacıyla uygulanır.</p>
+
+<h2 id="maliyet-yaklaşımı">Maliyet Yaklaşımı</h2>
+
+<p>Varsayalım;</p>
+
+<ul>
+  <li>Arsa: 120 milyon TL</li>
+  <li>İnşaat: 250 milyon TL</li>
+  <li>Mobilya: 40 milyon TL</li>
+  <li>Mekanik sistemler: 35 milyon TL</li>
+  <li>Toplam maliyet: 445 milyon TL</li>
+  <li>Eskime payı: 40 milyon TL</li>
+</ul>
+
+<p>Nihai maliyet yaklaşımı: <strong>405 milyon TL</strong></p>
+
+<h2 id="değerlemede-dikkat-edilmesi-gereken-unsurlar">Değerlemede Dikkat Edilmesi Gereken Unsurlar</h2>
+
+<p>Otel değerlemesi yapılırken aşağıdaki unsurlar mutlaka analiz edilmelidir:</p>
+
+<ul>
+  <li>Sezonsallık etkisi</li>
+  <li>Bölgedeki turizm talebi</li>
+  <li>Rakip oteller</li>
+  <li>Ortalama oda fiyatları</li>
+  <li>Doluluk oranları</li>
+  <li>Yönetim sözleşmeleri</li>
+  <li>Franchise anlaşmaları</li>
+  <li>Marka katkısı</li>
+  <li>Yenileme (FF&amp;E) ihtiyacı</li>
+  <li>Yasal izinler ve ruhsatlar</li>
+  <li>Deprem ve yapı güvenliği</li>
+  <li>Enerji verimliliği</li>
+  <li>Dijital rezervasyon performansı</li>
+</ul>
+
+<h2 id="sık-yapılan-hatalar">Sık Yapılan Hatalar</h2>
+
+<ul>
+  <li><strong>Sadece binaya değer biçmek</strong>: Oteller gelir üreten işletmelerdir. İşletme performansını dikkate almadan yapılan değerleme eksik kalır.</li>
+  <li><strong>Olağanüstü gelirleri kalıcı kabul etmek</strong>: Büyük bir fuar, uluslararası organizasyon veya kısa süreli turizm patlaması nedeniyle oluşan yüksek gelirler sürekli kabul edilmemelidir.</li>
+  <li><strong>Sezonsallığı göz ardı etmek</strong>: Özellikle tatil bölgelerinde yaz aylarındaki yüksek doluluk oranlarına bakarak yıllık gelir tahmini yapmak yanıltıcı olabilir.</li>
+  <li><strong>Yenileme yatırımlarını hesaba katmamak</strong>: Mobilya, dekorasyon ve teknik ekipmanların belirli aralıklarla yenilenmesi gerekir. Bu maliyetler nakit akışını doğrudan etkiler.</li>
+  <li><strong>Yanlış kapitalizasyon oranı kullanmak</strong>: Risk seviyesi, otelin bulunduğu bölge, işletme yapısı ve piyasa koşulları dikkate alınmadan seçilen bir kapitalizasyon oranı, değeri ciddi ölçüde değiştirebilir.</li>
+</ul>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Otel değerlemesi, klasik gayrimenkul değerleme yöntemlerinden daha kapsamlı bir analiz gerektirir. Çünkü yatırımcı yalnızca fiziksel bir yapıyı değil, gelecekte gelir üretecek bir işletmeyi satın alır. Bu nedenle doğru bir değerleme için gelir yaklaşımı, emsal karşılaştırma ve maliyet yaklaşımı birlikte değerlendirilmeli; özellikle net işletme geliri, doluluk oranı, ADR, RevPAR ve geleceğe yönelik nakit akışları detaylı şekilde analiz edilmelidir.</p>
+
+<p>Profesyonel bir otel değerlemesi, yalnızca bugünkü piyasa koşullarını değil, otelin sürdürülebilir gelir potansiyelini de ortaya koyar. Bu sayede yatırımcılar, finans kuruluşları ve işletmeciler daha sağlıklı kararlar alabilir. Özellikle büyük ölçekli yatırımlarda indirgenmiş nakit akışı (DCF) analizi ile desteklenen, farklı değerleme yöntemlerinin birlikte kullanıldığı çalışmalar en güvenilir sonuçları sunar. Böylece ortaya çıkan değer, hem gayrimenkulün fiziksel özelliklerini hem de işletmenin ekonomik performansını yansıtan bütüncül bir değerlendirme niteliği taşır.</p>
+
+
+    
+      <p>
+        <b>Etiketler</b>:
+        
+          <a href="/etiketler#gayrimenkul değerleme">gayrimenkul değerleme</a>
+        
+      </p>
+    
+
+    <div class="row mt-5">
+      <div class="col-md-6">
+        
+          <a href="/gayrimenkulun-gercek-rakipleri-kim-degerlemede-rekabet-cevresini-dogru-okumak" class="text-black-50 text-decoration-none">
+            <b class="text-black">&laquo; Önceki</b><br>
+            Gayrimenkulün Gerçek Rakipleri Kim? Değerlemede Rekabet Çevresini Doğru Okumak
+          </a>
+        
+      </div>
+      
+      <div class="col-md-6 text-end">
+        
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+  <!-- FOOTER -->
+<footer class="bg-dark text-white py-4">
+  <div class="container text-center">
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="/kvkk#page">
+          KVKK
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="/gizlilik-politikasi#page">
+          Gizlilik Politikası
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link px-2 link-light text-decoration-underline" href="mailto:melih.kocaturk@icloud.com">
+          İletişim
+        </a>
+      </li>
+    </ul>
+    <div class="py-2">WhatsApp: <a href="tel:+905465665509" class="link-light">+90 546 566 55 09</a></div>
+    <hr class="my-4">
+    <div class="d-flex flex-column flex-sm-row justify-content-between">
+      <ul class="list-unstyled d-flex justify-content-center">
+        <li class="ms-2"><a class="link-light" href="/feed.xml" aria-label="rss"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill"
+              viewBox="0 0 16 16">
+              <path
+                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.linkedin.com/in/melihkocaturk/" aria-label="linkedin"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.instagram.com/melih_kocaturk_" aria-label="instagram"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+            </svg></a></li>
+        <li class="ms-2"><a class="link-light" href="https://www.youtube.com/@melihkocaturk" aria-label="youtube"> <svg
+              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube mx-1"
+              viewBox="0 0 16 16">
+              <path
+                d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
+            </svg></a></li>
+      </ul>
+      <div><small>© 2026 <a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>. Tüm hakları saklıdır.</small></div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
