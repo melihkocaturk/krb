@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır? "
+title: "Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?"
 description: "Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız."
 tags: ["gayrimenkul değerleme"]
 ---
