@@ -1,4 +1,276 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-07-08T02:35:02+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?</title><link href="http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir" rel="alternate" type="text/html" title="Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?" /><published>2026-07-07T00:00:00+03:00</published><updated>2026-07-07T00:00:00+03:00</updated><id>http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir</id><content type="html" xml:base="http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir"><![CDATA[<p>Bir tarım arazisinin üzerinde meyve ağaçlarının bulunması, o taşınmazın değerleme sürecini sıradan bir tarla değerlemesinden tamamen farklı hale getirir. Çünkü artık yalnızca toprağın değeri değil, toprağın ürettiği ekonomik gelir de değerin önemli bir parçası haline gelir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-07-10T02:12:01+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak</title><link href="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak" rel="alternate" type="text/html" title="Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak" /><published>2026-07-09T00:00:00+03:00</published><updated>2026-07-09T00:00:00+03:00</updated><id>http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak</id><content type="html" xml:base="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak"><![CDATA[<p>Gayrimenkul değerleme sürecinde her taşınmaz aynı yöntemle değerlenmez. Bazı taşınmazlar konumları, emsal satışları veya yeniden inşa maliyetleri üzerinden değerlendirilirken, gelir üreten gayrimenkullerde en önemli kriterlerden biri elde edilen gelir olur. İşte bu noktada <strong>kapitalizasyon oranı (Capitalization Rate - Cap Rate)</strong> devreye girer.</p>
+
+<p>Kapitalizasyon oranı, özellikle kira getirisi bulunan ticari gayrimenkuller, iş merkezleri, oteller, AVM’ler, sanayi tesisleri ve yatırım amaçlı konutların değerinin belirlenmesinde kullanılan en önemli finansal göstergelerden biridir.</p>
+
+<p>Bu yazıda kapitalizasyon oranının ne olduğunu, nasıl hesaplandığını, hangi faktörlerden etkilendiğini ve gayrimenkul değerlemede nasıl kullanıldığını detaylı şekilde inceleyeceğiz.</p>
+
+<h2 id="kapitalizasyon-oranı-nedir">Kapitalizasyon Oranı Nedir?</h2>
+
+<p>Kapitalizasyon oranı, bir gayrimenkulün yıllık net işletme gelirinin (Net Operating Income - NOI) taşınmazın piyasa değerine oranıdır.</p>
+
+<p>En basit ifadeyle; <em>Bir yatırımcının yaptığı yatırımın yıllık olarak yüzde kaç getiri sağladığını gösteren orandır</em>.</p>
+
+<p>Yüksek kapitalizasyon oranı genellikle daha yüksek getiri anlamına gelirken, aynı zamanda daha yüksek risk de taşıyabilir.</p>
+
+<p>Düşük kapitalizasyon oranı ise daha güvenli ancak daha düşük getirili yatırımları ifade eder.</p>
+
+<h2 id="kapitalizasyon-oranı-formülü">Kapitalizasyon Oranı Formülü</h2>
+
+<p>Temel formül oldukça basittir.</p>
+
+<p><strong>Kapitalizasyon Oranı = Net İşletme Geliri / Gayrimenkul Değeri</strong></p>
+
+<p>veya</p>
+
+<p><strong>Gayrimenkul Değeri = Net İşletme Geliri / Kapitalizasyon Oranı</strong></p>
+
+<p>Değerleme uzmanları çoğu zaman ikinci formülü kullanarak taşınmazın değerini hesaplar.</p>
+
+<h2 id="net-i̇şletme-geliri-noi-nedir">Net İşletme Geliri (NOI) Nedir?</h2>
+
+<p>Kapitalizasyon oranının doğru hesaplanabilmesi için öncelikle net işletme gelirinin belirlenmesi gerekir.</p>
+
+<p>Net işletme geliri;</p>
+
+<p><strong>Yıllık Kira Geliri</strong></p>
+
+<p>eksi</p>
+
+<ul>
+  <li>Boş kalma kayıpları</li>
+  <li>Tahsil edilemeyen kiralar</li>
+  <li>İşletme giderleri</li>
+  <li>Yönetim giderleri</li>
+  <li>Bakım ve onarım giderleri</li>
+  <li>Sigorta giderleri</li>
+</ul>
+
+<p>sonucunda elde edilen yıllık net gelirdir.</p>
+
+<p>Burada dikkat edilmesi gereken nokta;</p>
+
+<ul>
+  <li>kredi faizleri,</li>
+  <li>amortisman,</li>
+  <li>vergi giderleri</li>
+</ul>
+
+<p>NOI hesabına dahil edilmez.</p>
+
+<h2 id="uygulamalı-örnek">Uygulamalı Örnek</h2>
+
+<p>Bir iş merkezindeki ofis yıllık 720.000 TL kira geliri sağlamaktadır.</p>
+
+<p>Yıllık işletme giderleri ise 120.000 TL’dir.</p>
+
+<p>Net işletme geliri: 720.000 - 120.000 = <strong>600.000 TL</strong></p>
+
+<p>Bölgede benzer ofisler için kapitalizasyon oranı %8 olarak belirlenmiştir.</p>
+
+<p>Gayrimenkul değeri: 600.000 / 0,08 = <strong>7.500.000 TL</strong></p>
+
+<p>Bu durumda gelir yaklaşımına göre ofisin piyasa değeri yaklaşık <strong>7,5 milyon TL</strong> olarak hesaplanır.</p>
+
+<h2 id="kapitalizasyon-oranı-nasıl-belirlenir">Kapitalizasyon Oranı Nasıl Belirlenir?</h2>
+
+<p>En kritik konu budur.</p>
+
+<p>Kapitalizasyon oranı rastgele seçilmez.</p>
+
+<p>Profesyonel değerleme uzmanları bu oranı belirlerken birçok veriyi birlikte değerlendirir.</p>
+
+<p>Bunlar arasında;</p>
+
+<ul>
+  <li>Bölgedeki emsal satışlar</li>
+  <li>Benzer gayrimenkullerin kira getirileri</li>
+  <li>Ekonomik koşullar</li>
+  <li>Faiz oranları</li>
+  <li>Enflasyon</li>
+  <li>Yatırımcı beklentileri</li>
+  <li>Gayrimenkulün risk seviyesi</li>
+  <li>Kiracı kalitesi</li>
+  <li>Kira sözleşmesinin süresi</li>
+  <li>Doluluk oranı</li>
+  <li>Yapının yaşı</li>
+  <li>Bakım durumu</li>
+</ul>
+
+<p>bulunmaktadır.</p>
+
+<p>Dolayısıyla aynı şehirde bulunan iki farklı binanın kapitalizasyon oranı birbirinden oldukça farklı olabilir.</p>
+
+<h2 id="emsal-yöntemiyle-kapitalizasyon-oranı-hesabı">Emsal Yöntemiyle Kapitalizasyon Oranı Hesabı</h2>
+
+<p>Piyasadan veri elde edilebiliyorsa kapitalizasyon oranı şu şekilde hesaplanabilir.</p>
+
+<p>Bir AVM içerisindeki mağaza;</p>
+
+<ul>
+  <li>Satış fiyatı: 15.000.000 TL</li>
+  <li>Net yıllık geliri: 1.050.000 TL</li>
+  <li>Kapitalizasyon oranı: 1.050.000 / 15.000.000 = <strong>%7</strong></li>
+</ul>
+
+<p>Bölgede benzer mağazalar için yaklaşık %7 oranı kullanılabilir.</p>
+
+<h2 id="kapitalizasyon-oranı-neden-değişir">Kapitalizasyon Oranı Neden Değişir?</h2>
+
+<p>Kapitalizasyon oranı ekonomik şartlara göre sürekli değişebilir.</p>
+
+<p>Örneğin;</p>
+
+<p>Faizlerin yükseldiği dönemlerde yatırımcı daha yüksek getiri bekler.</p>
+
+<p>Bu durumda kapitalizasyon oranı yükselir.</p>
+
+<p>Kapitalizasyon oranı yükseldiğinde ise aynı kira gelirine sahip gayrimenkulün değeri düşer.</p>
+
+<p>Tam tersi durumda;</p>
+
+<p>Faizler düştüğünde yatırımcı daha düşük getiriye razı olabilir.</p>
+
+<p>Bu durumda kapitalizasyon oranı azalır.</p>
+
+<p>Kapitalizasyon oranı düştüğünde gayrimenkul değeri yükselir.</p>
+
+<p>Bu nedenle ekonomik gelişmeler değerleme sonuçlarını doğrudan etkiler.</p>
+
+<h2 id="kapitalizasyon-oranı-ile-gayrimenkul-değeri-arasındaki-i̇lişki">Kapitalizasyon Oranı ile Gayrimenkul Değeri Arasındaki İlişki</h2>
+
+<p>Aşağıdaki örnek ilişkiyi açık şekilde gösterir.</p>
+
+<p>Yıllık net gelir: <strong>1.000.000 TL</strong></p>
+
+<p>%5 kapitalizasyon oranı</p>
+
+<p>Değer = 20.000.000 TL</p>
+
+<p>%6 kapitalizasyon oranı</p>
+
+<p>Değer = 16.666.667 TL</p>
+
+<p>%7 kapitalizasyon oranı</p>
+
+<p>Değer = 14.285.714 TL</p>
+
+<p>%8 kapitalizasyon oranı</p>
+
+<p>Değer = 12.500.000 TL</p>
+
+<p>Görüldüğü gibi yalnızca oranın değişmesi bile milyonlarca liralık değer farkı oluşturabilir.</p>
+
+<h2 id="hangi-gayrimenkullerde-kullanılır">Hangi Gayrimenkullerde Kullanılır?</h2>
+
+<p>Kapitalizasyon oranı özellikle gelir üreten taşınmazlarda tercih edilir.</p>
+
+<p>En yaygın kullanım alanları şunlardır:</p>
+
+<ul>
+  <li>Ofis binaları</li>
+  <li>İş merkezleri</li>
+  <li>Alışveriş merkezleri</li>
+  <li>Oteller</li>
+  <li>Fabrikalar</li>
+  <li>Depolar</li>
+  <li>Lojistik tesisleri</li>
+  <li>Akaryakıt istasyonları</li>
+  <li>Kiralık apartmanlar</li>
+  <li>Öğrenci yurtları</li>
+  <li>Sağlık tesisleri</li>
+  <li>Özel eğitim kurumları</li>
+</ul>
+
+<p>Gelir üretmeyen arsa veya boş arazilerde ise genellikle bu yöntem kullanılmaz.</p>
+
+<h2 id="doğrudan-kapitalizasyon-ve-gelir-i̇ndirgeme-analizi-arasındaki-fark">Doğrudan Kapitalizasyon ve Gelir İndirgeme Analizi Arasındaki Fark</h2>
+
+<p>Gelir yaklaşımı içerisinde iki farklı yöntem bulunur.</p>
+
+<h3 id="doğrudan-kapitalizasyon">Doğrudan Kapitalizasyon</h3>
+
+<p>Tek yıllık net gelire bakılır.</p>
+
+<p>Gelirlerin gelecekte çok değişmeyeceği varsayılır.</p>
+
+<p>Hesaplama daha pratiktir.</p>
+
+<h3 id="i̇ndirgenmiş-nakit-akımı-dcf">İndirgenmiş Nakit Akımı (DCF)</h3>
+
+<p>Birden fazla yılın gelirleri tahmin edilir.</p>
+
+<p>Her yılın gelirleri bugünkü değere indirgenir.</p>
+
+<p>Özellikle büyük yatırım projelerinde tercih edilir.</p>
+
+<p>Otel, AVM, karma projeler ve büyük ticari yatırımlarda çoğunlukla DCF yöntemi uygulanmaktadır.</p>
+
+<h2 id="kapitalizasyon-oranını-etkileyen-risk-unsurları">Kapitalizasyon Oranını Etkileyen Risk Unsurları</h2>
+
+<p>Yatırımcı açısından risk arttıkça beklenen getiri de artar.</p>
+
+<p>Bu nedenle aşağıdaki durumlar kapitalizasyon oranını yükseltebilir.</p>
+
+<ul>
+  <li>Deprem riski yüksek bölgeler</li>
+  <li>Eski yapılar</li>
+  <li>Tek kiracıya bağımlı binalar</li>
+  <li>Boş kalma ihtimali yüksek yapılar</li>
+  <li>Ekonomik belirsizlik</li>
+  <li>Kısa süreli kira sözleşmeleri</li>
+  <li>Hukuki sorunlar</li>
+  <li>Düşük talep gören bölgeler</li>
+</ul>
+
+<p>Buna karşılık;</p>
+
+<ul>
+  <li>Merkezi lokasyon</li>
+  <li>Güçlü kurumsal kiracılar</li>
+  <li>Uzun vadeli kira sözleşmeleri</li>
+  <li>Düzenli kira artışları</li>
+  <li>Düşük boşluk oranı</li>
+</ul>
+
+<p>kapitalizasyon oranını düşürerek gayrimenkul değerini artırabilir.</p>
+
+<h2 id="kapitalizasyon-oranının-avantajları">Kapitalizasyon Oranının Avantajları</h2>
+
+<p>Bu yöntem birçok avantaj sunar.</p>
+
+<ul>
+  <li>Hesaplanması kolaydır.</li>
+  <li>Gelir odaklı yatırım kararlarını destekler.</li>
+  <li>Ticari gayrimenkullerde oldukça güvenilir sonuçlar verir.</li>
+  <li>Uluslararası yatırımcılar tarafından yaygın şekilde kullanılır.</li>
+  <li>Farklı yatırımların karşılaştırılmasını kolaylaştırır.</li>
+</ul>
+
+<h2 id="dezavantajları">Dezavantajları</h2>
+
+<p>Her yöntemde olduğu gibi bazı sınırlamaları vardır.</p>
+
+<ul>
+  <li>Yanlış kira verileri sonucu doğrudan etkiler.</li>
+  <li>Yanlış kapitalizasyon oranı ciddi değer hatalarına neden olabilir.</li>
+  <li>Gelecekteki gelir değişimlerini dikkate almaz.</li>
+  <li>Büyük ekonomik dalgalanmalarda yanıltıcı olabilir.</li>
+  <li>Boş kalan veya yeni inşa edilen projelerde uygulanması zordur.</li>
+</ul>
+
+<h2 id="değerleme-uzmanları-kapitalizasyon-oranını-nasıl-kullanır">Değerleme Uzmanları Kapitalizasyon Oranını Nasıl Kullanır?</h2>
+
+<p>Lisanslı gayrimenkul değerleme uzmanları, gelir yaklaşımını uygularken öncelikle taşınmazın sürdürülebilir net işletme gelirini hesaplar. Ardından benzer özelliklere sahip gayrimenkullerin satış ve kira verilerini inceleyerek uygun kapitalizasyon oranını belirler. Elde edilen değer, emsal karşılaştırma yaklaşımı ve maliyet yaklaşımı gibi diğer yöntemlerle karşılaştırılarak nihai değer görüşü oluşturulur.</p>
+
+<p>Bu çok yönlü değerlendirme sayesinde tek bir yönteme bağlı kalınmaz ve piyasa koşullarını daha doğru yansıtan bir değer tespiti yapılır.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Kapitalizasyon oranı, gelir getiren gayrimenkullerin değerinin belirlenmesinde en önemli finansal göstergelerden biridir. Doğru hesaplanmış bir net işletme geliri ve piyasa koşullarına uygun belirlenmiş bir kapitalizasyon oranı, yatırımın gerçek değerine ulaşılmasını sağlar.</p>
+
+<p>Ancak kapitalizasyon oranı sabit bir değer değildir. Faiz oranları, enflasyon, ekonomik beklentiler, bölgesel riskler, kiracı profili ve piyasa dinamikleri zaman içinde bu oranı değiştirebilir. Bu nedenle profesyonel gayrimenkul değerleme çalışmalarında güncel piyasa verilerinin kullanılması büyük önem taşır.</p>
+
+<p>Yatırımcılar açısından kapitalizasyon oranını doğru yorumlamak, yalnızca bir taşınmazın bugünkü değerini anlamaya değil, aynı zamanda yatırımın risk-getiri dengesini değerlendirmeye de yardımcı olur. Bu nedenle gelir odaklı gayrimenkul yatırımlarında kapitalizasyon oranı, karar verme sürecinin vazgeçilmez unsurlarından biri olarak kabul edilir.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda kapitalizasyon oranının ne olduğunu, nasıl hesaplandığını, hangi faktörlerden etkilendiğini ve gayrimenkul değerlemede nasıl kullanıldığını detaylı şekilde inceleyeceğiz.]]></summary></entry><entry><title type="html">Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?</title><link href="http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir" rel="alternate" type="text/html" title="Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?" /><published>2026-07-07T00:00:00+03:00</published><updated>2026-07-07T00:00:00+03:00</updated><id>http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir</id><content type="html" xml:base="http://localhost:4000/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir"><![CDATA[<p>Bir tarım arazisinin üzerinde meyve ağaçlarının bulunması, o taşınmazın değerleme sürecini sıradan bir tarla değerlemesinden tamamen farklı hale getirir. Çünkü artık yalnızca toprağın değeri değil, toprağın ürettiği ekonomik gelir de değerin önemli bir parçası haline gelir.</p>
 
 <p>Örneğin aynı büyüklükte iki tarım arazisini ele alalım. Birinde hiçbir üretim yapılmayan boş bir tarla bulunurken, diğerinde tam verim çağındaki ceviz ağaçları yer alıyor olsun. Bu iki taşınmazın yalnızca arsa değeri benzer olsa bile piyasa değerleri birbirinden ciddi şekilde farklı olacaktır. Bunun nedeni, meyve bahçesinin gelecekte düzenli gelir üretebilmesidir.</p>
 
@@ -701,246 +973,7 @@
 
 <p>Otel değerlemesi, klasik gayrimenkul değerleme yöntemlerinden daha kapsamlı bir analiz gerektirir. Çünkü yatırımcı yalnızca fiziksel bir yapıyı değil, gelecekte gelir üretecek bir işletmeyi satın alır. Bu nedenle doğru bir değerleme için gelir yaklaşımı, emsal karşılaştırma ve maliyet yaklaşımı birlikte değerlendirilmeli; özellikle net işletme geliri, doluluk oranı, ADR, RevPAR ve geleceğe yönelik nakit akışları detaylı şekilde analiz edilmelidir.</p>
 
-<p>Profesyonel bir otel değerlemesi, yalnızca bugünkü piyasa koşullarını değil, otelin sürdürülebilir gelir potansiyelini de ortaya koyar. Bu sayede yatırımcılar, finans kuruluşları ve işletmeciler daha sağlıklı kararlar alabilir. Özellikle büyük ölçekli yatırımlarda indirgenmiş nakit akışı (DCF) analizi ile desteklenen, farklı değerleme yöntemlerinin birlikte kullanıldığı çalışmalar en güvenilir sonuçları sunar. Böylece ortaya çıkan değer, hem gayrimenkulün fiziksel özelliklerini hem de işletmenin ekonomik performansını yansıtan bütüncül bir değerlendirme niteliği taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu"><![CDATA[<p>Gayrimenkul değerleme süreci dışarıdan bakıldığında yalnızca benzer ilanlara bakılarak yapılan basit bir fiyat belirleme çalışması gibi görünebilir. Oysa profesyonel bir değerleme çalışmasının en kritik aşamalarından biri, ulaşılabilen veriler arasından hangilerinin gerçekten kullanılmaya uygun olduğuna karar vermektir.</p>
-
-<p>Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez. Aksine, yanlış seçilen birkaç veri bile taşınmazın değerini ciddi şekilde hatalı gösterebilir.</p>
-
-<p>Bu nedenle değerleme uzmanının görevi yalnızca veri toplamak değil, aynı zamanda verileri filtrelemek, analiz etmek ve en uygun olanları kullanmaktır.</p>
-
-<h2 id="değerleme-neden-doğru-veri-seçimine-bağlıdır">Değerleme Neden Doğru Veri Seçimine Bağlıdır?</h2>
-
-<p>Bir taşınmazın değeri, piyasadaki benzer taşınmazlarla karşılaştırılarak belirlenir. Ancak hiçbir taşınmaz diğerinin birebir aynısı değildir.</p>
-
-<p>İki daire aynı mahallede bulunabilir. Aynı metrekareye sahip olabilir. Hatta aynı binada yer alabilir. Buna rağmen biri caddeye bakarken diğeri arka cephede olabilir. Biri tamamen yenilenmişken diğeri yıllardır tadilat görmemiş olabilir.</p>
-
-<p>Bu nedenle ulaşılan her satış veya ilan bilgisi doğrudan karşılaştırmaya uygun değildir.</p>
-
-<p>Değerleme uzmanı önce elindeki verileri değerlendirir, ardından gerçekten karşılaştırılabilir olanları seçer.</p>
-
-<h2 id="ulaşılabilen-veri-türleri">Ulaşılabilen Veri Türleri</h2>
-
-<p>Profesyonel bir değerleme çalışmasında farklı kaynaklardan bilgi toplanabilir.</p>
-
-<p>Bunlardan bazıları şunlardır:</p>
-
-<ul>
-  <li>Satılık emlak ilanları</li>
-  <li>Gerçekleşmiş satış fiyatları</li>
-  <li>Tapu kayıtları</li>
-  <li>Belediye verileri</li>
-  <li>İmar durumu</li>
-  <li>Bölgedeki arz-talep dengesi</li>
-  <li>Kira piyasası</li>
-  <li>Nüfus ve demografik veriler</li>
-  <li>Ulaşım yatırımları</li>
-  <li>Ticari gelişmeler</li>
-  <li>Bölgesel ekonomik göstergeler</li>
-  <li>Banka ekspertiz raporları</li>
-  <li>Daha önce hazırlanmış değerleme raporları</li>
-</ul>
-
-<p>Ancak tüm bu bilgiler aynı ağırlıkta değerlendirilmez.</p>
-
-<h2 id="i̇lan-fiyatı-ile-satış-fiyatı-aynı-şey-değildir">İlan Fiyatı ile Satış Fiyatı Aynı Şey Değildir</h2>
-
-<p>Değerleme sürecinde en sık yapılan hatalardan biri ilan fiyatlarını doğrudan piyasa değeri kabul etmektir.</p>
-
-<p>İlan fiyatı satıcının beklentisini gösterir.</p>
-
-<p>Gerçek satış fiyatı ise alıcı ile satıcının uzlaştığı rakamdır.</p>
-
-<p>Örneğin aynı sokakta üç dairenin şu fiyatlarla ilana çıktığını düşünelim.</p>
-
-<ul>
-  <li>8.500.000 TL</li>
-  <li>8.750.000 TL</li>
-  <li>9.000.000 TL</li>
-</ul>
-
-<p>İlk bakışta bölgedeki piyasa değeri yaklaşık 8,7 milyon TL gibi görünebilir.</p>
-
-<p>Ancak satış kayıtları incelendiğinde şu tablo ortaya çıkabilir.</p>
-
-<ul>
-  <li>İlk daire 7.900.000 TL’ye satılmıştır.</li>
-  <li>İkinci daire 8.050.000 TL’ye satılmıştır.</li>
-  <li>Üçüncü daire ise aylarca satılamamıştır.</li>
-</ul>
-
-<p>Bu durumda yalnızca ilanlara bakılarak yapılan değerleme gerçeği yansıtmayacaktır.</p>
-
-<h2 id="en-yakın-taşınmaz-her-zaman-en-doğru-karşılaştırma-değildir">En Yakın Taşınmaz Her Zaman En Doğru Karşılaştırma Değildir</h2>
-
-<p>Birçok kişi aynı sokaktaki dairelerin mutlaka en iyi emsal olduğunu düşünür.</p>
-
-<p>Oysa bazen birkaç sokak ötede bulunan bir taşınmaz çok daha doğru karşılaştırma sağlayabilir.</p>
-
-<p>Örneğin;</p>
-
-<p>Aynı sokakta bulunan daire:</p>
-
-<ul>
-  <li>20 yaşında bina</li>
-  <li>Giriş kat</li>
-  <li>Kuzey cephe</li>
-  <li>Kapalı otopark yok</li>
-</ul>
-
-<p>İki sokak ötede bulunan daire:</p>
-
-<ul>
-  <li>Aynı yaşta bina</li>
-  <li>Aynı kat</li>
-  <li>Aynı cephe</li>
-  <li>Aynı sosyal imkanlar</li>
-  <li>Benzer plan</li>
-</ul>
-
-<p>Bu durumda ikinci taşınmaz karşılaştırma açısından daha güçlü bir emsal olabilir.</p>
-
-<p>Yakınlık tek başına yeterli değildir.</p>
-
-<h2 id="olağan-dışı-satışlar-dikkate-alınmamalıdır">Olağan Dışı Satışlar Dikkate Alınmamalıdır</h2>
-
-<p>Bazı satışlar piyasa koşullarını yansıtmaz.</p>
-
-<p>Örneğin;</p>
-
-<ul>
-  <li>Aile içi satışlar</li>
-  <li>Acil nakit ihtiyacı nedeniyle düşük fiyatlı satışlar</li>
-  <li>İcra satışları</li>
-  <li>Hisseli satışlar</li>
-  <li>Takas işlemleri</li>
-  <li>Toplu portföy satışları</li>
-</ul>
-
-<p>Bu tür işlemler normal piyasa davranışını temsil etmediği için değerleme çalışmasında dikkatli değerlendirilmelidir.</p>
-
-<p>Örneğin piyasada benzer daireler ortalama 10 milyon TL seviyesindeyken bir dairenin 7 milyon TL’ye satılması mutlaka piyasanın düştüğünü göstermez.</p>
-
-<p>Satışın arkasındaki neden araştırılmalıdır.</p>
-
-<h2 id="güncelliğini-kaybetmiş-veriler-yanıltıcı-olabilir">Güncelliğini Kaybetmiş Veriler Yanıltıcı Olabilir</h2>
-
-<p>Gayrimenkul piyasası sürekli değişmektedir.</p>
-
-<p>Bir yıl önce yapılan satış bugünkü piyasa şartlarını yansıtmayabilir.</p>
-
-<p>Örneğin;</p>
-
-<ul>
-  <li>Metro hattının açılması</li>
-  <li>Yeni alışveriş merkezinin hizmete girmesi</li>
-  <li>Bölgeye üniversite yapılması</li>
-  <li>Faiz oranlarının değişmesi</li>
-  <li>Konut kredisi kampanyaları</li>
-  <li>Bölgedeki büyük kentsel dönüşüm projeleri</li>
-</ul>
-
-<p>Bu gelişmeler kısa sürede fiyatların önemli ölçüde değişmesine neden olabilir.</p>
-
-<p>Bu nedenle mümkün olduğunca güncel veriler tercih edilir.</p>
-
-<h2 id="benzerlik-seviyesi-en-önemli-kriterdir">Benzerlik Seviyesi En Önemli Kriterdir</h2>
-
-<p>Karşılaştırma yapılırken şu özellikler mümkün olduğunca benzer olmalıdır.</p>
-
-<ul>
-  <li>Konum</li>
-  <li>Metrekare</li>
-  <li>Yapı yaşı</li>
-  <li>Kat durumu</li>
-  <li>Cephe</li>
-  <li>Manzara</li>
-  <li>Otopark</li>
-  <li>Asansör</li>
-  <li>Site özellikleri</li>
-  <li>Kullanım amacı</li>
-  <li>Yapım kalitesi</li>
-  <li>Teknik donanım</li>
-</ul>
-
-<p>Ne kadar fazla ortak özellik varsa karşılaştırma o kadar güvenilir olur.</p>
-
-<h2 id="tek-bir-veriye-göre-karar-verilmez">Tek Bir Veriye Göre Karar Verilmez</h2>
-
-<p>Profesyonel değerleme hiçbir zaman tek bir satışa dayanmaz.</p>
-
-<p>Örneğin üç emsal şu şekilde olsun.</p>
-
-<ul>
-  <li>9.800.000 TL</li>
-  <li>10.100.000 TL</li>
-  <li>10.250.000 TL</li>
-</ul>
-
-<p>Dördüncü satış ise 12.500.000 TL olsun.</p>
-
-<p>İlk üç satış birbirini desteklerken son satış önemli ölçüde ayrışmaktadır.</p>
-
-<p>Uzman bu satışın neden farklı olduğunu araştırır.</p>
-
-<p>Belki daire tamamen lüks şekilde yenilenmiştir.</p>
-
-<p>Belki büyük bir terası vardır.</p>
-
-<p>Belki özel kullanım hakları bulunmaktadır.</p>
-
-<p>Sebep açıklanamıyorsa bu veri doğrudan analiz dışında bırakılabilir veya düşük ağırlıkla değerlendirilebilir.</p>
-
-<h2 id="sayısal-veriler-kadar-sahadaki-gözlem-de-önemlidir">Sayısal Veriler Kadar Sahadaki Gözlem de Önemlidir</h2>
-
-<p>Veri tabanları birçok bilgi sunar.</p>
-
-<p>Ancak sahada görülebilecek bazı özellikler kayıtlarda yer almayabilir.</p>
-
-<p>Örneğin;</p>
-
-<ul>
-  <li>Gürültü seviyesi</li>
-  <li>Manzaranın kapanmış olması</li>
-  <li>Yol genişliği</li>
-  <li>Bölgenin prestiji</li>
-  <li>Sokak kalitesi</li>
-  <li>Otopark sorunu</li>
-  <li>Çevredeki ticari hareketlilik</li>
-</ul>
-
-<p>İki bina aynı metrekareye sahip olsa bile çevresel koşullar nedeniyle değerleri farklı olabilir.</p>
-
-<p>Bu nedenle saha incelemesi değerleme sürecinin vazgeçilmez parçalarından biridir.</p>
-
-<h2 id="farklı-kaynaklardan-gelen-veriler-birlikte-değerlendirilmelidir">Farklı Kaynaklardan Gelen Veriler Birlikte Değerlendirilmelidir</h2>
-
-<p>En sağlıklı sonuç, tek bir veri kaynağına bağlı kalmadan elde edilir.</p>
-
-<p>Örneğin bir uzman;</p>
-
-<ul>
-  <li>İlan fiyatlarını inceler.</li>
-  <li>Gerçekleşmiş satışları araştırır.</li>
-  <li>Tapu kayıtlarını kontrol eder.</li>
-  <li>Bölgedeki emlak danışmanlarıyla görüşür.</li>
-  <li>Belediyeden imar bilgilerini alır.</li>
-  <li>Bölgedeki yeni yatırımları değerlendirir.</li>
-</ul>
-
-<p>Bu kaynakların tamamı birlikte analiz edildiğinde piyasa değeri çok daha güvenilir şekilde belirlenebilir.</p>
-
-<h2 id="büyük-veri-her-zaman-daha-doğru-sonuç-vermez">Büyük Veri Her Zaman Daha Doğru Sonuç Vermez</h2>
-
-<p>Bazı kişiler ne kadar çok veri toplanırsa sonucun o kadar doğru olacağını düşünür.</p>
-
-<p>Oysa değerlemede önemli olan veri sayısı değil, veri kalitesidir.</p>
-
-<p>Yüzlerce ilgisiz ilan yerine gerçekten karşılaştırılabilir beş veya altı güçlü emsal çoğu zaman çok daha güvenilir sonuç verir.</p>
-
-<p>Bu nedenle profesyonel değerleme uzmanları, ulaştıkları tüm verileri kullanmak yerine önce uygunluk analizini yapar, ardından yalnızca güvenilir ve karşılaştırılabilir verileri değerlendirme sürecine dahil eder.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Gayrimenkul değerleme, yalnızca veri toplama işi değildir. Asıl uzmanlık, hangi verilerin güvenilir, güncel ve karşılaştırmaya uygun olduğunu ayırt edebilmektir. İlan fiyatları, satış kayıtları, resmi belgeler ve saha gözlemleri birlikte değerlendirildiğinde çok daha isabetli sonuçlara ulaşılır. Nitelikli bir değerleme çalışmasının temelinde, fazla veri değil; doğru seçilmiş, doğrulanmış ve amaca uygun veriler yer alır. Bu yaklaşım hem taşınmaz sahipleri hem yatırımcılar hem de finans kuruluşları için daha sağlıklı ve güvenilir kararların alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Finansman Düzeltmesi</title><link href="http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Finansman Düzeltmesi" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi"><![CDATA[<p>Gayrimenkul değerlemede en kritik hatalardan biri, emsal satışların “göründüğü fiyat” üzerinden doğrudan karşılaştırma yapılmasıdır. Özellikle vadeli satışlar, peşin satışlar ve karma ödeme yapıları (bir kısmı peşin, bir kısmı vadeli) söz konusu olduğunda, satış fiyatı gerçek piyasa değerini yansıtmaz.</p>
+<p>Profesyonel bir otel değerlemesi, yalnızca bugünkü piyasa koşullarını değil, otelin sürdürülebilir gelir potansiyelini de ortaya koyar. Bu sayede yatırımcılar, finans kuruluşları ve işletmeciler daha sağlıklı kararlar alabilir. Özellikle büyük ölçekli yatırımlarda indirgenmiş nakit akışı (DCF) analizi ile desteklenen, farklı değerleme yöntemlerinin birlikte kullanıldığı çalışmalar en güvenilir sonuçları sunar. Böylece ortaya çıkan değer, hem gayrimenkulün fiziksel özelliklerini hem de işletmenin ekonomik performansını yansıtan bütüncül bir değerlendirme niteliği taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Finansman Düzeltmesi</title><link href="http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Finansman Düzeltmesi" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-finansman-duzeltmesi"><![CDATA[<p>Gayrimenkul değerlemede en kritik hatalardan biri, emsal satışların “göründüğü fiyat” üzerinden doğrudan karşılaştırma yapılmasıdır. Özellikle vadeli satışlar, peşin satışlar ve karma ödeme yapıları (bir kısmı peşin, bir kısmı vadeli) söz konusu olduğunda, satış fiyatı gerçek piyasa değerini yansıtmaz.</p>
 
 <p>Bu noktada devreye <strong>finansman düzeltmesi (financing adjustment)</strong> girer. Bu düzeltme, vadeli satışın içindeki “zaman değeri” etkisini ortadan kaldırarak, satış fiyatını <strong>peşin (spot) değere</strong> indirger.</p>
 
@@ -1608,226 +1641,562 @@
 
 <p>Gayrimenkul değerlemede rekabet çevresi, bir taşınmazın piyasadaki gerçek konumunu anlamanın en önemli araçlarından biridir. Değer yalnızca binanın özelliklerinden değil, alıcının önündeki alternatiflerden de etkilenir. Bu nedenle doğru belirlenmiş bir rekabet çevresi, daha isabetli değerleme raporları hazırlanmasını sağlar ve yatırım kararlarının sağlıklı verilmesine katkıda bulunur.</p>
 
-<p>Profesyonel bir değerleme çalışmasında amaç yalnızca benzer birkaç satış bulmak değildir. Asıl hedef, taşınmazın hangi alternatiflerle rekabet ettiğini doğru şekilde analiz ederek piyasadaki gerçek değerini ortaya koymaktır. Rekabet çevresi ne kadar doğru tanımlanırsa, elde edilen değer de piyasa koşullarını o kadar doğru yansıtır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-karsilastirma-birimi-nedir"><![CDATA[<p>Gayrimenkul değerleme sürecinde bir taşınmazın gerçek piyasa değerine ulaşabilmek için çeşitli yöntemler ve analiz teknikleri kullanılır. Bu tekniklerin en önemli unsurlarından biri ise karşılaştırma birimidir. Özellikle emsal karşılaştırma yaklaşımında, farklı özelliklere sahip gayrimenkullerin ortak bir ölçü üzerinden değerlendirilmesini sağlayan karşılaştırma birimi, sağlıklı ve objektif bir değer tespitinin temel taşlarından biridir.</p>
+<p>Profesyonel bir değerleme çalışmasında amaç yalnızca benzer birkaç satış bulmak değildir. Asıl hedef, taşınmazın hangi alternatiflerle rekabet ettiğini doğru şekilde analiz ederek piyasadaki gerçek değerini ortaya koymaktır. Rekabet çevresi ne kadar doğru tanımlanırsa, elde edilen değer de piyasa koşullarını o kadar doğru yansıtır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu"><![CDATA[<p>Gayrimenkul değerleme süreci dışarıdan bakıldığında yalnızca benzer ilanlara bakılarak yapılan basit bir fiyat belirleme çalışması gibi görünebilir. Oysa profesyonel bir değerleme çalışmasının en kritik aşamalarından biri, ulaşılabilen veriler arasından hangilerinin gerçekten kullanılmaya uygun olduğuna karar vermektir.</p>
 
-<p>Bir gayrimenkulün satış fiyatını tek başına değerlendirmek çoğu zaman yanıltıcı sonuçlar doğurabilir. Çünkü her taşınmazın büyüklüğü, kullanım amacı, konumu ve fiziksel özellikleri farklıdır. Bu nedenle değerleme uzmanları, farklı taşınmazları ortak bir paydaya indirerek karşılaştırabilmek için karşılaştırma birimlerinden yararlanır.</p>
+<p>Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez. Aksine, yanlış seçilen birkaç veri bile taşınmazın değerini ciddi şekilde hatalı gösterebilir.</p>
 
-<h2 id="karşılaştırma-birimi-nedir">Karşılaştırma Birimi Nedir?</h2>
+<p>Bu nedenle değerleme uzmanının görevi yalnızca veri toplamak değil, aynı zamanda verileri filtrelemek, analiz etmek ve en uygun olanları kullanmaktır.</p>
 
-<p>Karşılaştırma birimi, bir gayrimenkulün değerini belirlemek amacıyla kullanılan standart ölçü birimidir. Emsal taşınmazların satış veya kira bedellerinin ortak bir ölçekte ifade edilmesini sağlayarak sağlıklı karşılaştırmalar yapılmasına olanak tanır.</p>
+<h2 id="değerleme-neden-doğru-veri-seçimine-bağlıdır">Değerleme Neden Doğru Veri Seçimine Bağlıdır?</h2>
 
-<p>Basit bir ifadeyle karşılaştırma birimi, toplam fiyatın belirli bir ölçüye bölünmesiyle elde edilen değerdir. Böylece farklı büyüklükteki taşınmazların birbirleriyle karşılaştırılması mümkün hale gelir.</p>
+<p>Bir taşınmazın değeri, piyasadaki benzer taşınmazlarla karşılaştırılarak belirlenir. Ancak hiçbir taşınmaz diğerinin birebir aynısı değildir.</p>
 
-<p>Örneğin:</p>
+<p>İki daire aynı mahallede bulunabilir. Aynı metrekareye sahip olabilir. Hatta aynı binada yer alabilir. Buna rağmen biri caddeye bakarken diğeri arka cephede olabilir. Biri tamamen yenilenmişken diğeri yıllardır tadilat görmemiş olabilir.</p>
+
+<p>Bu nedenle ulaşılan her satış veya ilan bilgisi doğrudan karşılaştırmaya uygun değildir.</p>
+
+<p>Değerleme uzmanı önce elindeki verileri değerlendirir, ardından gerçekten karşılaştırılabilir olanları seçer.</p>
+
+<h2 id="ulaşılabilen-veri-türleri">Ulaşılabilen Veri Türleri</h2>
+
+<p>Profesyonel bir değerleme çalışmasında farklı kaynaklardan bilgi toplanabilir.</p>
+
+<p>Bunlardan bazıları şunlardır:</p>
 
 <ul>
-  <li>120 m² büyüklüğünde bir daire 6.000.000 TL’ye satılmış olsun.</li>
-  <li>Karşılaştırma birimi olarak metrekare kullanıldığında:</li>
+  <li>Satılık emlak ilanları</li>
+  <li>Gerçekleşmiş satış fiyatları</li>
+  <li>Tapu kayıtları</li>
+  <li>Belediye verileri</li>
+  <li>İmar durumu</li>
+  <li>Bölgedeki arz-talep dengesi</li>
+  <li>Kira piyasası</li>
+  <li>Nüfus ve demografik veriler</li>
+  <li>Ulaşım yatırımları</li>
+  <li>Ticari gelişmeler</li>
+  <li>Bölgesel ekonomik göstergeler</li>
+  <li>Banka ekspertiz raporları</li>
+  <li>Daha önce hazırlanmış değerleme raporları</li>
 </ul>
 
-<p>6.000.000 TL ÷ 120 m² = 50.000 TL/m²</p>
+<p>Ancak tüm bu bilgiler aynı ağırlıkta değerlendirilmez.</p>
 
-<p>Bu sonuç, benzer özelliklere sahip diğer taşınmazlarla karşılaştırma yapılmasını kolaylaştırır.</p>
+<h2 id="i̇lan-fiyatı-ile-satış-fiyatı-aynı-şey-değildir">İlan Fiyatı ile Satış Fiyatı Aynı Şey Değildir</h2>
 
-<h2 id="karşılaştırma-birimi-neden-önemlidir">Karşılaştırma Birimi Neden Önemlidir?</h2>
+<p>Değerleme sürecinde en sık yapılan hatalardan biri ilan fiyatlarını doğrudan piyasa değeri kabul etmektir.</p>
 
-<p>Gayrimenkul piyasasında iki taşınmazın toplam satış fiyatlarının aynı olması, aynı değere sahip oldukları anlamına gelmez.</p>
+<p>İlan fiyatı satıcının beklentisini gösterir.</p>
 
-<p>Örneğin:</p>
+<p>Gerçek satış fiyatı ise alıcı ile satıcının uzlaştığı rakamdır.</p>
+
+<p>Örneğin aynı sokakta üç dairenin şu fiyatlarla ilana çıktığını düşünelim.</p>
 
 <ul>
-  <li>Birinci daire: 100 m² – 5.000.000 TL</li>
-  <li>İkinci daire: 150 m² – 5.000.000 TL</li>
+  <li>8.500.000 TL</li>
+  <li>8.750.000 TL</li>
+  <li>9.000.000 TL</li>
 </ul>
 
-<p>Toplam satış bedelleri eşit olsa da birinci dairenin metrekare değeri daha yüksektir.</p>
+<p>İlk bakışta bölgedeki piyasa değeri yaklaşık 8,7 milyon TL gibi görünebilir.</p>
 
-<p>Birinci daire:</p>
-
-<p>5.000.000 ÷ 100 = 50.000 TL/m²</p>
-
-<p>İkinci daire:</p>
-
-<p>5.000.000 ÷ 150 = 33.333 TL/m²</p>
-
-<p>Bu nedenle yalnızca toplam fiyatlara bakılarak yapılan değerlendirmeler yanıltıcı olabilir. Karşılaştırma birimi sayesinde taşınmazların gerçek piyasa konumları daha doğru analiz edilir.</p>
-
-<h2 id="değerlemede-kullanılan-başlıca-karşılaştırma-birimleri">Değerlemede Kullanılan Başlıca Karşılaştırma Birimleri</h2>
-
-<p>Gayrimenkulün türüne ve kullanım amacına göre farklı karşılaştırma birimleri kullanılabilir.</p>
-
-<h3 id="metrekare-başına-değer">Metrekare Başına Değer</h3>
-
-<p>En yaygın kullanılan karşılaştırma birimidir.</p>
-
-<p>Özellikle:</p>
+<p>Ancak satış kayıtları incelendiğinde şu tablo ortaya çıkabilir.</p>
 
 <ul>
-  <li>Konutlar</li>
-  <li>Ofisler</li>
-  <li>Dükkanlar</li>
-  <li>Arsalar</li>
-  <li>Sanayi yapıları</li>
+  <li>İlk daire 7.900.000 TL’ye satılmıştır.</li>
+  <li>İkinci daire 8.050.000 TL’ye satılmıştır.</li>
+  <li>Üçüncü daire ise aylarca satılamamıştır.</li>
 </ul>
 
-<p>için sıklıkla tercih edilir.</p>
+<p>Bu durumda yalnızca ilanlara bakılarak yapılan değerleme gerçeği yansıtmayacaktır.</p>
 
-<p>Örnek:</p>
+<h2 id="en-yakın-taşınmaz-her-zaman-en-doğru-karşılaştırma-değildir">En Yakın Taşınmaz Her Zaman En Doğru Karşılaştırma Değildir</h2>
+
+<p>Birçok kişi aynı sokaktaki dairelerin mutlaka en iyi emsal olduğunu düşünür.</p>
+
+<p>Oysa bazen birkaç sokak ötede bulunan bir taşınmaz çok daha doğru karşılaştırma sağlayabilir.</p>
+
+<p>Örneğin;</p>
+
+<p>Aynı sokakta bulunan daire:</p>
 
 <ul>
-  <li>Satış fiyatı: 8.000.000 TL</li>
-  <li>Alan: 160 m²</li>
+  <li>20 yaşında bina</li>
+  <li>Giriş kat</li>
+  <li>Kuzey cephe</li>
+  <li>Kapalı otopark yok</li>
 </ul>
 
-<p>Karşılaştırma birimi:</p>
-
-<p>8.000.000 ÷ 160 = 50.000 TL/m²</p>
-
-<p>Bu değer benzer taşınmazlarla karşılaştırılarak analiz edilir.</p>
-
-<h3 id="arsa-birim-değeri">Arsa Birim Değeri</h3>
-
-<p>Arsalarda çoğunlukla metrekare başına değer kullanılır.</p>
-
-<p>Örnek:</p>
+<p>İki sokak ötede bulunan daire:</p>
 
 <ul>
-  <li>1.000 m² arsa</li>
-  <li>Satış fiyatı: 12.000.000 TL</li>
+  <li>Aynı yaşta bina</li>
+  <li>Aynı kat</li>
+  <li>Aynı cephe</li>
+  <li>Aynı sosyal imkanlar</li>
+  <li>Benzer plan</li>
 </ul>
 
-<p>Birim değer:</p>
+<p>Bu durumda ikinci taşınmaz karşılaştırma açısından daha güçlü bir emsal olabilir.</p>
 
-<p>12.000 TL/m²</p>
+<p>Yakınlık tek başına yeterli değildir.</p>
 
-<p>Bu değer bölgede gerçekleşen diğer arsa satışlarıyla karşılaştırılır.</p>
+<h2 id="olağan-dışı-satışlar-dikkate-alınmamalıdır">Olağan Dışı Satışlar Dikkate Alınmamalıdır</h2>
 
-<h3 id="oda-başına-değer">Oda Başına Değer</h3>
+<p>Bazı satışlar piyasa koşullarını yansıtmaz.</p>
 
-<p>Bazı özel gayrimenkullerde oda sayısı temel karşılaştırma birimi olarak kullanılabilir.</p>
-
-<p>Örneğin:</p>
+<p>Örneğin;</p>
 
 <ul>
-  <li>Oteller</li>
-  <li>Öğrenci yurtları</li>
-  <li>Pansiyonlar</li>
+  <li>Aile içi satışlar</li>
+  <li>Acil nakit ihtiyacı nedeniyle düşük fiyatlı satışlar</li>
+  <li>İcra satışları</li>
+  <li>Hisseli satışlar</li>
+  <li>Takas işlemleri</li>
+  <li>Toplu portföy satışları</li>
 </ul>
 
-<p>Bu tür yapılarda oda başına düşen değer yatırımcılar açısından önemli bir gösterge olabilir.</p>
+<p>Bu tür işlemler normal piyasa davranışını temsil etmediği için değerleme çalışmasında dikkatli değerlendirilmelidir.</p>
 
-<h3 id="yatak-başına-değer">Yatak Başına Değer</h3>
+<p>Örneğin piyasada benzer daireler ortalama 10 milyon TL seviyesindeyken bir dairenin 7 milyon TL’ye satılması mutlaka piyasanın düştüğünü göstermez.</p>
 
-<p>Özellikle sağlık ve konaklama sektöründe tercih edilir.</p>
+<p>Satışın arkasındaki neden araştırılmalıdır.</p>
 
-<p>Kullanım alanları:</p>
+<h2 id="güncelliğini-kaybetmiş-veriler-yanıltıcı-olabilir">Güncelliğini Kaybetmiş Veriler Yanıltıcı Olabilir</h2>
+
+<p>Gayrimenkul piyasası sürekli değişmektedir.</p>
+
+<p>Bir yıl önce yapılan satış bugünkü piyasa şartlarını yansıtmayabilir.</p>
+
+<p>Örneğin;</p>
 
 <ul>
-  <li>Hastaneler</li>
-  <li>Huzurevleri</li>
-  <li>Bakım merkezleri</li>
-  <li>Turizm tesisleri</li>
+  <li>Metro hattının açılması</li>
+  <li>Yeni alışveriş merkezinin hizmete girmesi</li>
+  <li>Bölgeye üniversite yapılması</li>
+  <li>Faiz oranlarının değişmesi</li>
+  <li>Konut kredisi kampanyaları</li>
+  <li>Bölgedeki büyük kentsel dönüşüm projeleri</li>
 </ul>
 
-<p>Bu tesislerde toplam satış bedeli yatak kapasitesine bölünerek karşılaştırma yapılabilir.</p>
+<p>Bu gelişmeler kısa sürede fiyatların önemli ölçüde değişmesine neden olabilir.</p>
 
-<h3 id="daire-başına-değer">Daire Başına Değer</h3>
+<p>Bu nedenle mümkün olduğunca güncel veriler tercih edilir.</p>
 
-<p>Toplu konut projeleri ve apartman değerlendirmelerinde zaman zaman kullanılan bir ölçüdür.</p>
+<h2 id="benzerlik-seviyesi-en-önemli-kriterdir">Benzerlik Seviyesi En Önemli Kriterdir</h2>
 
-<p>Örneğin:</p>
-
-<p>20 daireden oluşan bir apartman 80.000.000 TL’ye satılmışsa:</p>
-
-<p>80.000.000 ÷ 20 = 4.000.000 TL/daire</p>
-
-<p>Bu veri benzer apartman satışlarıyla kıyaslanabilir.</p>
-
-<h3 id="gelir-birimi-başına-değer">Gelir Birimi Başına Değer</h3>
-
-<p>Ticari gayrimenkullerde gelir odaklı analizlerde kullanılabilir.</p>
-
-<p>Örneğin:</p>
+<p>Karşılaştırma yapılırken şu özellikler mümkün olduğunca benzer olmalıdır.</p>
 
 <ul>
-  <li>Alışveriş merkezleri</li>
-  <li>İş merkezleri</li>
-  <li>Kiralık ticari portföyler</li>
-</ul>
-
-<p>Bu tür mülklerde kira geliri temel alınarak karşılaştırma yapılabilir.</p>
-
-<h2 id="doğru-karşılaştırma-birimi-nasıl-seçilir">Doğru Karşılaştırma Birimi Nasıl Seçilir?</h2>
-
-<p>Her taşınmaz için aynı karşılaştırma birimi uygun değildir.</p>
-
-<p>Doğru birimin seçilebilmesi için aşağıdaki kriterler değerlendirilmelidir:</p>
-
-<h3 id="gayrimenkulün-türü">Gayrimenkulün Türü</h3>
-
-<p>Konutlarda genellikle metrekare bazlı analiz yapılırken, otellerde oda başına değer daha anlamlı olabilir.</p>
-
-<h3 id="piyasa-alışkanlıkları">Piyasa Alışkanlıkları</h3>
-
-<p>Bazı bölgelerde yatırımcılar taşınmazları belirli bir ölçü üzerinden değerlendirir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Arsalarda m² değeri</li>
-  <li>Otellerde oda başına değer</li>
-  <li>Tarım arazilerinde dönüm başına değer</li>
-</ul>
-
-<p>yaygın olarak kullanılabilir.</p>
-
-<h3 id="veri-erişimi">Veri Erişimi</h3>
-
-<p>Piyasada bulunan emsal verilerin niteliği de karşılaştırma birimi seçiminde etkili olur.</p>
-
-<p>Eğer piyasada çoğunlukla metrekare bazlı satış verileri bulunuyorsa aynı birim üzerinden analiz yapmak daha sağlıklı sonuç verir.</p>
-
-<h2 id="karşılaştırma-biriminin-sınırlılıkları">Karşılaştırma Biriminin Sınırlılıkları</h2>
-
-<p>Karşılaştırma birimi oldukça faydalı bir araç olsa da tek başına yeterli değildir.</p>
-
-<p>Aynı metrekare değerine sahip iki taşınmaz arasında bile önemli farklılıklar bulunabilir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
+  <li>Konum</li>
+  <li>Metrekare</li>
+  <li>Yapı yaşı</li>
   <li>Kat durumu</li>
   <li>Cephe</li>
   <li>Manzara</li>
-  <li>Ulaşım imkanları</li>
-  <li>Yapı kalitesi</li>
-  <li>Yaş</li>
-  <li>Kullanım durumu</li>
+  <li>Otopark</li>
+  <li>Asansör</li>
+  <li>Site özellikleri</li>
+  <li>Kullanım amacı</li>
+  <li>Yapım kalitesi</li>
+  <li>Teknik donanım</li>
 </ul>
 
-<p>gibi faktörler değeri ciddi şekilde etkileyebilir.</p>
+<p>Ne kadar fazla ortak özellik varsa karşılaştırma o kadar güvenilir olur.</p>
 
-<p>Bu nedenle karşılaştırma birimi yalnızca ilk analiz aşamasını oluşturur. Sonrasında gerekli düzeltmeler yapılarak daha gerçekçi sonuçlara ulaşılır.</p>
+<h2 id="tek-bir-veriye-göre-karar-verilmez">Tek Bir Veriye Göre Karar Verilmez</h2>
 
-<h2 id="emsal-karşılaştırma-yaklaşımında-karşılaştırma-biriminin-rolü">Emsal Karşılaştırma Yaklaşımında Karşılaştırma Biriminin Rolü</h2>
+<p>Profesyonel değerleme hiçbir zaman tek bir satışa dayanmaz.</p>
 
-<p>Emsal karşılaştırma yaklaşımında temel amaç, benzer özelliklere sahip taşınmazların satış verilerinden yararlanarak değer takdiri yapmaktır.</p>
+<p>Örneğin üç emsal şu şekilde olsun.</p>
 
-<p>Bu süreçte:</p>
+<ul>
+  <li>9.800.000 TL</li>
+  <li>10.100.000 TL</li>
+  <li>10.250.000 TL</li>
+</ul>
 
-<ol>
-  <li>Uygun emsaller belirlenir.</li>
-  <li>Emsaller ortak bir karşılaştırma birimine dönüştürülür.</li>
-  <li>Farklılıklar analiz edilir.</li>
-  <li>Düzeltmeler uygulanır.</li>
-  <li>Nihai değer tahmini oluşturulur.</li>
-</ol>
+<p>Dördüncü satış ise 12.500.000 TL olsun.</p>
 
-<p>Karşılaştırma birimi bu sürecin merkezinde yer alır ve tüm emsallerin ortak bir ölçekte değerlendirilmesini sağlar.</p>
+<p>İlk üç satış birbirini desteklerken son satış önemli ölçüde ayrışmaktadır.</p>
+
+<p>Uzman bu satışın neden farklı olduğunu araştırır.</p>
+
+<p>Belki daire tamamen lüks şekilde yenilenmiştir.</p>
+
+<p>Belki büyük bir terası vardır.</p>
+
+<p>Belki özel kullanım hakları bulunmaktadır.</p>
+
+<p>Sebep açıklanamıyorsa bu veri doğrudan analiz dışında bırakılabilir veya düşük ağırlıkla değerlendirilebilir.</p>
+
+<h2 id="sayısal-veriler-kadar-sahadaki-gözlem-de-önemlidir">Sayısal Veriler Kadar Sahadaki Gözlem de Önemlidir</h2>
+
+<p>Veri tabanları birçok bilgi sunar.</p>
+
+<p>Ancak sahada görülebilecek bazı özellikler kayıtlarda yer almayabilir.</p>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>Gürültü seviyesi</li>
+  <li>Manzaranın kapanmış olması</li>
+  <li>Yol genişliği</li>
+  <li>Bölgenin prestiji</li>
+  <li>Sokak kalitesi</li>
+  <li>Otopark sorunu</li>
+  <li>Çevredeki ticari hareketlilik</li>
+</ul>
+
+<p>İki bina aynı metrekareye sahip olsa bile çevresel koşullar nedeniyle değerleri farklı olabilir.</p>
+
+<p>Bu nedenle saha incelemesi değerleme sürecinin vazgeçilmez parçalarından biridir.</p>
+
+<h2 id="farklı-kaynaklardan-gelen-veriler-birlikte-değerlendirilmelidir">Farklı Kaynaklardan Gelen Veriler Birlikte Değerlendirilmelidir</h2>
+
+<p>En sağlıklı sonuç, tek bir veri kaynağına bağlı kalmadan elde edilir.</p>
+
+<p>Örneğin bir uzman;</p>
+
+<ul>
+  <li>İlan fiyatlarını inceler.</li>
+  <li>Gerçekleşmiş satışları araştırır.</li>
+  <li>Tapu kayıtlarını kontrol eder.</li>
+  <li>Bölgedeki emlak danışmanlarıyla görüşür.</li>
+  <li>Belediyeden imar bilgilerini alır.</li>
+  <li>Bölgedeki yeni yatırımları değerlendirir.</li>
+</ul>
+
+<p>Bu kaynakların tamamı birlikte analiz edildiğinde piyasa değeri çok daha güvenilir şekilde belirlenebilir.</p>
+
+<h2 id="büyük-veri-her-zaman-daha-doğru-sonuç-vermez">Büyük Veri Her Zaman Daha Doğru Sonuç Vermez</h2>
+
+<p>Bazı kişiler ne kadar çok veri toplanırsa sonucun o kadar doğru olacağını düşünür.</p>
+
+<p>Oysa değerlemede önemli olan veri sayısı değil, veri kalitesidir.</p>
+
+<p>Yüzlerce ilgisiz ilan yerine gerçekten karşılaştırılabilir beş veya altı güçlü emsal çoğu zaman çok daha güvenilir sonuç verir.</p>
+
+<p>Bu nedenle profesyonel değerleme uzmanları, ulaştıkları tüm verileri kullanmak yerine önce uygunluk analizini yapar, ardından yalnızca güvenilir ve karşılaştırılabilir verileri değerlendirme sürecine dahil eder.</p>
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Karşılaştırma birimi, gayrimenkul değerleme çalışmalarının en önemli yapı taşlarından biridir. Farklı özelliklere sahip taşınmazların ortak bir ölçü üzerinden analiz edilmesini sağlayarak daha objektif ve tutarlı sonuçlara ulaşılmasına yardımcı olur. Metrekare başına değer, oda başına değer, yatak başına değer veya gelir bazlı ölçüler gibi farklı karşılaştırma birimleri, taşınmazın türüne göre kullanılabilir. Ancak doğru değerleme için karşılaştırma biriminin tek başına yeterli olmadığı, konum, fiziksel özellikler ve piyasa koşulları gibi unsurlarla birlikte değerlendirilmesi gerektiği unutulmamalıdır. Başarılı bir değerleme çalışmasının temelinde, doğru seçilmiş karşılaştırma birimi ve sağlıklı emsal analizi yer alır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="emsal analizi" /><summary type="html"><![CDATA[Gayrimenkul değerlemede karşılaştırma birimi nedir? Metrekare, oda ve gelir bazlı karşılaştırma birimlerinin nasıl kullanıldığını, emsal analizindeki önemini ve doğru değer tespitine etkisini öğrenin.]]></summary></entry><entry><title type="html">Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları</title><link href="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari" rel="alternate" type="text/html" title="Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari"><![CDATA[<p>Gayrimenkul sektöründe en sık karıştırılan kavramların başında <strong>değer</strong>, <strong>fiyat</strong> ve <strong>maliyet</strong> gelir. Pek çok kişi bir taşınmazın satış fiyatını doğrudan değeri olarak kabul ederken, bazı durumlarda maliyet ile değer arasında da yanlış bağlantılar kurulabilmektedir. Oysa emlak değerleme çalışmalarında bu üç kavram birbirinden farklı anlamlar taşır ve farklı yöntemlerle belirlenir.</p>
+<p>Gayrimenkul değerleme, yalnızca veri toplama işi değildir. Asıl uzmanlık, hangi verilerin güvenilir, güncel ve karşılaştırmaya uygun olduğunu ayırt edebilmektir. İlan fiyatları, satış kayıtları, resmi belgeler ve saha gözlemleri birlikte değerlendirildiğinde çok daha isabetli sonuçlara ulaşılır. Nitelikli bir değerleme çalışmasının temelinde, fazla veri değil; doğru seçilmiş, doğrulanmış ve amaca uygun veriler yer alır. Bu yaklaşım hem taşınmaz sahipleri hem yatırımcılar hem de finans kuruluşları için daha sağlıklı ve güvenilir kararların alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Düzeltme Nedir?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Düzeltme Nedir?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir"><![CDATA[<p>Gayrimenkul değerleme süreci, yalnızca benzer taşınmazların fiyatlarını karşılaştırarak bir sonuca ulaşmaktan ibaret değildir. Her taşınmazın kendine özgü özellikleri bulunur ve bu özellikler piyasa değerini doğrudan etkiler. Bu nedenle değerleme uzmanları, karşılaştırılabilir emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz ederek çeşitli düzeltmeler uygularlar.</p>
+
+<p>Gayrimenkul değerlemede “düzeltme” kavramı, emsal karşılaştırma yaklaşımının en kritik aşamalarından biridir. Doğru yapılan düzeltmeler, piyasa değerinin gerçeğe en yakın şekilde tespit edilmesini sağlarken, hatalı düzeltmeler önemli değer sapmalarına neden olabilir.</p>
+
+<p>Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.</p>
+
+<h2 id="gayrimenkul-değerlemede-düzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</h2>
+
+<p>Düzeltme, değerleme konusu taşınmaz ile emsal olarak kullanılan gayrimenkuller arasındaki farklılıkların giderilmesi amacıyla yapılan fiyat ayarlamasıdır.</p>
+
+<p>Hiçbir emsal taşınmaz, değerlemesi yapılan mülk ile tamamen aynı özelliklere sahip değildir. Bu nedenle emsallerin satış fiyatları üzerinde belirli düzeltmeler yapılarak karşılaştırılabilir hale getirilmesi gerekir.</p>
+
+<p>Amaç, emsal satışların fiyatlarını değerleme konusu taşınmazın özelliklerine uyarlamaktır.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Değerlemesi yapılan daire deniz manzaralıysa,</li>
+  <li>Emsal daire manzarasızsa,</li>
+  <li>Emsal satış fiyatına manzara farkı kadar düzeltme eklenir.</li>
+</ul>
+
+<p>Böylece emsal, değerleme konusu taşınmaza daha yakın özelliklere sahip hale gelir.</p>
+
+<h2 id="düzeltmeler-neden-gereklidir">Düzeltmeler Neden Gereklidir?</h2>
+
+<p>Piyasada satılan iki taşınmazın tamamen aynı olması neredeyse imkânsızdır.</p>
+
+<p>Aşağıdaki unsurlar bile ciddi fiyat farklılıkları yaratabilir:</p>
+
+<ul>
+  <li>Konum</li>
+  <li>Manzara</li>
+  <li>Cephe</li>
+  <li>Kat durumu</li>
+  <li>Kullanım alanı</li>
+  <li>Yaş</li>
+  <li>Yapı kalitesi</li>
+  <li>Ulaşım imkânları</li>
+  <li>Sosyal donatılar</li>
+  <li>Tapu niteliği</li>
+</ul>
+
+<p>Düzeltmeler uygulanmadığında emsal fiyatları yanıltıcı sonuçlar verebilir.</p>
+
+<p>Bu nedenle profesyonel değerleme çalışmalarında emsaller doğrudan kullanılmaz; önce farklılıklar analiz edilir ve gerekli düzeltmeler yapılır.</p>
+
+<h2 id="düzeltme-türleri">Düzeltme Türleri</h2>
+
+<p>Gayrimenkul değerlemede kullanılan düzeltmeler genel olarak iki grupta incelenir:</p>
+
+<h3 id="nicel-kantitatif-düzeltmeler">Nicel (Kantitatif) Düzeltmeler</h3>
+
+<p>Parasal veya yüzdesel olarak ölçülebilen düzeltmelerdir.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Alan farkı</li>
+  <li>Yaş farkı</li>
+  <li>Kat farkı</li>
+  <li>Manzara farkı</li>
+  <li>Oda sayısı farkı</li>
+</ul>
+
+<p>Bu tür düzeltmeler sayısal verilerle ifade edilebilir.</p>
+
+<h3 id="nitel-kalitatif-düzeltmeler">Nitel (Kalitatif) Düzeltmeler</h3>
+
+<p>Tam olarak sayısallaştırılması zor olan özellikler için kullanılır.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Prestij</li>
+  <li>Bölge algısı</li>
+  <li>Mimari kalite</li>
+  <li>Sosyal çevre</li>
+  <li>Yaşam kalitesi</li>
+</ul>
+
+<p>Bu düzeltmeler uzman görüşü ve piyasa analizine dayanır.</p>
+
+<h2 id="başlıca-düzeltme-kalemleri">Başlıca Düzeltme Kalemleri</h2>
+
+<h3 id="zaman-düzeltmesi">Zaman Düzeltmesi</h3>
+
+<p>Piyasa koşulları sürekli değişir.</p>
+
+<p>Bir emsal satış:</p>
+
+<ul>
+  <li>3 ay önce gerçekleşmiş olabilir.</li>
+  <li>6 ay önce gerçekleşmiş olabilir.</li>
+  <li>1 yıl önce gerçekleşmiş olabilir.</li>
+</ul>
+
+<p>Bu süreçte piyasada fiyat artışı veya düşüş yaşanmış olabilir.</p>
+
+<p>Örneğin:</p>
+
+<p>Bir bölgede son 12 ayda konut fiyatları %20 artmışsa, bir yıl önce satılan emsalin fiyatı güncel piyasa koşullarına göre yukarı yönlü düzeltilmelidir.</p>
+
+<h3 id="konum-düzeltmesi">Konum Düzeltmesi</h3>
+
+<p>Konum, gayrimenkul değerini belirleyen en önemli faktördür.</p>
+
+<p>Aynı mahallede bile:</p>
+
+<ul>
+  <li>Cadde üzeri</li>
+  <li>Ara sokak</li>
+  <li>Ana ulaşım aksına yakınlık</li>
+  <li>Metro istasyonuna mesafe</li>
+</ul>
+
+<p>gibi unsurlar fiyatları değiştirebilir.</p>
+
+<p>Daha avantajlı konumdaki emsaller için aşağı yönlü, daha dezavantajlı konumdaki emsaller için ise yukarı yönlü düzeltme yapılır.</p>
+
+<h3 id="büyüklük-düzeltmesi">Büyüklük Düzeltmesi</h3>
+
+<p>Taşınmazın kullanım alanı ile emsalin alanı farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konu taşınmaz 120 m²</li>
+  <li>Emsal taşınmaz 90 m²</li>
+</ul>
+
+<p>olabilir.</p>
+
+<p>Metrekare birim fiyatları büyüklüğe göre değişiklik göstereceğinden gerekli düzeltme uygulanmalıdır.</p>
+
+<h3 id="kat-düzeltmesi">Kat Düzeltmesi</h3>
+
+<p>Özellikle apartman dairelerinde kat faktörü oldukça önemlidir.</p>
+
+<p>Genellikle:</p>
+
+<ul>
+  <li>Ara katlar daha değerli kabul edilir.</li>
+  <li>Zemin katlar daha düşük fiyatlanır.</li>
+  <li>Son katlar bazı bölgelerde değer kaybına neden olabilir.</li>
+</ul>
+
+<p>Ancak bölgesel alışkanlıklar mutlaka dikkate alınmalıdır.</p>
+
+<h3 id="manzara-düzeltmesi">Manzara Düzeltmesi</h3>
+
+<p>Manzara bazı bölgelerde ciddi fiyat avantajı sağlar.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Deniz manzarası</li>
+  <li>Boğaz manzarası</li>
+  <li>Göl manzarası</li>
+  <li>Orman manzarası</li>
+</ul>
+
+<p>gibi özellikler değer üzerinde önemli etkiler yaratabilir.</p>
+
+<p>Bu durumda manzarasız emsaller için yukarı yönlü düzeltme yapılabilir.</p>
+
+<h3 id="yapı-kalitesi-düzeltmesi">Yapı Kalitesi Düzeltmesi</h3>
+
+<p>İki taşınmaz aynı yaşta olsa bile yapı kaliteleri farklı olabilir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Lüks konut projesi</li>
+  <li>Standart apartman</li>
+  <li>Site içi yaşam</li>
+  <li>Akıllı ev sistemleri</li>
+</ul>
+
+<p>fiyat üzerinde doğrudan etkili olabilir.</p>
+
+<h3 id="fiziksel-durum-düzeltmesi">Fiziksel Durum Düzeltmesi</h3>
+
+<p>Taşınmazın bakım durumu da önemlidir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Yeni tadilat görmüş bir daire</li>
+  <li>Uzun süredir bakım yapılmamış bir daire</li>
+</ul>
+
+<p>arasında ciddi fiyat farkı oluşabilir.</p>
+
+<p>Bu farklılıklar düzeltmelerle giderilir.</p>
+
+<h2 id="düzeltmeler-nasıl-uygulanır">Düzeltmeler Nasıl Uygulanır?</h2>
+
+<p>Düzeltmeler genellikle yüzdesel veya tutarsal olarak yapılır.</p>
+
+<h3 id="yüzdesel-düzeltme">Yüzdesel Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Kat avantajı:</p>
+
+<p>%5</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.000.000 × 1,05</p>
+
+<p>= 10.500.000 TL</p>
+
+<h3 id="tutar-bazlı-düzeltme">Tutar Bazlı Düzeltme</h3>
+
+<p>Örnek:</p>
+
+<p>Emsal satış fiyatı:</p>
+
+<p>10.000.000 TL</p>
+
+<p>Deniz manzarası farkı:</p>
+
+<p>500.000 TL</p>
+
+<p>Düzeltilmiş fiyat:</p>
+
+<p>10.500.000 TL</p>
+
+<p>Her iki yöntem de kullanılabilir. Hangi yöntemin tercih edileceği piyasa verilerine bağlıdır.</p>
+
+<h2 id="brüt-ve-net-düzeltme-kavramları">Brüt ve Net Düzeltme Kavramları</h2>
+
+<h3 id="brüt-düzeltme">Brüt Düzeltme</h3>
+
+<p>Bir emsale uygulanan tüm düzeltmelerin mutlak değerlerinin toplamıdır.</p>
+
+<p>Örnek:</p>
+
+<ul>
+  <li>Konum düzeltmesi: %10</li>
+  <li>Kat düzeltmesi: %5</li>
+  <li>Manzara düzeltmesi: %8</li>
+</ul>
+
+<p>Brüt düzeltme:</p>
+
+<p>%23</p>
+
+<h3 id="net-düzeltme">Net Düzeltme</h3>
+
+<p>Pozitif ve negatif düzeltmelerin birbirini dengelemesinden sonra ortaya çıkan toplam düzeltmedir.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Konum: +%10</li>
+  <li>Kat: -%5</li>
+  <li>Manzara: +%8</li>
+</ul>
+
+<p>Net düzeltme:</p>
+
+<p>+%13</p>
+
+<p>Değerleme uzmanları, aşırı yüksek düzeltme gerektiren emsalleri kullanmamaya özen gösterir.</p>
+
+<h2 id="düzeltme-yaparken-dikkat-edilmesi-gerekenler">Düzeltme Yaparken Dikkat Edilmesi Gerekenler</h2>
+
+<h3 id="piyasa-verilerine-dayanmak">Piyasa Verilerine Dayanmak</h3>
+
+<p>Düzeltmeler varsayımlarla değil, mümkün olduğunca gerçek piyasa verileriyle desteklenmelidir.</p>
+
+<h3 id="tutarlılık-sağlamak">Tutarlılık Sağlamak</h3>
+
+<p>Benzer özelliklere sahip emsaller için benzer düzeltmeler uygulanmalıdır.</p>
+
+<h3 id="çifte-düzeltmeden-kaçınmak">Çifte Düzeltmeden Kaçınmak</h3>
+
+<p>Aynı özellik için iki kez düzeltme yapılmamalıdır.</p>
+
+<p>Örneğin:</p>
+
+<p>Konum avantajı nedeniyle zaten düzeltme yapılmışsa, aynı avantajı ulaşım kolaylığı başlığı altında tekrar düzeltmek yanlış sonuç verebilir.</p>
+
+<h3 id="aşırı-düzeltmeli-emsalleri-elemek">Aşırı Düzeltmeli Emsalleri Elemek</h3>
+
+<p>Çok fazla düzeltme gerektiren emsaller güvenilirliğini kaybedebilir.</p>
+
+<p>Bu nedenle değerleme uzmanları mümkün olduğunca benzer emsalleri tercih eder.</p>
+
+<h2 id="düzeltmelerin-değerleme-sonucuna-etkisi">Düzeltmelerin Değerleme Sonucuna Etkisi</h2>
+
+<p>Düzeltmeler, değerleme sonucunu doğrudan etkileyen unsurlardır.</p>
+
+<p>Aynı emsaller kullanılsa bile:</p>
+
+<ul>
+  <li>Farklı düzeltme oranları</li>
+  <li>Farklı piyasa yorumları</li>
+  <li>Farklı veri analizleri</li>
+</ul>
+
+<p>sonucunda farklı değer tahminleri ortaya çıkabilir.</p>
+
+<p>Bu nedenle düzeltme süreci, değerleme uzmanının piyasa bilgisi ve tecrübesiyle yakından ilişkilidir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Gayrimenkul değerlemede düzeltme kavramı, emsal karşılaştırma yaklaşımının temel taşlarından biridir. Çünkü piyasada birebir aynı özelliklere sahip taşınmaz bulmak neredeyse imkânsızdır. Değerleme uzmanları, emsaller ile konu taşınmaz arasındaki farklılıkları analiz ederek gerekli düzeltmeleri uygular ve böylece daha doğru bir piyasa değeri tespit ederler.</p>
+
+<p>Zaman, konum, büyüklük, kat, manzara, yapı kalitesi ve fiziksel durum gibi unsurlar düzeltme sürecinin en önemli bileşenleridir. Profesyonel ve veri temelli bir düzeltme çalışması, değerleme raporunun güvenilirliğini artırırken yatırımcılar, bankalar, kamu kurumları ve gayrimenkul profesyonelleri için daha sağlıklı kararlar alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.]]></summary></entry><entry><title type="html">Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları</title><link href="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari" rel="alternate" type="text/html" title="Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari</id><content type="html" xml:base="http://localhost:4000/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari"><![CDATA[<p>Gayrimenkul sektöründe en sık karıştırılan kavramların başında <strong>değer</strong>, <strong>fiyat</strong> ve <strong>maliyet</strong> gelir. Pek çok kişi bir taşınmazın satış fiyatını doğrudan değeri olarak kabul ederken, bazı durumlarda maliyet ile değer arasında da yanlış bağlantılar kurulabilmektedir. Oysa emlak değerleme çalışmalarında bu üç kavram birbirinden farklı anlamlar taşır ve farklı yöntemlerle belirlenir.</p>
 
 <p>Özellikle yatırım kararları, kredi teminat işlemleri, kamulaştırma süreçleri, vergi uygulamaları ve gayrimenkul geliştirme projelerinde bu kavramların doğru anlaşılması büyük önem taşımaktadır.</p>
 
@@ -2432,320 +2801,4 @@
 
 <p>Emlak değerleme süreci, yalnızca bir fiyat tahmini yapmak değil, bilimsel yöntemlerle piyasa değerine ulaşmayı amaçlayan profesyonel bir çalışmadır. Emsal Karşılaştırma Yaklaşımı, Gelir Yaklaşımı ve Maliyet Yaklaşımı uluslararası kabul görmüş temel değerleme yöntemleri olarak öne çıkarken; geliştirme yöntemi ve arazi geliştirme analizleri gibi özel teknikler de belirli taşınmaz türlerinde kullanılmaktadır.</p>
 
-<p>Başarılı bir değerleme çalışmasının temelinde doğru veriler, uygun yöntem seçimi ve elde edilen sonuçların uzman bakış açısıyla uzlaştırılması yer alır. Bu nedenle yatırımcılar, bankalar, kamu kurumları ve gayrimenkul sahipleri için güvenilir değerleme raporları, doğru karar alma sürecinin vazgeçilmez bir parçasıdır.</p>]]></content><author><name></name></author><category term="emlak değerleme" /><category term="gayrimenkul değerleme" /><category term="emlak değerleme yöntemleri" /><summary type="html"><![CDATA[Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Düzeltme Nedir?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Düzeltme Nedir?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir"><![CDATA[<p>Gayrimenkul değerleme süreci, yalnızca benzer taşınmazların fiyatlarını karşılaştırarak bir sonuca ulaşmaktan ibaret değildir. Her taşınmazın kendine özgü özellikleri bulunur ve bu özellikler piyasa değerini doğrudan etkiler. Bu nedenle değerleme uzmanları, karşılaştırılabilir emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz ederek çeşitli düzeltmeler uygularlar.</p>
-
-<p>Gayrimenkul değerlemede “düzeltme” kavramı, emsal karşılaştırma yaklaşımının en kritik aşamalarından biridir. Doğru yapılan düzeltmeler, piyasa değerinin gerçeğe en yakın şekilde tespit edilmesini sağlarken, hatalı düzeltmeler önemli değer sapmalarına neden olabilir.</p>
-
-<p>Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.</p>
-
-<h2 id="gayrimenkul-değerlemede-düzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</h2>
-
-<p>Düzeltme, değerleme konusu taşınmaz ile emsal olarak kullanılan gayrimenkuller arasındaki farklılıkların giderilmesi amacıyla yapılan fiyat ayarlamasıdır.</p>
-
-<p>Hiçbir emsal taşınmaz, değerlemesi yapılan mülk ile tamamen aynı özelliklere sahip değildir. Bu nedenle emsallerin satış fiyatları üzerinde belirli düzeltmeler yapılarak karşılaştırılabilir hale getirilmesi gerekir.</p>
-
-<p>Amaç, emsal satışların fiyatlarını değerleme konusu taşınmazın özelliklerine uyarlamaktır.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Değerlemesi yapılan daire deniz manzaralıysa,</li>
-  <li>Emsal daire manzarasızsa,</li>
-  <li>Emsal satış fiyatına manzara farkı kadar düzeltme eklenir.</li>
-</ul>
-
-<p>Böylece emsal, değerleme konusu taşınmaza daha yakın özelliklere sahip hale gelir.</p>
-
-<h2 id="düzeltmeler-neden-gereklidir">Düzeltmeler Neden Gereklidir?</h2>
-
-<p>Piyasada satılan iki taşınmazın tamamen aynı olması neredeyse imkânsızdır.</p>
-
-<p>Aşağıdaki unsurlar bile ciddi fiyat farklılıkları yaratabilir:</p>
-
-<ul>
-  <li>Konum</li>
-  <li>Manzara</li>
-  <li>Cephe</li>
-  <li>Kat durumu</li>
-  <li>Kullanım alanı</li>
-  <li>Yaş</li>
-  <li>Yapı kalitesi</li>
-  <li>Ulaşım imkânları</li>
-  <li>Sosyal donatılar</li>
-  <li>Tapu niteliği</li>
-</ul>
-
-<p>Düzeltmeler uygulanmadığında emsal fiyatları yanıltıcı sonuçlar verebilir.</p>
-
-<p>Bu nedenle profesyonel değerleme çalışmalarında emsaller doğrudan kullanılmaz; önce farklılıklar analiz edilir ve gerekli düzeltmeler yapılır.</p>
-
-<h2 id="düzeltme-türleri">Düzeltme Türleri</h2>
-
-<p>Gayrimenkul değerlemede kullanılan düzeltmeler genel olarak iki grupta incelenir:</p>
-
-<h3 id="nicel-kantitatif-düzeltmeler">Nicel (Kantitatif) Düzeltmeler</h3>
-
-<p>Parasal veya yüzdesel olarak ölçülebilen düzeltmelerdir.</p>
-
-<p>Örnekler:</p>
-
-<ul>
-  <li>Alan farkı</li>
-  <li>Yaş farkı</li>
-  <li>Kat farkı</li>
-  <li>Manzara farkı</li>
-  <li>Oda sayısı farkı</li>
-</ul>
-
-<p>Bu tür düzeltmeler sayısal verilerle ifade edilebilir.</p>
-
-<h3 id="nitel-kalitatif-düzeltmeler">Nitel (Kalitatif) Düzeltmeler</h3>
-
-<p>Tam olarak sayısallaştırılması zor olan özellikler için kullanılır.</p>
-
-<p>Örnekler:</p>
-
-<ul>
-  <li>Prestij</li>
-  <li>Bölge algısı</li>
-  <li>Mimari kalite</li>
-  <li>Sosyal çevre</li>
-  <li>Yaşam kalitesi</li>
-</ul>
-
-<p>Bu düzeltmeler uzman görüşü ve piyasa analizine dayanır.</p>
-
-<h2 id="başlıca-düzeltme-kalemleri">Başlıca Düzeltme Kalemleri</h2>
-
-<h3 id="zaman-düzeltmesi">Zaman Düzeltmesi</h3>
-
-<p>Piyasa koşulları sürekli değişir.</p>
-
-<p>Bir emsal satış:</p>
-
-<ul>
-  <li>3 ay önce gerçekleşmiş olabilir.</li>
-  <li>6 ay önce gerçekleşmiş olabilir.</li>
-  <li>1 yıl önce gerçekleşmiş olabilir.</li>
-</ul>
-
-<p>Bu süreçte piyasada fiyat artışı veya düşüş yaşanmış olabilir.</p>
-
-<p>Örneğin:</p>
-
-<p>Bir bölgede son 12 ayda konut fiyatları %20 artmışsa, bir yıl önce satılan emsalin fiyatı güncel piyasa koşullarına göre yukarı yönlü düzeltilmelidir.</p>
-
-<h3 id="konum-düzeltmesi">Konum Düzeltmesi</h3>
-
-<p>Konum, gayrimenkul değerini belirleyen en önemli faktördür.</p>
-
-<p>Aynı mahallede bile:</p>
-
-<ul>
-  <li>Cadde üzeri</li>
-  <li>Ara sokak</li>
-  <li>Ana ulaşım aksına yakınlık</li>
-  <li>Metro istasyonuna mesafe</li>
-</ul>
-
-<p>gibi unsurlar fiyatları değiştirebilir.</p>
-
-<p>Daha avantajlı konumdaki emsaller için aşağı yönlü, daha dezavantajlı konumdaki emsaller için ise yukarı yönlü düzeltme yapılır.</p>
-
-<h3 id="büyüklük-düzeltmesi">Büyüklük Düzeltmesi</h3>
-
-<p>Taşınmazın kullanım alanı ile emsalin alanı farklı olabilir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Konu taşınmaz 120 m²</li>
-  <li>Emsal taşınmaz 90 m²</li>
-</ul>
-
-<p>olabilir.</p>
-
-<p>Metrekare birim fiyatları büyüklüğe göre değişiklik göstereceğinden gerekli düzeltme uygulanmalıdır.</p>
-
-<h3 id="kat-düzeltmesi">Kat Düzeltmesi</h3>
-
-<p>Özellikle apartman dairelerinde kat faktörü oldukça önemlidir.</p>
-
-<p>Genellikle:</p>
-
-<ul>
-  <li>Ara katlar daha değerli kabul edilir.</li>
-  <li>Zemin katlar daha düşük fiyatlanır.</li>
-  <li>Son katlar bazı bölgelerde değer kaybına neden olabilir.</li>
-</ul>
-
-<p>Ancak bölgesel alışkanlıklar mutlaka dikkate alınmalıdır.</p>
-
-<h3 id="manzara-düzeltmesi">Manzara Düzeltmesi</h3>
-
-<p>Manzara bazı bölgelerde ciddi fiyat avantajı sağlar.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Deniz manzarası</li>
-  <li>Boğaz manzarası</li>
-  <li>Göl manzarası</li>
-  <li>Orman manzarası</li>
-</ul>
-
-<p>gibi özellikler değer üzerinde önemli etkiler yaratabilir.</p>
-
-<p>Bu durumda manzarasız emsaller için yukarı yönlü düzeltme yapılabilir.</p>
-
-<h3 id="yapı-kalitesi-düzeltmesi">Yapı Kalitesi Düzeltmesi</h3>
-
-<p>İki taşınmaz aynı yaşta olsa bile yapı kaliteleri farklı olabilir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Lüks konut projesi</li>
-  <li>Standart apartman</li>
-  <li>Site içi yaşam</li>
-  <li>Akıllı ev sistemleri</li>
-</ul>
-
-<p>fiyat üzerinde doğrudan etkili olabilir.</p>
-
-<h3 id="fiziksel-durum-düzeltmesi">Fiziksel Durum Düzeltmesi</h3>
-
-<p>Taşınmazın bakım durumu da önemlidir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Yeni tadilat görmüş bir daire</li>
-  <li>Uzun süredir bakım yapılmamış bir daire</li>
-</ul>
-
-<p>arasında ciddi fiyat farkı oluşabilir.</p>
-
-<p>Bu farklılıklar düzeltmelerle giderilir.</p>
-
-<h2 id="düzeltmeler-nasıl-uygulanır">Düzeltmeler Nasıl Uygulanır?</h2>
-
-<p>Düzeltmeler genellikle yüzdesel veya tutarsal olarak yapılır.</p>
-
-<h3 id="yüzdesel-düzeltme">Yüzdesel Düzeltme</h3>
-
-<p>Örnek:</p>
-
-<p>Emsal satış fiyatı:</p>
-
-<p>10.000.000 TL</p>
-
-<p>Kat avantajı:</p>
-
-<p>%5</p>
-
-<p>Düzeltilmiş fiyat:</p>
-
-<p>10.000.000 × 1,05</p>
-
-<p>= 10.500.000 TL</p>
-
-<h3 id="tutar-bazlı-düzeltme">Tutar Bazlı Düzeltme</h3>
-
-<p>Örnek:</p>
-
-<p>Emsal satış fiyatı:</p>
-
-<p>10.000.000 TL</p>
-
-<p>Deniz manzarası farkı:</p>
-
-<p>500.000 TL</p>
-
-<p>Düzeltilmiş fiyat:</p>
-
-<p>10.500.000 TL</p>
-
-<p>Her iki yöntem de kullanılabilir. Hangi yöntemin tercih edileceği piyasa verilerine bağlıdır.</p>
-
-<h2 id="brüt-ve-net-düzeltme-kavramları">Brüt ve Net Düzeltme Kavramları</h2>
-
-<h3 id="brüt-düzeltme">Brüt Düzeltme</h3>
-
-<p>Bir emsale uygulanan tüm düzeltmelerin mutlak değerlerinin toplamıdır.</p>
-
-<p>Örnek:</p>
-
-<ul>
-  <li>Konum düzeltmesi: %10</li>
-  <li>Kat düzeltmesi: %5</li>
-  <li>Manzara düzeltmesi: %8</li>
-</ul>
-
-<p>Brüt düzeltme:</p>
-
-<p>%23</p>
-
-<h3 id="net-düzeltme">Net Düzeltme</h3>
-
-<p>Pozitif ve negatif düzeltmelerin birbirini dengelemesinden sonra ortaya çıkan toplam düzeltmedir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Konum: +%10</li>
-  <li>Kat: -%5</li>
-  <li>Manzara: +%8</li>
-</ul>
-
-<p>Net düzeltme:</p>
-
-<p>+%13</p>
-
-<p>Değerleme uzmanları, aşırı yüksek düzeltme gerektiren emsalleri kullanmamaya özen gösterir.</p>
-
-<h2 id="düzeltme-yaparken-dikkat-edilmesi-gerekenler">Düzeltme Yaparken Dikkat Edilmesi Gerekenler</h2>
-
-<h3 id="piyasa-verilerine-dayanmak">Piyasa Verilerine Dayanmak</h3>
-
-<p>Düzeltmeler varsayımlarla değil, mümkün olduğunca gerçek piyasa verileriyle desteklenmelidir.</p>
-
-<h3 id="tutarlılık-sağlamak">Tutarlılık Sağlamak</h3>
-
-<p>Benzer özelliklere sahip emsaller için benzer düzeltmeler uygulanmalıdır.</p>
-
-<h3 id="çifte-düzeltmeden-kaçınmak">Çifte Düzeltmeden Kaçınmak</h3>
-
-<p>Aynı özellik için iki kez düzeltme yapılmamalıdır.</p>
-
-<p>Örneğin:</p>
-
-<p>Konum avantajı nedeniyle zaten düzeltme yapılmışsa, aynı avantajı ulaşım kolaylığı başlığı altında tekrar düzeltmek yanlış sonuç verebilir.</p>
-
-<h3 id="aşırı-düzeltmeli-emsalleri-elemek">Aşırı Düzeltmeli Emsalleri Elemek</h3>
-
-<p>Çok fazla düzeltme gerektiren emsaller güvenilirliğini kaybedebilir.</p>
-
-<p>Bu nedenle değerleme uzmanları mümkün olduğunca benzer emsalleri tercih eder.</p>
-
-<h2 id="düzeltmelerin-değerleme-sonucuna-etkisi">Düzeltmelerin Değerleme Sonucuna Etkisi</h2>
-
-<p>Düzeltmeler, değerleme sonucunu doğrudan etkileyen unsurlardır.</p>
-
-<p>Aynı emsaller kullanılsa bile:</p>
-
-<ul>
-  <li>Farklı düzeltme oranları</li>
-  <li>Farklı piyasa yorumları</li>
-  <li>Farklı veri analizleri</li>
-</ul>
-
-<p>sonucunda farklı değer tahminleri ortaya çıkabilir.</p>
-
-<p>Bu nedenle düzeltme süreci, değerleme uzmanının piyasa bilgisi ve tecrübesiyle yakından ilişkilidir.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Gayrimenkul değerlemede düzeltme kavramı, emsal karşılaştırma yaklaşımının temel taşlarından biridir. Çünkü piyasada birebir aynı özelliklere sahip taşınmaz bulmak neredeyse imkânsızdır. Değerleme uzmanları, emsaller ile konu taşınmaz arasındaki farklılıkları analiz ederek gerekli düzeltmeleri uygular ve böylece daha doğru bir piyasa değeri tespit ederler.</p>
-
-<p>Zaman, konum, büyüklük, kat, manzara, yapı kalitesi ve fiziksel durum gibi unsurlar düzeltme sürecinin en önemli bileşenleridir. Profesyonel ve veri temelli bir düzeltme çalışması, değerleme raporunun güvenilirliğini artırırken yatırımcılar, bankalar, kamu kurumları ve gayrimenkul profesyonelleri için daha sağlıklı kararlar alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.]]></summary></entry></feed>
+<p>Başarılı bir değerleme çalışmasının temelinde doğru veriler, uygun yöntem seçimi ve elde edilen sonuçların uzman bakış açısıyla uzlaştırılması yer alır. Bu nedenle yatırımcılar, bankalar, kamu kurumları ve gayrimenkul sahipleri için güvenilir değerleme raporları, doğru karar alma sürecinin vazgeçilmez bir parçasıdır.</p>]]></content><author><name></name></author><category term="emlak değerleme" /><category term="gayrimenkul değerleme" /><category term="emlak değerleme yöntemleri" /><summary type="html"><![CDATA[Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz.]]></summary></entry></feed>
