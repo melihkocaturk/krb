@@ -1,198 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-07-14T23:31:02+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Otopark Değerlemesinde En Doğru Yaklaşım Nedir?</title><link href="http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir" rel="alternate" type="text/html" title="Otopark Değerlemesinde En Doğru Yaklaşım Nedir?" /><published>2026-07-14T00:00:00+03:00</published><updated>2026-07-14T00:00:00+03:00</updated><id>http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir</id><content type="html" xml:base="http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir"><![CDATA[<p>Kentleşmenin hızlanması, araç sahipliğinin artması ve özellikle büyük şehirlerde otopark ihtiyacının her geçen gün büyümesi, bağımsız otoparkların ekonomik değerini de önemli ölçüde artırmıştır. Günümüzde bir araç park yerinin değeri, bazı bölgelerde küçük bir konutun değerine yaklaşabilmektedir. Bu nedenle otoparkların doğru yöntemlerle değerlenmesi; gayrimenkul değerleme uzmanları, yatırımcılar, bankalar ve kamu kurumları açısından büyük önem taşımaktadır.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-07-17T07:24:13+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Göktürk Ücretsiz Emlak Değerleme</title><subtitle>Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.</subtitle><entry><title type="html">Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır?</title><link href="http://localhost:4000/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir" rel="alternate" type="text/html" title="Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır?" /><published>2026-07-17T00:00:00+03:00</published><updated>2026-07-17T00:00:00+03:00</updated><id>http://localhost:4000/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir</id><content type="html" xml:base="http://localhost:4000/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir"><![CDATA[<p>Arsa değerlemesi, gayrimenkul değerleme disiplininin en hassas alanlarından biridir. Özellikle birbirinden farklı yapılaşma koşullarına sahip arsaların karşılaştırılması, yalnızca metrekare fiyatlarına bakılarak yapılamaz. Aynı büyüklükte iki arsanın imar hakları farklıysa, ekonomik değerleri de önemli ölçüde değişir.</p>
 
-<p>Otopark değerlemesinde kullanılan en yaygın yöntemlerden biri <strong>emsal karşılaştırma yaklaşımı</strong> olup, bu yöntemde kullanılan temel karşılaştırma birimi ise <strong>araç park yeri</strong>dir. Başka bir ifadeyle değerleme yapılırken fiyatlar “metrekare” üzerinden değil, “bir araçlık park alanı” üzerinden analiz edilir.</p>
+<p>Uygulamada yapılan en yaygın hatalardan biri, farklı yapılaşma koşullarına sahip arsaları doğrudan metrekare fiyatı üzerinden karşılaştırmaktır. Oysa bir arsanın gerçek ekonomik değeri yalnızca yüzölçümünden değil, üzerinde ne kadar yapı üretilebildiğinden de etkilenir.</p>
 
-<h2 id="araç-park-yeri-karşılaştırma-birimi-nedir">Araç Park Yeri Karşılaştırma Birimi Nedir?</h2>
+<p>Bu nedenle profesyonel değerleme çalışmalarında, farklı yapılaşma koşullarına sahip arsaların karşılaştırılmasında en sağlıklı yöntemlerden biri <strong>inşaat alanı (emsal inşaat hakkı) bazlı karşılaştırmadır.</strong></p>
 
-<p>Araç park yeri karşılaştırma birimi, otoparkların piyasa değerlerini karşılaştırabilmek amacıyla kullanılan standart ölçüdür.</p>
+<h2 id="yapılaşma-koşulları-neden-değeri-değiştirir">Yapılaşma Koşulları Neden Değeri Değiştirir?</h2>
 
-<p>Bu yöntemde her bir park alanı bağımsız bir ekonomik birim olarak kabul edilir. Çünkü otopark satın alan yatırımcı veya kullanıcı, aslında belirli büyüklükte bir beton alanı değil, tek bir aracın güvenli şekilde park edebileceği kullanım hakkını satın almaktadır.</p>
-
-<p>Bu nedenle kapalı veya açık otoparklarda fiyat analizleri çoğunlukla şu şekilde yapılır:</p>
-
-<p><strong>Birim Değer = Toplam Satış Fiyatı / Araç Park Yeri Sayısı</strong></p>
-
-<p>Böylece farklı büyüklükteki otoparklar ortak bir ölçü üzerinden karşılaştırılabilir.</p>
-
-<h2 id="neden-metrekare-yerine-araç-park-yeri-kullanılır">Neden Metrekare Yerine Araç Park Yeri Kullanılır?</h2>
-
-<p>İlk bakışta metrekare esaslı değerleme mantıklı görünse de otoparklarda bu yaklaşım çoğu zaman yanıltıcı sonuçlar doğurur.</p>
-
-<p>Bunun temel nedenleri şunlardır:</p>
+<p>Bir arsanın değeri üzerinde etkili olan temel imar unsurları şunlardır:</p>
 
 <ul>
-  <li>Manevra alanları her projede farklıdır.</li>
-  <li>Kolon yerleşimleri kullanılabilir alanı etkiler.</li>
-  <li>Rampalar net park alanını azaltabilir.</li>
-  <li>Engelli park yerleri daha geniş ölçülerdedir.</li>
-  <li>Elektrikli araç şarj alanları farklı değer oluşturabilir.</li>
-  <li>Otoparkın mimari tasarımı park kapasitesini doğrudan etkiler.</li>
+  <li>Emsal (KAKS)</li>
+  <li>Taban alanı katsayısı (TAKS)</li>
+  <li>Kat adedi</li>
+  <li>Hmax</li>
+  <li>Ayrık, bitişik veya blok nizam</li>
+  <li>Kullanım kararı (konut, ticaret, sanayi, turizm vb.)</li>
+  <li>Çekme mesafeleri</li>
+  <li>Otopark zorunluluğu</li>
+  <li>Plan notları</li>
 </ul>
 
-<p>Örneğin iki otoparkın da brüt alanı 1.000 m² olabilir. Ancak biri 42 araç, diğeri ise 55 araç kapasitesine sahipse yatırımcı açısından değer oluşturan unsur metrekare değil, araç kapasitesidir.</p>
+<p>Bu unsurlar, arsanın yatırım potansiyelini doğrudan belirler.</p>
 
-<h2 id="araç-park-yeri-sayısı-nasıl-belirlenir">Araç Park Yeri Sayısı Nasıl Belirlenir?</h2>
+<p>Örneğin aynı büyüklükte iki arsayı düşünelim.</p>
 
-<p>Değerleme çalışmasında öncelikle otoparkın fiili kapasitesi tespit edilir.</p>
+<p>Birinci arsa üzerine yalnızca 600 m² inşaat yapılabilirken ikinci arsa üzerine 2.000 m² inşaat yapılabiliyorsa, bu iki parselin aynı metrekare fiyatına sahip olması beklenemez.</p>
 
-<p>Bu tespit sırasında;</p>
+<p>Çünkü yatırımcı aslında toprağı değil, <strong>üretebileceği yapı hakkını satın almaktadır.</strong></p>
+
+<h2 id="neden-sadece-arsa-metrekare-fiyatı-kullanılmaz">Neden Sadece Arsa Metrekare Fiyatı Kullanılmaz?</h2>
+
+<p>Piyasada sıklıkla şu ifadeler duyulur:</p>
+
+<p>“Bu bölgede arsalar 30.000 TL/m².”</p>
+
+<p>Ancak bu bilgi tek başına yeterli değildir.</p>
+
+<p>Çünkü;</p>
 
 <ul>
-  <li>Onaylı mimari proje,</li>
-  <li>Yapı ruhsatı,</li>
-  <li>Kat irtifakı veya kat mülkiyeti planları,</li>
-  <li>Yerinde yapılan inceleme</li>
+  <li>500 m² büyüklüğündeki iki arsanın biri E=0.80,</li>
+  <li>diğeri E=2.50 olabilir.</li>
 </ul>
 
-<p>birlikte değerlendirilir.</p>
+<p>İkinci arsa yaklaşık üç kat fazla inşaat hakkına sahip olacaktır.</p>
 
-<p>Bazı projelerde ruhsatta belirtilen araç sayısı ile fiili kullanım arasında farklılık bulunabilir. Böyle durumlarda hukuki durum ile fiili durum ayrı ayrı analiz edilmelidir.</p>
+<p>Dolayısıyla yalnızca arsa metrekare fiyatına göre yapılan karşılaştırma ciddi hatalara yol açabilir.</p>
 
-<h2 id="emsal-seçiminde-nelere-dikkat-edilir">Emsal Seçiminde Nelere Dikkat Edilir?</h2>
+<h2 id="sağlıklı-karşılaştırma-i̇çin-i̇nşaat-alanı-yaklaşımı">Sağlıklı Karşılaştırma İçin İnşaat Alanı Yaklaşımı</h2>
 
-<p>Araç park yeri karşılaştırma yönteminin başarısı, doğru emsal seçimine bağlıdır.</p>
+<p>Profesyonel değerleme çalışmalarında farklı imar haklarına sahip arsalar karşılaştırılırken önce her parselin üretebildiği toplam emsal inşaat alanı hesaplanır.</p>
 
-<p>Tercih edilen emsaller mümkün olduğunca aşağıdaki özellikleri taşımalıdır:</p>
+<p>Formül oldukça basittir.</p>
+
+<p><strong>Toplam İnşaat Alanı = Arsa Alanı × Emsal (KAKS)</strong></p>
+
+<p>Daha sonra satış fiyatı bu inşaat alanına bölünür.</p>
+
+<p>Böylece her arsa için ortak karşılaştırma birimi elde edilir.</p>
+
+<p><strong>İnşaat Alanı Birim Değeri = Satış Fiyatı / Toplam İnşaat Alanı</strong></p>
+
+<p>Bu yöntem, farklı yapılaşma haklarını aynı zeminde değerlendirmeyi sağlar.</p>
+
+<h2 id="örnek-değerleme-çalışması">Örnek Değerleme Çalışması</h2>
+
+<p>Bir arsanın değerinin belirlendiğini düşünelim.</p>
+
+<h3 id="değeri-belirlenecek-arsa">Değeri Belirlenecek Arsa</h3>
 
 <ul>
-  <li>Aynı bölgede bulunmalıdır.</li>
-  <li>Benzer kullanım amacına sahip olmalıdır.</li>
-  <li>Satış tarihi güncel olmalıdır.</li>
-  <li>Benzer doluluk oranına sahip olmalıdır.</li>
-  <li>Benzer güvenlik ve işletme özelliklerini taşımalıdır.</li>
-  <li>Kat seviyesi benzer olmalıdır.</li>
-  <li>Giriş-çıkış kolaylığı yakın olmalıdır.</li>
+  <li>Arsa Alanı: 800 m²</li>
+  <li>Emsal (KAKS): 2.00</li>
 </ul>
 
-<p>Gerekli durumlarda emsaller için düzeltme katsayıları uygulanabilir.</p>
+<p>Toplam yapılabilecek inşaat alanı:</p>
 
-<h2 id="örnek-otopark-değerlemesi">Örnek Otopark Değerlemesi</h2>
+<p>800 × 2.00 = <strong>1.600 m²</strong></p>
 
-<p>Bir değerleme uzmanının aşağıdaki özelliklere sahip kapalı otoparkı değerlediğini düşünelim.</p>
-
-<p><strong>Değerleme Konusu</strong></p>
-
-<ul>
-  <li>Kapalı otopark</li>
-  <li>Araç kapasitesi: 80 araç</li>
-  <li>Şehir merkezi</li>
-  <li>24 saat güvenlik</li>
-  <li>Kartlı giriş sistemi</li>
-</ul>
-
-<h3 id="emsal-satışlar">Emsal Satışlar</h3>
+<p>Şimdi piyasadan üç emsal satış bulalım.</p>
 
 <table>
   <thead>
     <tr>
       <th>Emsal</th>
-      <th style="text-align: right">Araç Sayısı</th>
+      <th style="text-align: right">Arsa Alanı</th>
+      <th style="text-align: right">Emsal (KAKS)</th>
+      <th style="text-align: right">İnşaat Alanı</th>
       <th style="text-align: right">Satış Fiyatı</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Emsal 1</td>
-      <td style="text-align: right">60</td>
-      <td style="text-align: right">18.000.000 TL</td>
+      <td>1</td>
+      <td style="text-align: right">600 m²</td>
+      <td style="text-align: right">1.50</td>
+      <td style="text-align: right">900 m²</td>
+      <td style="text-align: right">27.000.000 TL</td>
     </tr>
     <tr>
-      <td>Emsal 2</td>
-      <td style="text-align: right">90</td>
-      <td style="text-align: right">29.700.000 TL</td>
+      <td>2</td>
+      <td style="text-align: right">1.000 m²</td>
+      <td style="text-align: right">2.50</td>
+      <td style="text-align: right">2.500 m²</td>
+      <td style="text-align: right">80.000.000 TL</td>
     </tr>
     <tr>
-      <td>Emsal 3</td>
-      <td style="text-align: right">75</td>
-      <td style="text-align: right">23.250.000 TL</td>
+      <td>3</td>
+      <td style="text-align: right">700 m²</td>
+      <td style="text-align: right">1.20</td>
+      <td style="text-align: right">840 m²</td>
+      <td style="text-align: right">24.360.000 TL</td>
     </tr>
   </tbody>
 </table>
 
-<h3 id="araç-başına-birim-değer-hesabı">Araç Başına Birim Değer Hesabı</h3>
+<p>Şimdi her biri için inşaat alanı birim değerini hesaplayalım.</p>
 
-<p><strong>Emsal 1</strong></p>
+<h3 id="emsal-1">Emsal 1</h3>
 
-<p>18.000.000 ÷ 60 = <strong>300.000 TL/araç</strong></p>
+<p>27.000.000 / 900</p>
 
-<p><strong>Emsal 2</strong></p>
+<p>= <strong>30.000 TL/inşaat m²</strong></p>
 
-<p>29.700.000 ÷ 90 = <strong>330.000 TL/araç</strong></p>
+<h3 id="emsal-2">Emsal 2</h3>
 
-<p><strong>Emsal 3</strong></p>
+<p>80.000.000 / 2.500</p>
 
-<p>23.250.000 ÷ 75 = <strong>310.000 TL/araç</strong></p>
+<p>= <strong>32.000 TL/inşaat m²</strong></p>
 
-<p>Emsaller incelendiğinde araç park yeri başına oluşan piyasa değeri yaklaşık olarak <strong>313.000 TL</strong> seviyesindedir.</p>
+<h3 id="emsal-3">Emsal 3</h3>
 
-<p>Ancak değerleme konusu otoparkın;</p>
+<p>24.360.000 / 840</p>
 
-<ul>
-  <li>merkezi konumda bulunması,</li>
-  <li>güvenlik sistemlerinin daha gelişmiş olması,</li>
-  <li>erişimin kolay olması</li>
-</ul>
+<p>= <strong>29.000 TL/inşaat m²</strong></p>
 
-<p>nedenleriyle yaklaşık %4 pozitif düzeltme uygulanabilir.</p>
+<p>Ortalama değer:</p>
 
-<p>Buna göre düzeltilmiş birim değer:</p>
+<p>(30.000 + 32.000 + 29.000) / 3</p>
 
-<p><strong>313.000 × 1,04 = 325.520 TL</strong></p>
+<p>= <strong>30.333 TL/inşaat m²</strong></p>
 
-<p>Yaklaşık olarak <strong>326.000 TL/araç</strong> kabul edilebilir.</p>
+<h2 id="değeri-belirlenecek-arsanın-hesabı">Değeri Belirlenecek Arsanın Hesabı</h2>
 
-<h3 id="nihai-değer">Nihai Değer</h3>
+<p>Arsanın toplam inşaat hakkı:</p>
 
-<p>326.000 TL × 80 araç</p>
+<p>1.600 m²</p>
 
-<p><strong>Toplam Piyasa Değeri = 26.080.000 TL</strong></p>
+<p>İnşaat alanı birim değeri:</p>
 
-<p>Bu hesaplamaya göre söz konusu otoparkın pazar değeri yaklaşık <strong>26,1 milyon TL</strong> olarak takdir edilebilir.</p>
+<p>30.333 TL</p>
 
-<h2 id="değerlemeyi-etkileyen-diğer-unsurlar">Değerlemeyi Etkileyen Diğer Unsurlar</h2>
+<p>Toplam değer:</p>
 
-<p>Araç park yeri sayısı temel karşılaştırma ölçüsü olsa da nihai değeri etkileyen birçok faktör bulunmaktadır.</p>
+<p>1.600 × 30.333</p>
 
-<p>Bunlar arasında;</p>
+<p>= <strong>48.532.800 TL</strong></p>
 
-<ul>
-  <li>şehir merkezi veya çevre konumu,</li>
-  <li>toplu ulaşım bağlantıları,</li>
-  <li>çevredeki otopark arzı,</li>
-  <li>bölgedeki araç yoğunluğu,</li>
-  <li>abonelik gelirleri,</li>
-  <li>saatlik kullanım potansiyeli,</li>
-  <li>işletme giderleri,</li>
-  <li>elektrikli araç şarj altyapısı,</li>
-  <li>güvenlik sistemleri,</li>
-  <li>tavan yüksekliği,</li>
-  <li>giriş-çıkış düzeni,</li>
-  <li>kat sayısı,</li>
-  <li>yangın güvenlik sistemleri</li>
-</ul>
+<p>Yaklaşık piyasa değeri:</p>
 
-<p>önemli rol oynar.</p>
+<p><strong>48.500.000 TL</strong></p>
 
-<p>Özellikle gelir üreten ticari otoparklarda, karşılaştırma yaklaşımının yanında gelir indirgeme yaklaşımı da destekleyici yöntem olarak kullanılabilir.</p>
+<p>Görüldüğü gibi hesaplama, yalnızca arsa alanına değil, üretilebilecek yapı miktarına dayandırılmıştır.</p>
 
-<h2 id="araç-park-yeri-karşılaştırma-biriminin-avantajları">Araç Park Yeri Karşılaştırma Biriminin Avantajları</h2>
+<h2 id="düzeltme-katsayıları-unutulmamalıdır">Düzeltme Katsayıları Unutulmamalıdır</h2>
 
-<p>Bu yöntemin tercih edilmesinin başlıca nedenleri şunlardır:</p>
+<p>Her ne kadar inşaat alanı ortak bir karşılaştırma zemini oluştursa da, emsal satışlar arasında farklılıklar bulunabilir. Bu nedenle değerleme uzmanı gerekli düzeltmeleri yapmalıdır.</p>
+
+<p>Düzeltme gerektirebilecek başlıca unsurlar şunlardır:</p>
 
 <ul>
-  <li>Yatırımcı bakış açısını yansıtır.</li>
-  <li>Piyasa verileriyle uyumludur.</li>
-  <li>Farklı büyüklükteki otoparkların karşılaştırılmasını kolaylaştırır.</li>
-  <li>Metrekare farklılıklarından kaynaklanan hataları azaltır.</li>
-  <li>Hızlı ve anlaşılır bir analiz sunar.</li>
-  <li>Ticari otopark yatırımlarında yaygın olarak kullanılmaktadır.</li>
+  <li>Konum üstünlüğü</li>
+  <li>Köşe parsel olması</li>
+  <li>Cephe uzunluğu</li>
+  <li>Ana caddeye yakınlık</li>
+  <li>Ulaşım olanakları</li>
+  <li>Manzara</li>
+  <li>Ticari hareketlilik</li>
+  <li>Parsel geometrisi</li>
+  <li>Kot farkı</li>
+  <li>Altyapı durumu</li>
+  <li>Zemin özellikleri</li>
+  <li>İfraz veya tevhit gerekliliği</li>
+  <li>Şerefiye farklılıkları</li>
+  <li>Satış tarihi</li>
 </ul>
+
+<p>Bu düzeltmeler yapılmadan yalnızca matematiksel hesaplama ile sonuca ulaşmak doğru değildir.</p>
+
+<h2 id="kat-adedi-her-zaman-aynı-sonucu-vermez">Kat Adedi Her Zaman Aynı Sonucu Vermez</h2>
+
+<p>Bazı yatırımcılar yalnızca kat adedine bakarak değer biçmeye çalışır.</p>
+
+<p>Oysa iki farklı parsel düşünelim.</p>
+
+<p>Birinde 4 kat izni vardır ancak emsal 1.20’dir.</p>
+
+<p>Diğerinde 8 kat izni vardır fakat emsal yine 1.20’dir.</p>
+
+<p>Her iki parsel de aynı toplam inşaat alanına sahip olabilir.</p>
+
+<p>Bu nedenle kat adedi tek başına değer belirleyen bir unsur değildir. Esas belirleyici olan, kullanılabilir toplam yapılaşma hakkıdır.</p>
+
+<h2 id="ticaret-ve-konut-i̇marı-ayrı-değerlendirilmelidir">Ticaret ve Konut İmarı Ayrı Değerlendirilmelidir</h2>
+
+<p>İmar kullanım kararı da değeri doğrudan etkiler.</p>
+
+<p>Aynı emsale sahip iki arsadan biri konut, diğeri ticaret alanında kalıyorsa yatırım getirileri farklı olacaktır.</p>
+
+<p>Benzer şekilde;</p>
+
+<ul>
+  <li>Konut + Ticaret</li>
+  <li>Turizm</li>
+  <li>Sağlık</li>
+  <li>Eğitim</li>
+  <li>Sanayi</li>
+  <li>Depolama</li>
+  <li>Akaryakıt istasyonu</li>
+  <li>Lojistik</li>
+</ul>
+
+<p>gibi kullanım kararları kendi pazar dinamikleri içinde değerlendirilmelidir.</p>
+
+<p>Bu nedenle farklı kullanım kararlarına sahip arsalar mümkün olduğunca kendi emsalleriyle karşılaştırılmalıdır.</p>
+
+<h2 id="sadece-emsale-bakmak-da-yeterli-değildir">Sadece Emsale Bakmak da Yeterli Değildir</h2>
+
+<p>Emsal değeri aynı olsa bile bazı plan notları yapılaşmayı önemli ölçüde etkileyebilir.</p>
+
+<p>Örneğin;</p>
+
+<ul>
+  <li>Bodrum katların emsale dahil edilmesi,</li>
+  <li>Çatı arası kullanım hakları,</li>
+  <li>Ticari kullanım zorunluluğu,</li>
+  <li>Zemin kat kullanım sınırlamaları,</li>
+  <li>Otopark çözümleri,</li>
+  <li>Yeşil alan terkleri,</li>
+  <li>Kamuya terk yükümlülükleri,</li>
+</ul>
+
+<p>gibi hükümler yatırım maliyetini ve dolayısıyla arsanın piyasa değerini değiştirebilir.</p>
+
+<p>Bu nedenle değerleme uzmanı yalnızca imar çapına değil, plan notlarının tamamına hâkim olmalıdır.</p>
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Otopark değerlemesinde en önemli unsur, fiziksel alanın büyüklüğünden çok <strong>kaç adet kullanılabilir araç park yeri oluşturduğu</strong>dur. Bu nedenle emsal karşılaştırma yaklaşımında temel karşılaştırma birimi olarak <strong>araç park yeri</strong> kullanılması, piyasanın işleyişini daha doğru yansıtır.</p>
-
-<p>Doğru seçilmiş emsaller, uygun düzeltmeler ve sağlıklı piyasa verileriyle desteklenen araç park yeri karşılaştırma yöntemi; hem bağımsız otoparkların hem de ticari otopark yatırımlarının gerçeğe en yakın piyasa değerinin belirlenmesinde güvenilir bir yöntemdir. Bununla birlikte, gelir üreten büyük ölçekli otoparklarda karşılaştırma yaklaşımının gelir indirgeme yöntemi ile birlikte değerlendirilmesi, değerleme sonucunun doğruluğunu artıracak ve daha güçlü bir değer takdiri yapılmasına katkı sağlayacaktır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Otopark değerlemesinde araç park yeri karşılaştırma birimi nasıl kullanılır? Emsal karşılaştırma yöntemi, örnek otopark değerlemesi, hesaplama adımları ve değerlemeyi etkileyen faktörleri detaylı olarak keşfedin.]]></summary></entry><entry><title type="html">Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı</title><link href="http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani" rel="alternate" type="text/html" title="Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı" /><published>2026-07-14T00:00:00+03:00</published><updated>2026-07-14T00:00:00+03:00</updated><id>http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani</id><content type="html" xml:base="http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani"><![CDATA[<p>Gayrimenkul değerleme çalışmalarında en kritik aşamalardan biri, emsal karşılaştırmalarının doğru yapılmasıdır. Özellikle imarlı arsaların değer tespitinde birçok kişi ve hatta bazı sektör profesyonelleri, satış fiyatını doğrudan arsa yüzölçümüne bölerek metrekare birim değerine ulaşmayı yeterli görmektedir. Ancak bu yaklaşım, her zaman gerçeği yansıtmaz.</p>
+<p>Yapılaşma koşulları farklı arsaların değerlemesinde yalnızca arsa metrekare fiyatını esas almak sağlıklı sonuç vermez. Aynı büyüklükteki iki parsel, sahip oldukları imar hakları nedeniyle birbirinden çok farklı ekonomik değerlere sahip olabilir. Bu nedenle profesyonel değerleme çalışmalarında öncelikle her parselin toplam inşaat hakkı hesaplanmalı, ardından satış fiyatları inşaat alanı bazında karşılaştırılmalıdır. Elde edilen birim değer; konum, kullanım kararı, plan notları, parsel özellikleri ve diğer şerefiye unsurları dikkate alınarak gerekli düzeltmelerle desteklenmelidir. Böylece hem yatırımcılar hem de değerleme uzmanları, farklı yapılaşma koşullarına sahip arsalar arasında daha gerçekçi ve savunulabilir piyasa değerlerine ulaşabilir.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="arsa değerleme" /><summary type="html"><![CDATA[Yapılaşma koşulları farklı arsalar nasıl değerlenir? Emsal (KAKS), inşaat alanı karşılaştırması ve örnek hesaplamalarla profesyonel arsa değerleme yöntemlerini öğrenin.]]></summary></entry><entry><title type="html">Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı</title><link href="http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani" rel="alternate" type="text/html" title="Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı" /><published>2026-07-14T00:00:00+03:00</published><updated>2026-07-14T00:00:00+03:00</updated><id>http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani</id><content type="html" xml:base="http://localhost:4000/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani"><![CDATA[<p>Gayrimenkul değerleme çalışmalarında en kritik aşamalardan biri, emsal karşılaştırmalarının doğru yapılmasıdır. Özellikle imarlı arsaların değer tespitinde birçok kişi ve hatta bazı sektör profesyonelleri, satış fiyatını doğrudan arsa yüzölçümüne bölerek metrekare birim değerine ulaşmayı yeterli görmektedir. Ancak bu yaklaşım, her zaman gerçeği yansıtmaz.</p>
 
 <p>Çünkü bir arsanın ekonomik değeri yalnızca büyüklüğünden değil, üzerinde ne kadar yapı üretilebildiğinden kaynaklanır. Aynı büyüklükte iki arsanın inşaat hakkı farklıysa piyasa değerleri de önemli ölçüde değişecektir.</p>
 
@@ -436,7 +491,201 @@
 
 <p>İmarlı arsaların değerlemesinde yüzölçümüne dayalı metrekare fiyatı her zaman doğru sonucu vermez. Çünkü piyasa, arsayı çoğu zaman üzerinde geliştirilebilecek proje potansiyeli üzerinden fiyatlandırır. Bu nedenle özellikle konut, ticaret ve karma kullanım bölgelerinde <strong>inşaat alanı başına birim değer</strong>, yatırımcı bakış açısını daha doğru yansıtan güçlü bir karşılaştırma ölçütüdür.</p>
 
-<p>Elbette bu yöntem tek başına yeterli değildir. İmar hakları, kullanım türü, geliştirme maliyetleri, plan notları ve piyasa koşulları birlikte analiz edilmelidir. Ancak doğru emsallerle ve uygun düzeltmelerle uygulandığında, inşaat alanı karşılaştırma birimi hem uluslararası değerleme yaklaşımına hem de piyasa gerçeklerine uygun, güvenilir sonuçlar üretir. Bu nedenle özellikle proje geliştirme potansiyeli yüksek arsaların değerlemesinde, profesyonel değerleme uzmanlarının en sık başvurduğu yöntemlerden biri olarak öne çıkmaktadır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda inşaat alanı karşılaştırma yöntemini, hangi durumlarda tercih edilmesi gerektiğini ve örnek bir hesaplama ile nasıl uygulandığını ayrıntılı olarak inceleyeceğiz..]]></summary></entry><entry><title type="html">Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak</title><link href="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak" rel="alternate" type="text/html" title="Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak" /><published>2026-07-09T00:00:00+03:00</published><updated>2026-07-09T00:00:00+03:00</updated><id>http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak</id><content type="html" xml:base="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak"><![CDATA[<p>Gayrimenkul değerleme sürecinde her taşınmaz aynı yöntemle değerlenmez. Bazı taşınmazlar konumları, emsal satışları veya yeniden inşa maliyetleri üzerinden değerlendirilirken, gelir üreten gayrimenkullerde en önemli kriterlerden biri elde edilen gelir olur. İşte bu noktada <strong>kapitalizasyon oranı (Capitalization Rate - Cap Rate)</strong> devreye girer.</p>
+<p>Elbette bu yöntem tek başına yeterli değildir. İmar hakları, kullanım türü, geliştirme maliyetleri, plan notları ve piyasa koşulları birlikte analiz edilmelidir. Ancak doğru emsallerle ve uygun düzeltmelerle uygulandığında, inşaat alanı karşılaştırma birimi hem uluslararası değerleme yaklaşımına hem de piyasa gerçeklerine uygun, güvenilir sonuçlar üretir. Bu nedenle özellikle proje geliştirme potansiyeli yüksek arsaların değerlemesinde, profesyonel değerleme uzmanlarının en sık başvurduğu yöntemlerden biri olarak öne çıkmaktadır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="arsa değerleme" /><summary type="html"><![CDATA[Bu yazıda inşaat alanı karşılaştırma yöntemini, hangi durumlarda tercih edilmesi gerektiğini ve örnek bir hesaplama ile nasıl uygulandığını ayrıntılı olarak inceleyeceğiz..]]></summary></entry><entry><title type="html">Otopark Değerlemesinde En Doğru Yaklaşım Nedir?</title><link href="http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir" rel="alternate" type="text/html" title="Otopark Değerlemesinde En Doğru Yaklaşım Nedir?" /><published>2026-07-14T00:00:00+03:00</published><updated>2026-07-14T00:00:00+03:00</updated><id>http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir</id><content type="html" xml:base="http://localhost:4000/otopark-degerlemesinde-en-dogru-yaklasim-nedir"><![CDATA[<p>Kentleşmenin hızlanması, araç sahipliğinin artması ve özellikle büyük şehirlerde otopark ihtiyacının her geçen gün büyümesi, bağımsız otoparkların ekonomik değerini de önemli ölçüde artırmıştır. Günümüzde bir araç park yerinin değeri, bazı bölgelerde küçük bir konutun değerine yaklaşabilmektedir. Bu nedenle otoparkların doğru yöntemlerle değerlenmesi; gayrimenkul değerleme uzmanları, yatırımcılar, bankalar ve kamu kurumları açısından büyük önem taşımaktadır.</p>
+
+<p>Otopark değerlemesinde kullanılan en yaygın yöntemlerden biri <strong>emsal karşılaştırma yaklaşımı</strong> olup, bu yöntemde kullanılan temel karşılaştırma birimi ise <strong>araç park yeri</strong>dir. Başka bir ifadeyle değerleme yapılırken fiyatlar “metrekare” üzerinden değil, “bir araçlık park alanı” üzerinden analiz edilir.</p>
+
+<h2 id="araç-park-yeri-karşılaştırma-birimi-nedir">Araç Park Yeri Karşılaştırma Birimi Nedir?</h2>
+
+<p>Araç park yeri karşılaştırma birimi, otoparkların piyasa değerlerini karşılaştırabilmek amacıyla kullanılan standart ölçüdür.</p>
+
+<p>Bu yöntemde her bir park alanı bağımsız bir ekonomik birim olarak kabul edilir. Çünkü otopark satın alan yatırımcı veya kullanıcı, aslında belirli büyüklükte bir beton alanı değil, tek bir aracın güvenli şekilde park edebileceği kullanım hakkını satın almaktadır.</p>
+
+<p>Bu nedenle kapalı veya açık otoparklarda fiyat analizleri çoğunlukla şu şekilde yapılır:</p>
+
+<p><strong>Birim Değer = Toplam Satış Fiyatı / Araç Park Yeri Sayısı</strong></p>
+
+<p>Böylece farklı büyüklükteki otoparklar ortak bir ölçü üzerinden karşılaştırılabilir.</p>
+
+<h2 id="neden-metrekare-yerine-araç-park-yeri-kullanılır">Neden Metrekare Yerine Araç Park Yeri Kullanılır?</h2>
+
+<p>İlk bakışta metrekare esaslı değerleme mantıklı görünse de otoparklarda bu yaklaşım çoğu zaman yanıltıcı sonuçlar doğurur.</p>
+
+<p>Bunun temel nedenleri şunlardır:</p>
+
+<ul>
+  <li>Manevra alanları her projede farklıdır.</li>
+  <li>Kolon yerleşimleri kullanılabilir alanı etkiler.</li>
+  <li>Rampalar net park alanını azaltabilir.</li>
+  <li>Engelli park yerleri daha geniş ölçülerdedir.</li>
+  <li>Elektrikli araç şarj alanları farklı değer oluşturabilir.</li>
+  <li>Otoparkın mimari tasarımı park kapasitesini doğrudan etkiler.</li>
+</ul>
+
+<p>Örneğin iki otoparkın da brüt alanı 1.000 m² olabilir. Ancak biri 42 araç, diğeri ise 55 araç kapasitesine sahipse yatırımcı açısından değer oluşturan unsur metrekare değil, araç kapasitesidir.</p>
+
+<h2 id="araç-park-yeri-sayısı-nasıl-belirlenir">Araç Park Yeri Sayısı Nasıl Belirlenir?</h2>
+
+<p>Değerleme çalışmasında öncelikle otoparkın fiili kapasitesi tespit edilir.</p>
+
+<p>Bu tespit sırasında;</p>
+
+<ul>
+  <li>Onaylı mimari proje,</li>
+  <li>Yapı ruhsatı,</li>
+  <li>Kat irtifakı veya kat mülkiyeti planları,</li>
+  <li>Yerinde yapılan inceleme</li>
+</ul>
+
+<p>birlikte değerlendirilir.</p>
+
+<p>Bazı projelerde ruhsatta belirtilen araç sayısı ile fiili kullanım arasında farklılık bulunabilir. Böyle durumlarda hukuki durum ile fiili durum ayrı ayrı analiz edilmelidir.</p>
+
+<h2 id="emsal-seçiminde-nelere-dikkat-edilir">Emsal Seçiminde Nelere Dikkat Edilir?</h2>
+
+<p>Araç park yeri karşılaştırma yönteminin başarısı, doğru emsal seçimine bağlıdır.</p>
+
+<p>Tercih edilen emsaller mümkün olduğunca aşağıdaki özellikleri taşımalıdır:</p>
+
+<ul>
+  <li>Aynı bölgede bulunmalıdır.</li>
+  <li>Benzer kullanım amacına sahip olmalıdır.</li>
+  <li>Satış tarihi güncel olmalıdır.</li>
+  <li>Benzer doluluk oranına sahip olmalıdır.</li>
+  <li>Benzer güvenlik ve işletme özelliklerini taşımalıdır.</li>
+  <li>Kat seviyesi benzer olmalıdır.</li>
+  <li>Giriş-çıkış kolaylığı yakın olmalıdır.</li>
+</ul>
+
+<p>Gerekli durumlarda emsaller için düzeltme katsayıları uygulanabilir.</p>
+
+<h2 id="örnek-otopark-değerlemesi">Örnek Otopark Değerlemesi</h2>
+
+<p>Bir değerleme uzmanının aşağıdaki özelliklere sahip kapalı otoparkı değerlediğini düşünelim.</p>
+
+<p><strong>Değerleme Konusu</strong></p>
+
+<ul>
+  <li>Kapalı otopark</li>
+  <li>Araç kapasitesi: 80 araç</li>
+  <li>Şehir merkezi</li>
+  <li>24 saat güvenlik</li>
+  <li>Kartlı giriş sistemi</li>
+</ul>
+
+<h3 id="emsal-satışlar">Emsal Satışlar</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Emsal</th>
+      <th style="text-align: right">Araç Sayısı</th>
+      <th style="text-align: right">Satış Fiyatı</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Emsal 1</td>
+      <td style="text-align: right">60</td>
+      <td style="text-align: right">18.000.000 TL</td>
+    </tr>
+    <tr>
+      <td>Emsal 2</td>
+      <td style="text-align: right">90</td>
+      <td style="text-align: right">29.700.000 TL</td>
+    </tr>
+    <tr>
+      <td>Emsal 3</td>
+      <td style="text-align: right">75</td>
+      <td style="text-align: right">23.250.000 TL</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="araç-başına-birim-değer-hesabı">Araç Başına Birim Değer Hesabı</h3>
+
+<p><strong>Emsal 1</strong></p>
+
+<p>18.000.000 ÷ 60 = <strong>300.000 TL/araç</strong></p>
+
+<p><strong>Emsal 2</strong></p>
+
+<p>29.700.000 ÷ 90 = <strong>330.000 TL/araç</strong></p>
+
+<p><strong>Emsal 3</strong></p>
+
+<p>23.250.000 ÷ 75 = <strong>310.000 TL/araç</strong></p>
+
+<p>Emsaller incelendiğinde araç park yeri başına oluşan piyasa değeri yaklaşık olarak <strong>313.000 TL</strong> seviyesindedir.</p>
+
+<p>Ancak değerleme konusu otoparkın;</p>
+
+<ul>
+  <li>merkezi konumda bulunması,</li>
+  <li>güvenlik sistemlerinin daha gelişmiş olması,</li>
+  <li>erişimin kolay olması</li>
+</ul>
+
+<p>nedenleriyle yaklaşık %4 pozitif düzeltme uygulanabilir.</p>
+
+<p>Buna göre düzeltilmiş birim değer:</p>
+
+<p><strong>313.000 × 1,04 = 325.520 TL</strong></p>
+
+<p>Yaklaşık olarak <strong>326.000 TL/araç</strong> kabul edilebilir.</p>
+
+<h3 id="nihai-değer">Nihai Değer</h3>
+
+<p>326.000 TL × 80 araç</p>
+
+<p><strong>Toplam Piyasa Değeri = 26.080.000 TL</strong></p>
+
+<p>Bu hesaplamaya göre söz konusu otoparkın pazar değeri yaklaşık <strong>26,1 milyon TL</strong> olarak takdir edilebilir.</p>
+
+<h2 id="değerlemeyi-etkileyen-diğer-unsurlar">Değerlemeyi Etkileyen Diğer Unsurlar</h2>
+
+<p>Araç park yeri sayısı temel karşılaştırma ölçüsü olsa da nihai değeri etkileyen birçok faktör bulunmaktadır.</p>
+
+<p>Bunlar arasında;</p>
+
+<ul>
+  <li>şehir merkezi veya çevre konumu,</li>
+  <li>toplu ulaşım bağlantıları,</li>
+  <li>çevredeki otopark arzı,</li>
+  <li>bölgedeki araç yoğunluğu,</li>
+  <li>abonelik gelirleri,</li>
+  <li>saatlik kullanım potansiyeli,</li>
+  <li>işletme giderleri,</li>
+  <li>elektrikli araç şarj altyapısı,</li>
+  <li>güvenlik sistemleri,</li>
+  <li>tavan yüksekliği,</li>
+  <li>giriş-çıkış düzeni,</li>
+  <li>kat sayısı,</li>
+  <li>yangın güvenlik sistemleri</li>
+</ul>
+
+<p>önemli rol oynar.</p>
+
+<p>Özellikle gelir üreten ticari otoparklarda, karşılaştırma yaklaşımının yanında gelir indirgeme yaklaşımı da destekleyici yöntem olarak kullanılabilir.</p>
+
+<h2 id="araç-park-yeri-karşılaştırma-biriminin-avantajları">Araç Park Yeri Karşılaştırma Biriminin Avantajları</h2>
+
+<p>Bu yöntemin tercih edilmesinin başlıca nedenleri şunlardır:</p>
+
+<ul>
+  <li>Yatırımcı bakış açısını yansıtır.</li>
+  <li>Piyasa verileriyle uyumludur.</li>
+  <li>Farklı büyüklükteki otoparkların karşılaştırılmasını kolaylaştırır.</li>
+  <li>Metrekare farklılıklarından kaynaklanan hataları azaltır.</li>
+  <li>Hızlı ve anlaşılır bir analiz sunar.</li>
+  <li>Ticari otopark yatırımlarında yaygın olarak kullanılmaktadır.</li>
+</ul>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Otopark değerlemesinde en önemli unsur, fiziksel alanın büyüklüğünden çok <strong>kaç adet kullanılabilir araç park yeri oluşturduğu</strong>dur. Bu nedenle emsal karşılaştırma yaklaşımında temel karşılaştırma birimi olarak <strong>araç park yeri</strong> kullanılması, piyasanın işleyişini daha doğru yansıtır.</p>
+
+<p>Doğru seçilmiş emsaller, uygun düzeltmeler ve sağlıklı piyasa verileriyle desteklenen araç park yeri karşılaştırma yöntemi; hem bağımsız otoparkların hem de ticari otopark yatırımlarının gerçeğe en yakın piyasa değerinin belirlenmesinde güvenilir bir yöntemdir. Bununla birlikte, gelir üreten büyük ölçekli otoparklarda karşılaştırma yaklaşımının gelir indirgeme yöntemi ile birlikte değerlendirilmesi, değerleme sonucunun doğruluğunu artıracak ve daha güçlü bir değer takdiri yapılmasına katkı sağlayacaktır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="ticari gayrimenkul değerleme" /><summary type="html"><![CDATA[Otopark değerlemesinde araç park yeri karşılaştırma birimi nasıl kullanılır? Emsal karşılaştırma yöntemi, örnek otopark değerlemesi, hesaplama adımları ve değerlemeyi etkileyen faktörleri detaylı olarak keşfedin.]]></summary></entry><entry><title type="html">Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak</title><link href="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak" rel="alternate" type="text/html" title="Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak" /><published>2026-07-09T00:00:00+03:00</published><updated>2026-07-09T00:00:00+03:00</updated><id>http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak</id><content type="html" xml:base="http://localhost:4000/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak"><![CDATA[<p>Gayrimenkul değerleme sürecinde her taşınmaz aynı yöntemle değerlenmez. Bazı taşınmazlar konumları, emsal satışları veya yeniden inşa maliyetleri üzerinden değerlendirilirken, gelir üreten gayrimenkullerde en önemli kriterlerden biri elde edilen gelir olur. İşte bu noktada <strong>kapitalizasyon oranı (Capitalization Rate - Cap Rate)</strong> devreye girer.</p>
 
 <p>Kapitalizasyon oranı, özellikle kira getirisi bulunan ticari gayrimenkuller, iş merkezleri, oteller, AVM’ler, sanayi tesisleri ve yatırım amaçlı konutların değerinin belirlenmesinde kullanılan en önemli finansal göstergelerden biridir.</p>
 
@@ -1046,7 +1295,7 @@
 
 <p>Profesyonel değerleme çalışmalarında emsal karşılaştırma, gelir indirgeme ve maliyet yaklaşımları birbirini tamamlayacak şekilde kullanılır. Özellikle düzenli gelir sağlayan ceviz, zeytin, fındık, kiraz ve benzeri meyve bahçelerinde gelir indirgeme yöntemi çoğu zaman en güçlü analiz araçlarından biridir. Ancak ulaşılan sonucun mutlaka bölgedeki emsal satışlar ve piyasa koşullarıyla test edilmesi gerekir.</p>
 
-<p>Doğru hazırlanmış bir değerleme raporu; yatırımcılar, bankalar, mahkemeler ve kamu kurumları açısından güvenilir kararların temelini oluşturur. Bu nedenle meyve bahçelerinin değerlemesinde hem tarımsal üretim bilgisine hem de gayrimenkul değerleme metodolojisine hâkim, uzman kişiler tarafından hazırlanan kapsamlı analizler büyük önem taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda meyve bahçesi bulunan tarım arazilerinin değerleme sürecini uygulamalı örneklerle birlikte detaylı olarak inceleyeceğiz.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?</title><link href="http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?" /><published>2026-07-05T00:00:00+03:00</published><updated>2026-07-05T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir"><![CDATA[<p>Otel değerlemesi, gayrimenkul değerleme sektörünün en karmaşık alanlarından biridir. Bunun temel nedeni, otellerin yalnızca bir bina ya da arsa olmaması; aynı zamanda gelir üreten ticari işletmeler olmasıdır. Bir konutun ya da ofisin değerini belirlemek çoğu zaman emsal satışlarla mümkünken, otellerde işletme performansı, doluluk oranı, oda fiyatları, marka değeri ve yönetim kalitesi gibi birçok değişken de değeri doğrudan etkiler.</p>
+<p>Doğru hazırlanmış bir değerleme raporu; yatırımcılar, bankalar, mahkemeler ve kamu kurumları açısından güvenilir kararların temelini oluşturur. Bu nedenle meyve bahçelerinin değerlemesinde hem tarımsal üretim bilgisine hem de gayrimenkul değerleme metodolojisine hâkim, uzman kişiler tarafından hazırlanan kapsamlı analizler büyük önem taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="tarım arazisi değerlemesi" /><summary type="html"><![CDATA[Bu yazıda meyve bahçesi bulunan tarım arazilerinin değerleme sürecini uygulamalı örneklerle birlikte detaylı olarak inceleyeceğiz.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?</title><link href="http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?" /><published>2026-07-05T00:00:00+03:00</published><updated>2026-07-05T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir"><![CDATA[<p>Otel değerlemesi, gayrimenkul değerleme sektörünün en karmaşık alanlarından biridir. Bunun temel nedeni, otellerin yalnızca bir bina ya da arsa olmaması; aynı zamanda gelir üreten ticari işletmeler olmasıdır. Bir konutun ya da ofisin değerini belirlemek çoğu zaman emsal satışlarla mümkünken, otellerde işletme performansı, doluluk oranı, oda fiyatları, marka değeri ve yönetim kalitesi gibi birçok değişken de değeri doğrudan etkiler.</p>
 
 <p>Bu nedenle otel değerlemesi, yalnızca fiziksel gayrimenkulü değil, işletmenin ekonomik performansını da analiz etmeyi gerektirir.</p>
 
@@ -1411,7 +1660,7 @@
 
 <p>Otel değerlemesi, klasik gayrimenkul değerleme yöntemlerinden daha kapsamlı bir analiz gerektirir. Çünkü yatırımcı yalnızca fiziksel bir yapıyı değil, gelecekte gelir üretecek bir işletmeyi satın alır. Bu nedenle doğru bir değerleme için gelir yaklaşımı, emsal karşılaştırma ve maliyet yaklaşımı birlikte değerlendirilmeli; özellikle net işletme geliri, doluluk oranı, ADR, RevPAR ve geleceğe yönelik nakit akışları detaylı şekilde analiz edilmelidir.</p>
 
-<p>Profesyonel bir otel değerlemesi, yalnızca bugünkü piyasa koşullarını değil, otelin sürdürülebilir gelir potansiyelini de ortaya koyar. Bu sayede yatırımcılar, finans kuruluşları ve işletmeciler daha sağlıklı kararlar alabilir. Özellikle büyük ölçekli yatırımlarda indirgenmiş nakit akışı (DCF) analizi ile desteklenen, farklı değerleme yöntemlerinin birlikte kullanıldığı çalışmalar en güvenilir sonuçları sunar. Böylece ortaya çıkan değer, hem gayrimenkulün fiziksel özelliklerini hem de işletmenin ekonomik performansını yansıtan bütüncül bir değerlendirme niteliği taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu"><![CDATA[<p>Gayrimenkul değerleme süreci dışarıdan bakıldığında yalnızca benzer ilanlara bakılarak yapılan basit bir fiyat belirleme çalışması gibi görünebilir. Oysa profesyonel bir değerleme çalışmasının en kritik aşamalarından biri, ulaşılabilen veriler arasından hangilerinin gerçekten kullanılmaya uygun olduğuna karar vermektir.</p>
+<p>Profesyonel bir otel değerlemesi, yalnızca bugünkü piyasa koşullarını değil, otelin sürdürülebilir gelir potansiyelini de ortaya koyar. Bu sayede yatırımcılar, finans kuruluşları ve işletmeciler daha sağlıklı kararlar alabilir. Özellikle büyük ölçekli yatırımlarda indirgenmiş nakit akışı (DCF) analizi ile desteklenen, farklı değerleme yöntemlerinin birlikte kullanıldığı çalışmalar en güvenilir sonuçları sunar. Böylece ortaya çıkan değer, hem gayrimenkulün fiziksel özelliklerini hem de işletmenin ekonomik performansını yansıtan bütüncül bir değerlendirme niteliği taşır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><category term="ticari gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?" /><published>2026-06-28T00:00:00+03:00</published><updated>2026-06-28T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu"><![CDATA[<p>Gayrimenkul değerleme süreci dışarıdan bakıldığında yalnızca benzer ilanlara bakılarak yapılan basit bir fiyat belirleme çalışması gibi görünebilir. Oysa profesyonel bir değerleme çalışmasının en kritik aşamalarından biri, ulaşılabilen veriler arasından hangilerinin gerçekten kullanılmaya uygun olduğuna karar vermektir.</p>
 
 <p>Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez. Aksine, yanlış seçilen birkaç veri bile taşınmazın değerini ciddi şekilde hatalı gösterebilir.</p>
 
@@ -2318,320 +2567,4 @@
 
 <p>Gayrimenkul değerlemede rekabet çevresi, bir taşınmazın piyasadaki gerçek konumunu anlamanın en önemli araçlarından biridir. Değer yalnızca binanın özelliklerinden değil, alıcının önündeki alternatiflerden de etkilenir. Bu nedenle doğru belirlenmiş bir rekabet çevresi, daha isabetli değerleme raporları hazırlanmasını sağlar ve yatırım kararlarının sağlıklı verilmesine katkıda bulunur.</p>
 
-<p>Profesyonel bir değerleme çalışmasında amaç yalnızca benzer birkaç satış bulmak değildir. Asıl hedef, taşınmazın hangi alternatiflerle rekabet ettiğini doğru şekilde analiz ederek piyasadaki gerçek değerini ortaya koymaktır. Rekabet çevresi ne kadar doğru tanımlanırsa, elde edilen değer de piyasa koşullarını o kadar doğru yansıtır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir.]]></summary></entry><entry><title type="html">Gayrimenkul Değerlemede Düzeltme Nedir?</title><link href="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir" rel="alternate" type="text/html" title="Gayrimenkul Değerlemede Düzeltme Nedir?" /><published>2026-06-23T00:00:00+03:00</published><updated>2026-06-23T00:00:00+03:00</updated><id>http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir</id><content type="html" xml:base="http://localhost:4000/gayrimenkul-degerlemede-duzeltme-nedir"><![CDATA[<p>Gayrimenkul değerleme süreci, yalnızca benzer taşınmazların fiyatlarını karşılaştırarak bir sonuca ulaşmaktan ibaret değildir. Her taşınmazın kendine özgü özellikleri bulunur ve bu özellikler piyasa değerini doğrudan etkiler. Bu nedenle değerleme uzmanları, karşılaştırılabilir emsaller ile değerlemesi yapılan taşınmaz arasındaki farklılıkları analiz ederek çeşitli düzeltmeler uygularlar.</p>
-
-<p>Gayrimenkul değerlemede “düzeltme” kavramı, emsal karşılaştırma yaklaşımının en kritik aşamalarından biridir. Doğru yapılan düzeltmeler, piyasa değerinin gerçeğe en yakın şekilde tespit edilmesini sağlarken, hatalı düzeltmeler önemli değer sapmalarına neden olabilir.</p>
-
-<p>Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.</p>
-
-<h2 id="gayrimenkul-değerlemede-düzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</h2>
-
-<p>Düzeltme, değerleme konusu taşınmaz ile emsal olarak kullanılan gayrimenkuller arasındaki farklılıkların giderilmesi amacıyla yapılan fiyat ayarlamasıdır.</p>
-
-<p>Hiçbir emsal taşınmaz, değerlemesi yapılan mülk ile tamamen aynı özelliklere sahip değildir. Bu nedenle emsallerin satış fiyatları üzerinde belirli düzeltmeler yapılarak karşılaştırılabilir hale getirilmesi gerekir.</p>
-
-<p>Amaç, emsal satışların fiyatlarını değerleme konusu taşınmazın özelliklerine uyarlamaktır.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Değerlemesi yapılan daire deniz manzaralıysa,</li>
-  <li>Emsal daire manzarasızsa,</li>
-  <li>Emsal satış fiyatına manzara farkı kadar düzeltme eklenir.</li>
-</ul>
-
-<p>Böylece emsal, değerleme konusu taşınmaza daha yakın özelliklere sahip hale gelir.</p>
-
-<h2 id="düzeltmeler-neden-gereklidir">Düzeltmeler Neden Gereklidir?</h2>
-
-<p>Piyasada satılan iki taşınmazın tamamen aynı olması neredeyse imkânsızdır.</p>
-
-<p>Aşağıdaki unsurlar bile ciddi fiyat farklılıkları yaratabilir:</p>
-
-<ul>
-  <li>Konum</li>
-  <li>Manzara</li>
-  <li>Cephe</li>
-  <li>Kat durumu</li>
-  <li>Kullanım alanı</li>
-  <li>Yaş</li>
-  <li>Yapı kalitesi</li>
-  <li>Ulaşım imkânları</li>
-  <li>Sosyal donatılar</li>
-  <li>Tapu niteliği</li>
-</ul>
-
-<p>Düzeltmeler uygulanmadığında emsal fiyatları yanıltıcı sonuçlar verebilir.</p>
-
-<p>Bu nedenle profesyonel değerleme çalışmalarında emsaller doğrudan kullanılmaz; önce farklılıklar analiz edilir ve gerekli düzeltmeler yapılır.</p>
-
-<h2 id="düzeltme-türleri">Düzeltme Türleri</h2>
-
-<p>Gayrimenkul değerlemede kullanılan düzeltmeler genel olarak iki grupta incelenir:</p>
-
-<h3 id="nicel-kantitatif-düzeltmeler">Nicel (Kantitatif) Düzeltmeler</h3>
-
-<p>Parasal veya yüzdesel olarak ölçülebilen düzeltmelerdir.</p>
-
-<p>Örnekler:</p>
-
-<ul>
-  <li>Alan farkı</li>
-  <li>Yaş farkı</li>
-  <li>Kat farkı</li>
-  <li>Manzara farkı</li>
-  <li>Oda sayısı farkı</li>
-</ul>
-
-<p>Bu tür düzeltmeler sayısal verilerle ifade edilebilir.</p>
-
-<h3 id="nitel-kalitatif-düzeltmeler">Nitel (Kalitatif) Düzeltmeler</h3>
-
-<p>Tam olarak sayısallaştırılması zor olan özellikler için kullanılır.</p>
-
-<p>Örnekler:</p>
-
-<ul>
-  <li>Prestij</li>
-  <li>Bölge algısı</li>
-  <li>Mimari kalite</li>
-  <li>Sosyal çevre</li>
-  <li>Yaşam kalitesi</li>
-</ul>
-
-<p>Bu düzeltmeler uzman görüşü ve piyasa analizine dayanır.</p>
-
-<h2 id="başlıca-düzeltme-kalemleri">Başlıca Düzeltme Kalemleri</h2>
-
-<h3 id="zaman-düzeltmesi">Zaman Düzeltmesi</h3>
-
-<p>Piyasa koşulları sürekli değişir.</p>
-
-<p>Bir emsal satış:</p>
-
-<ul>
-  <li>3 ay önce gerçekleşmiş olabilir.</li>
-  <li>6 ay önce gerçekleşmiş olabilir.</li>
-  <li>1 yıl önce gerçekleşmiş olabilir.</li>
-</ul>
-
-<p>Bu süreçte piyasada fiyat artışı veya düşüş yaşanmış olabilir.</p>
-
-<p>Örneğin:</p>
-
-<p>Bir bölgede son 12 ayda konut fiyatları %20 artmışsa, bir yıl önce satılan emsalin fiyatı güncel piyasa koşullarına göre yukarı yönlü düzeltilmelidir.</p>
-
-<h3 id="konum-düzeltmesi">Konum Düzeltmesi</h3>
-
-<p>Konum, gayrimenkul değerini belirleyen en önemli faktördür.</p>
-
-<p>Aynı mahallede bile:</p>
-
-<ul>
-  <li>Cadde üzeri</li>
-  <li>Ara sokak</li>
-  <li>Ana ulaşım aksına yakınlık</li>
-  <li>Metro istasyonuna mesafe</li>
-</ul>
-
-<p>gibi unsurlar fiyatları değiştirebilir.</p>
-
-<p>Daha avantajlı konumdaki emsaller için aşağı yönlü, daha dezavantajlı konumdaki emsaller için ise yukarı yönlü düzeltme yapılır.</p>
-
-<h3 id="büyüklük-düzeltmesi">Büyüklük Düzeltmesi</h3>
-
-<p>Taşınmazın kullanım alanı ile emsalin alanı farklı olabilir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Konu taşınmaz 120 m²</li>
-  <li>Emsal taşınmaz 90 m²</li>
-</ul>
-
-<p>olabilir.</p>
-
-<p>Metrekare birim fiyatları büyüklüğe göre değişiklik göstereceğinden gerekli düzeltme uygulanmalıdır.</p>
-
-<h3 id="kat-düzeltmesi">Kat Düzeltmesi</h3>
-
-<p>Özellikle apartman dairelerinde kat faktörü oldukça önemlidir.</p>
-
-<p>Genellikle:</p>
-
-<ul>
-  <li>Ara katlar daha değerli kabul edilir.</li>
-  <li>Zemin katlar daha düşük fiyatlanır.</li>
-  <li>Son katlar bazı bölgelerde değer kaybına neden olabilir.</li>
-</ul>
-
-<p>Ancak bölgesel alışkanlıklar mutlaka dikkate alınmalıdır.</p>
-
-<h3 id="manzara-düzeltmesi">Manzara Düzeltmesi</h3>
-
-<p>Manzara bazı bölgelerde ciddi fiyat avantajı sağlar.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Deniz manzarası</li>
-  <li>Boğaz manzarası</li>
-  <li>Göl manzarası</li>
-  <li>Orman manzarası</li>
-</ul>
-
-<p>gibi özellikler değer üzerinde önemli etkiler yaratabilir.</p>
-
-<p>Bu durumda manzarasız emsaller için yukarı yönlü düzeltme yapılabilir.</p>
-
-<h3 id="yapı-kalitesi-düzeltmesi">Yapı Kalitesi Düzeltmesi</h3>
-
-<p>İki taşınmaz aynı yaşta olsa bile yapı kaliteleri farklı olabilir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Lüks konut projesi</li>
-  <li>Standart apartman</li>
-  <li>Site içi yaşam</li>
-  <li>Akıllı ev sistemleri</li>
-</ul>
-
-<p>fiyat üzerinde doğrudan etkili olabilir.</p>
-
-<h3 id="fiziksel-durum-düzeltmesi">Fiziksel Durum Düzeltmesi</h3>
-
-<p>Taşınmazın bakım durumu da önemlidir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Yeni tadilat görmüş bir daire</li>
-  <li>Uzun süredir bakım yapılmamış bir daire</li>
-</ul>
-
-<p>arasında ciddi fiyat farkı oluşabilir.</p>
-
-<p>Bu farklılıklar düzeltmelerle giderilir.</p>
-
-<h2 id="düzeltmeler-nasıl-uygulanır">Düzeltmeler Nasıl Uygulanır?</h2>
-
-<p>Düzeltmeler genellikle yüzdesel veya tutarsal olarak yapılır.</p>
-
-<h3 id="yüzdesel-düzeltme">Yüzdesel Düzeltme</h3>
-
-<p>Örnek:</p>
-
-<p>Emsal satış fiyatı:</p>
-
-<p>10.000.000 TL</p>
-
-<p>Kat avantajı:</p>
-
-<p>%5</p>
-
-<p>Düzeltilmiş fiyat:</p>
-
-<p>10.000.000 × 1,05</p>
-
-<p>= 10.500.000 TL</p>
-
-<h3 id="tutar-bazlı-düzeltme">Tutar Bazlı Düzeltme</h3>
-
-<p>Örnek:</p>
-
-<p>Emsal satış fiyatı:</p>
-
-<p>10.000.000 TL</p>
-
-<p>Deniz manzarası farkı:</p>
-
-<p>500.000 TL</p>
-
-<p>Düzeltilmiş fiyat:</p>
-
-<p>10.500.000 TL</p>
-
-<p>Her iki yöntem de kullanılabilir. Hangi yöntemin tercih edileceği piyasa verilerine bağlıdır.</p>
-
-<h2 id="brüt-ve-net-düzeltme-kavramları">Brüt ve Net Düzeltme Kavramları</h2>
-
-<h3 id="brüt-düzeltme">Brüt Düzeltme</h3>
-
-<p>Bir emsale uygulanan tüm düzeltmelerin mutlak değerlerinin toplamıdır.</p>
-
-<p>Örnek:</p>
-
-<ul>
-  <li>Konum düzeltmesi: %10</li>
-  <li>Kat düzeltmesi: %5</li>
-  <li>Manzara düzeltmesi: %8</li>
-</ul>
-
-<p>Brüt düzeltme:</p>
-
-<p>%23</p>
-
-<h3 id="net-düzeltme">Net Düzeltme</h3>
-
-<p>Pozitif ve negatif düzeltmelerin birbirini dengelemesinden sonra ortaya çıkan toplam düzeltmedir.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Konum: +%10</li>
-  <li>Kat: -%5</li>
-  <li>Manzara: +%8</li>
-</ul>
-
-<p>Net düzeltme:</p>
-
-<p>+%13</p>
-
-<p>Değerleme uzmanları, aşırı yüksek düzeltme gerektiren emsalleri kullanmamaya özen gösterir.</p>
-
-<h2 id="düzeltme-yaparken-dikkat-edilmesi-gerekenler">Düzeltme Yaparken Dikkat Edilmesi Gerekenler</h2>
-
-<h3 id="piyasa-verilerine-dayanmak">Piyasa Verilerine Dayanmak</h3>
-
-<p>Düzeltmeler varsayımlarla değil, mümkün olduğunca gerçek piyasa verileriyle desteklenmelidir.</p>
-
-<h3 id="tutarlılık-sağlamak">Tutarlılık Sağlamak</h3>
-
-<p>Benzer özelliklere sahip emsaller için benzer düzeltmeler uygulanmalıdır.</p>
-
-<h3 id="çifte-düzeltmeden-kaçınmak">Çifte Düzeltmeden Kaçınmak</h3>
-
-<p>Aynı özellik için iki kez düzeltme yapılmamalıdır.</p>
-
-<p>Örneğin:</p>
-
-<p>Konum avantajı nedeniyle zaten düzeltme yapılmışsa, aynı avantajı ulaşım kolaylığı başlığı altında tekrar düzeltmek yanlış sonuç verebilir.</p>
-
-<h3 id="aşırı-düzeltmeli-emsalleri-elemek">Aşırı Düzeltmeli Emsalleri Elemek</h3>
-
-<p>Çok fazla düzeltme gerektiren emsaller güvenilirliğini kaybedebilir.</p>
-
-<p>Bu nedenle değerleme uzmanları mümkün olduğunca benzer emsalleri tercih eder.</p>
-
-<h2 id="düzeltmelerin-değerleme-sonucuna-etkisi">Düzeltmelerin Değerleme Sonucuna Etkisi</h2>
-
-<p>Düzeltmeler, değerleme sonucunu doğrudan etkileyen unsurlardır.</p>
-
-<p>Aynı emsaller kullanılsa bile:</p>
-
-<ul>
-  <li>Farklı düzeltme oranları</li>
-  <li>Farklı piyasa yorumları</li>
-  <li>Farklı veri analizleri</li>
-</ul>
-
-<p>sonucunda farklı değer tahminleri ortaya çıkabilir.</p>
-
-<p>Bu nedenle düzeltme süreci, değerleme uzmanının piyasa bilgisi ve tecrübesiyle yakından ilişkilidir.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Gayrimenkul değerlemede düzeltme kavramı, emsal karşılaştırma yaklaşımının temel taşlarından biridir. Çünkü piyasada birebir aynı özelliklere sahip taşınmaz bulmak neredeyse imkânsızdır. Değerleme uzmanları, emsaller ile konu taşınmaz arasındaki farklılıkları analiz ederek gerekli düzeltmeleri uygular ve böylece daha doğru bir piyasa değeri tespit ederler.</p>
-
-<p>Zaman, konum, büyüklük, kat, manzara, yapı kalitesi ve fiziksel durum gibi unsurlar düzeltme sürecinin en önemli bileşenleridir. Profesyonel ve veri temelli bir düzeltme çalışması, değerleme raporunun güvenilirliğini artırırken yatırımcılar, bankalar, kamu kurumları ve gayrimenkul profesyonelleri için daha sağlıklı kararlar alınmasını sağlar.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.]]></summary></entry></feed>
+<p>Profesyonel bir değerleme çalışmasında amaç yalnızca benzer birkaç satış bulmak değildir. Asıl hedef, taşınmazın hangi alternatiflerle rekabet ettiğini doğru şekilde analiz ederek piyasadaki gerçek değerini ortaya koymaktır. Rekabet çevresi ne kadar doğru tanımlanırsa, elde edilen değer de piyasa koşullarını o kadar doğru yansıtır.</p>]]></content><author><name></name></author><category term="gayrimenkul değerleme" /><summary type="html"><![CDATA[Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir.]]></summary></entry></feed>

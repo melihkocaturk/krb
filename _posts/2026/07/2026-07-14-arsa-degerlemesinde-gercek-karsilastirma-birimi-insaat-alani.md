@@ -2,7 +2,7 @@
 layout: post
 title: "Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı"
 description: "Bu yazıda inşaat alanı karşılaştırma yöntemini, hangi durumlarda tercih edilmesi gerektiğini ve örnek bir hesaplama ile nasıl uygulandığını ayrıntılı olarak inceleyeceğiz.."
-tags: ["gayrimenkul değerleme"]
+tags: ["gayrimenkul değerleme", "arsa değerleme"]
 ---
 
 Gayrimenkul değerleme çalışmalarında en kritik aşamalardan biri, emsal karşılaştırmalarının doğru yapılmasıdır. Özellikle imarlı arsaların değer tespitinde birçok kişi ve hatta bazı sektör profesyonelleri, satış fiyatını doğrudan arsa yüzölçümüne bölerek metrekare birim değerine ulaşmayı yeterli görmektedir. Ancak bu yaklaşım, her zaman gerçeği yansıtmaz.
