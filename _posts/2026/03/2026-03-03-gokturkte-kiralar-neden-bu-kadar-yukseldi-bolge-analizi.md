@@ -2,7 +2,7 @@
 layout: post
 title: "Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi"
 description: "Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız."
-tags: ["göktürk kiralık ev", "göktürk kiralık konut", "göktürk kira getirisi "]
+tags: ["göktürk kiralık ev", "göktürk kiralık konut", "göktürk kira getirisi"]
 ---
 
 İstanbul’un kuzey hattında yer alan Göktürk, son yıllarda hem yaşam kalitesi hem de yatırım potansiyeli nedeniyle en çok konuşulan konut bölgelerinden biri haline geldi. Özellikle 2023 sonrası dönemde kira fiyatlarının hızlı yükselmesi, hem kiracıların hem yatırımcıların dikkatini çekiyor. Peki Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.
