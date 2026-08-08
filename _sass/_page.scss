@@ -1,0 +1,247 @@
+/* =========================================
+    PAGE HERO
+========================================= */
+.gd-page-hero {
+  padding: 90px 0 85px;
+  background: var(--gd-navy);
+  color: var(--gd-white);
+}
+
+.gd-page-hero .section-label {
+  color: #d2b88f;
+}
+
+.gd-page-hero .section-label::before {
+  background: #d2b88f;
+}
+
+.gd-page-hero h1 {
+  max-width: 850px;
+  margin-bottom: 20px;
+  color: var(--gd-white);
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -.05em;
+}
+
+.gd-page-hero p {
+  max-width: 700px;
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, .7);
+  font-size: 1rem;
+}
+
+/* =========================================
+    BREADCRUMB
+========================================= */
+.gd-breadcrumb-wrapper {
+  padding: 18px 0;
+  background: var(--gd-light);
+  border-bottom: 1px solid var(--gd-border);
+}
+
+.gd-breadcrumb {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.gd-breadcrumb li {
+  color: var(--gd-muted);
+  font-size: .72rem;
+  font-weight: 600;
+}
+
+.gd-breadcrumb li:not(:last-child)::after {
+  content: "/";
+  margin-left: 8px;
+  color: var(--gd-border);
+}
+
+.gd-breadcrumb a {
+  transition: color .2s ease;
+}
+
+.gd-breadcrumb a:hover {
+  color: var(--gd-bronze);
+}
+
+.gd-breadcrumb li:last-child {
+  color: var(--gd-navy);
+}
+
+/* =========================================
+    PAGE CONTENT
+========================================= */
+.gd-page-content {
+  padding: 90px 0 110px;
+  background: var(--gd-white);
+}
+
+.gd-page-content-inner {
+  max-width: 900px;
+}
+
+.gd-page-content h2 {
+  margin-top: 55px;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.3;
+  letter-spacing: -.03em;
+}
+
+.gd-page-content h2:first-child {
+  margin-top: 0;
+}
+
+.gd-page-content h3 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.gd-page-content p {
+  margin-bottom: 20px;
+  color: var(--gd-muted);
+  font-size: .95rem;
+}
+
+.gd-page-content ul,
+.gd-page-content ol {
+  margin-bottom: 25px;
+  color: var(--gd-muted);
+}
+
+.gd-page-content li {
+  margin-bottom: 10px;
+  font-size: .95rem;
+}
+
+.gd-page-content strong {
+  color: var(--gd-navy);
+  font-weight: 700;
+}
+
+.gd-page-content a {
+  color: var(--gd-bronze-dark);
+  font-weight: 600;
+}
+
+.gd-page-content a:hover {
+  color: var(--gd-navy);
+}
+
+/* =========================================
+    SIDEBAR
+========================================= */
+.gd-page-sidebar {
+  position: sticky;
+  top: 30px;
+}
+
+.gd-sidebar-box {
+  padding: 30px;
+  background: var(--gd-light);
+  border: 1px solid var(--gd-border);
+  border-radius: var(--gd-radius);
+}
+
+.gd-sidebar-box h3 {
+  margin-bottom: 15px;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.gd-sidebar-box p {
+  margin-bottom: 20px;
+  color: var(--gd-muted);
+  font-size: .82rem;
+}
+
+.gd-sidebar-menu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.gd-sidebar-menu li {
+  border-top: 1px solid var(--gd-border);
+}
+
+.gd-sidebar-menu li:first-child {
+  border-top: 0;
+}
+
+.gd-sidebar-menu a {
+  display: block;
+  padding: 13px 0;
+  color: var(--gd-navy);
+  font-size: .8rem;
+  font-weight: 600;
+  transition: color .2s ease;
+}
+
+.gd-sidebar-menu a:hover,
+.gd-sidebar-menu a.active {
+  color: var(--gd-bronze);
+}
+
+/* =========================================
+    CONTENT CTA
+========================================= */
+.gd-content-cta {
+  margin-top: 70px;
+  padding: 45px;
+  background: var(--gd-cream);
+  border-left: 3px solid var(--gd-bronze);
+}
+
+.gd-content-cta h3 {
+  margin: 0 0 12px;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.gd-content-cta p {
+  max-width: 650px;
+  margin-bottom: 25px;
+}
+
+/* =========================================
+    RESPONSIVE
+========================================= */
+@media (max-width: 991.98px) {
+  .gd-page-hero {
+    padding: 70px 0;
+  }
+
+  .gd-page-sidebar {
+    position: static;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .gd-page-hero {
+    padding: 60px 0;
+  }
+
+  .gd-page-hero h1 {
+    font-size: 2.4rem;
+  }
+
+  .gd-page-content {
+    padding: 60px 0 75px;
+  }
+
+  .gd-content-cta {
+    padding: 30px;
+  }
+}

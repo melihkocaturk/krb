@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak"
 description: "Bu yazıda kapitalizasyon oranının ne olduğunu, nasıl hesaplandığını, hangi faktörlerden etkilendiğini ve gayrimenkul değerlemede nasıl kullanıldığını detaylı şekilde inceleyeceğiz."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

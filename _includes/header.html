@@ -1,0 +1,31 @@
+<!-- HEADER -->
+<header class="gd-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="gd-logo" href="/">
+        {{ site.title }}
+        <span> {{ site.sub_title }} </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavigation">
+        <ul class="navbar-nav ms-auto align-items-lg-center">
+          {% for item in site.data.nav %}
+            <li class="nav-item">
+              <a
+                class="nav-link {% if page.url == item.link %}active{% endif %}"
+                href="{{ item.link }}"
+              >
+                {{ item.name }}
+              </a>
+            </li>
+          {% endfor %}
+          <li class="nav-item">
+            <a class="gd-header-cta" href="/iletisim"> Ücretsiz Görüşme Talep Edin </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

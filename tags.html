@@ -1,0 +1,85 @@
+---
+layout: default
+title: Etiketler
+permalink: /etiketler
+custom_css: tags
+---
+
+<main>
+  <!-- PAGE HERO -->
+  <section class="gd-page-hero">
+    <div class="container">
+      <div class="gd-page-hero-content">
+        <div class="gd-page-label">Gayrimenkul Blogu</div>
+        <h1>Etiketler</h1>
+        <p>
+          Göktürk gayrimenkul piyasası, değerleme, yatırım ve gayrimenkul satışına dair yazıları konu başlıklarına göre
+          keşfedin.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAG NAVIGATION -->
+  <section class="gd-tag-navigation">
+    <div class="container">
+      <div class="gd-tag-navigation-header">
+        <div class="gd-tag-navigation-label">Konu Başlıkları</div>
+        <h2 class="gd-tag-navigation-title">İlginizi Çeken Konuyu Seçin</h2>
+        <p class="gd-tag-navigation-text">
+          Bir etikete tıklayarak o konuyla ilgili tüm yazılara hızlıca ulaşabilirsiniz.
+        </p>
+      </div>
+      <div class="gd-tag-cloud">
+        {% for tag in site.tags %}
+          <a href="#{{ tag[0] }}" class="gd-tag-link">
+            {{ tag[0] }}
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- TAG CONTENT -->
+  <section class="gd-tag-content">
+    <div class="container">
+      {% for tag in site.tags %}
+        <!-- TAG -->
+        <section class="gd-tag-group" id="{{ tag[0] }}">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">{{ tag[0] }}</h2>
+            <div class="gd-tag-group-count">{{- tag[1].size }} Yazı</div>
+          </div>
+          {% for post in tag[1] %}
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="{{ post.url }}" class="gd-blog-item-title"> {{ post.title }} </a>
+                  <p class="gd-blog-item-excerpt">
+                    {{ post.description }}
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> {{ post.date | date: '%d.%m.%Y' -}}</time>
+              </div>
+            </article>
+          {% endfor %}
+        </section>
+      {%- endfor -%}
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="gd-final-cta">
+    <div class="container">
+      <div class="gd-final-cta-content">
+        <div class="gd-final-cta-label">Gayrimenkulünüz İçin</div>
+        <h2>Gayrimenkulünüzün Değerini Birlikte Değerlendirelim</h2>
+        <p>
+          Göktürk'teki gayrimenkulünüzün güncel piyasa koşullarındaki konumunu öğrenmek ve doğru bir değerlendirme
+          yapmak için iletişime geçebilirsiniz.
+        </p>
+        <a href="/iletisim" class="gd-final-cta-button"> Ücretsiz Görüşme Talep Edin </a>
+      </div>
+    </div>
+  </section>
+</main>

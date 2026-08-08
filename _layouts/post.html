@@ -1,43 +1,96 @@
 ---
 layout: default
 ---
+{% assign words = content | strip_html | number_of_words %}
 
-<section class="py-5 bg-white border-top" id="page">
-  <div class="container">
-    <h1 class="mb-3">{{page.title}}</h1>
-    <p class="text-black-50"><time>{{ page.date | date: '%d/%m/%Y' }}</time></p>
-
-    {{content}}
-
-    {% if page.tags.size > 0 %}
-      <p>
-        <b>Etiketler</b>:
-        {% for tag in page.tags %}
-          <a href="{{ site.baseurl }}/etiketler#{{ tag }}">{{ tag }}</a>
-          {%- unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      </p>
-    {% endif %}
-
-    <div class="row mt-5">
-      <div class="col-md-6">
-        {% if page.previous %}
-          <a href="{{ page.previous.url | relative_url }}" class="text-black-50 text-decoration-none">
-            <b class="text-black">&laquo; Önceki</b><br>
-            {{ page.previous.title }}
-          </a>
-        {% endif %}
-      </div>
-      
-      <div class="col-md-6 text-end">
-        {% if page.next %}
-          <a href="{{ page.next.url | relative_url }}" class="text-black-50 text-decoration-none">
-            <b class="text-black">Sonraki &raquo;</b><br>
-            {{ page.next.title }}
-          </a>
-        {% endif %}
+<main>
+  <!-- BLOG BAŞLIK -->
+  <section class="gd-blog-header">
+    <div class="container">
+      <div class="gd-blog-header-inner">
+        <div class="gd-blog-label">{{ page.category }}</div>
+        <h1 class="gd-blog-title">{{ page.title | escape }}</h1>
+        <div class="gd-blog-meta">
+          <div class="gd-blog-meta-item">
+            <strong> {{ page.date | date: '%d.%m.%Y' }} </strong>
+          </div>
+          <div class="gd-blog-meta-divider"></div>
+          <div class="gd-blog-meta-item">Okuma süresi: {{ words | divided_by: site.words_per_minute }} dakika</div>
+        </div>
       </div>
     </div>
-    
-  </div>
-</section>
+  </section>
+
+  <!-- BLOG İÇERİK -->
+  <section class="gd-blog-content-section">
+    <div class="container">
+      <div class="gd-blog-layout">
+        <!-- ANA İÇERİK -->
+        <article class="gd-blog-content">
+          {{ content }}
+
+          <!-- ETİKETLER -->
+          <div class="gd-blog-tags">
+            {% if page.tags.size > 0 %}
+              {% for tag in page.tags %}
+                <a href="{{ site.baseurl }}/etiketler#{{ tag }}" class="gd-blog-tag"> {{ tag }} </a>
+              {% endfor %}
+            {% endif %}
+          </div>
+
+          <!-- ÖNCEKİ / SONRAKİ YAZI -->
+          <div class="gd-article-navigation">
+            {% if page.previous %}
+              <a href="{{ page.previous.url | relative_url }}" class="gd-article-nav-item">
+                <span class="gd-article-nav-label"> ← Önceki Yazı </span>
+                <span class="gd-article-nav-title"> {{ page.previous.title }} </span>
+              </a>
+            {% endif %}
+            {% if page.next %}
+              <a href="{{ page.next.url | relative_url }}" class="gd-article-nav-item gd-article-nav-next">
+                <span class="gd-article-nav-label"> Sonraki Yazı → </span>
+                <span class="gd-article-nav-title"> {{ page.next.title }} </span>
+              </a>
+            {% endif %}
+          </div>
+        </article>
+
+        <!-- SIDEBAR -->
+        <aside class="gd-blog-sidebar">
+          <div class="gd-sidebar-box">
+            <h3 class="gd-sidebar-title">Gayrimenkulünüzün Değerini Öğrenin</h3>
+            <p class="gd-sidebar-text">
+              Göktürk'teki gayrimenkulünüzün güncel piyasa koşullarındaki değerini öğrenmek için ücretsiz değerlendirme
+              talebinde bulunabilirsiniz.
+            </p>
+            <a href="iletisim.html" class="gd-btn-bronze"> Değerleme Talep Edin </a>
+          </div>
+          {% if site.related_posts.size >= 1 %}
+            <div class="gd-sidebar-box">
+              <h3 class="gd-sidebar-title">Son Yazılar</h3>
+              <ul class="gd-sidebar-links">
+                {% for related_post in site.related_posts limit: 5 %}
+                  <li>
+                    <a href="{{ related_post.url }}"> {{ related_post.title }} </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="gd-final-cta">
+    <div class="container">
+      <h2>Gayrimenkulünüzün Gerçek Değerini Öğrenmek İster misiniz?</h2>
+      <p>
+        Göktürk'teki gayrimenkulünüz için güncel piyasa koşullarını ve emsal verilerini dikkate alan bir değerlendirme
+        talep edin.
+      </p>
+      <a href="/iletisim" class="gd-btn-bronze"> Gayrimenkulünüzün Değerini Öğrenin </a>
+    </div>
+  </section>
+</main>

@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Site İçinde Evlerin Değeri Neden Daha Yüksek?"
 description: "Bu yazıda, Göktürk’te site içinde yer alan evlerin neden daha değerli olduğunu tüm yönleriyle ele alıyoruz."
-tags: ["göktürk site evleri", "göktürk emlak"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk satılık daire"]
 ---
 
 İstanbul’un kuzeybatısında yer alan Göktürk, son yıllarda artan konut yatırımı, prestijli yaşam talepleri ve gelişen altyapısı ile öne çıkan bir yerleşim bölgesi haline gelmiştir. Bölgedeki konut stokunun önemli bir kısmını site içinde yer alan projeler oluşturur ve bu konutların metrekare değerleri, site dışındaki benzer konutlara kıyasla belirgin şekilde daha yüksektir.  

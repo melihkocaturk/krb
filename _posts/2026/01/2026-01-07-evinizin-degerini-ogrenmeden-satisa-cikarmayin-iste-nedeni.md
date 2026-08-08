@@ -1,5 +1,6 @@
 ---
 layout: post
+custom_css: post
 title: "Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni"
 description: "Bu yazıda, evinizin değerini bilmeden satışa çıkmanın neden riskli olduğunu, doğru fiyatın size ne kazandıracağını ve satış sürecini nasıl hızlandıracağını tüm yönleriyle ele alıyoruz."
 tags: ["göktürk ev değerleme", "göktürk gayrimenkul değerleme", "konut satış stratejisi"]

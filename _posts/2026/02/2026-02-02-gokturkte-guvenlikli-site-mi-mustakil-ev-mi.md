@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Güvenlikli Site mi, Müstakil Ev mi?"
 description: "Bu yazıda Göktürk özelinde güvenlikli site ve müstakil ev seçeneklerini; fiyatlar, yaşam tarzı, avantajlar, dezavantajlar ve yatırım potansiyeli açısından detaylı şekilde karşılaştırıyoruz."
-tags: ["göktürk müstakil ev", "göktürk villa fiyatları"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk villa değerleme"]
 ---
 
 İstanbul’un kuzeyinde, doğayla şehir yaşamının kesişim noktasında yer alan Göktürk; aileler, yatırımcılar ve huzurlu bir yaşam arayanlar için son yılların en popüler bölgelerinden biri haline geldi. Ancak ev arayışına girenlerin karşısına genellikle aynı soru çıkıyor: Güvenlikli site mi, yoksa müstakil ev mi?

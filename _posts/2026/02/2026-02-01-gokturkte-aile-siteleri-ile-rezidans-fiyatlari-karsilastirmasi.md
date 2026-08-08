@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Aile Siteleri ile Rezidans Fiyatları Karşılaştırması"
 description: "Göktürk’te aile siteleri ile rezidans fiyatlarını karşılaştırıyoruz. 2026 güncel fiyatlar, yaşam tarzı farkları ve yatırım açısından detaylı analiz."
-tags: ["göktürk rezidans fiyatları", "göktürk emlak"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk satılık daire"]
 ---
 
 Göktürk, İstanbul Avrupa Yakası’nda Eyüpsultan ilçesine bağlı, son yıllarda hem yaşam hem de yatırım açısından öne çıkan prestijli semtlerden biridir. Belgrad Ormanı’na yakınlığı, düşük yapı yoğunluğu, sakin yaşam tarzı ve şehir merkezine olan erişim kolaylığı sayesinde özellikle aileler ve üst gelir grubuna hitap etmektedir.

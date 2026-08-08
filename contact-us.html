@@ -1,0 +1,212 @@
+---
+layout: default
+title: İletişim
+permalink: /iletisim
+custom_css: contact-us
+---
+
+<!-- MAIN -->
+<main>
+  <!-- PAGE HERO -->
+  <section class="gd-page-hero">
+    <div class="container">
+      <div class="gd-page-hero-content">
+        <div class="gd-page-label">İletişim</div>
+        <h1>Gayrimenkulünüz Hakkında Konuşalım</h1>
+        <p>
+          Gayrimenkulünüzün değeri, satış süreci veya Göktürk gayrimenkul piyasası hakkında bilgi almak için formu
+          doldurabilirsiniz.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="gd-contact-section">
+    <div class="container">
+      <div class="gd-contact-wrapper">
+        <div class="row g-5 align-items-start">
+          <!-- CONTACT INFO -->
+          <div class="col-lg-5">
+            <div class="gd-contact-info">
+              <div class="gd-section-label">İletişime Geçin</div>
+              <h2>Doğru Karar İçin İlk Adımı Atın</h2>
+              <p>
+                Gayrimenkulünüzü satmayı düşünüyor, piyasa değerini merak ediyor veya Göktürk bölgesindeki gayrimenkul
+                piyasası hakkında görüş almak istiyorsanız benimle iletişime geçebilirsiniz.
+              </p>
+              <div class="gd-contact-details">
+                <div class="gd-contact-detail">
+                  <div class="gd-contact-detail-icon">☎</div>
+                  <div class="gd-contact-detail-content">
+                    <div class="gd-contact-detail-label">Telefon</div>
+                    <div class="gd-contact-detail-value">
+                      <a href="tel:+905000000000">
+                        {{ site.contact.gsm }}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="gd-contact-detail">
+                  <div class="gd-contact-detail-icon">@</div>
+                  <div class="gd-contact-detail-content">
+                    <div class="gd-contact-detail-label">E-posta</div>
+                    <div class="gd-contact-detail-value">
+                      <a href="mailto:info@gokturkdegerleme.com">
+                        {{ site.contact.email }}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="gd-contact-detail">
+                  <div class="gd-contact-detail-icon">⌖</div>
+                  <div class="gd-contact-detail-content">
+                    <div class="gd-contact-detail-label">Bölge</div>
+                    <div class="gd-contact-detail-value">
+                      {{ site.contact.address }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- CONTACT FORM -->
+          <div class="col-lg-7">
+            <div class="gd-contact-form-wrapper">
+              <div class="gd-contact-form-header">
+                <h3>Ücretsiz Görüşme Talep Edin</h3>
+                <p>Formu doldurun, gayrimenkulünüz hakkında sizinle iletişime geçelim.</p>
+              </div>
+              <form>
+                <div class="row g-3">
+                  <div class="col-md-6">
+                    <div class="gd-form-group">
+                      <label class="gd-form-label" for="name"> Ad Soyad </label>
+                      <input
+                        type="text"
+                        class="gd-form-control"
+                        id="name"
+                        name="name"
+                        placeholder="Adınız ve soyadınız"
+                        required
+                      >
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="gd-form-group">
+                      <label class="gd-form-label" for="phone"> Telefon </label>
+                      <input
+                        type="tel"
+                        class="gd-form-control"
+                        id="phone"
+                        name="phone"
+                        placeholder="05XX XXX XX XX"
+                        required
+                      >
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="gd-form-group">
+                      <label class="gd-form-label" for="email"> E-posta </label>
+                      <input type="email" class="gd-form-control" id="email" name="email" placeholder="ornek@email.com">
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="gd-form-group">
+                      <label class="gd-form-label" for="subject"> Konu </label>
+                      <select class="gd-form-control" id="subject" name="subject">
+                        <option value="">Lütfen bir konu seçin</option>
+                        <option value="degerleme">Gayrimenkul değerleme</option>
+                        <option value="satis">Gayrimenkul satışı</option>
+                        <option value="yatirim">Gayrimenkul yatırımı</option>
+                        <option value="piyasa">Göktürk gayrimenkul piyasası</option>
+                        <option value="diger">Diğer</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="gd-form-group">
+                      <label class="gd-form-label" for="message"> Mesajınız </label>
+                      <textarea
+                        class="gd-form-control"
+                        id="message"
+                        name="message"
+                        placeholder="Gayrimenkulünüz veya talebiniz hakkında kısaca bilgi verebilirsiniz."
+                        required
+                      ></textarea>
+                    </div>
+                  </div>
+                </div>
+                <div class="gd-form-check">
+                  <input type="checkbox" id="privacy" name="privacy" required>
+                  <label for="privacy">
+                    Kişisel verilerimin
+                    <a href="/kvkk-aydinlatma-metni" target="_blank"> KVKK Aydınlatma Metni </a>
+                    kapsamında işlenmesini kabul ediyorum.
+                  </label>
+                </div>
+                <button type="submit" class="gd-form-submit">Görüşme Talebimi Gönder</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BOTTOM CTA -->
+  <section class="gd-contact-cta">
+    <div class="container">
+      <div class="gd-contact-cta-content">
+        <h2>Gayrimenkulünüzle İlgili Karar Vermeden Önce Konuşalım</h2>
+        <p>Satış, yatırım veya değerleme konusunda karar vermeden önce görüşmek için iletişime geçebilirsiniz.</p>
+        <a href="tel:{{ site.contact.gsm }}" class="gd-contact-cta-button"> Hemen Arayın </a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('.gd-contact-form-wrapper form');
+    if (!form) {
+      return;
+    }
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      const whatsappNumber = "{{ site.contact.gsm | remove: ' ' }}";
+      const name = document.getElementById('name').value.trim();
+      const phone = document.getElementById('phone').value.trim();
+      const email = document.getElementById('email').value.trim();
+      const subjectElement = document.getElementById('subject');
+      const subject = subjectElement.options[subjectElement.selectedIndex].text.trim();
+      const message = document.getElementById('message').value.trim();
+      const privacy = document.getElementById('privacy');
+      if (!name || !phone || !message) {
+        alert('Lütfen zorunlu alanları doldurun.');
+        return;
+      }
+      if (!privacy.checked) {
+        alert("Devam etmek için KVKK Aydınlatma Metni'ni kabul etmelisiniz.");
+        return;
+      }
+      let whatsappMessage = '';
+      whatsappMessage += 'Merhaba, web siteniz üzerindeki iletişim formu ile ulaşıyorum.%0A%0A';
+      whatsappMessage += '*Ad Soyad:* ' + name + '%0A';
+      whatsappMessage += '*Telefon:* ' + phone + '%0A';
+      if (email) {
+        whatsappMessage += '*E-posta:* ' + email + '%0A';
+      }
+      if (subject && subject !== 'Lütfen bir konu seçin') {
+        whatsappMessage += '*Konu:* ' + subject + '%0A';
+      }
+      whatsappMessage += '%0A';
+      whatsappMessage += '*Mesaj:*%0A';
+      whatsappMessage += message;
+      const whatsappUrl =
+        'https://wa.me/' + whatsappNumber + '?text=' + encodeURIComponent(decodeURIComponent(whatsappMessage));
+      window.open(whatsappUrl, '_blank');
+    });
+  });
+</script>

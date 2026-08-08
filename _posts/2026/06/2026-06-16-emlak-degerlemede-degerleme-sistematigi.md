@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?"
 description: "Bir gayrimenkulün değerini etkileyen fiziksel, hukuki, ekonomik ve çevresel birçok faktör bulunmaktadır. Bu nedenle değerleme uzmanları, belirli aşamalardan oluşan bir değerleme sistematiği uygularlar. Bu sistematik sayesinde ulaşılan sonuçların tutarlı, savunulabilir ve güvenilir olması sağlanır."
-tags: ["gayrimenkul değerleme", "emlak değerleme"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul değerleme, bir taşınmazın belirli bir tarihteki değerinin bilimsel yöntemler kullanılarak tespit edilmesi sürecidir. Ancak değerleme sadece bir rakam belirlemekten ibaret değildir. Doğru sonuca ulaşabilmek için uluslararası standartlara uygun, sistematik ve disiplinli bir çalışma yürütülmesi gerekir.

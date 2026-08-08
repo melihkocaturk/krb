@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Değerleme Sonrası Satış Süreci Nasıl Planlanmalı?"
 description: "Bu yazıda, değerleme sonrası satış sürecinin nasıl planlanması gerektiğini adım adım ele alacağız."
-tags: ["gayrimenkul değerleme", "değerleme raporu", "konut satış stratejisi"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Bir gayrimenkulün satışa hazırlanmasındaki en kritik aşamalardan biri doğru değerleme sürecidir. Ancak değerleme çalışması tamamlandıktan sonra asıl başarıyı belirleyen unsur, satış sürecinin ne kadar planlı ve stratejik yönetildiğidir. Değerleme raporu, satış sürecinin yalnızca başlangıç noktasıdır. Bu noktadan sonra atılacak her adım, satış süresini, alıcı profilini ve elde edilecek nihai geliri doğrudan etkiler.

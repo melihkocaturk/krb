@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi"
 description: "Göktürk kiralık konut piyasasını güncel verilerle inceleyin. Kira fiyatları, metrekare değerleri, yıllık kira artışı, konut stoku ve yatırım geri dönüş süresine dair kapsamlı piyasa analizi."
-tags: ["göktürk kiralık konut", "göktürk kiralık daire", "göktürk kira getirisi"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk kiralık konut"]
 ---
 
 İstanbul'un Eyüpsultan ilçesine bağlı Göktürk Merkez, konut piyasasında kendine özgü dinamikleri bulunan bölgelerden biridir. Bölgenin İstanbul'un merkezi iş ve yaşam akslarına göre daha sakin bir yerleşim karakterine sahip olması, doğal çevresi, konut stokunun önemli bölümünü oluşturan nitelikli projeler ve villa tipi yerleşimler, bölgedeki gayrimenkul talebinin oluşmasında etkili olan başlıca faktörler arasında değerlendirilebilir.

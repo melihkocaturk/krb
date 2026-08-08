@@ -1,812 +1,674 @@
 <!doctype html>
 <html lang="tr">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Göktürk Değerleme</title>
+    <meta
+      name="description"
+      content="Göktürk ve çevresinde gayrimenkul sahiplerinin doğru kararlar almasına yardımcı olmak amacıyla bölgesel piyasa bilgisi ve gayrimenkul danışmanlığı."
+    >
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    >
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 
-<head>
-  
-  <meta charset="utf-8">
-  <title>Göktürk Ücretsiz Emlak Değerleme</title>
-  <meta name="description"
-    content="Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    
+      <link rel="stylesheet" href="/assets/css/home.css">
+    
 
-  <!-- Bootstrap 5 -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/styles.css">
-</head>
+    <link rel="shortcut icon" href="/images/favicon.ico">
+  </head>
 
-<body>
-
-  <!-- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
-  <div class="container">
-    <a class="navbar-brand fw-bold" href="/">Göktürk Değerleme</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navMenu">
-      <ul class="navbar-nav ms-auto">
-        
+  <body>
+    <!-- HEADER -->
+<header class="gd-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="gd-logo" href="/">
+        Göktürk Değerleme
+        <span> Gayrimenkul Danışmanlığı </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavigation">
+        <ul class="navbar-nav ms-auto align-items-lg-center">
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/"
+              >
+                Anasayfa
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/degerleme"
+              >
+                Değerleme
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/hakkimda"
+              >
+                Hakkımda
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/iletisim"
+              >
+                İletişim
+              </a>
+            </li>
+          
           <li class="nav-item">
-            <a class="nav-link" href="/">
-              Anasayfa
-            </a>
+            <a class="gd-header-cta" href="/iletisim"> Ücretsiz Görüşme Talep Edin </a>
           </li>
-        
-          <li class="nav-item">
-            <a class="nav-link" href="/#ucretsiz-degerleme">
-              Ücretsiz Değerleme
-            </a>
-          </li>
-        
-          <li class="nav-item">
-            <a class="nav-link" href="/#nasil-calisiyorum">
-              Nasıl Çalışıyorum?
-            </a>
-          </li>
-        
-      </ul>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
-  
+  </nav>
+</header>
+
+    <main>
   <!-- HERO -->
-<section class="hero d-flex align-items-center">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 py-5">
-        <h1 class="fw-bold">Göktürk’te Evinizin Gerçek Değerini Ücretsiz Öğrenin</h1>
-        <p class="lead mt-3">
-          Satmadan veya kiraya vermeden önce, bölge uzmanından net fiyat analizi.
+  <section class="gd-hero">
+    <div class="container">
+      <div class="gd-hero-content">
+        <div class="gd-hero-label">Göktürk Gayrimenkul Danışmanlığı</div>
+        <h1>Gayrimenkulünüzün Gerçek Değerini Birlikte Keşfedelim</h1>
+        <p>
+          Göktürk gayrimenkul piyasasını yakından tanıyor, bölgesel verileri ve piyasa koşullarını değerlendirerek
+          gayrimenkul sahiplerinin daha doğru kararlar almasına yardımcı oluyorum.
         </p>
-        <a href="#degerleme-formu" class="btn btn-primary btn-lg mt-3">Ücretsiz Değerleme Al</a>
-      </div>
-
-      <!-- FORM -->
-      <div class="col-lg-5 offset-lg-1">
-        <div class="card shadow-lg p-4" id="degerleme-formu">
-          <h5 class="mb-3">Hızlı Değerleme Formu</h5>
-          <form action="">
-            <div class="mb-3">
-              <select id="type" class="form-select">
-                <option value="">Gayrimenkul Türü</option>
-                <option value="Konut">Konut</option>
-                <option value="İşyeri">İşyeri</option>
-                <option value="Arsa">Arsa</option>
-              </select>
-            </div>
-            <div class="mb-3">
-              <input type="number" id="m2" class="form-control" placeholder="Metrekare">
-            </div>
-            <div class="mb-3">
-              <input type="text" id="room" class="form-control" placeholder="Oda Sayısı (örn: 2+1)">
-            </div>
-            <div class="mb-3">
-              <input type="text" id="address" class="form-control" placeholder="Adres">
-            </div>
-            <div class="mb-3">
-              <input type="tel" id="phone" class="form-control" placeholder="Telefon Numaranız">
-            </div>
-            <button onclick="sendToWhatsApp()" class="btn btn-success w-100">Ücretsiz Değerleme Al</button>
-            <small class="text-muted d-block mt-2">
-              * <a href="/acik-riza-metni#page" class="text-black text-decoration-underline" target="_blank">Açık Rıza Metni</a>’ni okudum ve kabul ediyorum.
-            </small>
-          </form>
-          <script src="/assets/js/whatsapp.js"></script>
+        <div class="gd-hero-actions">
+          <a href="/iletisim" class="gd-btn-bronze"> Gayrimenkulünüzün Değerini Öğrenin </a>
+          <a href="#piyasa-verileri" class="gd-btn-outline"> Göktürk Piyasasını İnceleyin </a>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-  <!-- NEDEN ÜCRETSİZ -->
-<section class="py-5 bg-light" id="ucretsiz-degerleme">
+  <!-- MARKET -->
+  <section class="gd-market-section" id="piyasa-verileri">
+    <div class="container">
+      <div class="gd-market-header">
+        <div class="gd-section-label">Göktürk Gayrimenkul Piyasası</div>
+        <h2 class="gd-section-title">Göktürk'te Gayrimenkul Piyasası</h2>
+        <p class="gd-section-description">
+          Göktürk gayrimenkul piyasasındaki güncel fiyat ve kira göstergelerini inceleyerek, bölgedeki piyasa koşulları
+          hakkında genel bir fikir edinebilirsiniz.
+        </p>
+        <div class="gd-market-note">Veriler güncel piyasa analizlerine göre düzenli olarak güncellenmektedir.</div>
+      </div>
+      <div class="row g-3">
+        <div class="col-12 col-sm-6 col-lg">
+          <div class="gd-market-card">
+            <div class="gd-market-card-label">Ort. Satılık m² Fiyatı</div>
+            <div class="gd-market-card-value">155.127 TL</div>
+            <div class="gd-market-card-period">Satılık konutlar</div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg">
+          <div class="gd-market-card">
+            <div class="gd-market-card-label">Ort. Satış Fiyatı</div>
+            <div class="gd-market-card-value">23.734.431 TL</div>
+            <div class="gd-market-card-period">Satılık konutlar</div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg">
+          <div class="gd-market-card">
+            <div class="gd-market-card-label">Amortisman Süresi</div>
+            <div class="gd-market-card-value">17 Yıl</div>
+            <div class="gd-market-card-period">Ortalama geri dönüş süresi</div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg">
+          <div class="gd-market-card">
+            <div class="gd-market-card-label">Ort. Kiralık m² Fiyatı</div>
+            <div class="gd-market-card-value">749 TL</div>
+            <div class="gd-market-card-period">Kiralık konutlar</div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-lg">
+          <div class="gd-market-card">
+            <div class="gd-market-card-label">Ort. Kira Fiyatı</div>
+            <div class="gd-market-card-value">100.288 TL</div>
+            <div class="gd-market-card-period">Kiralık konutlar</div>
+          </div>
+        </div>
+      </div>
+      <div class="gd-market-bottom">
+        <div class="row align-items-center g-4">
+          <div class="col-lg-8">
+            <strong> Göktürk gayrimenkul piyasasını yakından takip edin. </strong>
+            <span>
+              Fiyatlar ve kira değerleri; konum, site, proje, gayrimenkulün özellikleri ve piyasa koşullarına göre
+              değişiklik gösterebilir.
+            </span>
+          </div>
+          <div class="col-lg-4 text-lg-end">
+            <a href="/iletisim" class="gd-btn-bronze"> Gayrimenkulünüzün Değerini Öğrenin </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VALUE -->
+  <section class="gd-value-section">
+    <div class="container">
+      <div class="row justify-content-center text-center mb-5">
+        <div class="col-lg-8">
+          <div class="gd-section-label">Neden Bölgesel Uzmanlık?</div>
+          <h2 class="gd-section-title">Gayrimenkul Kararlarında Bölgeyi Tanımak Fark Yaratır</h2>
+          <p class="gd-section-description mx-auto">
+            Bir gayrimenkulün değerini yalnızca metrekare üzerinden değerlendirmek yeterli değildir. Mikro lokasyon,
+            emsal değerler ve bölgesel piyasa dinamikleri birlikte ele alınmalıdır.
+          </p>
+        </div>
+      </div>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="gd-value-box">
+            <div class="gd-value-number">01</div>
+            <h3>Bölgesel Piyasa Bilgisi</h3>
+            <p>
+              Göktürk gayrimenkul piyasasının kendine özgü dinamiklerini ve bölgesel fiyat farklılıklarını dikkate
+              alarak değerlendirme yapılır.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="gd-value-box">
+            <div class="gd-value-number">02</div>
+            <h3>Emsal Karşılaştırması</h3>
+            <p>
+              Benzer özelliklere sahip gayrimenkuller karşılaştırılarak piyasa koşullarına uygun bir fiyat perspektifi
+              oluşturulur.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="gd-value-box">
+            <div class="gd-value-number">03</div>
+            <h3>Doğru Fiyatlama</h3>
+            <p>
+              Gayrimenkulünüzün piyasadaki konumunu anlamanıza ve doğru fiyatlama stratejisi oluşturmanıza yardımcı
+              olunur.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FORM -->
+  <section class="gd-form-section">
+    <div class="container">
+      <div class="gd-form-wrapper">
+        <div class="gd-form-header">
+          <div class="gd-section-label">Ücretsiz Görüşme</div>
+          <h2 class="gd-section-title">Gayrimenkulünüz Hakkında Konuşalım</h2>
+          <p class="gd-section-description mx-auto">
+            Gayrimenkulünüzü, beklentilerinizi ve hedeflerinizi kısaca anlatın. Sizi arayarak görüşme için uygun bir
+            zaman belirleyelim.
+          </p>
+        </div>
+        <form>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <input type="text" class="form-control gd-form-control" placeholder="Ad Soyad">
+            </div>
+            <div class="col-md-6">
+              <input type="tel" class="form-control gd-form-control" placeholder="Telefon">
+            </div>
+            <div class="col-12">
+              <input type="email" class="form-control gd-form-control" placeholder="E-posta">
+            </div>
+            <div class="col-12">
+              <textarea
+                class="form-control gd-form-control"
+                placeholder="Gayrimenkulünüz hakkında kısaca bilgi verin"
+              ></textarea>
+            </div>
+            <div class="col-12 text-center">
+              <button type="submit" class="gd-btn-bronze border-0">Ücretsiz Görüşme Talep Edin</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="gd-faq-section">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-8">
+          <div class="gd-section-label">Sık Sorulan Sorular</div>
+          <h2 class="gd-section-title">Merak Ettikleriniz</h2>
+          <p class="gd-section-description mx-auto">
+            Gayrimenkul değerleme ve Göktürk gayrimenkul piyasası hakkında sıkça sorulan soruların cevaplarını burada
+            bulabilirsiniz.
+          </p>
+        </div>
+      </div>
+      <div class="gd-faq-wrapper">
+        <div class="accordion gd-faq" id="faqAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button
+                class="accordion-button"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#faqOne"
+                aria-expanded="true"
+                aria-controls="faqOne"
+              >
+                Gayrimenkulümün piyasa değerini nasıl öğrenebilirim?
+              </button>
+            </h2>
+            <div id="faqOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Gayrimenkulünüzün konumu, fiziksel özellikleri, site veya proje özellikleri, güncel piyasa koşulları ve
+                benzer gayrimenkullerin fiyatları birlikte değerlendirilerek piyasa değeri hakkında daha sağlıklı bir
+                fikir oluşturulabilir.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#faqTwo"
+                aria-expanded="false"
+                aria-controls="faqTwo"
+              >
+                İlan fiyatı ile gerçek piyasa değeri aynı mıdır?
+              </button>
+            </h2>
+            <div id="faqTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Hayır. İlan fiyatı, mülk sahibinin beklentisini yansıtabilir. Gerçek piyasa değerini anlamak için
+                gerçekleşen satışlar, güncel arz-talep dengesi ve doğru emsal karşılaştırmaları birlikte
+                değerlendirilmelidir.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#faqThree"
+                aria-expanded="false"
+                aria-controls="faqThree"
+              >
+                Gayrimenkulümü satmadan önce değerleme yaptırmalı mıyım?
+              </button>
+            </h2>
+            <div id="faqThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Doğru fiyatlama stratejisi oluşturmak, satış sürecinin başında önemli bir avantaj sağlayabilir.
+                Gayrimenkulün piyasa koşullarındaki konumunu bilmek, beklentileri daha gerçekçi belirlemeye yardımcı
+                olur.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#faqFour"
+                aria-expanded="false"
+                aria-controls="faqFour"
+              >
+                Göktürk'te gayrimenkul fiyatlarını neler etkiliyor?
+              </button>
+            </h2>
+            <div id="faqFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Mikro lokasyon, site ve proje özellikleri, konutun büyüklüğü, bina yaşı, katı, cephesi, manzarası,
+                otopark ve sosyal imkanları gibi birçok faktör fiyat üzerinde etkili olabilir.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#faqFive"
+                aria-expanded="false"
+                aria-controls="faqFive"
+              >
+                Ücretsiz görüşme talebi nasıl oluşturabilirim?
+              </button>
+            </h2>
+            <div id="faqFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Sayfadaki iletişim formunu doldurarak ücretsiz görüşme talebinizi iletebilirsiniz. Form üzerinden
+                verdiğiniz bilgiler doğrultusunda sizinle iletişime geçilir.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOG -->
+  <section class="gd-blog-section">
+    <div class="container">
+      <div class="gd-blog-header">
+        <div class="gd-section-label">Gayrimenkul Blogu</div>
+        <h2 class="gd-section-title">Gayrimenkul Hakkında Bilmeniz Gerekenler</h2>
+        <p class="gd-section-description mx-auto">
+          Gayrimenkul değerleme, Göktürk gayrimenkul piyasası, doğru fiyatlama ve gayrimenkul kararları hakkında güncel
+          bilgiler.
+        </p>
+      </div>
+      <div class="gd-blog-list">
+        
+          
+          <!-- ARTICLE -->
+          <article class="gd-blog-item">
+            <div class="gd-blog-item-meta">
+              <span class="gd-blog-item-date"> 08.01.2026 </span>
+              <span> 2 dk okuma </span>
+            </div>
+            <a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli" class="gd-blog-item-title">
+              Evinizin Değeri Neden Komşunuzun Evinden Farklı?
+            </a>
+            <p class="gd-blog-item-excerpt">
+              <p>Aynı sokakta, hatta aynı binada yer alan iki dairenin fiyatları arasında ciddi farklar olabildiğini fark etmişsinizdir. Peki <strong>metrekareleri benzer, cepheleri yakın ve konumları neredeyse aynı olan evlerin değeri neden farklı olur?</strong></p>
+
+            </p>
+            
+              <div class="gd-blog-tags">
+                
+                  <a href="/etiketler#gayrimenkul değerleme" class="gd-blog-tag"> gayrimenkul değerleme </a>
+                
+              </div>
+            
+          </article>
+        
+          
+          <!-- ARTICLE -->
+          <article class="gd-blog-item">
+            <div class="gd-blog-item-meta">
+              <span class="gd-blog-item-date"> 08.01.2026 </span>
+              <span> 2 dk okuma </span>
+            </div>
+            <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler" class="gd-blog-item-title">
+              Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler
+            </a>
+            <p class="gd-blog-item-excerpt">
+              <p>Bir evi satmak, çoğu kişi için hayatındaki en büyük finansal işlemlerden biridir. Buna rağmen birçok ev sahibi, yanlış fiyatlama, eksik bilgi veya aceleci kararlar nedeniyle evini piyasa değerinin altında satabilmektedir. Bu yazıda, mülkünüzün gerçek değerini koruyarak en doğru fiyattan satış yapabilmeniz için bilmeniz gereken tüm kritik noktaları detaylı şekilde ele alıyoruz.</p>
+
+            </p>
+            
+              <div class="gd-blog-tags">
+                
+                  <a href="/etiketler#gayrimenkul değerleme" class="gd-blog-tag"> gayrimenkul değerleme </a>
+                
+              </div>
+            
+          </article>
+        
+          
+          <!-- ARTICLE -->
+          <article class="gd-blog-item">
+            <div class="gd-blog-item-meta">
+              <span class="gd-blog-item-date"> 07.01.2026 </span>
+              <span> 2 dk okuma </span>
+            </div>
+            <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir" class="gd-blog-item-title">
+              Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?
+            </a>
+            <p class="gd-blog-item-excerpt">
+              <p>Konut satış sürecinde en kritik kararların başında <strong>doğru fiyat belirlemek</strong> gelir. Evini satmak isteyen birçok mülk sahibi, daha fazla kazanma isteğiyle ya da piyasa gerçeklerinden uzak tahminlerle yanlış fiyatlandırma yapabiliyor. Ancak bu durum, satış süresinin uzamasına ve hatta evin değer kaybetmesine neden olabiliyor.</p>
+
+            </p>
+            
+              <div class="gd-blog-tags">
+                
+                  <a href="/etiketler#gayrimenkul değerleme" class="gd-blog-tag"> gayrimenkul değerleme </a>
+                
+              </div>
+            
+          </article>
+        
+          
+          <!-- ARTICLE -->
+          <article class="gd-blog-item">
+            <div class="gd-blog-item-meta">
+              <span class="gd-blog-item-date"> 07.01.2026 </span>
+              <span> 3 dk okuma </span>
+            </div>
+            <a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir" class="gd-blog-item-title">
+              Otomatik Emlak Değerleme Sistemleri Neden Yanıltıcı Olabilir?
+            </a>
+            <p class="gd-blog-item-excerpt">
+              <p>Dijitalleşmenin emlak sektörüne kazandırdığı en popüler araçlardan biri <strong>otomatik emlak değerleme sistemleri</strong>dir. Birkaç tıklamayla evinizin kaç para ettiğini söyleyen bu sistemler, özellikle ev sahipleri ve yatırımcılar için oldukça cazip görünür. Ancak pratikte bu araçlar, çoğu zaman <strong>gerçek piyasa değerinden ciddi şekilde sapabilen sonuçlar</strong> üretir.</p>
+
+            </p>
+            
+              <div class="gd-blog-tags">
+                
+                  <a href="/etiketler#gayrimenkul değerleme" class="gd-blog-tag"> gayrimenkul değerleme </a>
+                
+              </div>
+            
+          </article>
+        
+          
+          <!-- ARTICLE -->
+          <article class="gd-blog-item">
+            <div class="gd-blog-item-meta">
+              <span class="gd-blog-item-date"> 07.01.2026 </span>
+              <span> 2 dk okuma </span>
+            </div>
+            <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor" class="gd-blog-item-title">
+              Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör
+            </a>
+            <p class="gd-blog-item-excerpt">
+              <p>İstanbul’un en prestijli ve planlı yerleşim bölgelerinden biri olan Göktürk, satılık konut piyasasında hem yatırımcıların hem de oturum amaçlı alıcıların yoğun ilgisini çekmektedir. Doğayla iç içe yaşam, güvenlikli siteler ve merkezi konuma yakınlık gibi avantajlar, Göktürk’teki konut fiyatlarını doğrudan etkilemektedir.</p>
+
+            </p>
+            
+              <div class="gd-blog-tags">
+                
+                  <a href="/etiketler#göktürk gayrimenkul değerleme" class="gd-blog-tag"> göktürk gayrimenkul değerleme </a>
+                
+                  <a href="/etiketler#göktürk satılık daire" class="gd-blog-tag"> göktürk satılık daire </a>
+                
+              </div>
+            
+          </article>
+        
+
+        
+          <!-- PAGINATION -->
+          <nav class="gd-pagination" aria-label="Blog sayfaları">
+            
+              <a href="/sayfa10/"> ← </a>
+              <a href="/sayfa10/">
+                10
+              </a>
+            
+            <a href="#" class="active">11</a>
+            
+              <a href="/sayfa12/">
+                12
+              </a>
+              <a href="/sayfa12/"> → </a>
+            
+          </nav>
+        
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="gd-final-cta">
+    <div class="container">
+      <h2>Gayrimenkulünüzün Gerçek Değerini Öğrenmek İster misiniz?</h2>
+      <p>
+        Göktürk'teki gayrimenkulünüz için güncel piyasa koşullarını ve emsal verilerini dikkate alan bir değerlendirme
+        talep edin.
+      </p>
+      <a href="/iletisim" class="gd-btn-bronze"> Gayrimenkulünüzün Değerini Öğrenin </a>
+    </div>
+  </section>
+</main>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('.gd-form-wrapper form');
+
+    if (!form) return;
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+
+      const inputs = form.querySelectorAll('input');
+      const textarea = form.querySelector('textarea');
+
+      const adSoyad = inputs[0].value.trim();
+      const telefon = inputs[1].value.trim();
+      const email = inputs[2].value.trim();
+      const gayrimenkul = textarea.value.trim();
+
+      if (!adSoyad || !telefon) {
+        alert('Lütfen ad soyad ve telefon bilgilerinizi girin.');
+        return;
+      }
+
+      const whatsappNumarasi = "+905465665509";
+
+      const mesaj = `
+Merhaba, web siteniz üzerinden ücretsiz görüşme talebi oluşturmak istiyorum.
+
+*Ad Soyad:* ${adSoyad}
+*Telefon:* ${telefon}
+*E-posta:* ${email || 'Belirtilmedi'}
+*Gayrimenkul Hakkında:* ${gayrimenkul || 'Bilgi verilmedi'}
+
+Web sitesi üzerinden gönderilmiştir.`;
+
+      const whatsappURL = 'https://wa.me/' + whatsappNumarasi + '?text=' + encodeURIComponent(mesaj);
+
+      window.open(whatsappURL, '_blank');
+    });
+  });
+</script>
+    <!-- FOOTER -->
+<footer class="gd-footer">
   <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="fw-bold">Neden Ücretsiz Emlak Değerleme?</h2>
-      <p class="text-muted mt-2">Göktürk’te doğru fiyatın, doğru zamanda bilinmesi gerektiğine inanıyorum.</p>
-    </div>
-
-    <div class="row g-4 text-center">
-      <div class="col-md-4">
-        <div class="card h-100 shadow-sm border-0 p-4">
-          <div class="mb-3 fs-2 text-primary">
-            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-              <path d="M12 2l7 4v6c0 5-3.5 9-7 10-3.5-1-7-5-7-10V6l7-4z" />
-              <path d="M9 12l2 2 4-4" />
-            </svg>
-          </div>
-          <h5 class="fw-bold">Satış Zorunluluğu Yok</h5>
-          <p class="text-muted">
-            Değerleme sonrası benimle çalışmak zorunda değilsiniz. Amaç sadece evinizin gerçek piyasa değerini
-            öğrenmeniz.
-          </p>
+    <div class="row g-5">
+      <div class="col-lg-5">
+        <div class="gd-footer-brand">
+          Göktürk Değerleme
+          <span> Gayrimenkul Danışmanlığı </span>
+        </div>
+        <p class="gd-footer-text">
+          Göktürk ve çevresinde gayrimenkul sahiplerinin doğru kararlar almasına yardımcı olmak amacıyla bölgesel piyasa bilgisi ve gayrimenkul danışmanlığı.
+        </p>
+        <div class="d-flex gap-3">
+          
+            <a href="https://www.linkedin.com/in/melihkocaturk/"> <i class="bi bi-linkedin"></i> </a>
+          
+            <a href="https://www.instagram.com/melih_kocaturk_"> <i class="bi bi-instagram"></i> </a>
+          
+            <a href="https://www.youtube.com/@melihkocaturk"> <i class="bi bi-youtube"></i> </a>
+          
+            <a href="https://x.com/melih_kocaturk_"> <i class="bi bi-twitter-x"></i> </a>
+          
+            <a href="/feed.xml"> <i class="bi bi-rss"></i> </a>
+          
         </div>
       </div>
-
-      <div class="col-md-4">
-        <div class="card h-100 shadow-sm border-0 p-4">
-          <div class="mb-3 fs-2 text-primary">
-            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"
-              stroke-linecap="round" stroke-linejoin="round">
-              <path d="M4 20h16" />
-              <path d="M4 4v16" />
-              <rect x="6.5" y="13" width="2.5" height="5" />
-              <rect x="11" y="10" width="2.5" height="8" />
-              <rect x="15.5" y="7" width="2.5" height="11" />
-            </svg>
-          </div>
-          <h5 class=" fw-bold">Otomatik Hesaplama Değil</h5>
-          <p class="text-muted">
-            İlan sitelerindeki algoritmalar yerine; site, cephe, kat, emsal satışlar ve Göktürk özel verileriyle analiz
-            yapılır.
-          </p>
-        </div>
+      <div class="col-6 col-lg-3">
+        <h3>Hızlı Menü</h3>
+        <ul class="gd-footer-links">
+          
+            <li>
+              <a href="/"> Anasayfa </a>
+            </li>
+          
+            <li>
+              <a href="/degerleme"> Değerleme </a>
+            </li>
+          
+            <li>
+              <a href="/hakkimda"> Hakkımda </a>
+            </li>
+          
+            <li>
+              <a href="/iletisim"> İletişim </a>
+            </li>
+          
+        </ul>
       </div>
-
-      <div class="col-md-4">
-        <div class="card h-100 shadow-sm border-0 p-4">
-          <div class="mb-3 fs-2 text-primary">
-            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-              <path d="M12 21s7-6.5 7-11a7 7 0 1 0-14 0c0 4.5 7 11 7 11z" />
-              <circle cx="12" cy="10" r="3" />
-            </svg>
-          </div>
-          <h5 class="fw-bold">Sadece Göktürk Uzmanlığı</h5>
-          <p class="text-muted">
-            Tüm analizler yalnızca Göktürk bölgesi için yapılır. Bölge dışı değerleme hizmeti sunulmaz.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- DEĞERLEME SÜRECİ -->
-<section class="py-5 text-center" id="nasil-calisiyorum">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="fw-bold">Değerleme Süreci Nasıl İşliyor?</h2>
-      <p class="text-muted mt-2">Her değerleme manuel yapılır ve bölgeye özel analiz içerir.</p>
-    </div>
-
-    <div class="row g-4">
-      <div class="col-md-4">
-        <div class="process-step p-4 h-100">
-          <span class="step-number">1</span>
-          <h5 class="fw-bold mt-3">Bilgileri Alıyorum</h5>
-          <p class="text-muted">
-            Formda paylaştığınız bilgiler doğrultusunda konut tipi, metrekare ve site bilgileri değerlendirilir.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="process-step p-4 h-100">
-          <span class="step-number">2</span>
-          <h5 class="fw-bold mt-3">Göktürk Emsal Analizi</h5>
-          <p class="text-muted">
-            Aynı site ve çevrede gerçekleşmiş gerçek satışlar, güncel piyasa hareketleriyle karşılaştırılır.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="process-step p-4 h-100">
-          <span class="step-number">3</span>
-          <h5 class="fw-bold mt-3">Net Fiyat Aralığı</h5>
-          <p class="text-muted">Size tek rakam değil, satılabilir gerçekçi bir fiyat aralığı sunulur.</p>
-        </div>
+      <div class="col-6 col-lg-4">
+        <h3>İletişim</h3>
+        <ul class="gd-footer-links">
+          <li>Göktürk, Eyüpsultan, İstanbul</li>
+          <li>
+            <a href="tel:+90 546 566 55 09"> +90 546 566 55 09 </a>
+          </li>
+          <li>
+            <a href="mailto:melih.kocaturk@icloud.com"> melih.kocaturk@icloud.com </a>
+          </li>
+        </ul>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- SSS -->
-<section class="py-5 bg-light" id="sss">
-  <div class="text-center mb-4">
-    <h2 class="fw-bold">Sıkça Sorulan Sorular</h2>
-    <p class="text-muted">Göktürk ücretsiz emlak değerleme hizmeti hakkında merak edilenler</p>
-  </div>
-
-  <div class="container accordion accordion-flush" id="faqAccordion">
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq1">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-          Ücretsiz emlak değerleme nedir?
-        </button>
-      </h2>
-      <div id="collapse1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Ücretsiz emlak değerleme; Göktürk bölgesindeki gayrimenkulünüzün, güncel piyasa koşulları dikkate alınarak
-          <b>yaklaşık satış değerinin</b> belirlenmesidir. Bu çalışma; bölgedeki güncel satılık ve satılmış emsaller,
-          mülkün fiziksel özellikleri ve talep durumu göz önünde bulundurularak yapılır. Amaç, mülk sahibine
-          <b>gerçekçi bir fiyat referansı</b> sunmaktır.
+    <div class="gd-footer-bottom">
+      <div class="row align-items-center g-3">
+        <div class="col-md-6">
+          © 2026
+          <a href="https://www.melihkocaturk.com">Melih Kocatürk</a>. Tüm hakları saklıdır.
+        </div>
+        <div class="col-md-6 text-md-end">
+          
+            <a href="/gizlilik-politikasi">Gizlilik Politikası</a>
+            <span class="mx-2"> | </span>
+          
+            <a href="/kvkk-aydinlatma-metni">KVKK Aydınlatma Metni</a>
+            
+          
         </div>
       </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq2">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
-          Değerleme gerçekten ücretsiz mi?
-        </button>
-      </h2>
-      <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Evet. Web sitemiz üzerinden talep edilen değerleme hizmeti <b>tamamen ücretsizdir</b>. Herhangi bir ödeme,
-          gizli ücret, üyelik veya taahhüt bulunmaz. Hizmetin ücretsiz olması, sonradan ücretli bir zorunluluk doğurmaz.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq3">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
-          Neden ücretsiz değerleme hizmeti sunuyorsunuz?
-        </button>
-      </h2>
-      <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Gayrimenkul satış sürecinde yapılan en büyük hata, mülkün yanlış fiyatlandırılmasıdır. Bizim amacımız; Göktürk
-          bölgesindeki mülk sahiplerinin bu hatayı yapmadan önce <b>doğru piyasa bilgisini edinmesini sağlamak</b> ve
-          bölgesel uzmanlığımızı şeffaf biçimde sunmaktır. Bu hizmet satış baskısı oluşturmak için değil, bilgilendirme
-          amacıyla sunulur.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq4">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
-          Değerleme süreci nasıl ilerliyor?
-        </button>
-      </h2>
-      <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Değerleme süreci otomatik sistemlerle değil, <b>manuel analiz</b> ile gerçekleştirilir. Süreçte şu kriterler
-          dikkate alınır:
-          <ul class="mb-0">
-            <li>Göktürk’teki güncel emsal satışlar</li>
-            <li>Mülkün konumu, metrekaresi ve site özellikleri</li>
-            <li>Binanın yaşı ve fiziksel durumu</li>
-            <li>Bölgedeki arz–talep dengesi</li>
-          </ul>
-          Gerekli durumlarda yerinde inceleme de yapılabilir.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq5">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
-          Değerleme yaptırmak satış zorunluluğu doğurur mu?
-        </button>
-      </h2>
-      <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Hayır. Değerleme talebinde bulunmanız sizi satış veya kiralama konusunda <b>hiçbir şekilde bağlamaz</b>.
-          Hizmet tamamen bilgilendirme amaçlıdır. Satış yapıp yapmamak tamamen mülk sahibinin kendi kararıdır.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq6">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6">
-          Hangi gayrimenkuller için değerleme yapıyorsunuz?
-        </button>
-      </h2>
-      <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Göktürk bölgesinde yer alan aşağıdaki gayrimenkuller için değerleme hizmeti sunuyoruz:
-          <ul class="mb-0">
-            <li>Daire</li>
-            <li>Villa</li>
-            <li>Rezidans</li>
-            <li>Arsa</li>
-          </ul>
-          Bölge dışındaki talepler değerlendirme kapsamına alınmaz.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq7">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7">
-          Değerleme sonucu ne kadar sürede iletilir?
-        </button>
-      </h2>
-      <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Online başvuruların büyük bir kısmı <b>24 saat içinde</b> değerlendirilir. Detaylı inceleme veya yerinde
-          analiz gerektiren durumlarda süre değişebilir. Her durumda süreç hakkında bilgilendirme yap
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq8">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8">
-          Bilgilerim gizli tutuluyor mu?
-        </button>
-      </h2>
-      <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Evet. Tüm kişisel ve mülke ait bilgiler <b>KVKK kapsamında gizli tutulur</b>. Bilgileriniz yalnızca değerleme
-          süreci için kullanılır ve üçüncü kişilerle kesinlikle paylaşılmaz.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq9">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse9">
-          Değerleme sonucu yazılı olarak paylaşılıyor mu?
-        </button>
-      </h2>
-      <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Talep edilmesi halinde değerleme sonucu, <b>yazılı bir özet rapor</b> şeklinde paylaşılabilir. Bu rapor,
-          mülkünüzün yaklaşık piyasa değerini ve değerlendirme kriterlerini içerir.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq10">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10">
-          Satış sürecinde de destek alabilir miyim?
-        </button>
-      </h2>
-      <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Evet. Dilerseniz değerleme sonrasında:
-          <ul class="mb-0">
-            <li>Doğru fiyatlama stratejisi</li>
-            <li>Pazarlama ve ilan yönetimi</li>
-            <li>Alıcı filtreleme ve pazarlık süreci</li>
-          </ul>
-          gibi konularda danışmanlık desteği sunulabilir. Ancak bu hizmetler tamamen isteğe bağlıdır.
-        </div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <h2 class="accordion-header" id="faq11">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11">
-          Neden sadece Göktürk bölgesine odaklanıyorsunuz?
-        </button>
-      </h2>
-      <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-        <div class="accordion-body">
-          Her bölgenin emlak dinamikleri farklıdır. Doğru değerleme yapabilmek için bölgeyi detaylı tanımak gerekir. Bu
-          nedenle hizmetimizi yalnızca Göktürk ile sınırlandırarak <b>daha isabetli ve güvenilir sonuçlar</b>
-          sunmayı hedefliyoruz.
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- BLOG -->
-<section class="container my-5" id="blog">
-  <div class="text-center mb-4">
-    <h2 class="fw-bold">Blog</h2>
-    <p class="text-muted">Göktürk gayrimenkul piyasası hakkında güncel bilgiler ve rehber yazılar...</p>
-    <p><a href="/etiketler" class="btn btn-sm btn-primary">Etiketler</a></p>
-  </div>
-
-  <div class="blog-list">
-    
-    <article class="blog-item">
-      <h3 class="h5 mb-3">
-        <a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli" class="blog-title">
-          Evinizin Değeri Neden Komşunuzun Evinden Farklı?
-        </a>
-      </h3>
-      
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill"
-          viewBox="0 0 16 16">
-          <path
-            d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-        </svg>
-        
-        <a href="/etiketler#konut değerleme" class="text-decoration-none text-black-50">
-          <small>konut değerleme</small></a>, 
-        
-        <a href="/etiketler#gayrimenkul değerleme" class="text-decoration-none text-black-50">
-          <small>gayrimenkul değerleme</small></a>
-        
-      </p>
-      
-      <p class="blog-excerpt">
-        <p>Aynı sokakta, hatta aynı binada yer alan iki dairenin fiyatları arasında ciddi farklar olabildiğini fark etmişsinizdir. Peki <strong>metrekareleri benzer, cepheleri yakın ve konumları neredeyse aynı olan evlerin değeri neden farklı olur?</strong></p>
-
-      </p>
-      <p><a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli" class="text-primary">Devamını Oku</a></p>
-    </article>
-    
-    <article class="blog-item">
-      <h3 class="h5 mb-3">
-        <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler" class="blog-title">
-          Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler
-        </a>
-      </h3>
-      
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill"
-          viewBox="0 0 16 16">
-          <path
-            d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-        </svg>
-        
-        <a href="/etiketler#piyasa değeri" class="text-decoration-none text-black-50">
-          <small>piyasa değeri</small></a>, 
-        
-        <a href="/etiketler#ev değerleme" class="text-decoration-none text-black-50">
-          <small>ev değerleme</small></a>, 
-        
-        <a href="/etiketler#konut satış stratejisi" class="text-decoration-none text-black-50">
-          <small>konut satış stratejisi</small></a>
-        
-      </p>
-      
-      <p class="blog-excerpt">
-        <p>Bir evi satmak, çoğu kişi için hayatındaki en büyük finansal işlemlerden biridir. Buna rağmen birçok ev sahibi, yanlış fiyatlama, eksik bilgi veya aceleci kararlar nedeniyle evini piyasa değerinin altında satabilmektedir. Bu yazıda, mülkünüzün gerçek değerini koruyarak en doğru fiyattan satış yapabilmeniz için bilmeniz gereken tüm kritik noktaları detaylı şekilde ele alıyoruz.</p>
-
-      </p>
-      <p><a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler" class="text-primary">Devamını Oku</a></p>
-    </article>
-    
-    <article class="blog-item">
-      <h3 class="h5 mb-3">
-        <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir" class="blog-title">
-          Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?
-        </a>
-      </h3>
-      
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill"
-          viewBox="0 0 16 16">
-          <path
-            d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-        </svg>
-        
-        <a href="/etiketler#piyasa değeri" class="text-decoration-none text-black-50">
-          <small>piyasa değeri</small></a>, 
-        
-        <a href="/etiketler#ev değerleme" class="text-decoration-none text-black-50">
-          <small>ev değerleme</small></a>, 
-        
-        <a href="/etiketler#konut satış stratejisi" class="text-decoration-none text-black-50">
-          <small>konut satış stratejisi</small></a>
-        
-      </p>
-      
-      <p class="blog-excerpt">
-        <p>Konut satış sürecinde en kritik kararların başında <strong>doğru fiyat belirlemek</strong> gelir. Evini satmak isteyen birçok mülk sahibi, daha fazla kazanma isteğiyle ya da piyasa gerçeklerinden uzak tahminlerle yanlış fiyatlandırma yapabiliyor. Ancak bu durum, satış süresinin uzamasına ve hatta evin değer kaybetmesine neden olabiliyor.</p>
-
-      </p>
-      <p><a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir" class="text-primary">Devamını Oku</a></p>
-    </article>
-    
-    <article class="blog-item">
-      <h3 class="h5 mb-3">
-        <a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir" class="blog-title">
-          Otomatik Emlak Değerleme Sistemleri Neden Yanıltıcı Olabilir?
-        </a>
-      </h3>
-      
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill"
-          viewBox="0 0 16 16">
-          <path
-            d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-        </svg>
-        
-        <a href="/etiketler#emlak değerleme" class="text-decoration-none text-black-50">
-          <small>emlak değerleme</small></a>, 
-        
-        <a href="/etiketler#piyasa değeri" class="text-decoration-none text-black-50">
-          <small>piyasa değeri</small></a>
-        
-      </p>
-      
-      <p class="blog-excerpt">
-        <p>Dijitalleşmenin emlak sektörüne kazandırdığı en popüler araçlardan biri <strong>otomatik emlak değerleme sistemleri</strong>dir. Birkaç tıklamayla evinizin kaç para ettiğini söyleyen bu sistemler, özellikle ev sahipleri ve yatırımcılar için oldukça cazip görünür. Ancak pratikte bu araçlar, çoğu zaman <strong>gerçek piyasa değerinden ciddi şekilde sapabilen sonuçlar</strong> üretir.</p>
-
-      </p>
-      <p><a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir" class="text-primary">Devamını Oku</a></p>
-    </article>
-    
-    <article class="blog-item">
-      <h3 class="h5 mb-3">
-        <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor" class="blog-title">
-          Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör
-        </a>
-      </h3>
-      
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill"
-          viewBox="0 0 16 16">
-          <path
-            d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-        </svg>
-        
-        <a href="/etiketler#göktürk ev fiyatları" class="text-decoration-none text-black-50">
-          <small>göktürk ev fiyatları</small></a>, 
-        
-        <a href="/etiketler#göktürk satılık ev" class="text-decoration-none text-black-50">
-          <small>göktürk satılık ev</small></a>, 
-        
-        <a href="/etiketler#göktürk konut değerleme" class="text-decoration-none text-black-50">
-          <small>göktürk konut değerleme</small></a>
-        
-      </p>
-      
-      <p class="blog-excerpt">
-        <p>İstanbul’un en prestijli ve planlı yerleşim bölgelerinden biri olan Göktürk, satılık konut piyasasında hem yatırımcıların hem de oturum amaçlı alıcıların yoğun ilgisini çekmektedir. Doğayla iç içe yaşam, güvenlikli siteler ve merkezi konuma yakınlık gibi avantajlar, Göktürk’teki konut fiyatlarını doğrudan etkilemektedir.</p>
-
-      </p>
-      <p><a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor" class="text-primary">Devamını Oku</a></p>
-    </article>
-    
-  </div>
-
-  <div class="text-center mt-4">
-    
-    <nav>
-      <ul class="pagination justify-content-center">
-        
-        <li class="page-item">
-          <a class="page-link text-black-50" href="/sayfa10/">&laquo;</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link text-black-50" href="/sayfa10/">
-            10
-          </a>
-        </li>
-        
-        <li class="page-item">
-          <a class="page-link text-primary" href="#">11</a>
-        </li>
-        
-        <li class="page-item">
-          <a class="page-link text-black-50" href="/sayfa12/">
-            12
-          </a>
-        </li>
-        <li class="page-item">
-          <a class="page-link text-black-50" href="/sayfa12/">&raquo;</a>
-        </li>
-        
-      </ul>
-    </nav>
-    
-  </div>
-</section>
-
-<!-- Göktürk Gayrimenkul Piyasa Verileri -->
-<section class="py-5 bg-light">
-  <div class="container">
-
-    <!-- Başlık -->
-    <div class="row justify-content-center">
-      <div class="col-lg-11 col-xl-10">
-
-        <div class="text-center mb-4">
-          <h2 class="fw-bold mb-3">
-            Göktürk Gayrimenkul Piyasası
-          </h2>
-          <p class="text-muted mb-0">
-            Göktürk bölgesindeki satılık ve kiralık
-            gayrimenkullere ilişkin farklı kaynaklardan
-            derlenen güncel piyasa verileri.
-          </p>
-        </div>
-
-        <!-- Veri Tablosu -->
-        <div class="table-responsive">
-          <table class="table table-bordered align-middle mb-0">
-            <thead class="table-light">
-              <tr>
-                <th class="py-3 px-3" style="min-width: 150px;">
-                  Veri Kaynağı
-                </th>
-                <th class="py-3 px-3 text-center" style="min-width: 150px;">
-                  Ort. Satılık
-                  <br>
-                  m² Fiyatı
-                </th>
-                <th class="py-3 px-3 text-center" style="min-width: 150px;">
-                  Ort. Satış
-                  <br>
-                  Fiyatı
-                </th>
-                <th class="py-3 px-3 text-center" style="min-width: 150px;">
-                  Amortisman
-                  <br>
-                  Süresi
-                </th>
-                <th class="py-3 px-3 text-center" style="min-width: 150px;">
-                  Ort. Kiralık
-                  <br>
-                  m² Fiyatı
-                </th>
-                <th class="py-3 px-3 text-center" style="min-width: 150px;">
-                  Ort. Kira
-                  <br>
-                  Fiyatı
-                </th>
-              </tr>
-            </thead>
-
-            <tbody>
-              
-                <tr>
-                  <td class="py-3 px-3 fw-semibold">
-                    Sahibinden.com
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    143.542 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    20.813.590 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    19 Yıl 3 Ay
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    777 ₺ / m²
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    120.555 ₺
-                  </td>
-                </tr>
-              
-                <tr>
-                  <td class="py-3 px-3 fw-semibold">
-                    Hepsiemlak.com
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    153.636 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    25.000.000 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    17 Yıl
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    782 ₺ / m²
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    117.857 ₺
-                  </td>
-                </tr>
-              
-                <tr>
-                  <td class="py-3 px-3 fw-semibold">
-                    Endeksa.com
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    155.127 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    23.734.431 ₺
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    17 Yıl
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    749 ₺ / m²
-                  </td>
-                  <td class="py-3 px-3 text-center">
-                    100.288 ₺
-                  </td>
-                </tr>
-              
-            </tbody>
-          </table>
-        </div>
-
-        <!-- Alt Bilgi -->
-        <div class="mt-4">
-          <div class="d-flex flex-column flex-md-row
-                                justify-content-between
-                                align-items-md-center
-                                gap-2">
-            <small class="text-muted">
-              <strong>Veri dönemi:</strong>
-              Temmuz 2026
-            </small>
-
-            <small class="text-muted">
-              <strong>Son güncelleme:</strong>
-              27 Temmuz 2026
-            </small>
-          </div>
-        </div>
-
-        <!-- Açıklama -->
-        <div class="mt-3">
-          <p class="text-muted small mb-0">
-            <strong>Not:</strong>
-            Bu tabloda yer alan veriler,
-            ilgili kaynaklarda yayımlanan değerlerde
-            herhangi bir değişiklik yapılmadan
-            aktarılmıştır.
-          </p>
-        </div>
-      </div>
-    </div>
-    
-  </div>
-</section>
-
-  <!-- FOOTER -->
-<footer class="bg-dark text-white py-4">
-  <div class="container text-center">
-    <ul class="nav justify-content-center">
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="/kvkk#page">
-          KVKK
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="/gizlilik-politikasi#page">
-          Gizlilik Politikası
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="mailto:melih.kocaturk@icloud.com">
-          İletişim
-        </a>
-      </li>
-    </ul>
-    <div class="py-2">WhatsApp: <a href="tel:+905465665509" class="link-light">+90 546 566 55 09</a></div>
-    <hr class="my-4">
-    <div class="d-flex flex-column flex-sm-row justify-content-between">
-      <ul class="list-unstyled d-flex justify-content-center">
-        <li class="ms-2"><a class="link-light" href="/feed.xml" aria-label="rss"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill"
-              viewBox="0 0 16 16">
-              <path
-                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.linkedin.com/in/melihkocaturk/" aria-label="linkedin"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.instagram.com/melih_kocaturk_" aria-label="instagram"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.youtube.com/@melihkocaturk" aria-label="youtube"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://x.com/melih_kocaturk_" aria-label="twitter"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x"
-              viewBox="0 0 16 16">
-              <path
-                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z" />
-            </svg></a></li>
-      </ul>
-      <div><small>© 2026 <a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>. Tüm hakları saklıdır.</small></div>
     </div>
   </div>
 </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>

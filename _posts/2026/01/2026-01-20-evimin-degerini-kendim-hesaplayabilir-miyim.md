@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Evimin Değerini Kendim Hesaplayabilir miyim?"
 description: "Bu yazıda, evinin değerini kendi başına nasıl hesaplayabileceğini, hangi kriterlere dikkat etmen gerektiğini ve ne zaman profesyonel destek alman gerektiğini detaylı şekilde ele alıyoruz."
-tags: ["konut değeri hesaplama", "göktürk emlak"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Evini satmayı, kiraya vermeyi ya da yalnızca güncel piyasa değerini öğrenmeyi düşünüyorsan aklına gelen ilk soru genellikle şudur: **“Evimin değerini kendim hesaplayabilir miyim?”** Kısa cevap: **Evet, belirli yöntemlerle yaklaşık bir değer hesaplayabilirsin.** Ancak bu değerin **resmi ve bağlayıcı olmadığını** bilmek önemlidir.

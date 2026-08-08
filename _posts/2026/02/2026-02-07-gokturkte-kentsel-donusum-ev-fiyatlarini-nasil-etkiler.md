@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?"
 description: "Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz."
-tags: ["göktürk kentsel dönüşüm", "göktürk ev fiyatları", "göktürk gayrimenkul yatırımı"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk satılık daire"]
 ---
 
 Türkiye’de kentsel dönüşüm, özellikle büyük şehirlerde gayrimenkul piyasasını doğrudan etkileyen en önemli faktörlerden biri haline gelmiştir. İstanbul’un hızla gelişen ve yatırımcıların yoğun ilgi gösterdiği semtlerinden biri olan Göktürk’te de kentsel dönüşüm süreci, konut fiyatları üzerinde belirgin ve çok boyutlu etkiler yaratmaktadır. Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.

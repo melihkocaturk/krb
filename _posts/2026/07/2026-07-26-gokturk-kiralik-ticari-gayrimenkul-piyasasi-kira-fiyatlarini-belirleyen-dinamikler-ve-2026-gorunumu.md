@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk Kiralık Ticari Gayrimenkul Piyasası: Kira Fiyatlarını Belirleyen Dinamikler ve 2026 Görünümü"
 description: "Göktürk kiralık ticari gayrimenkul piyasasını; kira fiyatları, metrekare değerleri, lokasyon ve fiyatlandırma dinamikleri üzerinden inceleyin. Bölgedeki ticari gayrimenkul fırsatlarını ve piyasa eğilimlerini keşfedin."
-tags: ["göktürk gayrimenkul değerleme", "göktürk ticari gayrimenkul", "ticari gayrimenkul değerleme"]
+category: Ticari Gayrimenkul Değerleme
+tags: ["göktürk ticari gayrimenkul değerleme"]
 ---
 
 İstanbul'un Eyüpsultan ilçesine bağlı Göktürk Merkez, konut piyasasının yanı sıra ticari gayrimenkul açısından da dikkat çeken bölgelerden biri olmayı sürdürüyor. Bölgenin gelişen yerleşim yapısı, artan nüfusu, günlük ihtiyaçlara yönelik ticari faaliyetleri ve belirli akslarda yoğunlaşan yaya hareketliliği, Göktürk'teki ticari gayrimenkullere yönelik talebin temel dinamiklerini oluşturuyor.

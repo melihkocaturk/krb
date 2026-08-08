@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?"
 description: "Bu yazıda meyve bahçesi bulunan tarım arazilerinin değerleme sürecini uygulamalı örneklerle birlikte detaylı olarak inceleyeceğiz."
-tags: ["gayrimenkul değerleme", "tarım arazisi değerlemesi"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Bir tarım arazisinin üzerinde meyve ağaçlarının bulunması, o taşınmazın değerleme sürecini sıradan bir tarla değerlemesinden tamamen farklı hale getirir. Çünkü artık yalnızca toprağın değeri değil, toprağın ürettiği ekonomik gelir de değerin önemli bir parçası haline gelir.

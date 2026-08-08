@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Ekspertiz Raporu ile Piyasa Değeri Arasındaki Farklar Nelerdir?"
 description: "Bu yazıda, ekspertiz raporu ile piyasa değeri arasındaki farkları tüm yönleriyle ele alıyor, hangi durumda hangisinin esas alındığını açıklıyoruz."
-tags: ["göktürk ekspertiz raporu", "göktürk emlak değerleme"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul alım–satım sürecinde en sık karıştırılan kavramların başında **ekspertiz değeri** ve **piyasa değeri** gelir. Özellikle konut kredisi kullanacak alıcılar ile satış fiyatını doğru belirlemek isteyen satıcılar için bu iki kavram arasındaki farkı net biçimde anlamak büyük önem taşır.

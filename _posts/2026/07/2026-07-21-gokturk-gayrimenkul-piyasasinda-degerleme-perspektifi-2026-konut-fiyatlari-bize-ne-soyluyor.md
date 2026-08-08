@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor?"
 description: "Göktürk gayrimenkul piyasasını 2026 verileriyle gayrimenkul değerleme perspektifinden inceleyin. Konut fiyatları, m² değerleri, kira getirisi ve piyasa dinamiklerini keşfedin."
-tags: ["göktürk gayrimenkul değerleme", "göktürk konut fiyatları", "göktürk satılık ev"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk kiralık konut"]
 ---
 
 İstanbul'un gayrimenkul piyasasında Göktürk, uzun yıllardır kendine özgü dinamikleri olan bölgelerden biri olarak öne çıkıyor. Bölgenin doğal çevresi, düşük yoğunluklu yapılaşma karakteri, konut stokunun niteliği ve İstanbul'un merkezi bölgelerinden farklılaşan yaşam biçimi, Göktürk'ü hem oturum hem de yatırım amaçlı gayrimenkul talebinin bulunduğu özel bir pazar haline getiriyor.

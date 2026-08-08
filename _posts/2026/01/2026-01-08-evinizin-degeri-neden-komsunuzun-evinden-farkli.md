@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Evinizin Değeri Neden Komşunuzun Evinden Farklı?"
 description: "Bu yazıda, evinizin değerinin komşunuzun evinden neden daha yüksek ya da daha düşük olabileceğini tüm detaylarıyla ele alıyoruz."
-tags: ["konut değerleme", "gayrimenkul değerleme"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Aynı sokakta, hatta aynı binada yer alan iki dairenin fiyatları arasında ciddi farklar olabildiğini fark etmişsinizdir. Peki **metrekareleri benzer, cepheleri yakın ve konumları neredeyse aynı olan evlerin değeri neden farklı olur?**

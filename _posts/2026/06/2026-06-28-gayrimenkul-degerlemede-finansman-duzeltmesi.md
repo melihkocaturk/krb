@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkul Değerlemede Finansman Düzeltmesi"
 description: "Gayrimenkul değerlemede en kritik hatalardan biri, emsal satışların “göründüğü fiyat” üzerinden doğrudan karşılaştırma yapılmasıdır. Özellikle vadeli satışlar söz konusu olduğunda, satış fiyatı gerçek piyasa değerini yansıtmaz."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

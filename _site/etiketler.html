@@ -1,1051 +1,1390 @@
 <!doctype html>
 <html lang="tr">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etiketler</title>
+    <meta
+      name="description"
+      content="Göktürk ve çevresinde gayrimenkul sahiplerinin doğru kararlar almasına yardımcı olmak amacıyla bölgesel piyasa bilgisi ve gayrimenkul danışmanlığı."
+    >
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    >
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 
-<head>
-  
-  <meta charset="utf-8">
-  <title>Etiketler</title>
-  <meta name="description"
-    content="Göktürk’te evinizin güncel piyasa değerini ücretsiz öğrenin. Bölge uzmanından net ve güvenilir analiz.">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    
+      <link rel="stylesheet" href="/assets/css/tags.css">
+    
 
-  <!-- Bootstrap 5 -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/styles.css">
-</head>
+    <link rel="shortcut icon" href="/images/favicon.ico">
+  </head>
 
-<body>
-
-  <!-- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
-  <div class="container">
-    <a class="navbar-brand fw-bold" href="/">Göktürk Değerleme</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navMenu">
-      <ul class="navbar-nav ms-auto">
-        
+  <body>
+    <!-- HEADER -->
+<header class="gd-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="gd-logo" href="/">
+        Göktürk Değerleme
+        <span> Gayrimenkul Danışmanlığı </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavigation">
+        <ul class="navbar-nav ms-auto align-items-lg-center">
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/"
+              >
+                Anasayfa
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/degerleme"
+              >
+                Değerleme
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/hakkimda"
+              >
+                Hakkımda
+              </a>
+            </li>
+          
+            <li class="nav-item">
+              <a
+                class="nav-link "
+                href="/iletisim"
+              >
+                İletişim
+              </a>
+            </li>
+          
           <li class="nav-item">
-            <a class="nav-link" href="/">
-              Anasayfa
-            </a>
+            <a class="gd-header-cta" href="/iletisim"> Ücretsiz Görüşme Talep Edin </a>
           </li>
-        
-          <li class="nav-item">
-            <a class="nav-link" href="/#ucretsiz-degerleme">
-              Ücretsiz Değerleme
-            </a>
-          </li>
-        
-          <li class="nav-item">
-            <a class="nav-link" href="/#nasil-calisiyorum">
-              Nasıl Çalışıyorum?
-            </a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
-</nav>
-  
-  <!-- HERO -->
-<section class="hero d-flex align-items-center">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 py-5">
-        <h1 class="fw-bold">Göktürk’te Evinizin Gerçek Değerini Ücretsiz Öğrenin</h1>
-        <p class="lead mt-3">
-          Satmadan veya kiraya vermeden önce, bölge uzmanından net fiyat analizi.
-        </p>
-        <a href="#degerleme-formu" class="btn btn-primary btn-lg mt-3">Ücretsiz Değerleme Al</a>
+        </ul>
       </div>
+    </div>
+  </nav>
+</header>
 
-      <!-- FORM -->
-      <div class="col-lg-5 offset-lg-1">
-        <div class="card shadow-lg p-4" id="degerleme-formu">
-          <h5 class="mb-3">Hızlı Değerleme Formu</h5>
-          <form action="">
-            <div class="mb-3">
-              <select id="type" class="form-select">
-                <option value="">Gayrimenkul Türü</option>
-                <option value="Konut">Konut</option>
-                <option value="İşyeri">İşyeri</option>
-                <option value="Arsa">Arsa</option>
-              </select>
-            </div>
-            <div class="mb-3">
-              <input type="number" id="m2" class="form-control" placeholder="Metrekare">
-            </div>
-            <div class="mb-3">
-              <input type="text" id="room" class="form-control" placeholder="Oda Sayısı (örn: 2+1)">
-            </div>
-            <div class="mb-3">
-              <input type="text" id="address" class="form-control" placeholder="Adres">
-            </div>
-            <div class="mb-3">
-              <input type="tel" id="phone" class="form-control" placeholder="Telefon Numaranız">
-            </div>
-            <button onclick="sendToWhatsApp()" class="btn btn-success w-100">Ücretsiz Değerleme Al</button>
-            <small class="text-muted d-block mt-2">
-              * <a href="/acik-riza-metni#page" class="text-black text-decoration-underline" target="_blank">Açık Rıza Metni</a>’ni okudum ve kabul ediyorum.
-            </small>
-          </form>
-          <script src="/assets/js/whatsapp.js"></script>
+    <main>
+  <!-- PAGE HERO -->
+  <section class="gd-page-hero">
+    <div class="container">
+      <div class="gd-page-hero-content">
+        <div class="gd-page-label">Gayrimenkul Blogu</div>
+        <h1>Etiketler</h1>
+        <p>
+          Göktürk gayrimenkul piyasası, değerleme, yatırım ve gayrimenkul satışına dair yazıları konu başlıklarına göre
+          keşfedin.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAG NAVIGATION -->
+  <section class="gd-tag-navigation">
+    <div class="container">
+      <div class="gd-tag-navigation-header">
+        <div class="gd-tag-navigation-label">Konu Başlıkları</div>
+        <h2 class="gd-tag-navigation-title">İlginizi Çeken Konuyu Seçin</h2>
+        <p class="gd-tag-navigation-text">
+          Bir etikete tıklayarak o konuyla ilgili tüm yazılara hızlıca ulaşabilirsiniz.
+        </p>
+      </div>
+      <div class="gd-tag-cloud">
+        
+          <a href="#göktürk ev değerleme" class="gd-tag-link">
+            göktürk ev değerleme
+          </a>
+        
+          <a href="#göktürk gayrimenkul değerleme" class="gd-tag-link">
+            göktürk gayrimenkul değerleme
+          </a>
+        
+          <a href="#konut satış stratejisi" class="gd-tag-link">
+            konut satış stratejisi
+          </a>
+        
+          <a href="#göktürk konut fiyatları" class="gd-tag-link">
+            göktürk konut fiyatları
+          </a>
+        
+          <a href="#göktürk konut değerleme" class="gd-tag-link">
+            göktürk konut değerleme
+          </a>
+        
+          <a href="#göktürk satılık daire" class="gd-tag-link">
+            göktürk satılık daire
+          </a>
+        
+          <a href="#gayrimenkul değerleme" class="gd-tag-link">
+            gayrimenkul değerleme
+          </a>
+        
+          <a href="#göktürk villa değerleme" class="gd-tag-link">
+            göktürk villa değerleme
+          </a>
+        
+          <a href="#göktürk arsa değerleme" class="gd-tag-link">
+            göktürk arsa değerleme
+          </a>
+        
+          <a href="#göktürk kiralık konut" class="gd-tag-link">
+            göktürk kiralık konut
+          </a>
+        
+          <a href="#göktürk ücretsiz değerleme" class="gd-tag-link">
+            göktürk ücretsiz değerleme
+          </a>
+        
+          <a href="#yapay zeka" class="gd-tag-link">
+            yapay zeka
+          </a>
+        
+          <a href="#emlak teknolojileri" class="gd-tag-link">
+            emlak teknolojileri
+          </a>
+        
+          <a href="#ticari gayrimenkul değerleme" class="gd-tag-link">
+            ticari gayrimenkul değerleme
+          </a>
+        
+          <a href="#göktürk ticari gayrimenkul değerleme" class="gd-tag-link">
+            göktürk ticari gayrimenkul değerleme
+          </a>
+        
+      </div>
+    </div>
+  </section>
+
+  <!-- TAG CONTENT -->
+  <section class="gd-tag-content">
+    <div class="container">
+      
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk ev değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk ev değerleme</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni" class="gd-blog-item-title"> Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, evinizin değerini bilmeden satışa çıkmanın neden riskli olduğunu, doğru fiyatın size ne kazandıracağını ve satış sürecini nasıl hızlandıracağını tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk gayrimenkul değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk gayrimenkul değerleme</h2>
+            <div class="gd-tag-group-count">21 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-kiralik-konut-piyasasi-kira-fiyatlari-metrekare-degerleri-ve-yatirim-perspektifi" class="gd-blog-item-title"> Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk kiralık konut piyasasını güncel verilerle inceleyin. Kira fiyatları, metrekare değerleri, yıllık kira artışı, konut stoku ve yatırım geri dönüş süresine dair kapsamlı piyasa analizi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 25.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-gayrimenkul-piyasasinda-degerleme-perspektifi-2026-konut-fiyatlari-bize-ne-soyluyor" class="gd-blog-item-title"> Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk gayrimenkul piyasasını 2026 verileriyle gayrimenkul değerleme perspektifinden inceleyin. Konut fiyatları, m² değerleri, kira getirisi ve piyasa dinamiklerini keşfedin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 21.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi" class="gd-blog-item-title"> Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 03.03.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" class="gd-blog-item-title"> Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" class="gd-blog-item-title"> Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler" class="gd-blog-item-title"> Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur" class="gd-blog-item-title"> Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli" class="gd-blog-item-title"> 2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda 2026 yılı piyasa koşullarını, Göktürk’e özel dinamikleri ve farklı senaryolara göre doğru kararın ne olabileceğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler" class="gd-blog-item-title"> 2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, 2026 konut kredisi faizlerinin Göktürk piyasasına olası etkilerini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-ormana-yakin-konutlarin-deger-analizi" class="gd-blog-item-title"> Göktürk’te Ormana Yakın Konutların Değer Analizi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te ormana yakın konutların fiyatları, yatırım potansiyeli ve değer artışı detaylı analizle bu yazıda. Satın alma ve yatırım rehberi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-guvenlikli-site-mi-mustakil-ev-mi" class="gd-blog-item-title"> Göktürk’te Güvenlikli Site mi, Müstakil Ev mi? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda Göktürk özelinde güvenlikli site ve müstakil ev seçeneklerini; fiyatlar, yaşam tarzı, avantajlar, dezavantajlar ve yatırım potansiyeli açısından detaylı şekilde karşılaştırıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-ayni-sitedeki-dairelerin-fiyatlari-neden-farkli" class="gd-blog-item-title"> Göktürk’te Aynı Sitedeki Dairelerin Fiyatları Neden Farklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk özelinde aynı site içindeki daire fiyatlarının neden farklılaştığını tüm detaylarıyla ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-site-icinde-evlerin-degeri-neden-daha-yuksek" class="gd-blog-item-title"> Göktürk’te Site İçinde Evlerin Değeri Neden Daha Yüksek? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te site içinde yer alan evlerin neden daha değerli olduğunu tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 01.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-aile-siteleri-ile-rezidans-fiyatlari-karsilastirmasi" class="gd-blog-item-title"> Göktürk’te Aile Siteleri ile Rezidans Fiyatları Karşılaştırması </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te aile siteleri ile rezidans fiyatlarını karşılaştırıyoruz. 2026 güncel fiyatlar, yaşam tarzı farkları ve yatırım açısından detaylı analiz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 01.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-yatirimlik-daire-nereden-alinmali" class="gd-blog-item-title"> Göktürk’te Yatırımlık Daire Nereden Alınmalı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te yatırımlık daire nereden alınmalı? En iyi lokasyonlar, daire tipleri, kira getirisi ve yatırım ipuçlarıyla detaylı Göktürk emlak rehberi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-ev-alirken-metrekare-fiyati-nasil-yorumlanmali" class="gd-blog-item-title"> Göktürk’te Satılık Ev Alırken Metrekare Fiyatı Nasıl Yorumlanmalı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk özelinde metrekare fiyatının ne anlama geldiğini, nasıl analiz edilmesi gerektiğini ve doğru karar vermek için nelere dikkat edilmesi gerektiğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-merkez-ile-kemerburgaz-arasinda-emlak-degeri-karsilastirmasi-2026" class="gd-blog-item-title"> Göktürk Merkez ile Kemerburgaz Arasında Emlak Değeri Karşılaştırması (2026) </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda Göktürk Merkez ve Kemerburgaz arasındaki emlak değeri farkı; konum, konut tipi, yaşam tarzı, talep profili ve uzun vadeli değer algısı üzerinden karşılaştırılmaktadır.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi" class="gd-blog-item-title"> Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu rehberde, Göktürk’te evinizi 2026 yılında kaça satabileceğinizi, fiyatları etkileyen temel unsurları ve satıştan en yüksek değeri nasıl elde edebileceğinizi detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-dairenizin-gercek-degeri-nasil-hesaplanir" class="gd-blog-item-title"> Göktürk’te Dairenizin Gerçek Değeri Nasıl Hesaplanır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te bir dairenin gerçek piyasa değerinin hangi kriterlere göre ve nasıl doğru şekilde hesaplanması gerektiğini adım adım ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor" class="gd-blog-item-title"> Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te satılık bir evin fiyatı hangi kriterlere göre belirlenir? İşte konut fiyatlarını en çok etkileyen 7 temel faktör.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni" class="gd-blog-item-title"> Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, evinizin değerini bilmeden satışa çıkmanın neden riskli olduğunu, doğru fiyatın size ne kazandıracağını ve satış sürecini nasıl hızlandıracağını tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="konut satış stratejisi">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">konut satış stratejisi</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni" class="gd-blog-item-title"> Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, evinizin değerini bilmeden satışa çıkmanın neden riskli olduğunu, doğru fiyatın size ne kazandıracağını ve satış sürecini nasıl hızlandıracağını tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk konut fiyatları">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk konut fiyatları</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-konut-fiyatlari-neden-mahalleden-mahalleye-degisiyor" class="gd-blog-item-title"> Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te konut fiyatlarının neden mahalleden mahalleye değiştiğini tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk konut değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk konut değerleme</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-konut-fiyatlari-neden-mahalleden-mahalleye-degisiyor" class="gd-blog-item-title"> Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te konut fiyatlarının neden mahalleden mahalleye değiştiğini tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk satılık daire">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk satılık daire</h2>
+            <div class="gd-tag-group-count">16 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor" class="gd-blog-item-title"> Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim" class="gd-blog-item-title"> 2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım </a>
+                  <p class="gd-blog-item-excerpt">
+                    2026 yılında Göktürk emlak piyasasında satın alma, kiralama ve yatırım fırsatları neler? Fiyat beklentileri, kira getirisi analizi ve kimler için mantıklı olduğu bu detaylı rehberde.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 18.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli" class="gd-blog-item-title"> 2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    2026’da İstanbul Eyüpsultan Göktürk’te satın almak mı, kiralamak mı yoksa yatırım yapmak mı daha mantıklı? Güncel fiyatlar, kira getirileri ve yatırım analizleriyle detaylı rehber.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler" class="gd-blog-item-title"> Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te kentsel dönüşümün ev fiyatlarını nasıl etkilediğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur" class="gd-blog-item-title"> Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, faiz oranlarının düşmesi durumunda Göktürk’teki konut fiyatlarının nasıl etkilenebileceğini, kısa ve uzun vadeli senaryolarla birlikte detaylı şekilde ele alacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli" class="gd-blog-item-title"> 2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda 2026 yılı piyasa koşullarını, Göktürk’e özel dinamikleri ve farklı senaryolara göre doğru kararın ne olabileceğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler" class="gd-blog-item-title"> 2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, 2026 konut kredisi faizlerinin Göktürk piyasasına olası etkilerini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-ormana-yakin-konutlarin-deger-analizi" class="gd-blog-item-title"> Göktürk’te Ormana Yakın Konutların Değer Analizi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te ormana yakın konutların fiyatları, yatırım potansiyeli ve değer artışı detaylı analizle bu yazıda. Satın alma ve yatırım rehberi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-ayni-sitedeki-dairelerin-fiyatlari-neden-farkli" class="gd-blog-item-title"> Göktürk’te Aynı Sitedeki Dairelerin Fiyatları Neden Farklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk özelinde aynı site içindeki daire fiyatlarının neden farklılaştığını tüm detaylarıyla ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-site-icinde-evlerin-degeri-neden-daha-yuksek" class="gd-blog-item-title"> Göktürk’te Site İçinde Evlerin Değeri Neden Daha Yüksek? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te site içinde yer alan evlerin neden daha değerli olduğunu tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 01.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-aile-siteleri-ile-rezidans-fiyatlari-karsilastirmasi" class="gd-blog-item-title"> Göktürk’te Aile Siteleri ile Rezidans Fiyatları Karşılaştırması </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te aile siteleri ile rezidans fiyatlarını karşılaştırıyoruz. 2026 güncel fiyatlar, yaşam tarzı farkları ve yatırım açısından detaylı analiz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 01.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-yatirimlik-daire-nereden-alinmali" class="gd-blog-item-title"> Göktürk’te Yatırımlık Daire Nereden Alınmalı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te yatırımlık daire nereden alınmalı? En iyi lokasyonlar, daire tipleri, kira getirisi ve yatırım ipuçlarıyla detaylı Göktürk emlak rehberi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-ev-alirken-metrekare-fiyati-nasil-yorumlanmali" class="gd-blog-item-title"> Göktürk’te Satılık Ev Alırken Metrekare Fiyatı Nasıl Yorumlanmalı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk özelinde metrekare fiyatının ne anlama geldiğini, nasıl analiz edilmesi gerektiğini ve doğru karar vermek için nelere dikkat edilmesi gerektiğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi" class="gd-blog-item-title"> Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu rehberde, Göktürk’te evinizi 2026 yılında kaça satabileceğinizi, fiyatları etkileyen temel unsurları ve satıştan en yüksek değeri nasıl elde edebileceğinizi detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-dairenizin-gercek-degeri-nasil-hesaplanir" class="gd-blog-item-title"> Göktürk’te Dairenizin Gerçek Değeri Nasıl Hesaplanır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, Göktürk’te bir dairenin gerçek piyasa değerinin hangi kriterlere göre ve nasıl doğru şekilde hesaplanması gerektiğini adım adım ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor" class="gd-blog-item-title"> Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te satılık bir evin fiyatı hangi kriterlere göre belirlenir? İşte konut fiyatlarını en çok etkileyen 7 temel faktör.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="gayrimenkul değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">gayrimenkul değerleme</h2>
+            <div class="gd-tag-group-count">26 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir" class="gd-blog-item-title"> Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Yapılaşma koşulları farklı arsalar nasıl değerlenir? Emsal (KAKS), inşaat alanı karşılaştırması ve örnek hesaplamalarla profesyonel arsa değerleme yöntemlerini öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 17.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak" class="gd-blog-item-title"> Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda kapitalizasyon oranının ne olduğunu, nasıl hesaplandığını, hangi faktörlerden etkilendiğini ve gayrimenkul değerlemede nasıl kullanıldığını detaylı şekilde inceleyeceğiz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 09.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir" class="gd-blog-item-title"> Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda meyve bahçesi bulunan tarım arazilerinin değerleme sürecini uygulamalı örneklerle birlikte detaylı olarak inceleyeceğiz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkulun-gercek-rakipleri-kim-degerlemede-rekabet-cevresini-dogru-okumak" class="gd-blog-item-title"> Gayrimenkulün Gerçek Rakipleri Kim? Değerlemede Rekabet Çevresini Doğru Okumak </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 28.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu" class="gd-blog-item-title"> Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 28.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkul-degerlemede-finansman-duzeltmesi" class="gd-blog-item-title"> Gayrimenkul Değerlemede Finansman Düzeltmesi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Gayrimenkul değerlemede en kritik hatalardan biri, emsal satışların “göründüğü fiyat” üzerinden doğrudan karşılaştırma yapılmasıdır. Özellikle vadeli satışlar söz konusu olduğunda, satış fiyatı gerçek piyasa değerini yansıtmaz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 28.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/eski-satis-verileriyle-dogru-degerleme-nasil-yapilir" class="gd-blog-item-title"> Eski Satış Verileriyle Doğru Değerleme Nasıl Yapılır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Gayrimenkul değerleme çalışmalarında en önemli aşamalardan biri emsal seçimidir. Ancak her zaman güncel satış verilerine ulaşmak mümkün olmayabilir. Bu gibi durumlarda değerleme uzmanları daha eski tarihli satışları tamamen göz ardı etmez.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 28.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkul-degerlemede-karsilastirma-birimi-nedir" class="gd-blog-item-title"> Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Gayrimenkul değerlemede karşılaştırma birimi nedir? Metrekare, oda ve gelir bazlı karşılaştırma birimlerinin nasıl kullanıldığını, emsal analizindeki önemini ve doğru değer tespitine etkisini öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkul-degerlemede-duzeltme-nedir" class="gd-blog-item-title"> Gayrimenkul Değerlemede Düzeltme Nedir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari" class="gd-blog-item-title"> Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda emlak değerleme açısından değer, fiyat ve maliyet kavramlarını detaylı olarak inceleyecek, aralarındaki farkları ve uygulamadaki önemlerini ele alacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir" class="gd-blog-item-title"> Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/emlak-degerlemede-degerleme-sistematigi" class="gd-blog-item-title"> Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bir gayrimenkulün değerini etkileyen fiziksel, hukuki, ekonomik ve çevresel birçok faktör bulunmaktadır. Bu nedenle değerleme uzmanları, belirli aşamalardan oluşan bir değerleme sistematiği uygularlar. Bu sistematik sayesinde ulaşılan sonuçların tutarlı, savunulabilir ve güvenilir olması sağlanır.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir" class="gd-blog-item-title"> Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Emlak Fiyat Endeksi hakkında kapsamlı rehber. Konut Fiyat Endeksi (KFE) nedir, nereden takip edilir, nasıl yorumlanır ve gayrimenkul değerleme çalışmalarında nasıl kullanılır?
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 14.06.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur" class="gd-blog-item-title"> Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, konutu rayiç değerin üzerinde satışa çıkardığınızda neler olabileceğini, sürecin psikolojik ve finansal etkilerini ve doğru fiyat stratejisinin neden hayati olduğunu detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 16.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/satis-oncesi-evin-degerini-artiran-kucuk-dokunuslar" class="gd-blog-item-title"> Satış Öncesi Evin Değerini Artıran Küçük Dokunuşlar </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, yüksek bütçelere girmeden, satış öncesi evinizin değerini artıracak etkili adımları detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 25.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evimin-degerini-kendim-hesaplayabilir-miyim" class="gd-blog-item-title"> Evimin Değerini Kendim Hesaplayabilir miyim? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, evinin değerini kendi başına nasıl hesaplayabileceğini, hangi kriterlere dikkat etmen gerektiğini ve ne zaman profesyonel destek alman gerektiğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 20.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/emlak-degerleme-hatalari-ev-sahiplerinin-en-sik-yaptigi-5-yanlis" class="gd-blog-item-title"> Emlak Değerleme Hataları: Ev Sahiplerinin En Sık Yaptığı 5 Yanlış </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, ev sahiplerinin en sık yaptığı 5 emlak değerleme hatasını ve bu hatalardan nasıl kaçınılabileceğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 20.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/ekspertiz-raporu-ile-piyasa-degeri-arasindaki-farklar-nelerdir" class="gd-blog-item-title"> Ekspertiz Raporu ile Piyasa Değeri Arasındaki Farklar Nelerdir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, ekspertiz raporu ile piyasa değeri arasındaki farkları tüm yönleriyle ele alıyor, hangi durumda hangisinin esas alındığını açıklıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 20.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/degerleme-sonrasi-satis-sureci-nasil-planlanmali" class="gd-blog-item-title"> Değerleme Sonrası Satış Süreci Nasıl Planlanmalı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, değerleme sonrası satış sürecinin nasıl planlanması gerektiğini adım adım ele alacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 12.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/bolge-uzmanligi-emlak-degerlemesinde-neden-onemlidir" class="gd-blog-item-title"> Bölge Uzmanlığı Emlak Değerlemesinde Neden Önemlidir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, bölge uzmanlığının emlak değerlemesindeki rolünü tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 12.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/bir-gayrimenkul-danismani-ev-degerlerken-nelere-dikkat-eder" class="gd-blog-item-title"> Bir Gayrimenkul Danışmanı Ev Değerlerken Nelere Dikkat Eder? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, profesyonel bir gayrimenkul danışmanının konut değerleme sürecinde dikkate aldığı tüm unsurları detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 12.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/karsilastirmali-rayic-bedel-analizi-nedir" class="gd-blog-item-title"> Karşılaştırmalı Rayiç Bedel Analizi Nedir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, karşılaştırmalı rayiç bedel analizinin ne olduğunu, nasıl yapıldığını, hangi durumlarda kullanıldığını ve neden bu kadar önemli olduğunu tüm detaylarıyla ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli" class="gd-blog-item-title"> Evinizin Değeri Neden Komşunuzun Evinden Farklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, evinizin değerinin komşunuzun evinden neden daha yüksek ya da daha düşük olabileceğini tüm detaylarıyla ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler" class="gd-blog-item-title"> Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler </a>
+                  <p class="gd-blog-item-excerpt">
+                    Evinizi piyasa değerinin altında satmamak için doğru fiyatlama, profesyonel değerleme ve etkili pazarlama stratejilerini öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir" class="gd-blog-item-title"> Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, yanlış fiyatlandırmanın ev satış süresini neden uzattığını, hangi hataların sıkça yapıldığını ve doğru fiyatlandırma için nelere dikkat edilmesi gerektiğini detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir" class="gd-blog-item-title"> Otomatik Emlak Değerleme Sistemleri Neden Yanıltıcı Olabilir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, otomatik emlak değerleme sistemlerinin neden yanıltıcı olabildiğini, hangi durumlarda risk oluşturduğunu ve doğru değerleme için neden insan uzmanlığına ihtiyaç duyulduğunu tüm yönleriyle ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.01.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk villa değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk villa değerleme</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-guvenlikli-site-mi-mustakil-ev-mi" class="gd-blog-item-title"> Göktürk’te Güvenlikli Site mi, Müstakil Ev mi? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda Göktürk özelinde güvenlikli site ve müstakil ev seçeneklerini; fiyatlar, yaşam tarzı, avantajlar, dezavantajlar ve yatırım potansiyeli açısından detaylı şekilde karşılaştırıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 02.02.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk arsa değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk arsa değerleme</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir" class="gd-blog-item-title"> Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda Göktürk’te arsa değerlemesini etkileyen faktörleri, fiyat trendlerini, yatırım getirisini ve dikkat edilmesi gereken riskleri detaylı şekilde ele alıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 07.02.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk kiralık konut">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk kiralık konut</h2>
+            <div class="gd-tag-group-count">5 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-kiralik-konut-piyasasi-kira-fiyatlari-metrekare-degerleri-ve-yatirim-perspektifi" class="gd-blog-item-title"> Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk kiralık konut piyasasını güncel verilerle inceleyin. Kira fiyatları, metrekare değerleri, yıllık kira artışı, konut stoku ve yatırım geri dönüş süresine dair kapsamlı piyasa analizi.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 25.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-gayrimenkul-piyasasinda-degerleme-perspektifi-2026-konut-fiyatlari-bize-ne-soyluyor" class="gd-blog-item-title"> Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk gayrimenkul piyasasını 2026 verileriyle gayrimenkul değerleme perspektifinden inceleyin. Konut fiyatları, m² değerleri, kira getirisi ve piyasa dinamiklerini keşfedin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 21.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi" class="gd-blog-item-title"> Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk’te kiralar neden bu kadar arttı? Bu yazıda veriler, piyasa dinamikleri ve bölgesel gelişmeler ışığında detaylı bir analiz bulacaksınız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 03.03.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim" class="gd-blog-item-title"> 2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım </a>
+                  <p class="gd-blog-item-excerpt">
+                    2026 yılında Göktürk emlak piyasasında satın alma, kiralama ve yatırım fırsatları neler? Fiyat beklentileri, kira getirisi analizi ve kimler için mantıklı olduğu bu detaylı rehberde.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 18.02.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli" class="gd-blog-item-title"> 2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı? </a>
+                  <p class="gd-blog-item-excerpt">
+                    2026’da İstanbul Eyüpsultan Göktürk’te satın almak mı, kiralamak mı yoksa yatırım yapmak mı daha mantıklı? Güncel fiyatlar, kira getirileri ve yatırım analizleriyle detaylı rehber.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 08.02.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk ücretsiz değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk ücretsiz değerleme</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari" class="gd-blog-item-title"> Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda, özellikle Göktürk bölgesine odaklanarak, evinizin değerini ücretsiz ve doğru şekilde nasıl öğrenebileceğinizi adım adım anlatıyoruz.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 23.02.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="yapay zeka">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">yapay zeka</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi" class="gd-blog-item-title"> Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı </a>
+                  <p class="gd-blog-item-excerpt">
+                    Teknolojinin gayrimenkul değerlemedeki rolünü keşfedin. AI, büyük veri ve drone kullanımıyla daha hızlı, doğru ve güvenilir ekspertiz süreçlerinin nasıl mümkün olduğunu öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 03.03.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="emlak teknolojileri">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">emlak teknolojileri</h2>
+            <div class="gd-tag-group-count">1 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi" class="gd-blog-item-title"> Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı </a>
+                  <p class="gd-blog-item-excerpt">
+                    Teknolojinin gayrimenkul değerlemedeki rolünü keşfedin. AI, büyük veri ve drone kullanımıyla daha hızlı, doğru ve güvenilir ekspertiz süreçlerinin nasıl mümkün olduğunu öğrenin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 03.03.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="ticari gayrimenkul değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">ticari gayrimenkul değerleme</h2>
+            <div class="gd-tag-group-count">3 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/otopark-degerlemesinde-en-dogru-yaklasim-nedir" class="gd-blog-item-title"> Otopark Değerlemesinde En Doğru Yaklaşım Nedir? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Otopark değerlemesinde araç park yeri karşılaştırma birimi nasıl kullanılır? Emsal karşılaştırma yöntemi, örnek otopark değerlemesi, hesaplama adımları ve değerlemeyi etkileyen faktörleri detaylı olarak keşfedin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 14.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani" class="gd-blog-item-title"> Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda inşaat alanı karşılaştırma yöntemini, hangi durumlarda tercih edilmesi gerektiğini ve örnek bir hesaplama ile nasıl uygulandığını ayrıntılı olarak inceleyeceğiz..
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 14.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir" class="gd-blog-item-title"> Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 05.07.2026</time>
+              </div>
+            </article>
+          
+        </section>
+        <!-- TAG -->
+        <section class="gd-tag-group" id="göktürk ticari gayrimenkul değerleme">
+          <div class="gd-tag-group-header">
+            <h2 class="gd-tag-group-title">göktürk ticari gayrimenkul değerleme</h2>
+            <div class="gd-tag-group-count">2 Yazı</div>
+          </div>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturk-kiralik-ticari-gayrimenkul-piyasasi-kira-fiyatlarini-belirleyen-dinamikler-ve-2026-gorunumu" class="gd-blog-item-title"> Göktürk Kiralık Ticari Gayrimenkul Piyasası: Kira Fiyatlarını Belirleyen Dinamikler ve 2026 Görünümü </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk kiralık ticari gayrimenkul piyasasını; kira fiyatları, metrekare değerleri, lokasyon ve fiyatlandırma dinamikleri üzerinden inceleyin. Bölgedeki ticari gayrimenkul fırsatlarını ve piyasa eğilimlerini keşfedin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 26.07.2026</time>
+              </div>
+            </article>
+          
+            <article class="gd-blog-item">
+              <div class="gd-blog-item-top">
+                <div class="gd-blog-item-content">
+                  <a href="/gokturkte-ticari-gayrimenkul-yatirimi-fiyat-artisinin-otesinde-deger-nerede" class="gd-blog-item-title"> Göktürk'te Ticari Gayrimenkul Yatırımı: Fiyat Artışının Ötesinde Değer Nerede? </a>
+                  <p class="gd-blog-item-excerpt">
+                    Göktürk'te ticari gayrimenkul piyasasını değerleme perspektifiyle inceleyin. Satılık dükkân ve mağaza fiyatları, m² değerleri, kira getirisi, amortisman süresi ve yatırım potansiyelini keşfedin.
+                  </p>
+                </div>
+                <time class="gd-blog-item-date"> 21.07.2026</time>
+              </div>
+            </article>
+          
+        </section></div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="gd-final-cta">
+    <div class="container">
+      <div class="gd-final-cta-content">
+        <div class="gd-final-cta-label">Gayrimenkulünüz İçin</div>
+        <h2>Gayrimenkulünüzün Değerini Birlikte Değerlendirelim</h2>
+        <p>
+          Göktürk'teki gayrimenkulünüzün güncel piyasa koşullarındaki konumunu öğrenmek ve doğru bir değerlendirme
+          yapmak için iletişime geçebilirsiniz.
+        </p>
+        <a href="/iletisim" class="gd-final-cta-button"> Ücretsiz Görüşme Talep Edin </a>
+      </div>
+    </div>
+  </section>
+</main>
+
+    <!-- FOOTER -->
+<footer class="gd-footer">
+  <div class="container">
+    <div class="row g-5">
+      <div class="col-lg-5">
+        <div class="gd-footer-brand">
+          Göktürk Değerleme
+          <span> Gayrimenkul Danışmanlığı </span>
+        </div>
+        <p class="gd-footer-text">
+          Göktürk ve çevresinde gayrimenkul sahiplerinin doğru kararlar almasına yardımcı olmak amacıyla bölgesel piyasa bilgisi ve gayrimenkul danışmanlığı.
+        </p>
+        <div class="d-flex gap-3">
+          
+            <a href="https://www.linkedin.com/in/melihkocaturk/"> <i class="bi bi-linkedin"></i> </a>
+          
+            <a href="https://www.instagram.com/melih_kocaturk_"> <i class="bi bi-instagram"></i> </a>
+          
+            <a href="https://www.youtube.com/@melihkocaturk"> <i class="bi bi-youtube"></i> </a>
+          
+            <a href="https://x.com/melih_kocaturk_"> <i class="bi bi-twitter-x"></i> </a>
+          
+            <a href="/feed.xml"> <i class="bi bi-rss"></i> </a>
+          
+        </div>
+      </div>
+      <div class="col-6 col-lg-3">
+        <h3>Hızlı Menü</h3>
+        <ul class="gd-footer-links">
+          
+            <li>
+              <a href="/"> Anasayfa </a>
+            </li>
+          
+            <li>
+              <a href="/degerleme"> Değerleme </a>
+            </li>
+          
+            <li>
+              <a href="/hakkimda"> Hakkımda </a>
+            </li>
+          
+            <li>
+              <a href="/iletisim"> İletişim </a>
+            </li>
+          
+        </ul>
+      </div>
+      <div class="col-6 col-lg-4">
+        <h3>İletişim</h3>
+        <ul class="gd-footer-links">
+          <li>Göktürk, Eyüpsultan, İstanbul</li>
+          <li>
+            <a href="tel:+90 546 566 55 09"> +90 546 566 55 09 </a>
+          </li>
+          <li>
+            <a href="mailto:melih.kocaturk@icloud.com"> melih.kocaturk@icloud.com </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="gd-footer-bottom">
+      <div class="row align-items-center g-3">
+        <div class="col-md-6">
+          © 2026
+          <a href="https://www.melihkocaturk.com">Melih Kocatürk</a>. Tüm hakları saklıdır.
+        </div>
+        <div class="col-md-6 text-md-end">
+          
+            <a href="/gizlilik-politikasi">Gizlilik Politikası</a>
+            <span class="mx-2"> | </span>
+          
+            <a href="/kvkk-aydinlatma-metni">KVKK Aydınlatma Metni</a>
+            
+          
         </div>
       </div>
     </div>
   </div>
-</section>
-
-  <section class="py-5 bg-white border-top" id="page">
-  <div class="container">
-    <h1 class="mb-4">Etiketler</h1>
-
-    <div class="mb-5">
-  
-    <a href="#göktürk ev değerleme">göktürk ev değerleme</a>&nbsp;
-  
-    <a href="#göktürk gayrimenkul değerleme">göktürk gayrimenkul değerleme</a>&nbsp;
-  
-    <a href="#konut satış stratejisi">konut satış stratejisi</a>&nbsp;
-  
-    <a href="#göktürk konut fiyatları">göktürk konut fiyatları</a>&nbsp;
-  
-    <a href="#göktürk konut değerleme">göktürk konut değerleme</a>&nbsp;
-  
-    <a href="#göktürk ev fiyatları">göktürk ev fiyatları</a>&nbsp;
-  
-    <a href="#göktürk satılık ev">göktürk satılık ev</a>&nbsp;
-  
-    <a href="#emlak değerleme">emlak değerleme</a>&nbsp;
-  
-    <a href="#piyasa değeri">piyasa değeri</a>&nbsp;
-  
-    <a href="#ev değerleme">ev değerleme</a>&nbsp;
-  
-    <a href="#konut değerleme">konut değerleme</a>&nbsp;
-  
-    <a href="#gayrimenkul değerleme">gayrimenkul değerleme</a>&nbsp;
-  
-    <a href="#rayiç bedel analizi">rayiç bedel analizi</a>&nbsp;
-  
-    <a href="#bölge uzmanlığı">bölge uzmanlığı</a>&nbsp;
-  
-    <a href="#değerleme raporu">değerleme raporu</a>&nbsp;
-  
-    <a href="#göktürk emlak piyasası">göktürk emlak piyasası</a>&nbsp;
-  
-    <a href="#kemerburgaz emlak piyasası">kemerburgaz emlak piyasası</a>&nbsp;
-  
-    <a href="#göktürk emlak">göktürk emlak</a>&nbsp;
-  
-    <a href="#göktürk yatırımlık daire">göktürk yatırımlık daire</a>&nbsp;
-  
-    <a href="#göktürk kira getirisi">göktürk kira getirisi</a>&nbsp;
-  
-    <a href="#göktürk yatırım fırsatı">göktürk yatırım fırsatı</a>&nbsp;
-  
-    <a href="#göktürk ekspertiz raporu">göktürk ekspertiz raporu</a>&nbsp;
-  
-    <a href="#göktürk emlak değerleme">göktürk emlak değerleme</a>&nbsp;
-  
-    <a href="#konut değeri hesaplama">konut değeri hesaplama</a>&nbsp;
-  
-    <a href="#ev satış ipuçları">ev satış ipuçları</a>&nbsp;
-  
-    <a href="#göktürk rezidans fiyatları">göktürk rezidans fiyatları</a>&nbsp;
-  
-    <a href="#göktürk site evleri">göktürk site evleri</a>&nbsp;
-  
-    <a href="#göktürk daire fiyatları">göktürk daire fiyatları</a>&nbsp;
-  
-    <a href="#göktürk müstakil ev">göktürk müstakil ev</a>&nbsp;
-  
-    <a href="#göktürk villa fiyatları">göktürk villa fiyatları</a>&nbsp;
-  
-    <a href="#göktürk kiralık ev">göktürk kiralık ev</a>&nbsp;
-  
-    <a href="#göktürk konut piyasası">göktürk konut piyasası</a>&nbsp;
-  
-    <a href="#göktürk konut kredisi">göktürk konut kredisi</a>&nbsp;
-  
-    <a href="#göktürk arsa değerlemesi">göktürk arsa değerlemesi</a>&nbsp;
-  
-    <a href="#göktürk arsa yatırımı">göktürk arsa yatırımı</a>&nbsp;
-  
-    <a href="#göktürk arsa fiyatları">göktürk arsa fiyatları</a>&nbsp;
-  
-    <a href="#göktürk kentsel dönüşüm">göktürk kentsel dönüşüm</a>&nbsp;
-  
-    <a href="#göktürk gayrimenkul yatırımı">göktürk gayrimenkul yatırımı</a>&nbsp;
-  
-    <a href="#göktürk kiralık daire">göktürk kiralık daire</a>&nbsp;
-  
-    <a href="#göktürk satılık daire">göktürk satılık daire</a>&nbsp;
-  
-    <a href="#göktürk ücretsiz ekspertiz">göktürk ücretsiz ekspertiz</a>&nbsp;
-  
-    <a href="#göktürk ücretsiz değerleme">göktürk ücretsiz değerleme</a>&nbsp;
-  
-    <a href="#göktürk kiralık konut">göktürk kiralık konut</a>&nbsp;
-  
-    <a href="#yapay zeka">yapay zeka</a>&nbsp;
-  
-    <a href="#emlak teknolojileri">emlak teknolojileri</a>&nbsp;
-  
-    <a href="#konut fiyat endeksi">konut fiyat endeksi</a>&nbsp;
-  
-    <a href="#emlak değerleme yöntemleri">emlak değerleme yöntemleri</a>&nbsp;
-  
-    <a href="#emsal analizi">emsal analizi</a>&nbsp;
-  
-    <a href="#ticari gayrimenkul değerleme">ticari gayrimenkul değerleme</a>&nbsp;
-  
-    <a href="#tarım arazisi değerlemesi">tarım arazisi değerlemesi</a>&nbsp;
-  
-    <a href="#arsa değerleme">arsa değerleme</a>&nbsp;
-  
-    <a href="#göktürk ticari gayrimenkul">göktürk ticari gayrimenkul</a>&nbsp;
-  
-</div>
-
-
-  <h2 id="göktürk ev değerleme">göktürk ev değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-dairenizin-gercek-degeri-nasil-hesaplanir">Göktürk’te Dairenizin Gerçek Değeri Nasıl Hesaplanır?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni">Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk gayrimenkul değerleme">göktürk gayrimenkul değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-ticari-gayrimenkul-piyasasi-kira-fiyatlarini-belirleyen-dinamikler-ve-2026-gorunumu">Göktürk Kiralık Ticari Gayrimenkul Piyasası: Kira Fiyatlarını Belirleyen Dinamikler ve 2026 Görünümü</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-ticari-gayrimenkul-yatirimi-fiyat-artisinin-otesinde-deger-nerede">Göktürk'te Ticari Gayrimenkul Yatırımı: Fiyat Artışının Ötesinde Değer Nerede?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturk-gayrimenkul-piyasasinda-degerleme-perspektifi-2026-konut-fiyatlari-bize-ne-soyluyor">Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi">Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-dairenizin-gercek-degeri-nasil-hesaplanir">Göktürk’te Dairenizin Gerçek Değeri Nasıl Hesaplanır?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni">Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="konut satış stratejisi">konut satış stratejisi</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</a>
-      </li>
-    
-      <li>
-        <a href="/satis-oncesi-evin-degerini-artiran-kucuk-dokunuslar">Satış Öncesi Evin Değerini Artıran Küçük Dokunuşlar</a>
-      </li>
-    
-      <li>
-        <a href="/degerleme-sonrasi-satis-sureci-nasil-planlanmali">Değerleme Sonrası Satış Süreci Nasıl Planlanmalı?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler">Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler</a>
-      </li>
-    
-      <li>
-        <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir">Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizin-degerini-ogrenmeden-satisa-cikarmayin-iste-nedeni">Evinizin Değerini Öğrenmeden Satışa Çıkarmayın: İşte Nedeni</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk konut fiyatları">göktürk konut fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-gayrimenkul-piyasasinda-degerleme-perspektifi-2026-konut-fiyatlari-bize-ne-soyluyor">Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-konut-fiyatlari-neden-mahalleden-mahalleye-degisiyor">Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk konut değerleme">göktürk konut değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor">Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-konut-fiyatlari-neden-mahalleden-mahalleye-degisiyor">Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk ev fiyatları">göktürk ev fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli">2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler">Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?</a>
-      </li>
-    
-      <li>
-        <a href="/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur">Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?</a>
-      </li>
-    
-      <li>
-        <a href="/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli">2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi">Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor">Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk satılık ev">göktürk satılık ev</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-gayrimenkul-piyasasinda-degerleme-perspektifi-2026-konut-fiyatlari-bize-ne-soyluyor">Göktürk Gayrimenkul Piyasasında Değerleme Perspektifi: 2026 Konut Fiyatları Bize Ne Söylüyor?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-ormana-yakin-konutlarin-deger-analizi">Göktürk’te Ormana Yakın Konutların Değer Analizi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-alirken-metrekare-fiyati-nasil-yorumlanmali">Göktürk’te Satılık Ev Alırken Metrekare Fiyatı Nasıl Yorumlanmalı?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-evimi-kaca-satarim-2026-guncel-piyasa-rehberi">Göktürk’te Evimi Kaça Satarım? 2026 Güncel Piyasa Rehberi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-satilik-evlerde-fiyati-en-cok-etkileyen-7-faktor">Göktürk’te Satılık Evlerde Fiyatı En Çok Etkileyen 7 Faktör</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="emlak değerleme">emlak değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/emlak-degerlemede-deger-fiyat-ve-maliyet-kavramlari">Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir">Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-degerlemede-degerleme-sistematigi">Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?</a>
-      </li>
-    
-      <li>
-        <a href="/bolge-uzmanligi-emlak-degerlemesinde-neden-onemlidir">Bölge Uzmanlığı Emlak Değerlemesinde Neden Önemlidir?</a>
-      </li>
-    
-      <li>
-        <a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir">Otomatik Emlak Değerleme Sistemleri Neden Yanıltıcı Olabilir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="piyasa değeri">piyasa değeri</h2>
-  <ul>
-    
-      <li>
-        <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler">Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler</a>
-      </li>
-    
-      <li>
-        <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir">Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?</a>
-      </li>
-    
-      <li>
-        <a href="/otomatik-emlak-degerleme-sistemleri-neden-yaniltici-olabilir">Otomatik Emlak Değerleme Sistemleri Neden Yanıltıcı Olabilir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="ev değerleme">ev değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/bir-gayrimenkul-danismani-ev-degerlerken-nelere-dikkat-eder">Bir Gayrimenkul Danışmanı Ev Değerlerken Nelere Dikkat Eder?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizi-piyasa-degerinin-altinda-satmamak-icin-bilmeniz-gerekenler">Evinizi Piyasa Değerinin Altında Satmamak İçin Bilmeniz Gerekenler</a>
-      </li>
-    
-      <li>
-        <a href="/yanlis-fiyatlandirma-ev-satis-suresini-nasil-uzatir">Yanlış Fiyatlandırma Ev Satış Süresini Nasıl Uzatır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="konut değerleme">konut değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/bir-gayrimenkul-danismani-ev-degerlerken-nelere-dikkat-eder">Bir Gayrimenkul Danışmanı Ev Değerlerken Nelere Dikkat Eder?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli">Evinizin Değeri Neden Komşunuzun Evinden Farklı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="gayrimenkul değerleme">gayrimenkul değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir">Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır?</a>
-      </li>
-    
-      <li>
-        <a href="/otopark-degerlemesinde-en-dogru-yaklasim-nedir">Otopark Değerlemesinde En Doğru Yaklaşım Nedir?</a>
-      </li>
-    
-      <li>
-        <a href="/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani">Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı</a>
-      </li>
-    
-      <li>
-        <a href="/kapitalizasyon-orani-ile-gayrimenkulun-gercek-degerini-hesaplamak">Kapitalizasyon Oranı ile Gayrimenkulün Gerçek Değerini Hesaplamak</a>
-      </li>
-    
-      <li>
-        <a href="/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir">Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir">Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkulun-gercek-rakipleri-kim-degerlemede-rekabet-cevresini-dogru-okumak">Gayrimenkulün Gerçek Rakipleri Kim? Değerlemede Rekabet Çevresini Doğru Okumak</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemede-her-veriyi-kullanmak-dogru-mu">Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemede-finansman-duzeltmesi">Gayrimenkul Değerlemede Finansman Düzeltmesi</a>
-      </li>
-    
-      <li>
-        <a href="/eski-satis-verileriyle-dogru-degerleme-nasil-yapilir">Eski Satış Verileriyle Doğru Değerleme Nasıl Yapılır?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemede-karsilastirma-birimi-nedir">Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemede-duzeltme-nedir">Gayrimenkul Değerlemede Düzeltme Nedir?</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir">Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-degerlemede-degerleme-sistematigi">Emlak Değerlemede Değerleme Sistematiği: Gayrimenkulün Gerçek Değerine Nasıl Ulaşılır?</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir">Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?</a>
-      </li>
-    
-      <li>
-        <a href="/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</a>
-      </li>
-    
-      <li>
-        <a href="/degerleme-sonrasi-satis-sureci-nasil-planlanmali">Değerleme Sonrası Satış Süreci Nasıl Planlanmalı?</a>
-      </li>
-    
-      <li>
-        <a href="/evinizin-degeri-neden-komsunuzun-evinden-farkli">Evinizin Değeri Neden Komşunuzun Evinden Farklı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="rayiç bedel analizi">rayiç bedel analizi</h2>
-  <ul>
-    
-      <li>
-        <a href="/karsilastirmali-rayic-bedel-analizi-nedir">Karşılaştırmalı Rayiç Bedel Analizi Nedir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="bölge uzmanlığı">bölge uzmanlığı</h2>
-  <ul>
-    
-      <li>
-        <a href="/bolge-uzmanligi-emlak-degerlemesinde-neden-onemlidir">Bölge Uzmanlığı Emlak Değerlemesinde Neden Önemlidir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="değerleme raporu">değerleme raporu</h2>
-  <ul>
-    
-      <li>
-        <a href="/degerleme-sonrasi-satis-sureci-nasil-planlanmali">Değerleme Sonrası Satış Süreci Nasıl Planlanmalı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk emlak piyasası">göktürk emlak piyasası</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</a>
-      </li>
-    
-      <li>
-        <a href="/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim">2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım</a>
-      </li>
-    
-      <li>
-        <a href="/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur">Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur?</a>
-      </li>
-    
-      <li>
-        <a href="/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur">Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?</a>
-      </li>
-    
-      <li>
-        <a href="/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler">2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturk-merkez-ile-kemerburgaz-arasinda-emlak-degeri-karsilastirmasi-2026">Göktürk Merkez ile Kemerburgaz Arasında Emlak Değeri Karşılaştırması (2026)</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="kemerburgaz emlak piyasası">kemerburgaz emlak piyasası</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-merkez-ile-kemerburgaz-arasinda-emlak-degeri-karsilastirmasi-2026">Göktürk Merkez ile Kemerburgaz Arasında Emlak Değeri Karşılaştırması (2026)</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk emlak">göktürk emlak</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-site-icinde-evlerin-degeri-neden-daha-yuksek">Göktürk’te Site İçinde Evlerin Değeri Neden Daha Yüksek?</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-aile-siteleri-ile-rezidans-fiyatlari-karsilastirmasi">Göktürk’te Aile Siteleri ile Rezidans Fiyatları Karşılaştırması</a>
-      </li>
-    
-      <li>
-        <a href="/satis-oncesi-evin-degerini-artiran-kucuk-dokunuslar">Satış Öncesi Evin Değerini Artıran Küçük Dokunuşlar</a>
-      </li>
-    
-      <li>
-        <a href="/evimin-degerini-kendim-hesaplayabilir-miyim">Evimin Değerini Kendim Hesaplayabilir miyim?</a>
-      </li>
-    
-      <li>
-        <a href="/emlak-degerleme-hatalari-ev-sahiplerinin-en-sik-yaptigi-5-yanlis">Emlak Değerleme Hataları: Ev Sahiplerinin En Sık Yaptığı 5 Yanlış</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-alirken-metrekare-fiyati-nasil-yorumlanmali">Göktürk’te Satılık Ev Alırken Metrekare Fiyatı Nasıl Yorumlanmalı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk yatırımlık daire">göktürk yatırımlık daire</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-yatirimlik-daire-nereden-alinmali">Göktürk’te Yatırımlık Daire Nereden Alınmalı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk kira getirisi">göktürk kira getirisi</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-konut-piyasasi-kira-fiyatlari-metrekare-degerleri-ve-yatirim-perspektifi">Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi">Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-yatirimlik-daire-nereden-alinmali">Göktürk’te Yatırımlık Daire Nereden Alınmalı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk yatırım fırsatı">göktürk yatırım fırsatı</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-yatirimlik-daire-nereden-alinmali">Göktürk’te Yatırımlık Daire Nereden Alınmalı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk ekspertiz raporu">göktürk ekspertiz raporu</h2>
-  <ul>
-    
-      <li>
-        <a href="/ekspertiz-raporu-ile-piyasa-degeri-arasindaki-farklar-nelerdir">Ekspertiz Raporu ile Piyasa Değeri Arasındaki Farklar Nelerdir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk emlak değerleme">göktürk emlak değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/emlak-degerleme-hatalari-ev-sahiplerinin-en-sik-yaptigi-5-yanlis">Emlak Değerleme Hataları: Ev Sahiplerinin En Sık Yaptığı 5 Yanlış</a>
-      </li>
-    
-      <li>
-        <a href="/ekspertiz-raporu-ile-piyasa-degeri-arasindaki-farklar-nelerdir">Ekspertiz Raporu ile Piyasa Değeri Arasındaki Farklar Nelerdir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="konut değeri hesaplama">konut değeri hesaplama</h2>
-  <ul>
-    
-      <li>
-        <a href="/evimin-degerini-kendim-hesaplayabilir-miyim">Evimin Değerini Kendim Hesaplayabilir miyim?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="ev satış ipuçları">ev satış ipuçları</h2>
-  <ul>
-    
-      <li>
-        <a href="/satis-oncesi-evin-degerini-artiran-kucuk-dokunuslar">Satış Öncesi Evin Değerini Artıran Küçük Dokunuşlar</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk rezidans fiyatları">göktürk rezidans fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-aile-siteleri-ile-rezidans-fiyatlari-karsilastirmasi">Göktürk’te Aile Siteleri ile Rezidans Fiyatları Karşılaştırması</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk site evleri">göktürk site evleri</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-site-icinde-evlerin-degeri-neden-daha-yuksek">Göktürk’te Site İçinde Evlerin Değeri Neden Daha Yüksek?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk daire fiyatları">göktürk daire fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-ayni-sitedeki-dairelerin-fiyatlari-neden-farkli">Göktürk’te Aynı Sitedeki Dairelerin Fiyatları Neden Farklı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk müstakil ev">göktürk müstakil ev</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-guvenlikli-site-mi-mustakil-ev-mi">Göktürk’te Güvenlikli Site mi, Müstakil Ev mi?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk villa fiyatları">göktürk villa fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-guvenlikli-site-mi-mustakil-ev-mi">Göktürk’te Güvenlikli Site mi, Müstakil Ev mi?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk kiralık ev">göktürk kiralık ev</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi">Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-ormana-yakin-konutlarin-deger-analizi">Göktürk’te Ormana Yakın Konutların Değer Analizi</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk konut piyasası">göktürk konut piyasası</h2>
-  <ul>
-    
-      <li>
-        <a href="/2026-gokturk-emlak-piyasasi-beklentileri-satin-alma-kiralama-ve-yatirim">2026 Göktürk Emlak Piyasası Beklentileri: Satın Alma, Kiralama ve Yatırım</a>
-      </li>
-    
-      <li>
-        <a href="/evi-degerinin-uzerinde-satmaya-calisirsaniz-ne-olur">Evi Değerinin Üzerinde Satmaya Çalışırsanız Ne Olur?</a>
-      </li>
-    
-      <li>
-        <a href="/faiz-duserse-gokturkte-ev-fiyatlari-ne-olur">Faiz Düşerse Göktürk’te Ev Fiyatları Ne Olur?</a>
-      </li>
-    
-      <li>
-        <a href="/2026da-gokturkte-ev-satmak-mi-almak-mi-mantikli">2026’da Göktürk’te Ev Satmak mı Almak mı Mantıklı?</a>
-      </li>
-    
-      <li>
-        <a href="/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler">2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk konut kredisi">göktürk konut kredisi</h2>
-  <ul>
-    
-      <li>
-        <a href="/2026-konut-kredisi-faizleri-gokturk-piyasasini-nasil-etkiler">2026 Konut Kredisi Faizleri Göktürk Piyasasını Nasıl Etkiler?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk arsa değerlemesi">göktürk arsa değerlemesi</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir">Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk arsa yatırımı">göktürk arsa yatırımı</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir">Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk arsa fiyatları">göktürk arsa fiyatları</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-arsa-degerlemesi-ne-kadar-kazandirir">Göktürk’te Arsa Değerlemesi: Ne Kadar Kazandırır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk kentsel dönüşüm">göktürk kentsel dönüşüm</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler">Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk gayrimenkul yatırımı">göktürk gayrimenkul yatırımı</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-kentsel-donusum-ev-fiyatlarini-nasil-etkiler">Göktürk’te Kentsel Dönüşüm Ev Fiyatlarını Nasıl Etkiler?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk kiralık daire">göktürk kiralık daire</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-konut-piyasasi-kira-fiyatlari-metrekare-degerleri-ve-yatirim-perspektifi">Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi</a>
-      </li>
-    
-      <li>
-        <a href="/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli">2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk satılık daire">göktürk satılık daire</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-satilik-ev-ilanlari-neden-aylarca-satilmiyor">Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?</a>
-      </li>
-    
-      <li>
-        <a href="/2026da-gokturkte-satin-al-kirala-yatirim-hangi-secenek-daha-mantikli">2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk ücretsiz ekspertiz">göktürk ücretsiz ekspertiz</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk ücretsiz değerleme">göktürk ücretsiz değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturkte-evinizin-degerini-ucretsiz-ogrenmenin-yollari">Göktürk’te Evinizin Değerini Ücretsiz Öğrenmenin Yolları</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk kiralık konut">göktürk kiralık konut</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-konut-piyasasi-kira-fiyatlari-metrekare-degerleri-ve-yatirim-perspektifi">Göktürk Kiralık Konut Piyasası: Kira Fiyatları, Metrekare Değerleri ve Yatırım Perspektifi</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-kiralar-neden-bu-kadar-yukseldi-bolge-analizi">Göktürk’te Kiralar Neden Bu Kadar Yükseldi? Bölge Analizi</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="yapay zeka">yapay zeka</h2>
-  <ul>
-    
-      <li>
-        <a href="/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="emlak teknolojileri">emlak teknolojileri</h2>
-  <ul>
-    
-      <li>
-        <a href="/teknolojinin-gayrimenkul-degerlemedeki-rolu-ai-veri-ve-drone-kullanimi">Teknolojinin Gayrimenkul Değerlemedeki Rolü: AI, Veri ve Drone Kullanımı</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="konut fiyat endeksi">konut fiyat endeksi</h2>
-  <ul>
-    
-      <li>
-        <a href="/emlak-fiyat-endeksi-nedir-gayrimenkul-degerlemede-nasil-kullanilir">Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="emlak değerleme yöntemleri">emlak değerleme yöntemleri</h2>
-  <ul>
-    
-      <li>
-        <a href="/emlak-degerleme-yontemleri-bir-gayrimenkulun-gercek-degeri-nasil-hesaplanir">Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="emsal analizi">emsal analizi</h2>
-  <ul>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemede-karsilastirma-birimi-nedir">Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="ticari gayrimenkul değerleme">ticari gayrimenkul değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-ticari-gayrimenkul-piyasasi-kira-fiyatlarini-belirleyen-dinamikler-ve-2026-gorunumu">Göktürk Kiralık Ticari Gayrimenkul Piyasası: Kira Fiyatlarını Belirleyen Dinamikler ve 2026 Görünümü</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-ticari-gayrimenkul-yatirimi-fiyat-artisinin-otesinde-deger-nerede">Göktürk'te Ticari Gayrimenkul Yatırımı: Fiyat Artışının Ötesinde Değer Nerede?</a>
-      </li>
-    
-      <li>
-        <a href="/otopark-degerlemesinde-en-dogru-yaklasim-nedir">Otopark Değerlemesinde En Doğru Yaklaşım Nedir?</a>
-      </li>
-    
-      <li>
-        <a href="/gayrimenkul-degerlemesinde-otel-degerlemesi-nasil-yapilir">Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="tarım arazisi değerlemesi">tarım arazisi değerlemesi</h2>
-  <ul>
-    
-      <li>
-        <a href="/meyve-bahcesi-olan-tarim-arazileri-nasil-degerlenir">Meyve Bahçesi Olan Tarım Arazileri Nasıl Değerlenir?</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="arsa değerleme">arsa değerleme</h2>
-  <ul>
-    
-      <li>
-        <a href="/yapilasma-kosullari-farkli-arsalarda-degerleme-nasil-yapilir">Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır?</a>
-      </li>
-    
-      <li>
-        <a href="/arsa-degerlemesinde-gercek-karsilastirma-birimi-insaat-alani">Arsa Değerlemesinde Gerçek Karşılaştırma Birimi: İnşaat Alanı</a>
-      </li>
-    
-  </ul>
-
-  <h2 id="göktürk ticari gayrimenkul">göktürk ticari gayrimenkul</h2>
-  <ul>
-    
-      <li>
-        <a href="/gokturk-kiralik-ticari-gayrimenkul-piyasasi-kira-fiyatlarini-belirleyen-dinamikler-ve-2026-gorunumu">Göktürk Kiralık Ticari Gayrimenkul Piyasası: Kira Fiyatlarını Belirleyen Dinamikler ve 2026 Görünümü</a>
-      </li>
-    
-      <li>
-        <a href="/gokturkte-ticari-gayrimenkul-yatirimi-fiyat-artisinin-otesinde-deger-nerede">Göktürk'te Ticari Gayrimenkul Yatırımı: Fiyat Artışının Ötesinde Değer Nerede?</a>
-      </li>
-    
-  </ul>
-
-
-    
-  </div>
-</section>
-
-  <!-- FOOTER -->
-<footer class="bg-dark text-white py-4">
-  <div class="container text-center">
-    <ul class="nav justify-content-center">
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="/kvkk#page">
-          KVKK
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="/gizlilik-politikasi#page">
-          Gizlilik Politikası
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link px-2 link-light text-decoration-underline" href="mailto:melih.kocaturk@icloud.com">
-          İletişim
-        </a>
-      </li>
-    </ul>
-    <div class="py-2">WhatsApp: <a href="tel:+905465665509" class="link-light">+90 546 566 55 09</a></div>
-    <hr class="my-4">
-    <div class="d-flex flex-column flex-sm-row justify-content-between">
-      <ul class="list-unstyled d-flex justify-content-center">
-        <li class="ms-2"><a class="link-light" href="/feed.xml" aria-label="rss"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill"
-              viewBox="0 0 16 16">
-              <path
-                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.linkedin.com/in/melihkocaturk/" aria-label="linkedin"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.instagram.com/melih_kocaturk_" aria-label="instagram"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://www.youtube.com/@melihkocaturk" aria-label="youtube"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube mx-1"
-              viewBox="0 0 16 16">
-              <path
-                d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
-            </svg></a></li>
-        <li class="ms-2"><a class="link-light" href="https://x.com/melih_kocaturk_" aria-label="twitter"> <svg
-              xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x"
-              viewBox="0 0 16 16">
-              <path
-                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z" />
-            </svg></a></li>
-      </ul>
-      <div><small>© 2026 <a href="https://www.melihkocaturk.com" class="link-light text-decoration-underline">Melih Kocatürk</a>. Tüm hakları saklıdır.</small></div>
-    </div>
-  </div>
 </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>

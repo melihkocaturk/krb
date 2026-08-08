@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkul Değerlemede Her Veriyi Kullanmak Doğru mu?"
 description: "Bugün internet sayesinde binlerce emlak ilanına, geçmiş satış bilgilerine, resmi kayıtlara ve çeşitli piyasa analizlerine ulaşmak mümkündür. Ancak veri miktarının fazla olması, her verinin doğru olduğu anlamına gelmez."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

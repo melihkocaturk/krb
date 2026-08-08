@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkul Değerlemesinde Otel Değerlemesi Nasıl Yapılır?"
 description: "Bu yazıda otel değerleme sürecini baştan sona inceleyecek, kullanılan yöntemleri açıklayacak ve gerçek hayata yakın örnek hesaplamalar yapacağız."
-tags: ["gayrimenkul değerleme", "ticari gayrimenkul değerleme"]
+category: Ticari Gayrimenkul Değerleme
+tags: ["ticari gayrimenkul değerleme"]
 ---
 
 Otel değerlemesi, gayrimenkul değerleme sektörünün en karmaşık alanlarından biridir. Bunun temel nedeni, otellerin yalnızca bir bina ya da arsa olmaması; aynı zamanda gelir üreten ticari işletmeler olmasıdır. Bir konutun ya da ofisin değerini belirlemek çoğu zaman emsal satışlarla mümkünken, otellerde işletme performansı, doluluk oranı, oda fiyatları, marka değeri ve yönetim kalitesi gibi birçok değişken de değeri doğrudan etkiler.

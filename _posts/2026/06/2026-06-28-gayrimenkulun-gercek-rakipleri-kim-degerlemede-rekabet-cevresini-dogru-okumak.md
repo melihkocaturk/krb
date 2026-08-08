@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkulün Gerçek Rakipleri Kim? Değerlemede Rekabet Çevresini Doğru Okumak"
 description: "Bir gayrimenkulün değerini belirlemek yalnızca metrekareye, oda sayısına veya bulunduğu semte bakılarak yapılabilecek bir işlem değildir. Aynı bölgede bulunan benzer daireler arasında bile ciddi fiyat farklılıkları oluşabilir."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

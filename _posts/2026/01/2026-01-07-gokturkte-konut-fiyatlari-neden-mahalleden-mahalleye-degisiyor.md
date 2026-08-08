@@ -1,5 +1,6 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Konut Fiyatları Neden Mahalleden Mahalleye Değişiyor?"
 description: "Bu yazıda, Göktürk’te konut fiyatlarının neden mahalleden mahalleye değiştiğini tüm yönleriyle ele alıyoruz."
 tags: ["göktürk konut fiyatları", "göktürk konut değerleme"]

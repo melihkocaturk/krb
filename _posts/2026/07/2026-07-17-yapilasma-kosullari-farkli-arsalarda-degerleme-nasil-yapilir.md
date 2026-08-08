@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Yapılaşma Koşulları Farklı Arsalarda Değerleme Nasıl Yapılır?"
 description: "Yapılaşma koşulları farklı arsalar nasıl değerlenir? Emsal (KAKS), inşaat alanı karşılaştırması ve örnek hesaplamalarla profesyonel arsa değerleme yöntemlerini öğrenin."
-tags: ["gayrimenkul değerleme", "arsa değerleme"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Arsa değerlemesi, gayrimenkul değerleme disiplininin en hassas alanlarından biridir. Özellikle birbirinden farklı yapılaşma koşullarına sahip arsaların karşılaştırılması, yalnızca metrekare fiyatlarına bakılarak yapılamaz. Aynı büyüklükte iki arsanın imar hakları farklıysa, ekonomik değerleri de önemli ölçüde değişir.

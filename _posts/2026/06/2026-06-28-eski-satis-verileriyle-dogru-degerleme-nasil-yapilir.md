@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Eski Satış Verileriyle Doğru Değerleme Nasıl Yapılır?"
 description: "Gayrimenkul değerleme çalışmalarında en önemli aşamalardan biri emsal seçimidir. Ancak her zaman güncel satış verilerine ulaşmak mümkün olmayabilir. Bu gibi durumlarda değerleme uzmanları daha eski tarihli satışları tamamen göz ardı etmez."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

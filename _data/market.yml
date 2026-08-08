@@ -1,21 +1,5 @@
-data_period: Temmuz 2026
-last_update: 27 Temmuz 2026
-data:
-- source: Sahibinden.com
-  avg_sale_price_per_m2: 143.542
-  avg_selling_price: 20.813.590
-  amortization_period: 19 Yıl 3 Ay
-  avg_rental_price_per_m2: 777
-  avg_rent_price: 120.555
-- source: Hepsiemlak.com
-  avg_sale_price_per_m2: 153.636
-  avg_selling_price: 25.000.000
-  amortization_period: 17 Yıl
-  avg_rental_price_per_m2: 782
-  avg_rent_price: 117.857
-- source: Endeksa.com
-  avg_sale_price_per_m2: 155.127
-  avg_selling_price: 23.734.431
-  amortization_period: 17 Yıl
-  avg_rental_price_per_m2: 749
-  avg_rent_price: 100.288
+avg_sale_price_per_m2: 155.127
+avg_selling_price: 23.734.431
+amortization_period: 17 Yıl
+avg_rental_price_per_m2: 749
+avg_rent_price: 100.288

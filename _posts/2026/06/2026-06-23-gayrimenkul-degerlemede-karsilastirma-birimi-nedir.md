@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkul Değerlemede Karşılaştırma Birimi Nedir?"
 description: "Gayrimenkul değerlemede karşılaştırma birimi nedir? Metrekare, oda ve gelir bazlı karşılaştırma birimlerinin nasıl kullanıldığını, emsal analizindeki önemini ve doğru değer tespitine etkisini öğrenin."
-tags: ["gayrimenkul değerleme", "emsal analizi"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul değerleme sürecinde bir taşınmazın gerçek piyasa değerine ulaşabilmek için çeşitli yöntemler ve analiz teknikleri kullanılır. Bu tekniklerin en önemli unsurlarından biri ise karşılaştırma birimidir. Özellikle emsal karşılaştırma yaklaşımında, farklı özelliklere sahip gayrimenkullerin ortak bir ölçü üzerinden değerlendirilmesini sağlayan karşılaştırma birimi, sağlıklı ve objektif bir değer tespitinin temel taşlarından biridir.

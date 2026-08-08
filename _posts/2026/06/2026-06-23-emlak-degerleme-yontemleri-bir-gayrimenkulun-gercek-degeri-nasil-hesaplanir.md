@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Emlak Değerleme Yöntemleri: Bir Gayrimenkulün Gerçek Değeri Nasıl Hesaplanır?"
 description: "Bu yazıda emlak değerleme alanında kullanılan temel değerleme yöntemlerini, hangi durumlarda tercih edildiklerini ve avantajlarını detaylı olarak inceleyeceğiz."
-tags: ["emlak değerleme", "gayrimenkul değerleme", "emlak değerleme yöntemleri"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul sektöründe doğru karar verebilmenin temel şartlarından biri, taşınmazın gerçek değerinin doğru şekilde belirlenmesidir. Bir konutun, arsanın, iş yerinin veya sanayi tesisinin piyasa değerini belirlemek için kullanılan bilimsel yöntemlerin bütününe **emlak değerleme yöntemleri** adı verilir.

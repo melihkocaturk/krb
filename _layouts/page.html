@@ -2,11 +2,68 @@
 layout: default
 ---
 
-<section class="py-5 bg-white border-top" id="page">
-  <div class="container">
-    <h1 class="mb-4">{{page.title}}</h1>
+<main>
+  <!-- PAGE HERO -->
+  <section class="gd-page-hero">
+    <div class="container">
+      <div class="section-label">{{ page.category }}</div>
+      <h1>{{ page.title }}</h1>
+      <p>
+        {{ page.description }}
+      </p>
+    </div>
+  </section>
 
-    {{content}}
-    
+  <!-- BREADCRUMB -->
+  <div class="gd-breadcrumb-wrapper">
+    <div class="container">
+      <nav aria-label="breadcrumb">
+        <ol class="gd-breadcrumb">
+          <li>
+            <a href="/"> Anasayfa </a>
+          </li>
+          <li aria-current="page">{{ page.title }}</li>
+        </ol>
+      </nav>
+    </div>
   </div>
-</section>
+
+  <!-- PAGE CONTENT -->
+  <section class="gd-page-content">
+    <div class="container">
+      <div class="row g-5">
+        <div class="col-lg-8">
+          <div class="gd-page-content-inner">
+            {{ content }}
+
+            <div class="gd-content-cta">
+              <h3>Gayrimenkulünüz Hakkında Konuşalım</h3>
+              <p>
+                Gayrimenkulünüzü satmayı, satın almayı veya yatırım yapmayı düşünüyorsanız, durumunuzu birlikte
+                değerlendirmek için iletişime geçebilirsiniz.
+              </p>
+              <a href="/iletisim" class="btn-gd-bronze text-white"> Ücretsiz Görüşme Talep Edin </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <aside class="gd-page-sidebar">
+            <div class="gd-sidebar-box">
+              <h3>Hızlı Menü</h3>
+              <p>İlgilendiğiniz konuya hızlıca ulaşın.</p>
+              <ul class="gd-sidebar-menu">
+                {% for item in site.data.nav %}
+                  <li>
+                    <a href="{{ item.link }}">
+                      {{ item.name }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

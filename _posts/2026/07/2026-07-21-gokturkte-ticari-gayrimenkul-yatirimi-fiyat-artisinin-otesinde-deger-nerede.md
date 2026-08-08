@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk'te Ticari Gayrimenkul Yatırımı: Fiyat Artışının Ötesinde Değer Nerede?"
 description: "Göktürk'te ticari gayrimenkul piyasasını değerleme perspektifiyle inceleyin. Satılık dükkân ve mağaza fiyatları, m² değerleri, kira getirisi, amortisman süresi ve yatırım potansiyelini keşfedin."
-tags: ["göktürk gayrimenkul değerleme", "göktürk ticari gayrimenkul", "ticari gayrimenkul değerleme"]
+category: Ticari Gayrimenkul Değerleme
+tags: ["göktürk ticari gayrimenkul değerleme"]
 ---
 
 Göktürk, İstanbul'un konut piyasasında olduğu kadar ticari gayrimenkul segmentinde de dikkat çeken bölgelerinden biri olmayı sürdürüyor. Bölgenin gelişen yerleşim dokusu, yüksek gelir grubuna hitap eden konut projeleri, günlük yaşam ihtiyaçlarına yönelik ticari faaliyetlerin çeşitlenmesi ve bölgedeki kullanıcı profilinin niteliği, ticari gayrimenkul piyasasının dinamiklerini doğrudan etkiliyor.

@@ -1,7 +1,9 @@
 ---
 layout: post
+custom_css: post
 title: "Gayrimenkul Değerlemede Düzeltme Nedir?"
 description: "Bu yazıda gayrimenkul değerlemede düzeltme kavramını, türlerini, uygulama yöntemlerini ve dikkat edilmesi gereken noktaları detaylı şekilde ele alacağız."
+category: Gayrimenkul Değerleme
 tags: ["gayrimenkul değerleme"]
 ---
 

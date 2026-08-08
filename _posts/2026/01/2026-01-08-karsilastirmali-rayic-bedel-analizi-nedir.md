@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Karşılaştırmalı Rayiç Bedel Analizi Nedir?"
 description: "Bu yazıda, karşılaştırmalı rayiç bedel analizinin ne olduğunu, nasıl yapıldığını, hangi durumlarda kullanıldığını ve neden bu kadar önemli olduğunu tüm detaylarıyla ele alıyoruz."
-tags: ["rayiç bedel analizi"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul alım-satım süreçlerinde en kritik konulardan biri, taşınmazın gerçek piyasa değerinin doğru şekilde belirlenmesidir. Bu noktada en sık kullanılan ve en güvenilir yöntemlerden biri karşılaştırmalı rayiç bedel analizidir. Özellikle konut, arsa ve ticari gayrimenkullerin değerlemesinde temel referans yöntemi olarak kabul edilir.

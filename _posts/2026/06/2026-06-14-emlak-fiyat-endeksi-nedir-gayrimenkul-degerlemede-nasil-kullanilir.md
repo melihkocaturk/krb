@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Emlak Fiyat Endeksi Nedir? Gayrimenkul Değerlemede Nasıl Kullanılır?"
 description: "Emlak Fiyat Endeksi hakkında kapsamlı rehber. Konut Fiyat Endeksi (KFE) nedir, nereden takip edilir, nasıl yorumlanır ve gayrimenkul değerleme çalışmalarında nasıl kullanılır?"
-tags: ["gayrimenkul değerleme", "konut fiyat endeksi"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul piyasasında fiyatların yükselip yükselmediğini, hangi bölgelerin daha hızlı değer kazandığını veya bir taşınmazın piyasa değerinin zaman içinde nasıl değiştiğini anlamanın en önemli yollarından biri **Emlak Fiyat Endeksi** veya Türkiye'de yaygın kullanılan adıyla **Konut Fiyat Endeksi (KFE)** verileridir.

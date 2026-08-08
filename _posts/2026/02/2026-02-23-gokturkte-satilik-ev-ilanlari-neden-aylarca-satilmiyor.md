@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Satılık Ev İlanları Neden Aylarca Satılmıyor?"
 description: "Göktürk’te satılık ev ilanları neden aylarca satılmıyor? Fiyat hataları, faiz etkisi, arz artışı ve satış süresini kısaltan profesyonel stratejileri detaylı analizle öğrenin."
-tags: ["göktürk satılık ev", "göktürk satılık daire", "göktürk emlak piyasası", "konut satış stratejisi"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk satılık daire"]
 ---
 
 İstanbul’un prestijli yerleşimlerinden Göktürk’te son dönemde dikkat çeken bir durum var: birçok satılık ev ilanı haftalar hatta aylar boyunca yayında kalıyor. Bu tablo sadece bölgesel değil; Türkiye genelinde de satış sürelerinin uzadığı görülüyor.

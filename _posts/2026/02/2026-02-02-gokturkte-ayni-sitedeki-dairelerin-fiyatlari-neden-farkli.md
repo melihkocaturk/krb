@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Göktürk’te Aynı Sitedeki Dairelerin Fiyatları Neden Farklı?"
 description: "Bu yazıda, Göktürk özelinde aynı site içindeki daire fiyatlarının neden farklılaştığını tüm detaylarıyla ele alıyoruz."
-tags: ["göktürk daire fiyatları"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk gayrimenkul değerleme", "göktürk satılık daire"]
 ---
 
 Göktürk’te yer alan site içi konut projelerinde sıkça karşılaşılan durumlardan biri, **aynı sitede yer alan dairelerin birbirinden oldukça farklı fiyatlara sahip olmasıdır**. Metrekareleri benzer, hatta aynı plana sahip dairelerin bile farklı rakamlarla satışa sunulması alıcılar için kafa karıştırıcı olabilir.

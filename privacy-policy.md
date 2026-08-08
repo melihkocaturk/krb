@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Gizlilik Politikası"
-description: 
+description: "Bu sayfa, web sitemizi ziyaret ettiğinizde bilgilerinizin nasıl işlendiği, korunduğu ve kullanıldığı hakkında bilgi vermektedir."
+category: "Yasal Bilgilendirme"
+permalink: /gizlilik-politikasi
+custom_css: page
 ---
 
 Bu Gizlilik Politikası, **gokturkdegerleme.com** (“Site”) üzerinden elde edilen kişisel verilerin hangi kapsamda işlendiğini, korunduğunu ve kullanıldığını açıklamak amacıyla hazırlanmıştır.

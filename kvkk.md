@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "KVKK Aydınlatma Metni"
-description: 
+description: '6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında, kişisel verilerinizin hangi amaçlarla işlendiği, kimlerle paylaşılabileceği, hangi yöntemlerle toplandığı ve sahip olduğunuz haklar hakkında sizleri bilgilendirmek amacıyla bu aydınlatma metni hazırlanmıştır.'
+category: "Yasal Bilgilendirme"
+permalink: /kvkk-aydinlatma-metni
+custom_css: page
 ---
 
 Bu Aydınlatma Metni, **6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK)** kapsamında, **gokturkdegerleme.com** internet sitesi üzerinden elde edilen kişisel verilerin işlenmesine ilişkin olarak veri sahiplerini bilgilendirmek amacıyla hazırlanmıştır.

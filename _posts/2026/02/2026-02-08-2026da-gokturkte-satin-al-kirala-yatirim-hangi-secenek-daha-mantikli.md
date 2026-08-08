@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "2026’da Göktürk’te “Satın Al – Kirala – Yatırım”: Hangi Seçenek Daha Mantıklı?"
 description: "2026’da İstanbul Eyüpsultan Göktürk’te satın almak mı, kiralamak mı yoksa yatırım yapmak mı daha mantıklı? Güncel fiyatlar, kira getirileri ve yatırım analizleriyle detaylı rehber."
-tags: ["göktürk kiralık daire", "göktürk satılık daire", "göktürk ev fiyatları"]
+category: Gayrimenkul Değerleme
+tags: ["göktürk kiralık konut", "göktürk satılık daire"]
 ---
 
 İstanbul’un Eyüpsultan ilçesine bağlı Göktürk, özellikle doğayla iç içe yaşam arayan, ulaşım avantajı ve kent içi konforu bir arada isteyenler için cazip bir yerleşim alanı hâline geldi. 2026 itibarıyla bölge sadece yaşam alanı olarak değil; yatırım açısından da öne çıkan lokasyonlardan biri. Aşağıda “satın almak”, “kiralamak” veya “yatırım yapmak” perspektifinden Göktürk’ü detaylı şekilde ele alıyoruz.

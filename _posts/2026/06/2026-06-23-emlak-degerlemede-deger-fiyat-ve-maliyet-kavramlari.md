@@ -1,8 +1,10 @@
 ---
 layout: post
+custom_css: post
 title: "Emlak Değerlemede Değer, Fiyat ve Maliyet Kavramları"
 description: "Bu yazıda emlak değerleme açısından değer, fiyat ve maliyet kavramlarını detaylı olarak inceleyecek, aralarındaki farkları ve uygulamadaki önemlerini ele alacağız."
-tags: ["emlak değerleme"]
+category: Gayrimenkul Değerleme
+tags: ["gayrimenkul değerleme"]
 ---
 
 Gayrimenkul sektöründe en sık karıştırılan kavramların başında **değer**, **fiyat** ve **maliyet** gelir. Pek çok kişi bir taşınmazın satış fiyatını doğrudan değeri olarak kabul ederken, bazı durumlarda maliyet ile değer arasında da yanlış bağlantılar kurulabilmektedir. Oysa emlak değerleme çalışmalarında bu üç kavram birbirinden farklı anlamlar taşır ve farklı yöntemlerle belirlenir.
