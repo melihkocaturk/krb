@@ -316,6 +316,148 @@
 }
 
 /* =========================================
+   Genel Tablo Tasarımı
+   ========================================= */
+
+table {
+    width: 100%;
+    max-width: 100%;
+    margin: 30px 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background: #fff;
+    border: 1px solid #e2e2e2;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+/* Tablo başlıkları */
+
+table th {
+    padding: 14px 16px;
+    background: #f5f5f5;
+    color: #222;
+    font-weight: 600;
+    text-align: left;
+    border: 1px solid #ddd;
+    vertical-align: middle;
+}
+
+/* Tablo hücreleri */
+
+table td {
+    padding: 13px 16px;
+    color: #444;
+    border: 1px solid #e5e5e5;
+    vertical-align: middle;
+}
+
+/* Alternatif satırlar */
+
+table tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+/* Hover */
+
+table tbody tr:hover {
+    background-color: #f6f8fa;
+}
+
+/* İlk sütun */
+
+table td:first-child {
+    color: #222;
+}
+
+/* Başlık ilk sütun */
+
+table th:first-child {
+    color: #222;
+}
+
+
+/* =========================================
+   Responsive Table
+   ========================================= */
+
+@media screen and (max-width: 768px) {
+
+    table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        font-size: 14px;
+    }
+
+    table th,
+    table td {
+        padding: 11px 13px;
+        white-space: nowrap;
+    }
+}
+
+
+/* =========================================
+   WordPress Gutenberg tabloları
+   ========================================= */
+
+.wp-block-table {
+    width: 100%;
+    margin: 30px 0;
+}
+
+.wp-block-table table {
+    margin: 0;
+}
+
+
+/* =========================================
+   Hizalama
+   ========================================= */
+
+table .has-text-align-center {
+    text-align: center;
+}
+
+table .has-text-align-right {
+    text-align: right;
+}
+
+table .has-text-align-left {
+    text-align: left;
+}
+
+
+/* =========================================
+   Caption
+   ========================================= */
+
+table caption {
+    padding: 10px 0;
+    color: #666;
+    font-size: 14px;
+    text-align: left;
+}
+
+
+/* =========================================
+   Mobilde Gutenberg tablo
+   ========================================= */
+
+@media screen and (max-width: 768px) {
+
+    .wp-block-table {
+        overflow-x: auto;
+    }
+
+    .wp-block-table table {
+        min-width: 600px;
+    }
+}
+
+/* =========================================
     RESPONSIVE
 ========================================= */
 @media (max-width: 991.98px) {
